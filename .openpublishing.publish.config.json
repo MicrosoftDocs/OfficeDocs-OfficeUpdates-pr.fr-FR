@@ -14,7 +14,7 @@
   ],
   "notification_subscribers": [],
   "branches_to_filter": [
-    "live-sxs",
+    "live",
     "master-sxs"
   ],
   "continue_with_document_error": true,
