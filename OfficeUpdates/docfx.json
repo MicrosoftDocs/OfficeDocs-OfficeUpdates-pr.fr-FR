@@ -43,7 +43,7 @@
       "searchScope": ["Office Updates"],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-OfficeUpdates",
-      "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates/issues"
+      "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates/issues",
       "bilingual_type": "hover over"
     }, 
     "fileMetadata": {},
