@@ -3,19 +3,19 @@ title: Historique des versions pour la mise à jour automatique Microsoft (AutoU
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 0a9f63bbf9a29a0d557ddbd6ff7a64afff979adb
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 6f03c08ead6cf599a4a055b854d059ef390083ea
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556067"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886900"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -30,7 +30,8 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
   
 |**Date de sortie**|**Version**|**Plus d’informations**|**Lien de téléchargement du package de mise à jour**|
 |:-----|:-----|:-----|:-----|
-|15 mai 2018  <br/> |4.0.0  <br/> ||[Télécharger MAU 4.0.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18051301_Updater.pkg) <br/> |
+|12 juin 2018  <br/> |4.0.0  <br/> ||[Télécharger MAU 4.0.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |
+|15 mai 2018  <br/> |4.0.0  <br/> ||[Télécharger MAU 4.0.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18051301_Updater.pkg) <br/> |
 |10 avril 2018  <br/> |3.18  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#april-2018-release) <br/> |[Télécharger MAU 3.18.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.18.18041000_Updater.pkg) <br/> |
 |13 mars 2018  <br/> |3.17  <br/> ||[Télécharger MAU 3.17.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.17.18031100_Updater.pkg) <br/> |
 |13 février 2018  <br/> |3.16.0  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#february-2018-release) <br/> | <br/> |
