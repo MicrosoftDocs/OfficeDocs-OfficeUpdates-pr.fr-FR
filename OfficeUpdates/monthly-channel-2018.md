@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 3d0b5b16501bfb7816d9df8ffe79ca8926d75adb
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556028"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886960"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -23,7 +23,33 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  
 > [!NOTE]
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
-> - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+> - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+
+## <a name="version-1805-june-13"></a>Version 1805 : 13 juin
+*Version 1805 (build 9330.2124)*
+
+### <a name="outlook-non-security-updates"></a>Mises à jour Outlook non relatives à la sécurité
+ - Résolution d’un problème : l’appel par une application de l’API MAPI provoquait parfois un blocage.
+
+
+
+## <a name="version-1805-june-12"></a>Version 1805 : 12 juin
+*Version 1805 (build 9330.2118)*
+
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8246) : Vulnérabilité de divulgation d’informations Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8248) : Vulnérabilité d’exécution de code à distance Microsoft Excel
+
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8244) : Vulnérabilité d’élévation de privilège Microsoft Outlook
+
+### <a name="outlook-non-security-updates"></a>Mises à jour Outlook non relatives à la sécurité
+
+- Résolution d’un problème : l’appel par une application de l’API MAPI provoquait parfois un blocage.
+
+### <a name="project-non-security-updates"></a>Mises à jour Project non relatives à la sécurité
+
+- Résolution d’un problème : vous ne pouviez pas enregistrer un sous-projet lorsque vous travailliez dessus dans le cadre d’un projet maître.
 
 ## <a name="version-1805-may-24"></a>Version 1805 : 24 mai
 *Version 1805 (build 9330.2087)*
@@ -121,14 +147,14 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-1029) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
--   Résoudre un problème où la co-création de plusieurs utilisateurs sur la même présentation entraîne une duplication incorrecte des masques des diapositives.
+-   Résolution d’un problème : la co-création de plusieurs utilisateurs sur la même présentation entraînait une duplication incorrecte des masques des diapositives.
 -   Résoudre un problème où l’ouverture d’un fichier enregistré sur OneDrive entraîne l’arrêt de PowerPoint lorsque vous quittez le mode protégé.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
--   Résoudre un problème lié à la prise en charge de TLS 1.2.
+-   Résolution d’un problème lié à la prise en charge de TLS 1.2.
 
 ### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
--   Résoudre un problème qui entraîne l’affichage d’un message indiquant une mémoire insuffisante.
+-   Résolution d’un problème qui entraînait l’affichage d’un message indiquant une mémoire insuffisante.
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-0950) : Vulnérabilité de divulgation d’informations Microsoft Office
