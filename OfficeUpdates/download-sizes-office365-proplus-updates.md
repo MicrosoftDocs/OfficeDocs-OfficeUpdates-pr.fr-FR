@@ -3,19 +3,19 @@ title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: e8ac5a96745dadae5527f01f2d291b1fb52b8893
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: c9aeb8d27fca4a5f5a7175ba5337f3ed4ef45adc
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886840"
+ms.locfileid: "20036243"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -38,6 +38,18 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
   
 
 
+## <a name="june-25-2018"></a>25 juin 2018
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1806 (build 10228.20080).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1805 (build 9330.2124)  <br/> |13 juin 2018  <br/> |155  <br/> |
+|Version 1805 (build 9330.2118)  <br/> |12 juin 2018  <br/> |402  <br/> |
+|Version 1805 (build 9330.2087)  <br/> |24 mai 2018  <br/> |154  <br/> |
+   
 ## <a name="june-13-2018"></a>13 juin 2018
 
 ### <a name="monthly-channel"></a>Canal mensuel
