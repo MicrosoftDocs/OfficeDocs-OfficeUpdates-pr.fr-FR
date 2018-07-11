@@ -3,19 +3,19 @@ title: Historique des mises à jour pour les produits « Démarrer en un clic 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2010 qui utilisent la technologie « Démarrer en un clic »
-ms.openlocfilehash: 59181f717a0a7ecc57bc64ebe306f4c876c03074
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
-ms.translationtype: HT
+ms.openlocfilehash: dd6eb645d367ff319d84d6a2ac472e0505b72224
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709765"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246314"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historique des mises à jour pour les produits « Démarrer en un clic » Office 2010
 
@@ -30,7 +30,7 @@ Les produits Office 2010 suivants sont tenus à jour automatiquement à l’aid
 Si vous utilisez l’un de ces produits, et que vous souhaitez vérifier que vous êtes à jour, cherchez votre numéro de version Office et mettez manuellement à jour Office si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2010 est la version **14.0.7209.5000**, qui a été publiée le 8 mai 2018. 
+> La version la plus récente d’Office 2010 est **14.0.7211.5000**, qui a été publiée le 10 juillet 2018. 
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -54,9 +54,11 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2018 |8 mai  <br/> |14.0.7209.5000  <br/> |[KB4133083](https://support.microsoft.com/fr-FR/help/4133083) <br/> |
-||10 avril  <br/> |14.0.7197.5000  <br/> |[KB4098622](https://support.microsoft.com/fr-FR/help/4098622) <br/> |
-||13 mars  <br/> |14.0.7196.5000  <br/> |[KB4090988](https://support.microsoft.com/fr-FR/help/4090988) <br/> |
+|2018 |10 juillet  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
+||12 juin  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
+||8 mai  <br/> |14.0.7209.5000  <br/> |[KB4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+||10 avril  <br/> |14.0.7197.5000  <br/> |[KB4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
+||13 mars  <br/> |14.0.7196.5000  <br/> |[KB4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||13 février  <br/> |14.0.7194.5000  <br/> |[KB4077965](https://support.microsoft.com/help/4077965) <br/> |
 ||9 janvier  <br/> |14.0.7193.5000  <br/> |[KB4058103](https://support.microsoft.com/help/4058103) <br/> |
 |2017  <br/> |12 décembre  <br/> |14.0.7191.5000  <br/> |[KB4055454](https://support.microsoft.com/help/4055454) <br/> |
@@ -69,7 +71,7 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
 ||9 mai  <br/> |14.0.7181.5002  <br/> |[KB4020152](https://support.microsoft.com/help/4020152) <br/> |
 ||11 avril  <br/> |14.0.7180.5002  <br/> |[KB4016803](https://support.microsoft.com/help/4016803) <br/> |
 ||14 mars  <br/> |14.0.7179.5002  <br/> |[KB4013886](https://support.microsoft.com/help/4013886) <br/> |
-|2016  <br/> |13 décembre  <br/> |14.0.7177.5000  <br/> |[KB3208595](https://support.microsoft.com/fr-FR/kb/3208595) <br/> |
+|2016  <br/> |13 décembre  <br/> |14.0.7177.5000  <br/> |[KB3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
 ||8 novembre  <br/> |14.0.7176.5000  <br/> |[KB3200802](https://support.microsoft.com/kb/3200802) <br/> |
 ||11 octobre  <br/> |14.0.7174.1001  <br/> |[KB3194160](https://support.microsoft.com/kb/3194160) <br/> |
 ||13 septembre  <br/> |14.0.7173.1001  <br/> |[KB3188548](https://support.microsoft.com/kb/3188548) <br/> |
