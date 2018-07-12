@@ -3,7 +3,7 @@ title: Mises à jour de Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
-ms.openlocfilehash: 937c82bb1a039c463616d09549f48453b1943d9f
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 522f7301105728c078a1b6c5b7522fe0cf436b29
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886870"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246304"
 ---
 # <a name="project-server-updates"></a>Mises à jour de Project Server
 
@@ -30,6 +30,7 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
   
 |**Date de sortie**|**Numéro KB**|
 |:-----|:-----|:-----|
+|Juillet 2018  <br/> |[Article 4022240 de la Base de connaissances](https://support.microsoft.com/kb/4022240) <br/>|
 |Juin 2018  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |Mai 2018  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
 |Avril 2018  <br/> |[KB4018346](https://support.microsoft.com/kb/4018346) <br/> |
@@ -77,6 +78,7 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 
 |**Date de sortie**|**Numéro KB**|
 |:-----|:-----|:-----|
+|Juillet 2018  <br/>  |[Article 4032219 de la Base de connaissances](https://support.microsoft.com/kb/4032219) <br/> |
 |Juin 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |Mai 2018  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
 |Avril 2018  <br/> |[KB4018358](https://support.microsoft.com/kb/4018358) <br/> |

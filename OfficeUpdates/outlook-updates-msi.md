@@ -3,19 +3,19 @@ title: Dernières mises à jour pour les versions d’Outlook qui utilisent Wind
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Outlook 2016, Outlook 2013 et Outlook 2010
-ms.openlocfilehash: e2befc11978970e4d9fd113ae248cc53f9090781
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886680"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246244"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Outlook qui utilisent Windows Installer (MSI)
 
@@ -44,13 +44,13 @@ La compatibilité d’Outlook avec Office 365 et votre environnement local dép
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de juin 2018 <br/>[KB4022160](https://support.microsoft.com/fr-FR/help/4022160) <br/><br/> PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Mise à jour publique de juillet 2018 <br/>[Article 4022230 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4022230) <br/><br/> PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Mises à jour d’Outlook 2013
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de décembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |PU de juin 2018 <br/>[KB4022169](https://support.microsoft.com/fr-FR/help/4022169) <br/><br/>  PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de décembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Mise à jour publique de juillet 2018 <br/>[Article 4022242 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4022242) <br/><br/>  PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Mises à jour d’Outlook 2010
 
