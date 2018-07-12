@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel (ciblé) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2018
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886630"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246384"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2018
 
@@ -24,6 +24,36 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+
+## <a name="version-1803-july-10"></a>Version 1803 : 10 juillet
+*Version 1803 (build 9126.2259)*
+
+### <a name="access-security-updates"></a>Access : Mises à jour de sécurité
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8312) : Vulnérabilité « Use-After-Free » d’exécution de code à distance Microsoft Access
+
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8310) : Vulnérabilité de falsification Microsoft Office
+
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8281) : Vulnérabilité d’exécution de code à distance Microsoft Office
+
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+-   Résolution d’un problème : l’année affichée était incorrecte quand le calendrier japonais était utilisé dans le format des cellules de date.
+-   Quand des données étaient importées dans le modèle de données Excel, les valeurs zéro négatif entrantes entraînaient une erreur. Le correctif importe ces valeurs comme s’il s’agissait d’un zéro.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+-   Résolution d’un problème : les tableaux étaient indûment affichés avec des bordures épaisses.
+
+### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
+-   Résolution du problème : quand une tâche était fractionnée avec une ressource de type Coût, cette ressource n’était pas correctement mise à jour et le coût était perdu.
+-   Résolution d’un problème : dans l’affichage Chronologie, boîte de dialogue Ajouter les tâches existantes à la chronologie, seules les tâches de la première tâche récapitulative apparaissaient.
+-   Résolution du problème : l’enregistrement des projets maîtres au format XML pouvait échouer dans Project Online ou Project Server.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+-   Résolution d’un bogue : l’installation de la mise à jour était plus longue dans certains scénarios. 
+-   Résolution d’un problème : les tests SVG échouaient
+-   Résolution d’un problème : lors du déploiement de mises à jour à l’aide de System Center Configuration Manager sur un client où des applications Office sont en cours d’exécution, la mise à jour n’était pas appliquée après le redémarrage de l’appareil pendant l’exécution des applications Office.
+
 
 ## <a name="version-1803-june-12"></a>Version 1803 : 12 juin
 *Version 1803 (build 9126.2227)*
