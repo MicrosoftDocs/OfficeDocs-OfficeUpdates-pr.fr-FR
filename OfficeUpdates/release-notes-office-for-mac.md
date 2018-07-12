@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: f1b878e883d8b8494c8e13b4c6cf55e1d90ca8d7
+ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246274"
+ms.lasthandoff: 07/11/2018
+ms.locfileid: "20275770"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -44,11 +44,10 @@ Cette version inclut les mises à jour suivantes.
 |:-----|:-----|:-----|
 |Word  <br/> |**Correctifs en un clic pour les problèmes d’accessibilité :** le Vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos documents plus accessibles. [En savoir plus](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**Donnez du peps à votre pitch :** dynamisez vos diapositives en ajoutant une vidéo YouTube, puis affichez-la sans quitter l’application. [En savoir plus](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
-|Outlook  <br/> |||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**Donnez du peps à votre pitch :** dynamisez vos diapositives en ajoutant une vidéo YouTube, puis affichez-la sans quitter l’application. [En savoir plus](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Mise à jour automatique Microsoft (AutoUpdate) 4.1  <br/> |Mise à jour du Kit de développement logiciel (SDK) Aria 8.4 : résolution du problème de fuite de mémoire.<br/><br/>Modification de l’enregistrement des applications : Office 2019 Preview est désormais pris en charge.||[Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
 |Suite Office  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8281) : Vulnérabilité d’exécution de code à distance Microsoft Office  <br/> ||
-
 
 
 ## <a name="june-2018-release"></a>Version de juin 2018
