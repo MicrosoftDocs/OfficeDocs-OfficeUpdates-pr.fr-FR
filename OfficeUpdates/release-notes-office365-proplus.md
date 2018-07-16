@@ -3,19 +3,19 @@ title: Informations sur les versions pour les mises à jour vers Office 365 Pr
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/18
+ms.date: 7/12/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions d’Office 365 ProPlus pour chaque canal de mise à jour et des liens vers des notes de publication et l’historique des mises à jour
-ms.openlocfilehash: d4a315cdb40d7cf60739fea14239f732d1f7d6a5
-ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
+ms.openlocfilehash: 1ebca9f429fced94f9096ba8ffa00377ab9c93e9
+ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/11/2018
-ms.locfileid: "20275750"
+ms.lasthandoff: 07/13/2018
+ms.locfileid: "20334404"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informations sur les versions pour les mises à jour vers Office 365 ProPlus
 
@@ -28,7 +28,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 |:-----|:-----|:-----|:-----|:-----|
 |Mensuel  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 10 juillet 2018  <br/> |Version 1807 publiée <br/>|
 |Semi-annuel (ciblé)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 10 juillet 2018  <br/> |11 septembre 2018 <br/>|
-|Semi-annuel <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |10 juillet 2018  <br/> |11 septembre 2019 <br/>|
+|Semi-annuel <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |10 juillet 2018  <br/> |8 janvier 2019 <br/>|
 |Étendu semi-annuel <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 10 juillet 2018  <br/> |12 mars 2019 <br/>|
 
 Pour plus d’informations sur la taille de téléchargement approximative lors de la mise à jour à partir d’une version précédente d’Office 365 ProPlus vers la version la plus récente, reportez-vous aux [tailles de téléchargement pour les mises à jour vers Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
