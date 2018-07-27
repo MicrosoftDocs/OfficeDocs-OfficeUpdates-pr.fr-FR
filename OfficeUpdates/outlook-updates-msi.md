@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Outlook 2016, Outlook 2013 et Outlook 2010
-ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: a18e16114ac0c8865fc2b238a7c737076f4fd7fd
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246244"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222778"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Outlook qui utilisent Windows Installer (MSI)
 
@@ -33,11 +33,11 @@ La compatibilité d’Outlook avec Office 365 et votre environnement local dép
     
 - Pour les déploiements Exchange en local, suivez la configuration requise pour votre version d’Outlook :
     
-  - [Configuration requise pour Exchange 2016](https://technet.microsoft.com/fr-FR/library/aa996719.aspx)
+  - [Configuration requise pour Exchange 2016](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
   - [Configuration requise pour Exchange 2013](https://technet.microsoft.com/fr-FR/library/aa996719%28v=exchg.150%29.aspx)
     
-  - [Configuration requise pour Exchange 2010](https://technet.microsoft.com/fr-FR/library/aa996719%28v=exchg.141%29.aspx)
+  - [Configuration requise pour Exchange 2010](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Mises à jour d’Outlook 2016

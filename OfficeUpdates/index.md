@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Fournit aux professionnels de l’informatique des liens vers du contenu de publication Office pour Office 365 ProPlus, Office pour Mac, Office perpétuel et les produits Office Server
-ms.openlocfilehash: 2fc974c6688f30f9198b0ada76e1e443e0e80d7f
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: f2bd4b536cc1e7a6aa92cc5733695f7a42505874
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556017"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21223382"
 ---
 # <a name="office-updates"></a>Mises à jour Office
 
@@ -64,7 +64,7 @@ Obtenez des informations sur les fonctionnalités, mises à jour de sécurité e
                         <p><a href="https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx">Mises à jour d’Exchange Server</a></p>
                         <p><a href="project-server-updates.md">Mise à jour de Project Server</a></p>
                         <p><a href="sharepoint-updates.md">Mises à jour de SharePoint Server</a></p>
-                        <p><a href="https://technet.microsoft.com/office/dn788954.aspx">Mises à jour de Skype Entreprise Server</a></p>
+                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Mises à jour de Skype Entreprise Server</a></p>
                </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@ Obtenez des informations sur les fonctionnalités, mises à jour de sécurité e
                         <h3>Office (perpétuel)</h3>
                             <p><a href="office-updates-msi.md">Mises à jour Office</a></p>
                             <p><a href="outlook-updates-msi.md">Mises à jour Outlook</a></p>
-                            <p><a href="https://technet.microsoft.com/office/dn788954.aspx">Mises à jour de Skype Entreprise</a></p>
+                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Mises à jour de Skype Entreprise</a></p>
                             <p><a href="msp-files-office-2016.md">Fichiers .msp Office 2016</a></p>
                     </div>
                 </div>
