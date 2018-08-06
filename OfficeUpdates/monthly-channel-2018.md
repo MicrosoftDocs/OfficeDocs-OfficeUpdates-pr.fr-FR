@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222945"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772501"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -39,7 +39,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  - **Créer un document Word en dehors des formes Visio :** ajoutez automatiquement le contenu d’un diagramme, y compris les formes et les métadonnées, à un document Word. Personnalisez ensuite le document pour créer des instructions sur les processus et des manuels d’utilisation. [En savoir plus](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalités
- - **Suivi des modifications avec IRM :** vous pouvez désormais utiliser la fonctionnalité de suivi des modifications de Word dans les documents protégés par IRM dont vous n’êtes pas propriétaire.
+ - **Suivi des modifications avec IRM :** vous pouvez désormais utiliser la fonctionnalité de suivi des modifications dans des documents protégés par IRM sans que le droit d’utilisation Contrôle total soit nécessaire.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
  - Résolution d’un ensemble de problèmes qui empêchaient certains utilisateurs d’ouvrir les e-mails et les documents protégés par IRM partagés avec eux par des personnes d’autres organisations.
@@ -420,3 +420,5 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : le code VBA disparaissait des projets.
+
+Remarque : si vous avez besoin d’aide pour un problème avec l’utilisation d’Office, nous vous recommandons de publier votre question sur [le forum de réponses de Microsoft] (https://answers.microsoft.com/) ou [Communauté technique] (https://techcommunity.microsoft.com/) ou vous pouvez contacter [le support] (https://support.microsoft.com/contactus).
