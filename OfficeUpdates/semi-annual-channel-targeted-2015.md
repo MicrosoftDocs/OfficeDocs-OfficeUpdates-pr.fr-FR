@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit les professionnels de l’informatique avec les notes de publication pour les versions de canal annuel séparées (cibles) pour Office 365 ProPlus dans 2015
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556068"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Notes de publication pour le canal annuel séparées (cibles) versions 2015
@@ -22,13 +22,13 @@ ms.locfileid: "19556068"
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité qui sont incluses dans les mises à jour de canal annuel séparées (cibles) pour Office 365 ProPlus 2015.
  
 > [!NOTE]
-> - Les éléments suivants également fournit des informations sur les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité pour Visio Pro pour Office 365 et Client de bureau Project Online.
-> - Ces informations s’appliquent également à Office 365 entreprise, qui est la version d’Office qui est fourni avec certains plans Office 365, tels qu’entreprise Premium.
+> - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
+> - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
 > - Canal annuel séparées (cibles) était appelée première version de canal différé avant septembre 2017.
 
 
 ## <a name="version-1509-december-8"></a>Version 1509 : Le 8 décembre
-*Version 1509 (version 6001.1043)*
+*Version 1509 (Build 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote : Mises à jour non relatives à la sécurité
 -   Résoudre un problème où XPS ou les impressions créées à l’aide du client de bureau Windows apparaissent sous la forme d’un X rouge dans les clients de bureau non-Windows, car ceux-ci ne prennent pas en charge le rendu XPS natif.
@@ -46,7 +46,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3116111)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
 -   Résoudre un problème où un trait d’union insécable s’affiche sous la forme d’un carré lors de l’utilisation de certaines polices.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -57,15 +57,15 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1509-november-10"></a>Version 1509 : Le 10 novembre
-*Version 1509 (version 6001.1038)*
+*Version 1509 (Build 6001.1038)*
 
-### <a name="access-security-updates"></a>Access : Mises à jour de sécurité
+### <a name="access-security-updates"></a>Access : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 
-### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résoudre un problème où l’enregistrement d’une macro pour la création d’une requête entraîne une erreur de compilation.
 -   Résoudre un problème où, suite à la suppression d’une colonne dans l’éditeur de requête, une colonne vide apparaît à la fin de la table après l’actualisation de la requête.
 -   Résoudre un problème où une erreur inattendue se produit lorsque vous choisissez l’onglet Graphiques sparkline dans l’analyse rapide d’une table de requêtes.
@@ -94,7 +94,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 -   Bulletin de sécurité Microsoft [MS15-123](https://technet.microsoft.com/library/security/ms15-123): Mise à jour de sécurité pour Skype Entreprise et Microsoft Lync pour corriger la divulgation d’informations (3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Résoudre un problème de bruit audio sur les appareils qui disposent de deux microphones d’entrée.
 -   Résoudre un problème où les utilisateurs ne peuvent pas correctement rejoindre une réunion après la reprise d’un ordinateur portable en mode veille et avant la reconnexion du client Skype.
 -   Ajouter la prise en charge des messages contextuels afin de vous aider à sensibiliser les utilisateurs aux fonctionnalités.
@@ -104,10 +104,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="visio-security-updates"></a>Visio : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
 -   Résoudre un problème où la numérotation de pied de page de l’affichage dans Word ne correspond pas à celui de l’impression lorsqu’un document contenant des pieds de page définis sur « Redémarrer la numérotation de chaque page » est imprimé en arrière-plan.
 -   Résoudre un problème où la co-création en temps réel ne fonctionne pas avec les fichiers stockés sur OneDrive, et où notamment l’utilisateur n’est pas visible par d’autres personnes car la modification en temps réel et les informations de présence ne sont pas disponibles.
 -   Résoudre un problème où Word se bloque lors de la co-création en temps réel sur un document ouvert à partir de SharePoint ou de OneDrive.
@@ -116,7 +116,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Résoudre un problème où l’utilisateur est invité à plusieurs reprises à se connecter en cas de tentative d’ouverture de fichiers à partir de SharePoint Online.
 -   Résoudre un problème où des raccourcis épinglés dans la barre des tâches ne sont pas supprimés pour tous les utilisateurs au cours d’une mise à niveau manuelle.
 -   Ajouter la possibilité pour le processus de mise à niveau manuelle « Démarrer en un clic » de détecter si Outlook est connecté à Exchange Server 2007 ou si le Gestionnaire de contacts professionnels est installé pour informer les utilisateurs d’éventuels problèmes avec la mise à niveau.
@@ -126,7 +126,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1509-october-21"></a>Version 1509 : Le 21 octobre
-*Version 1509 (version 6001.1034)*
+*Version 1509 (Build 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote : Mises à jour non relatives à la sécurité
 -   Résoudre un problème qui entraîne le blocage de OneNote lorsqu’une même couleur est sélectionnée deux fois pour une bordure dans le sélecteur de couleurs.
@@ -169,7 +169,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1509-october-5"></a>Version 1509 : Octobre 5
-*Version 1509 (version 4229.1029)*
+*Version 1509 (Build 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote : Mises à jour non relatives à la sécurité
 -   Résoudre un problème avec Office 365 Business, où la tentative d’utilisation de OneNote avec SharePoint entraîne un message d’erreur qui indique aux utilisateurs qu’ils doivent effectuer une mise à niveau vers une autre version d’Office.
@@ -178,7 +178,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Modifier ce qu’un visualiseur voit lorsque l’utilisateur à l’initiative du partage verrouille l’écran dans RDP. Désormais, il ne voit plus une notification, mais l’image de pause RDP.
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Résoudre un problème lié à « Démarrer en un clic », où le service « Démarrer en un clic » d’Office 2013 n’est pas restauré si la mise à jour automatique vers Office 2016 n’est pas effectuée en raison d’une erreur ou de l’annulation par l’utilisateur.
 -   Résoudre un problème lié à « Démarrer en un clic », où un échec lors de la mise à jour automatique vers Office 2016 entraîne un échec de la mise à jour, et empêche l’utilisation ou la désinstallation des applications Office 2013.
 -   Résoudre un problème lié à « Démarrer en un clic », où une nouvelle tentative de mise à jour automatique vers Office 2016 après le redémarrage lors d’une tentative de mise à jour précédente entraîne un échec de la mise à jour et empêche l’arrêt.
@@ -194,20 +194,20 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1509-september-22"></a>Version 1509 : Septembre 22
-*Version 1509 (version 4229.1024)*
+*Version 1509 (Build 4229.1024)*
 
 Il s’agit de la publication initiale de ce canal. À cette occasion, les applications Office 2016 seront disponibles pour la première fois.
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Des vulnérabilités dans Microsoft Office pourraient permettre l’exécution de code à distance (3089664)
 -   Bulletin de sécurité Microsoft [MS15-110](https://technet.microsoft.com/library/security/ms15-110): Mises à jour de sécurité pour Microsoft Office pour corriger l’exécution de code à distance (3096440)
 
 ### <a name="visio-security-updates"></a>Visio : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Des vulnérabilités dans Microsoft Office pourraient permettre l’exécution de code à distance (3080790)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Des vulnérabilités dans Microsoft Office pourraient permettre l’exécution de code à distance (3080790)
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Des vulnérabilités dans Microsoft Office pourraient permettre l’exécution de code à distance (3080790)
 -   Bulletin de sécurité Microsoft [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Des vulnérabilités dans Microsoft Office pourraient permettre l’exécution de code à distance (3089664)

@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit des que professionnels de l’informatique avec les notes de publication pour le canal annuel des versions pour Office 365 ProPlus dans 2017
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556051"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Notes de publication pour le canal annuel des versions dans 2017
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité qui sont incluses dans le canal annuel des mises à jour Office 365 ProPlus 2017. 
 > [!NOTE]
-> - Les éléments suivants également fournit des informations sur les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité pour Visio Pro pour Office 365 et Client de bureau Project Online.
-> - Ces informations s’appliquent également à Office 365 entreprise, qui est la version d’Office qui est fourni avec certains plans Office 365, tels qu’entreprise Premium.
-> - Canal annuel séparées était appelée différé canal avant 2018 janvier.
+> - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
+> - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+> - Le Canal semi-annuel était nommé Canal différé avant janvier 2018.
 
 
 ## <a name="version-1705-december-12"></a>Version 1705 : Décembre 12
-*Version 1705 (version 8201.2213)*
+*Version 1705 (Build 8201.2213)*
 
-### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
+### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Vulnérabilité de divulgation d’informations Microsoft PowerPoint
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
@@ -38,11 +38,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1701-december-12"></a>Version 1701 : Décembre 12
-*Version 1701 (version 7766.2130)*
+*Version 1701 (Build 7766.2130)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis juin 2017. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu'à 2018 janvier. Mais, une nouvelle version de canal différé est désormais disponible : Version 1705 (Build 8201.2213), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
+### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Vulnérabilité de divulgation d’informations Microsoft PowerPoint
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
@@ -51,51 +51,51 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1705-november-24"></a>Version 1705 : Novembre 24
-*Version 1705 (version 8201.2209)*
+*Version 1705 (Build 8201.2209)*
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : la version 64 bits d’Office provoquait le blocage des applications Office, par exemple, lorsque l’utilisateur accédait à Fichier \> Options.
 
 
 
 ## <a name="version-1705-november-14"></a>Version 1705 : Novembre 14
-*Version 1705 (version 8201.2207)*
+*Version 1705 (Build 8201.2207)*
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Excel
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnérabilité de corruption de mémoire de Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   [Avis 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020) : Mise à jour de protection fiable pour Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882) : Vulnérabilité de corruption de mémoire de Microsoft Office
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 
 
 ## <a name="version-1701-november-14"></a>Version 1701 : Novembre 14
-*Version 1701 (version 7766.2122)*
+*Version 1701 (Build 7766.2122)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis juin 2017. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu'à 2018 janvier. Mais, une nouvelle version de canal différé est désormais disponible : Version 1705 (Build 8201.2207), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Excel
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnérabilité de corruption de mémoire de Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   [Avis 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020) : Mise à jour de protection fiable pour Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882) : Vulnérabilité de corruption de mémoire de Microsoft Office
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 
 
 ## <a name="version-1705-october-10"></a>Version 1705 : Le 10 octobre
-*Version 1705 (version 8201.2200)*
+*Version 1705 (Build 8201.2200)*
 
-### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : Excel se bloquait temporairement lorsque vous développiez ou réduisiez un tableau croisé dynamique et les en-têtes de tableau croisé dynamique sortaient de l’écran.
 
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
@@ -105,8 +105,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): Vulnérabilité d’élévation de privilège Skype Entreprise
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) : Vulnérabilité de corruption de mémoire de Microsoft Office
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnérabilité d’exécution de code à distance Microsoft Office
@@ -114,18 +114,18 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1701-october-10"></a>Version 1701 : Le 10 octobre
-*Version 1701 (version 7766.2119)*
+*Version 1701 (Build 7766.2119)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis juin 2017. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu'à 2018 janvier. Mais, une nouvelle version de canal différé est désormais disponible : Version 1705 (Build 8201.2200), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Outlook
 
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): Vulnérabilité d’élévation de privilège Skype Entreprise
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) : Vulnérabilité de corruption de mémoire de Microsoft Office
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnérabilité d’exécution de code à distance Microsoft Office
@@ -133,13 +133,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1705-september-12"></a>Version 1705 : Septembre 12
-*Version 1705 (version 8201.2193)*
+*Version 1705 (Build 8201.2193)*
 
-### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
+### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
 -   **Boîte de dialogue Nouveautés :** une boîte de dialogue qui présente les nouvelles fonctionnalités s’affiche lorsque Access est ouvert après une mise à jour. Cette boîte de dialogue est également disponible en accédant à Fichier \> Compte \> Nouveautés.
 -   **Prise en charge du type Grand nombre (bigint) :** utilisez le type de données Grand nombre dans les tables Access pour calculer des grands nombres, ainsi que pour créer des liens vers des bases de données externes qui utilisent un type de données équivalent, tel que bigint dans SQL Server, ou effectuer des importations à partir de telles bases de données. [Plus d’informations](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
-### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
+### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
 -   **Prise en charge de la protection des informations Windows :**   Excel est désormais une application améliorée qui peut faire la différence entre les données professionnelles et personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
 -   **Obtenir et transformer des améliorations :** dans l’éditeur de requête, créez une colonne en fournissant des exemples de valeurs. Lors de la saisie, Excel détecte les transformations requises et affiche un aperçu de la nouvelle colonne.
 -   **Insérer des liens récents :** joignez facilement des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
@@ -158,7 +158,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Enregistrement dans les dossiers récents :** enregistrer un classeur dans un dossier récemment utilisé à l’aide de l’onglet Récent lorsque vous accédez à Fichier \> Enregistrer sous.
 -   **Améliorations en matière d’accessibilité :** prise en charge améliorée pour l’utilisation du clavier, du Narrateur et d’autres technologies d’assistance pour la lecture et la modification de classeurs. [Plus d’informations](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502) : Vulnérabilité de corruption de mémoire de Microsoft Office
@@ -201,7 +201,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des messages électroniques. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **Insertion d’icônes :** utiliser les icônes d’une bibliothèque de fichiers SVG standard en accédant à Insertion \> Illustrations \> Icônes. [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Vulnérabilité d’exécution de code à distance Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): Exécution de code à distance Microsoft Office
@@ -233,8 +233,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Sélectionner et manipuler des objets avec un stylet :** Utilisez un stylet numérique pour déplacer, redimensionner ou faire pivoter des objets à l’aide de leurs poignées, ou utilisez les boutons de stylet pris en charge par sélectionner par lasso l’encre.
 -   **Améliorations en matière d’accessibilité :** prise en charge améliorée pour l’utilisation du clavier, du Narrateur et d’autres technologies d’assistance pour la lecture et la modification de présentations. [Plus d’informations](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
 
-### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
--   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): Vulnérabilité d’exécution de code à distance PowerPoint
+### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
+-   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742) : Vulnérabilité d’exécution de code à distance PowerPoint
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): Vulnérabilité d’exécution de code à distance PowerPoint
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
@@ -300,7 +300,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): Vulnérabilité de divulgation d’informations du composant Graphics
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Exécution de code à distance du composant Graphics Microsoft
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : la fenêtre de conversation ne s’affiche pas en arrière-plan lorsque l’utilisateur rejoint une réunion et la boîte de dialogue des périphériques audio apparaît pour un autre utilisateur
 -   Résolution d’un problème : le lien d’une réunion d’Outlook ne transmet pas toujours correctement l’URI interne.
 -   Agrandissement du bouton de participation à une réunion pour corriger la troncation du texte dans certaines langues localisées.
@@ -342,7 +342,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Trouver des gabarits tiers :** recherchez des gabarits tiers fournis par des fournisseurs de contenu sélectionnés.
 -   **Extraits de diapositive :** prenez des extraits d’un dessin Visio et exportez-les sous forme de diapositives dans PowerPoint.[Plus d’informations](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
-### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 -   **Prise en charge de la protection des informations Windows :**   Word est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
 -   **Insérer des liens récents :** joignez des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Déploiement centralisé des compléments**: les administrateurs peuvent déployer et mettre à jour des compléments pour des utilisateurs ou des groupes à partir du Centre d’administration Office 365.  [Plus d’informations](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
@@ -356,7 +356,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Lecture améliorée avec les outils d’apprentissage :** les nouvelles commandes en mode Lecture améliorent grandement les capacités de lecture en ajustant l’espacement du texte, en affichant les sauts entre les syllabes et en mettant en surbrillance chaque mot au fil de la lecture à voix haute du document. [Plus d’informations](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Reconnaissance de forme :** transformez automatiquement vos dessins en formes à l’aide de Dessiner \> Convertir en forme.[Plus d’informations](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
@@ -394,20 +394,20 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1701-september-12"></a>Version 1701 : Septembre 12
-*Version 1701 (version 7766.2116)*
+*Version 1701 (Build 7766.2116)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis juin 2017. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu'à 2018 janvier. Mais, une nouvelle version de canal différé est désormais disponible : Version 1705 (Build 8201.2193), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
-### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
--   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): Vulnérabilité d’exécution de code à distance PowerPoint
+### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
+-   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742) : Vulnérabilité d’exécution de code à distance PowerPoint
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): Vulnérabilité d’exécution de code à distance PowerPoint
 
-### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
--   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Vulnérabilité de divulgation d’informations Windows GDI+
+### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
+-   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676) : Vulnérabilité de divulgation d’informations Windows GDI+
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): Vulnérabilité de divulgation d’informations du composant Graphics
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Exécution de code à distance du composant Graphics Microsoft
 
@@ -418,57 +418,57 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1701-july-27"></a>Version 1701 : Juillet 27
-*Version 1701 (version 7766.2099)*
+*Version 1701 (Build 7766.2099)*
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office Outlook
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office Outlook
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Vulnérabilité de divulgation d’informations Microsoft Office Outlook
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Vulnérabilité de corruption de mémoire de Microsoft Office Outlook
 
 
 
 ## <a name="version-1609-july-27"></a>Version 1609 : Juillet 27
-*Version 1609 (version 7369.2154)*
+*Version 1609 (Build 7369.2154)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis février 2017. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu’en 2017 septembre. Mais, une nouvelle version de canal différé est maintenant disponible — Version 1701 (Build 7766.2099), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office Outlook
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office Outlook
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Vulnérabilité de divulgation d’informations Microsoft Office Outlook
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Vulnérabilité de corruption de mémoire de Microsoft Office Outlook
 
 
 
 ## <a name="version-1701-july-13"></a>Version 1701 : Juillet 13
-*Version 1701 (version 7766.2096)*
+*Version 1701 (Build 7766.2096)*
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) : Vulnérabilité de corruption de mémoire de Microsoft Office
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+-   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Vulnérabilité d’exécution de code à distance Microsoft Office
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570) : Vulnérabilité d’exécution de code à distance Microsoft Office
 
 
 
 ## <a name="version-1609-july-13"></a>Version 1609 : Juillet 13
-*Version 1609 (version 7369.2151)*
+*Version 1609 (Build 7369.2151)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis février 2017. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu’en 2017 septembre. Mais, une nouvelle version de canal différé est maintenant disponible — Version 1701 (Build 7766.2096), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) : Vulnérabilité de corruption de mémoire de Microsoft Office
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+-   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Vulnérabilité d’exécution de code à distance Microsoft Office
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570) : Vulnérabilité d’exécution de code à distance Microsoft Office
 
 
 
 ## <a name="version-1701-june-13"></a>Version 1701 : Le 13 juin
-*Version 1701 (version 7766.2092)*
+*Version 1701 (Build 7766.2092)*
 
-### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
+### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
 -   Résolution du problème où les menus volants ne pouvaient pas être fermés.
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
@@ -481,7 +481,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Partagé avec moi :** pour voir des documents que d’autres utilisateurs ont partagé avec vous, accédez à Fichier \> Ouvrir \> Partagé avec moi. [Plus d’informations](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 -   **Modification des couleurs :** utilisation de la fonction Rechercher pour définir la couleur de police, de mise en surbrillance, de remplissage de forme et bien d’autres. [Plus d’informations](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)
 -   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 
@@ -521,7 +521,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Cartes de synthèse pour réservations de voyages et colis :** vérifiez et effectuez le suivi des réservations de voyages, ainsi que des livraisons de colis, à l’aide de cartes de synthèse créées automatiquement dans la boîte de réception et le calendrier.[Plus d’informations](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Éditeur :** fournit une vérification linguistique avancée et contextuelle afin d’aider à améliorer la rédaction. [Plus d’informations](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Vulnérabilité d’exécution de code à distance Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): Exécution de code à distance Microsoft Office
@@ -706,7 +706,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Partagé avec moi :** pour voir des documents que d’autres utilisateurs ont partagé avec vous, accédez à Fichier \> Ouvrir \> Partagé avec moi. [Plus d’informations](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 -   **Modification des couleurs :** utilisation de la fonction Rechercher pour définir la couleur de police, de mise en surbrillance, de remplissage de forme et bien d’autres. [Plus d’informations](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
@@ -747,11 +747,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1609-june-13"></a>1609 version : Le 13 juin
-*Version 1609 (version 7369.2139)*
+*Version 1609 (Build 7369.2139)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis février 2017. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu’en 2017 septembre. Mais, une nouvelle version de canal différé est maintenant disponible — Version 1701 (Build 7766.2092), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): Exécution de code à distance Microsoft Office
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office
@@ -772,9 +772,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1609-may-9"></a>Version 1609 : Mai 9
-*Version 1609 (version 7369.2130)*
+*Version 1609 (Build 7369.2130)*
 
-### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
+### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
@@ -789,11 +789,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1605-may-9"></a>Version 1605 : Mai 9
-*Version 1605 (version 6965.2150)*
+*Version 1605 (Build 6965.2150)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis octobre 2016. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu’en 2017 juin. Mais, une nouvelle version de canal différé est maintenant disponible — Version 1609 (Build 7369.2130), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
+### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
@@ -808,9 +808,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1609-april-11"></a>Version 1609 : Avril 11
-*Version 1609 (version 7369.2127)*
+*Version 1609 (Build 7369.2127)*
 
-### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où Excel se bloque lorsque l’utilisateur essaie de définir des autorisations pour un autre utilisateur afin qu’il puisse modifier une plage.
 
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
@@ -823,11 +823,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1605-april-11"></a>Version 1605 : Avril 11
-*Version 1605 (version 6965.2145)*
+*Version 1605 (Build 6965.2145)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis octobre 2016. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu’en 2017 juin. Mais, une nouvelle version de canal différé est maintenant disponible — Version 1609 (Build 7369.2127), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Vulnérabilité d’exécution de code à distance Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office
 
@@ -837,9 +837,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1609-march-14"></a>Version 1609 : Mars 14
-*Version 1609 (version 7369.2120)*
+*Version 1609 (Build 7369.2120)*
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
@@ -849,33 +849,33 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : Skype Entreprise ne répond plus lorsque plusieurs fenêtres de conversation sont ouvertes simultanément.
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
--   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
+-   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 
 
 
 ## <a name="version-1605-march-14"></a>Version 1605 : Mars 14
-*Version 1605 (version 6965.2140)*
+*Version 1605 (Build 6965.2140)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis octobre 2016. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu’en 2017 juin. Mais, une nouvelle version de canal différé est maintenant disponible — Version 1609 (Build 7369.2120), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-013](https://technet.microsoft.com/library/security/ms17-013): Mise à jour de sécurité pour le composant de graphique Microsoft (4013075)
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
--   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
+-   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 
 
 
 ## <a name="version-1609-february-22"></a>Version 1609 : 22 février
-*Version 1609 (version 7369.2118)*
+*Version 1609 (Build 7369.2118)*
 
-### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
+### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
 -   **Prise en charge de dBASE :** prise en charge pour l’importation ou la liaison aux données stockées dans des bases de données dBASE (.dbf). [Plus d’informations](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
-### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
+### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème à cause duquel certaines actions ne peuvent pas être exécutées lorsque le volet d’aide est ouvert.
 -   Résolution d’un problème à cause duquel l’exécution d’une requête avec un tri lorsque vous utilisez le moteur de base de données Access (par exemple dans l’application Access ou avec un complément qui utilise le moteur de base de données Access comme fournisseur de données) entraîne le blocage de l’application.
 -   Résolution d’un problème où la liste déroulante Taille du champ pour les types de données numériques n’affiche aucune valeur, ce qui empêche l’utilisateur de spécifier le type de champ numérique lors de la création ou de la modification d’un tableau.
@@ -927,13 +927,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème à cause duquel la suppression d’une table entraîne le blocage de OneNote.
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
--   ** \@mentionne :** Vérifiez que les destinataires connaissent vous est demandées d’entrée ou action en incluant le symbole suivi par un nom de la personne dans le corps d’un élément de courrier ou calendrier. Cela les ajoutera automatiquement à la ligne à. [Plus d’informations](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@mentionne :** Vérifiez que les destinataires connaissent vous est demandées d’entrée ou action en incluant le symbole suivi par un nom de la personne dans le corps d’un élément de courrier ou calendrier. Ils sont ainsi automatiquement ajoutés à la ligne À. [Plus d’informations](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Cartes de synthèse pour réservations de voyages et colis :** vérifiez et effectuez le suivi des réservations de voyages, ainsi que des livraisons de colis, à l’aide de cartes de synthèse créées automatiquement dans la boîte de réception et le calendrier.[Plus d’informations](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Mini-aperçu des photos jointes** : Lorsqu’une photo est jointe à un e-mail, Outlook affiche un petit aperçu de la photo dans le message.
 -   **Récupération du lien d’éléments supprimés :** dans le dossier des éléments supprimés, le lien « Récupérer des éléments récemment supprimés de ce dossier » apparaît au-dessus de la liste des éléments supprimés. La boîte de dialogue Récupération des éléments supprimés apparaît lorsque le lien est sélectionné.
 -   **Recommandations :** recherchez et réutilisez le contenu des documents pertinents de votre organisation. [Plus d’informations](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088) : Mise à jour de sécurité pour Microsoft Office (3170008)
 -   Bulletin de sécurité Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099) : Mise à jour de sécurité pour Microsoft Office (3177451)
 -   Bulletin de sécurité Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107) : Mise à jour de sécurité pour Microsoft Office (3185852)
@@ -960,7 +960,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 -   **Fonctionnalités de collaboration regroupées dans le ruban :** Des fonctionnalités telles que le partage, la conversation, les commentaires, l’activité de document et la personne qui modifie actuellement le document sont regroupées sur le ruban.[Plus d’informations](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème dans lequel l’utilisation de formes entraîne parfois le blocage de PowerPoint.
 -   Résolution d’un problème de blocage de PowerPoint lorsque l’utilisateur essaie d’ouvrir ou d’enregistrer un fichier.
 -   Résolution d’un problème où, lorsque l’utilisateur personnalise la taille des diapositives, la traduction thaï de l’abréviation de « pouces » est incorrecte.
@@ -1035,7 +1035,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Fonctionnalités de collaboration regroupées dans le ruban :** Des fonctionnalités telles que le partage, la conversation, les commentaires, l’activité de document et la personne qui modifie actuellement le document sont regroupées sur le ruban.[Plus d’informations](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **Recommandations :** recherchez et réutilisez le contenu des documents pertinents de votre organisation. [Plus d’informations](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088) : Mise à jour de sécurité pour Microsoft Office (3170008)
 -   Bulletin de sécurité Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099) : Mise à jour de sécurité pour Microsoft Office (3177451)
 -   Bulletin de sécurité Microsoft [MS16-121](https://technet.microsoft.com/library/security/ms16-121) : Mise à jour de sécurité pour Microsoft Office (3194063)
@@ -1086,17 +1086,17 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 ## <a name="version-1605-january-10"></a>1605 version : Le 10 janvier
-*Version 1605 (version 6965.2117)*
+*Version 1605 (Build 6965.2117)*
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) : Mise à jour de sécurité pour Microsoft Office (3214291)
 
 
 
 ## <a name="version-1602-january-10"></a>1602 version : Le 10 janvier
-*Version 1602 (version 6741.2105)*
+*Version 1602 (Build 6741.2105)*
 
 *Il s’agit de la mise à jour différée canal est disponible depuis 2016 juin. Il continuera d’être pris en charge et de recevoir des mises à jour de sécurité jusqu’en 2017 février. Mais, une nouvelle version de canal différé est maintenant disponible — Version 1605 (Build 6965.2117), qui contient les nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour de sécurité.*
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) : Mise à jour de sécurité pour Microsoft Office (3214291)

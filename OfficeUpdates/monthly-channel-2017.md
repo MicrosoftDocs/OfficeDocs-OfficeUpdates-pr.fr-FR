@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit des que professionnels de l’informatique avec les notes de publication pour tous les mois canal libère pour Office 365 ProPlus dans 2017
 ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/13/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "20334444"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notes de publication pour le canal mensuel versions 2017
@@ -236,7 +236,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
--   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825) : Vulnérabilité d’exécution de code à distance Microsoft Office
+-   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnérabilité d’exécution de code à distance Microsoft Office
 
 
 
@@ -291,7 +291,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Améliorations apportées à l’option « Ajouter une colonne à partir d’exemples » :** prise en charge d’un plus grand nombre de transformations de date/d’heure, mathématiques et de colonne d’index.
 -   **Améliorations en matière de performances :** Excel ouvre plus rapidement des classeurs complexes composés de plusieurs feuilles. Vous pouvez ainsi traiter des formules avec des plages importantes, filtrer de nombreuses lignes ou effectuer un copier-coller plus rapidement. 
 -   **Interface utilisateur de partage de fichiers :** pour les fichiers OneDrive Entreprise ou SharePoint, cliquez sur le bouton Partager dans le coin supérieur droit du ruban ou accédez à Fichier \> Partager pour lancer une boîte de dialogue Partager simplifiée et améliorée. Pour les nouveaux fichiers ou les fichiers enregistrés localement, l’interface utilisateur permet aux utilisateurs de charger facilement leurs fichiers dans OneDrive pour commencer à collaborer.
--   **Bloquer extensions dangereuses :** Extensions qui sont considérés comme étant à risque élevé et sont incorporées en tant qu’objets de package OLE, sont bloquées par défaut, à partir de l’activation. Par exemple, .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : des onglets ne sont pas pris en compte lors de la copie et du collage de texte séparé par des tabulations à partir de Word, empêchant la décomposition du texte en colonnes.
@@ -306,7 +306,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Modèles 3D :** utilisez la 3D pour améliorer l’impact visuel et créatif de vos présentations. Donnez vie à vos modèles 3D dans vos présentations grâce aux transitions, telles que Morphose qui permet de créer des animations cinématographiques entre les diapositives. [Plus d’informations](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nouveaux effets d’entrée manuscrite :** exprimez-vous avec style grâce aux stylos effet métallique et aux effets d’entrée manuscrite tels que l’arc-en-ciel, la galaxie, la lave, l’océan, le doré, l’argenté, etc.
 -   **Interface utilisateur de partage de fichiers :** pour les fichiers OneDrive Entreprise ou SharePoint, cliquez sur le bouton Partager dans le coin supérieur droit du ruban ou accédez à Fichier \> Partager pour lancer une boîte de dialogue Partager simplifiée et améliorée. Pour les nouveaux fichiers ou les fichiers enregistrés localement, l’interface utilisateur permet aux utilisateurs de charger facilement leurs fichiers dans OneDrive pour commencer à collaborer.
--   **Bloquer extensions dangereuses :** Extensions qui sont considérés comme étant à risque élevé et sont incorporées en tant qu’objets de package OLE, sont bloquées par défaut, à partir de l’activation. Par exemple, .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project : Mises à jour de fonctionnalité
 -   **Gérez une tâche dans le Planificateur :** associez une tâche de projet au Planificateur et créez un plan qui lui est propre. Divisez la tâche en sous-tâches, ajoutez une équipe, attribuez des tâches et gérez le travail dans un tableau des tâches.
@@ -319,8 +319,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : les données chronologiques pour les ressources budgétaires ne sont pas copiées lorsque vous enregistrez à partir d’une ligne de base dans une autre.
 -   Résolution d’un problème : le champ d’état n’effectue pas toujours un calcul exact pour les tâches récapitulatives.
 
-### <a name="publisher-feature-updates"></a>Publisher : Mises à jour de fonctionnalités
--   **Bloquer extensions dangereuses :** Extensions qui sont considérés comme étant à risque élevé et sont incorporées en tant qu’objets de package OLE, sont bloquées par défaut, à partir de l’activation. Par exemple, .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+### <a name="publisher-feature-updates"></a>Publisher : Mises à jour de fonctionnalités
+-   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Ajout d’une boîte de dialogue expliquant pourquoi un utilisateur ne parvient pas à participer à une réunion lorsque certains ports sont bloqués ou que certaines adresses IP ne sont pas mises sur liste verte.
@@ -334,13 +334,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : la notification de partage dans une conversation par messagerie instantanée était fermée avant l’arrêt du partage.
 
 ### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
--   **Bloquer extensions dangereuses :** Extensions qui sont considérés comme étant à risque élevé et sont incorporées en tant qu’objets de package OLE, sont bloquées par défaut, à partir de l’activation. Par exemple, .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 -   **Modèles 3D :** utilisez la 3D pour améliorer l’impact visuel et créatif de vos documents. Insérez facilement un modèle 3D, puis faites-le pivoter à 360°. [Plus d’informations](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nouveaux effets d’entrée manuscrite :** exprimez-vous avec style grâce aux stylos effet métallique et aux effets d’entrée manuscrite tels que l’arc-en-ciel, la galaxie, la lave, l’océan, le doré, l’argenté, etc.
 -   **Interface utilisateur de partage de fichiers :** pour les fichiers OneDrive Entreprise ou SharePoint, cliquez sur le bouton Partager dans le coin supérieur droit du ruban ou accédez à Fichier \> Partager pour lancer une boîte de dialogue Partager simplifiée et améliorée. Pour les nouveaux fichiers ou les fichiers enregistrés localement, l’interface utilisateur permet aux utilisateurs de charger facilement leurs fichiers dans OneDrive pour commencer à collaborer.
--   **Bloquer extensions dangereuses :** Extensions qui sont considérés comme étant à risque élevé et sont incorporées en tant qu’objets de package OLE, sont bloquées par défaut, à partir de l’activation. Par exemple, .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : la boîte de dialogue Quoi de neuf ? ne s’affiche pas.
@@ -351,7 +351,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1707 (Build 8326.2107)*
 
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
--   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631) : Vulnérabilité de corruption de mémoire de Microsoft Office
+-   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 ### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
