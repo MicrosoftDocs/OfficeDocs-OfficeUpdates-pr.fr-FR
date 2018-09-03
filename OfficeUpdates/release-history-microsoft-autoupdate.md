@@ -3,25 +3,25 @@ title: Historique des versions pour la mise à jour automatique Microsoft (AutoU
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 2b7c13897b1e766af3e07cf2815b3f1b28f79e93
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 06d294c7ad348451fc9b8acabc5fd58a826338d9
+ms.sourcegitcommit: 977f06b0e459e7a29fdcae5bc3ed9d72f7c55bdb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246434"
+ms.lasthandoff: 08/31/2018
+ms.locfileid: "23796738"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
 Nous vous recommandons de toujours effectuer la mise à jour vers la dernière version de la mise à jour automatique Microsoft (AutoUpdate).
 
-Le tableau suivant fournit des informations sur l’historique des versions de la mise à jour automatique Microsoft (AutoUpdate). Le tableau est organisé par date de publication, la plus récente apparaissant en premier. Tous les packages de mise à jour représentent 64 bits.
+Le tableau suivant fournit des informations sur l’historique des versions de la mise à jour automatique Microsoft (AutoUpdate). Le tableau est organisé par date de publication, la plus récente apparaissant en premier. Tous les packages de mise à jour représentent 64 bits.
 
 > [!NOTE]
 > - La dernière version de la mise à jour automatique Microsoft (AutoUpdate) est toujours disponible à partir de [https://go.microsoft.com/fwlink/p/?linkid=830196](https://go.microsoft.com/fwlink/p/?linkid=830196).
@@ -30,36 +30,37 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
   
 |**Date de sortie**|**Version**|**Plus d’informations**|**Lien de téléchargement du package de mise à jour**|
 |:-----|:-----|:-----|:-----|
+|14 août 2018  <br/> |4.2.0  <br/> |[Notes de publication](release-notes-office-for-mac.md#august-2018-release) <br/> |[Télécharger MAU 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |10 juillet 2018  <br/> |4.1.0  <br/> |[Notes de publication](release-notes-office-for-mac.md#july-2018-release) <br/> |[Télécharger MAU 4.1.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
-|12 juin 2018  <br/> |4.0.0  <br/> ||[Télécharger MAU 4.0.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |
-|15 mai 2018  <br/> |4.0.0  <br/> ||[Télécharger MAU 4.0.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18051301_Updater.pkg) <br/> |
-|10 avril 2018  <br/> |3.18  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#april-2018-release) <br/> |[Télécharger MAU 3.18.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.18.18041000_Updater.pkg) <br/> |
-|13 mars 2018  <br/> |3.17  <br/> ||[Télécharger MAU 3.17.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.17.18031100_Updater.pkg) <br/> |
-|13 février 2018  <br/> |3.16.0  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#february-2018-release) <br/> | <br/> |
-|18 janvier 2018  <br/> |3.15.0  <br/> |<br/> |
-|17 décembre 2017  <br/> |3.14.1  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#december-2017-release) <br/> | <br/> |
-|12 décembre 2017  <br/> |3.14  <br/> ||  <br/> |
-|10 octobre 2017  <br/> |3.11  <br/> ||<br/> |
-|12 septembre 2017  <br/> |3.9.3  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#september-2017-release) <br/> |<br/> |
-|15 août 2017  <br/> |3.9.2  <br/> || <br/> |
-|11 juillet 2017  <br/> |3.9.1  <br/> || <br/> |
-|13 juin 2017  <br/> |3.9.1  <br/> || <br/> |
-|9 mai 2017  <br/> |3.9.1  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#may-2017-release) <br/> | <br/> |
-|11 avril 2017  <br/> |3.9  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#april-2017-release) <br/> |  <br/> |
-|16 février 2017  <br/> |3.8.4  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#february-2017-release) <br/> | <br/> |
-|11 janvier 2017  <br/> |3.8.3  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#january-2017-release) <br/> | <br/> |
-|13 décembre 2016  <br/> |3.8.2  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#december-2016-release) <br/> | <br/> |
-|15 novembre 2016  <br/> |3.8.1  <br/> |[Notes de mise à jour](release-notes-office-for-mac.md#november-2016-release) <br/> | <br/> |
-|11 octobre 2016  <br/> |3.8.0  <br/> |[ARTICLE 3193438 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3193438) <br/> | <br/> |
-|22 août 2016  <br/> |3.6.0  <br/> |[ARTICLE 3179163 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3179163) <br/> | <br/> |
-|10 mai 2016  <br/> |3.5.0  <br/> |[ARTICLE 3155777 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3155777) <br/> | <br/> |
-|12 avril 2016  <br/> |3.4.0  <br/> |[ARTICLE 3142577 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3142577) <br/> | <br/> |
-|5 janvier 2016  <br/> |3.4.0  <br/> |[ARTICLE 3133674 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
-|10 décembre 2015  <br/> |3.3.0  <br/> |[ARTICLE 3119516 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3119516) <br/> | <br/> |
-|13 octobre 2015  <br/> |3.2.0  <br/> |[ARTICLE 3097267 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3097267) <br/> | <br/> |
-|11 juin 2015  <br/> |3.1.1  <br/> |[ARTICLE 3048690 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048690) <br/> | <br/> |
-|15 mai 2015  <br/> |3.1.0  <br/> |[ARTICLE 3048681 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048681) <br/> | <br/> |
-|16 avril 2015  <br/> |3.0.6  <br/> |[ARTICLE 3048680 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048680) <br/> | <br/> |
+|12 juin 2018  <br/> |4.0.0  <br/> ||[Télécharger MAU 4.0.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |
+|15 mai 2018  <br/> |4.0.0  <br/> |||
+|10 avril 2018  <br/> |3.18  <br/> |[Notes de publication](release-notes-office-for-mac.md#april-2018-release) <br/> ||
+|13 mars 2018  <br/> |3.17  <br/> |||
+|13 février 2018  <br/> |3.16.0  <br/> |[Notes de publication](release-notes-office-for-mac.md#february-2018-release) <br/> | <br/> |
+|18 janvier 2018  <br/> |3.15.0  <br/> |<br/> |
+|17 décembre 2017  <br/> |3.14.1  <br/> |[Notes de publication](release-notes-office-for-mac.md#december-2017-release) <br/> | <br/> |
+|12 décembre 2017  <br/> |3.14  <br/> ||  <br/> |
+|10 octobre 2017  <br/> |3.11  <br/> ||<br/> |
+|12 septembre 2017  <br/> |3.9.3  <br/> |[Notes de publication](release-notes-office-for-mac.md#september-2017-release) <br/> |<br/> |
+|15 août 2017  <br/> |3.9.2  <br/> || <br/> |
+|11 juillet 2017  <br/> |3.9.1  <br/> || <br/> |
+|13 juin 2017  <br/> |3.9.1  <br/> || <br/> |
+|9 mai 2017  <br/> |3.9.1  <br/> |[Notes de publication](release-notes-office-for-mac.md#may-2017-release) <br/> | <br/> |
+|11 avril 2017  <br/> |3.9  <br/> |[Notes de publication](release-notes-office-for-mac.md#april-2017-release) <br/> |  <br/> |
+|16 février 2017  <br/> |3.8.4  <br/> |[Notes de publication](release-notes-office-for-mac.md#february-2017-release) <br/> | <br/> |
+|11 janvier 2017  <br/> |3.8.3  <br/> |[Notes de publication](release-notes-office-for-mac.md#january-2017-release) <br/> | <br/> |
+|13 décembre 2016  <br/> |3.8.2  <br/> |[Notes de publication](release-notes-office-for-mac.md#december-2016-release) <br/> | <br/> |
+|15 novembre 2016  <br/> |3.8.1  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2016-release) <br/> | <br/> |
+|11 octobre 2016  <br/> |3.8.0  <br/> |[ARTICLE 3193438 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3193438) <br/> | <br/> |
+|22 août 2016  <br/> |3.6.0  <br/> |[ARTICLE 3179163 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3179163) <br/> | <br/> |
+|10 mai 2016  <br/> |3.5.0  <br/> |[ARTICLE 3155777 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3155777) <br/> | <br/> |
+|12 avril 2016  <br/> |3.4.0  <br/> |[ARTICLE 3142577 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3142577) <br/> | <br/> |
+|5 janvier 2016  <br/> |3.4.0  <br/> |[ARTICLE 3133674 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
+|10 décembre 2015  <br/> |3.3.0  <br/> |[ARTICLE 3119516 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3119516) <br/> | <br/> |
+|13 octobre 2015  <br/> |3.2.0  <br/> |[ARTICLE 3097267 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3097267) <br/> | <br/> |
+|11 juin 2015  <br/> |3.1.1  <br/> |[ARTICLE 3048690 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048690) <br/> | <br/> |
+|15 mai 2015  <br/> |3.1.0  <br/> |[ARTICLE 3048681 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048681) <br/> | <br/> |
+|16 avril 2015  <br/> |3.0.6  <br/> |[ARTICLE 3048680 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048680) <br/> | <br/> |
 
 ## <a name="related-topics"></a>Voir aussi
 
