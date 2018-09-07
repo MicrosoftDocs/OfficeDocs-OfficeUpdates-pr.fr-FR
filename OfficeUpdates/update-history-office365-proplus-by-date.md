@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office 365 ProPlus (classées par date)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par date, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: 02c3c000930ee25a98f1a96c0bb27ad12b639bae
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: 59b431cf0379a96d47a6b0d4e07b4b1e991441d2
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839202"
+ms.locfileid: "23848372"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -33,34 +33,32 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 |**Année**|**Date de sortie**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
 |2018|5 septembre   |[**Version 1808 (Build 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
-||25 juillet   |[Version 1807 (Build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
-|2018|10 juillet   |[Version 1806 (Build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Version 1803 (Build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Version 1803 (Build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Version 1708 (Build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
-|2018|14 août   |**[Version 1807 (Build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[Version 1803 (Build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Version 1803 (Build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Version 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018|14 août   |[Version 1807 (Build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|**[Version 1803 (build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Version 1803 (build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Version 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||25 juillet   |[Version 1807 (Build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||17 juillet   |[Version 1806 (Build 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
-||10 juillet   |[Version 1806 (Build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Version 1803 (Build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Version 1803 (Build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Version 1708 (Build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
-||25 juin   |[Version 1806 (Build 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
-||13 juin   |[Version 1805 (Build 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
-||12 juin   |[Version 1805 (Build 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[Version 1803 (Build 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[Version 1708 (Build 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Version 1705 (Build 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
-||24 mai   |[Version 1805 (Build 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
-||23 mai   |[Version 1805 (Build 9330.2078)](monthly-channel-2018.md#version-1805-may-23)  |  |  |
-||18 mai   |  |[Version 1803 (Build 9126.2210)](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
-||14 mai   |[Version 1804 (Build 9226.2156)](monthly-channel-2018.md#version-1804-may-14)  |  |  |
-||8 mai   |[Version 1804 (Build 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[Version 1803 (Build 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[Version 1708 (Build 8431.2250)](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [Version 1705 (Build 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
-||25 avril   | [Version 1804 (Build 9226.2114)](monthly-channel-2018.md#version-1804-april-25)   |   |   |
-||11 avril   | [Version 1803 (Build 9126.2152)](monthly-channel-2018.md#version-1803-april-11)   |   |   |
-||10 avril   |   | [Version 1803 (Build 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [Version 1708 (Build 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [Version 1705 (Build 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
-||27 mars   | [Version 1803 (Build 9126.2116)](monthly-channel-2018.md#version-1803-march-27)   |   |   |
+||10 juillet   |[Version 1806 (build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Version 1803 (Build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Version 1803 (Build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Version 1708 (Build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+||25 juin   |[Version 1806 (build 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
+||13 juin   |[Version 1805 (build 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
+||12 juin   |[Version 1805 (build 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[Version 1803 (build 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[Version 1708 (build 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Version 1705 (Build 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
+||24 mai   |[Version 1805 (build 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
+||23 mai   |[Version 1805 (build 9330.2078)](monthly-channel-2018.md#version-1805-may-23)  |  |  |
+||18 mai   |  |[Version 1803 (build 9126.2210)](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
+||14 mai   |[Version 1804 (build 9226.2156)](monthly-channel-2018.md#version-1804-may-14)  |  |  |
+||8 mai   |[Version 1804 (build 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[Version 1803 (build 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[Version 1708 (build 8431.2250)](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [Version 1705 (Build 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
+||25 avril   | [Version 1804 (build 9226.2114)](monthly-channel-2018.md#version-1804-april-25)   |   |   |
+||11 avril   | [Version 1803 (build 9126.2152)](monthly-channel-2018.md#version-1803-april-11)   |   |   |
+||10 avril   |   | [Version 1803 (build 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [Version 1708 (Build 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [Version 1705 (build 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
+||27 mars   | [Version 1803 (build 9126.2116)](monthly-channel-2018.md#version-1803-march-27)   |   |   |
 ||20 mars   |   | [Version 1803 (Build 9126.2098)](semi-annual-channel-targeted-2018.md#version-1803-march-20)   |   |
-||13 mars  | [Version 1802 (Build 9029.2253)](monthly-channel-2018.md#version-1802-march-13)   | [Version 1803 (Build 9126.2072)](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [Version 1708 (Build 8431.2236)](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [Version 1705 (Build 8201.2265)](semi-annual-channel-2018.md#version-1705-march-13)   |
-||26 février   | [Version 1802 (Build 9029.2167)](monthly-channel-2018.md#version-1802-february-26)   |   |   |
-||13 février   | [Version 1801 (Build 9001.2171)](monthly-channel-2018.md#version-1801-february-13)   | [Version 1708 (Build 8431.2215)](semi-annual-channel-targeted-2018.md#version-1708-february-13)   | [Version 1708 (Build 8431.2215)](semi-annual-channel-2018.md#version-1708-february-13)  <br/>   [Version 1705 (Build 8201.2258)](semi-annual-channel-2018.md#version-1705-february-13)   |
-||7 février   | [Version 1801 (Build 9001.2144)](monthly-channel-2018.md#version-1801-february-7)   |   |   |
-||1er février   | [Version 1801 (Build 9001.2138)](monthly-channel-2018.md#version-1801-february-1)   |   |   |
-||30 janvier   | [Version 1712 (Build 8827.2179)](monthly-channel-2018.md#version-1712-january-30)  |   |   |
-||17 janvier   | [Version 1712 (Build 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
-||9 janvier   | [Version 1711 (Build 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [Version 1708 (Build 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [Version 1708 (Build 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [Version 1705 (Build 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
-||2 janvier   | [Version 1711 (Build 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
+||13 mars  | [Version 1802 (build 9029.2253)](monthly-channel-2018.md#version-1802-march-13)   | [Version 1803 (build 9126.2072)](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [Version 1708 (build 8431.2236)](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [Version 1705 (Build 8201.2265)](semi-annual-channel-2018.md#version-1705-march-13)   |
+||26 février   | [Version 1802 (build 9029.2167)](monthly-channel-2018.md#version-1802-february-26)   |   |   |
+||13 février   | [Version 1801 (build 9001.2171)](monthly-channel-2018.md#version-1801-february-13)   | [Version 1708 (build 8431.2215)](semi-annual-channel-targeted-2018.md#version-1708-february-13)   | [Version 1708 (Build 8431.2215)](semi-annual-channel-2018.md#version-1708-february-13)  <br/>   [Version 1705 (Build 8201.2258)](semi-annual-channel-2018.md#version-1705-february-13)   |
+||7 février   | [Version 1801 (build 9001.2144)](monthly-channel-2018.md#version-1801-february-7)   |   |   |
+||1er février   | [Version 1801 (build 9001.2138)](monthly-channel-2018.md#version-1801-february-1)   |   |   |
+||30 janvier   | [Version 1712 (build 8827.2179)](monthly-channel-2018.md#version-1712-january-30)  |   |   |
+||17 janvier   | [Version 1712 (build 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
+||9 janvier   | [Version 1711 (build 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [Version 1708 (Build 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [Version 1708 (Build 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [Version 1705 (Build 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
+||2 janvier   | [Version 1711 (build 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
 |2017|12 décembre  <br/> | [Version 1711 (Build 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [Version 1708 (Build 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [Version 1705 (Build 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [Version 1701 (Build 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
 ||6 décembre  <br/> | [Version 1711 (Build 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |
 ||27 novembre  <br/> | [Version 1710 (Build 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
@@ -159,5 +157,5 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 - [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Si vous avez besoin d’aide pour un problème avec l’utilisation d’Office, nous vous recommandons de publier votre question sur le [Forum des réponses de Microsoft](https://answers.microsoft.com/) ou de la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez aussi contacter le [support](https://support.microsoft.com/contactus).
+> Si vous avez besoin d’aide concernant l’utilisation d’Office, nous vous recommandons de publier votre question sur le [Forum des réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez aussi contacter le [support](https://support.microsoft.com/contactus).
 
