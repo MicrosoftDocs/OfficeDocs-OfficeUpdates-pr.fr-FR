@@ -3,19 +3,19 @@ title: Informations sur les versions pour les mises à jour vers Office 365 ProP
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/18
+ms.date: 9/6/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions d’Office 365 ProPlus pour chaque canal de mise à jour et des liens vers des notes de publication et l’historique des mises à jour
-ms.openlocfilehash: 034f9eda427a72c0aad3020cf511b11a40fcc899
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: 38a10d5afa1996ca9abd1680a76395c5d8c75030
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839222"
+ms.locfileid: "23848352"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informations sur les versions pour les mises à jour vers Office 365 ProPlus
 
@@ -27,7 +27,6 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu'à**|
 |:-----|:-----|:-----|:-----|:-----|
 |Mensuel  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 5 septembre 2018  <br/> |Publication de la version 1809 <br/>|
-|Mensuel  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 14 août 2018  <br/> | Publication de la version 1808 <br/>|
 |Semi-annuel (ciblé)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 14 août 2018  <br/> | 11 septembre 2018 <br/>|
 |Semi-annuel <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 14 août 2018  <br/> | 10 septembre 2019 <br/>|
 |Semi-annuel <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 14 août 2018  <br/> | 12 mars 2019 <br/>|
@@ -70,4 +69,4 @@ Pour plus d’informations sur les mises à jour vers Office pour Mac, qui est i
 - [Guide pour les mises à jour de sécurité Microsoft](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> Si vous avez besoin d’aide pour un problème avec l’utilisation d’Office, nous vous recommandons de publier votre question sur le [Forum des réponses de Microsoft](https://answers.microsoft.com/) ou de la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez aussi contacter le [support](https://support.microsoft.com/contactus).
+> Si vous avez besoin d’aide concernant l’utilisation d’Office, nous vous recommandons de publier votre question sur le [Forum des réponses de Microsoft](https://answers.microsoft.com/) ou de la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez aussi contacter le [support](https://support.microsoft.com/contactus).
