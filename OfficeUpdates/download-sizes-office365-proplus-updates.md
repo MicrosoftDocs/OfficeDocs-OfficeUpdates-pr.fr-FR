@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
 ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23848382"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954820"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -51,7 +51,7 @@ La version actuelle est la version 1808 (build 10730.20088).
 
 ### <a name="monthly-channel"></a>Canal mensuel
 
-La version la plus à jour est la version 1807 (build 10325.20118).
+La version la plus récente est la version 1807 (build 10325.20118).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -61,7 +61,7 @@ La version la plus à jour est la version 1807 (build 10325.20118).
   
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
 
-La version la plus à jour est la version 1803 (build 9126.2275).
+La version la plus récente est la version 1803 (build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -71,7 +71,7 @@ La version la plus à jour est la version 1803 (build 9126.2275).
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
-La version la plus à jour est la version 1803 (build 9126.2275).
+La version la plus récente est la version 1803 (build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -167,7 +167,7 @@ La version actuelle est la version 1708 (build 8431.2270).
    
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
-La version la plus à jour est la version 1803 (build 9126.2275).
+La version la plus récente est la version 1803 (build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -295,10 +295,8 @@ La version actuelle est la version 1708 (build 8431.2242).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1708 (build 8431.2236)  <br/> |13 mars 2018  <br/> |
-54  <br/> |
-|Version 1708 (build 8431.2215)  <br/> |13 février 2018  <br/> |
-54  <br/> |
+|Version 1708 (build 8431.2236)  <br/> |13 mars 2018  <br/> |54  <br/> |
+|Version 1708 (build 8431.2215)  <br/> |13 février 2018  <br/> |54  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
@@ -349,8 +347,7 @@ La version actuelle est la version 1708 (build 8431.2236).
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 1708 (build 8431.2215)  <br/> |13 février 2018  <br/> |50  <br/> |
-|Version 1708 (build 8431.2153)  <br/> |9 janvier 2018  <br/> |
-54  <br/> |
+|Version 1708 (build 8431.2153)  <br/> |9 janvier 2018  <br/> |54  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
@@ -437,4 +434,4 @@ La version actuelle est la version 1801 (build 9001.2138).
 - [Historique des mises à jour pour Office 365 ProPlus (répertoriées par version)](update-history-office365-proplus-by-version.md)
 
 > [!NOTE]
-> Si vous avez besoin d’aide dans votre utilisation d’Office, nous vous recommandons de publier votre question sur le [Forum des réponses de Microsoft](https://answers.microsoft.com/) ou sur la [Communauté technique](https://techcommunity.microsoft.com/), ou de contacter le [support](https://support.microsoft.com/contactus).
+> Si vous avez besoin d’aide avec votre utilisation d’Office, nous vous recommandons de publier votre question sur le [Forum des réponses de Microsoft](https://answers.microsoft.com/) ou sur la [Communauté technique](https://techcommunity.microsoft.com/), ou de contacter le [support](https://support.microsoft.com/contactus).
