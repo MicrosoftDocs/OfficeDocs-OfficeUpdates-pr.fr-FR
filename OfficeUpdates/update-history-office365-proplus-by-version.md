@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par version, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: edf3a72274e744f25b4d0994cb6924add115a653
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: a6d3e90fa35f3609b73a4084890f69bd5bf7cc3d
+ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952414"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23965130"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>Historique des mises à jour pour Office 365 ProPlus (répertoriées par version)
  
@@ -35,7 +35,7 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 |1806  <br/> |[10228.20134](monthly-channel-2018.md#version-1806-july-17) (17 juillet 2018) <br/> [10228.20104](monthly-channel-2018.md#version-1806-july-10) (10 juillet 2018) <br/>  <br/> [10228.20080](monthly-channel-2018.md#version-1806-june-25) (25 juin 2018) |  <br/> | <br> |
 |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13) (13 juin 2018) <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12) (12 juin 2018) <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24) (24 mai 2018) <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23) (23 mai 2018) <br/> |  <br/> |  <br/> |
 |1804  <br/> |[9226.2156](monthly-channel-2018.md#version-1804-may-14) (14 mai 2018) <br/> [9226.2126](monthly-channel-2018.md#version-1804-may-8) (8 mai 2018) <br/>  [9226.2114](monthly-channel-2018.md#version-1804-april-25) (25 avril 2018) <br/> |  <br/> |  <br/> |
-|1803  <br/> | [9126.2152](monthly-channel-2018.md#version-1803-april-11) (11 avril 2018)  <br/>  [9126.2116](monthly-channel-2018.md#version-1803-march-27) (27 mars 2018)  <br/> | <br/> [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) (14 août 2018) <br/>  [9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10) (10 juillet 2018) <br/> [9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12) (12 juin 2018) <br/> [9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18) (18 mai 2018) <br/> [9126.2191](semi-annual-channel-targeted-2018.md#version-1803-may-8) (8 mai 2018) <br/>  [9126.2152](semi-annual-channel-targeted-2018.md#version-1803-april-10) (10 avril 2018)  <br/>  [9126.2098](semi-annual-channel-targeted-2018.md#version-1803-march-20) (20 mars 2018)  <br/>  [9126.2072](semi-annual-channel-targeted-2018.md#version-1803-march-13) (13 mars 2018)  <br/> |**[9126.2282](semi-annual-channel-2018.md#version-1803-september-11)(11 september 2018)**<br/> [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) (14 août 2018) <br/> [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) (10 juillet 2018)  <br/> |
+|1803  <br/> | [9126.2152](monthly-channel-2018.md#version-1803-april-11) (11 avril 2018)  <br/>  [9126.2116](monthly-channel-2018.md#version-1803-march-27) (27 mars 2018)  <br/> |  [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) (14 août 2018) <br/>  [9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10) (10 juillet 2018) <br/> [9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12) (12 juin 2018) <br/> [9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18) (18 mai 2018) <br/> [9126.2191](semi-annual-channel-targeted-2018.md#version-1803-may-8) (8 mai 2018) <br/>  [9126.2152](semi-annual-channel-targeted-2018.md#version-1803-april-10) (10 avril 2018)  <br/>  [9126.2098](semi-annual-channel-targeted-2018.md#version-1803-march-20) (20 mars 2018)  <br/>  [9126.2072](semi-annual-channel-targeted-2018.md#version-1803-march-13) (13 mars 2018)  <br/> |**[9126.2282](semi-annual-channel-2018.md#version-1803-september-11)(11 september 2018)**<br/> [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) (14 août 2018) <br/> [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) (10 juillet 2018)  <br/> |
 |1802  <br/> | [9029.2253](monthly-channel-2018.md#version-1802-march-13) (13 mars 2018)  <br/>  [9029.2167](monthly-channel-2018.md#version-1802-february-26) (26 février 2018)  <br/> |  <br/> |  <br/> |
 |1801  <br/> | [9001.2171](monthly-channel-2018.md#version-1801-february-13) (13 février 2018)  <br/>  [9001.2144](monthly-channel-2018.md#version-1801-february-7) (7 février 2018)  <br/>  [9001.2138](monthly-channel-2018.md#version-1801-february-1) (1er février 2018)  <br/> |  <br/> |  <br/> |
 |1712  <br/> | [8827.2179](monthly-channel-2018.md#version-1712-january-30) (30 janvier 2018)  <br/>  [8827.2148](monthly-channel-2018.md#version-1712-january-17) (17 janvier 2018)  <br/> |  <br/> |  <br/> |

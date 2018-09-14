@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
+ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954820"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23965140"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -44,8 +44,8 @@ La version actuelle est la version 1808 (build 10730.20088).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1807 (Build 10325.20118)  <br/> |14 août 2018  <br/> |231  <br/> |
-|Version 1807 (Build 10325.20082)  <br/> |25 juillet 2018  <br/> |237  <br/> |
+|Version 1807 (build 10325.20118)  <br/> |14 août 2018  <br/> |231  <br/> |
+|Version 1807 (build 10325.20082)  <br/> |25 juillet 2018  <br/> |237  <br/> |
 
   ## <a name="august-14-2018"></a>14 août 2018
 
@@ -55,8 +55,8 @@ La version la plus récente est la version 1807 (build 10325.20118).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1807 (Build 10325.20082)  <br/> |25 juillet 2018  <br/> |82  <br/> |
-|Version 1807 (Build 10228.20134)  <br/> |17 juillet 2018  <br/> |183  <br/> |
+|Version 1807 (build 10325.20082)  <br/> |25 juillet 2018  <br/> |82  <br/> |
+|Version 1807 (build 10228.20134)  <br/> |17 juillet 2018  <br/> |183  <br/> |
 
   
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
@@ -65,7 +65,7 @@ La version la plus récente est la version 1803 (build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1803 (Build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
+|Version 1803 (build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
 |Version 1708 (build 8431.2270)  <br/> |12 juin 2018  <br/> |279  <br/> |
 
   
@@ -75,7 +75,7 @@ La version la plus récente est la version 1803 (build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1803 (Build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
+|Version 1803 (build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
 |Version 1803 (build 9126.2227)  <br/> |12 juin 2018  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>25 juillet 2018
@@ -101,8 +101,9 @@ La version actuelle est la version 1806 (build 10228.20104).
 |Version 1805 (build 9330.2124)  <br/> |13 juin 2018  <br/> |149  <br/> |
 |Version 1805 (build 9330.2118)  <br/> |12 juin 2018  <br/> |401  <br/> |
 |Version 1805 (build 9330.2087)  <br/> |24 mai 2018  <br/> |150  <br/> |
-
-La version la plus à jour est la version 1803 (build 9126.2259).
+  
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+La version actuelle est la version 1803 (build 9126.2259).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -172,10 +173,10 @@ La version la plus récente est la version 1803 (build 9126.2275).
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 1708 (build 8431.2227)  <br/> |12 juin 2018  <br/> |94  <br/> |
-|Version 1708 (Build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
+|Version 1708 (build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
 |Version 1708 (build 8431.2270)  <br/> |12 juin 2018  <br/> |279  <br/> |
 
-La version actuelle est la version 1803 (build 9126.2227).
+La version la plus récente est la version 1803 (build 9126.2227).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
