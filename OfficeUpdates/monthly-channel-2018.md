@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 03c65ea79f989e380f4c51dc1bcade10ee609e01
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952424"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991932"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -33,16 +33,16 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Vulnérabilité de divulgation d’informations Microsoft Excel
 
 ### <a name="word-security-updates"></a>Word : mises à jour de sécurité
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430) : Vulnérabilité d’exécution de code à distance Microsoft Word
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430) : Vulnérabilité d’exécution de code à distance Word PDF
 
 ### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité
--   CVE-2018-8332: Vulnérabilité d’exécution de code à distance Win32k Graphics[ ](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)
+-   |||UNTRANSLATED_CONTENT_START|||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k Graphics Remote Code Execution Vulnerability|||UNTRANSLATED_CONTENT_END|||
 
 
 ## <a name="version-1808-september-5"></a>Version 1808 : 5 septembre
 *Version 1808 (build 10730.20088)*
 
-### <a name="access-feature-updates"></a>Access : mises à jour des fonctionnalités
+### <a name="access-feature-updates"></a>Access : mises à jour de fonctionnalités
  - **Actualiser, relier ou supprimer des tables liées** C’est dans le Gestionnaire de tables liées mis à jour que se déroule la gestion de toutes les sources de données et des tables liées. [En savoir plus](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalités
@@ -102,7 +102,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalités
  - **Suivi des modifications avec IRM :** vous pouvez désormais utiliser la fonctionnalité de suivi des modifications dans des documents protégés par IRM sans que le droit d’utilisation Contrôle total soit nécessaire.
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : mises à jour non relatives à la sécurité
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
  - Résolution d’un ensemble de problèmes qui empêchaient certains utilisateurs d’ouvrir les e-mails et les documents protégés par IRM partagés avec eux par des personnes d’autres organisations.
 
 ## <a name="version-1806-july-17"></a>Version 1806 : 17 juillet
@@ -127,16 +127,16 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1806-june-25"></a>Version 1806 : 25 juin
 *Version 1806 (build 10228.20080)*
 
-### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalités
- - Amélioration de la modification des cellules et de la barre de formule : Vous pouvez maintenant utiliser CTRL + A pour sélectionner du texte dans une cellule ou dans la barre de formule.** ** La prise en charge des émoticônes et autres caractères complexes est également améliorée.[En savoir plus](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalité
+ - **Amélioration de la modification des cellules et de la barre de formule :** Vous pouvez maintenant utiliser CTRL+A pour sélectionner du texte dans une cellule ou dans la barre de formule. La prise en charge des émoticônes et autres caractères complexes est également améliorée.[En savoir plus](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Prise en charge améliorée des SVG :** Vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
  - **Périodicité par défaut :** dans la boîte de dialogue Périodicité du rendez-vous (sous « Plage de périodicité »), « Fin prévue le » est le paramètre par défaut (au lieu de « Aucune date de fin ») et le premier paramètre répertorié, et une date d’expiration par défaut est définie.
- - **Améliorations apportées au vérificateur d’accessibilité :** le vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos messages plus accessibles. [En savoir plus](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **Améliorations apportées au vérificateur d’accessibilité :** Le vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos messages plus accessibles. [En savoir plus](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint : mises à jour de fonctionnalités
- - **Prise en charge améliorée des SVG :** Vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+### <a name="powerpoint-feature-updates"></a>PowerPoint : mises à jour de fonctionnalité
+ - **Prise en charge améliorée des SVG :** vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **Donnez un titre à vos diapositives avec un stylet :** utilisez votre stylet pour écrire un titre, puis regardez PowerPoint le convertir en texte. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 
@@ -160,7 +160,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1805 (build 9330.2124)*
 
 ### <a name="outlook-non-security-updates"></a>Mises à jour Outlook non relatives à la sécurité
- - Résolution d’un problème lorsque l’appel par une application de l’API MAPI provoquait parfois un blocage.
+ - Résolution d’un problème : l’appel par une application de l’API MAPI provoquait parfois un blocage.
 
 
 
@@ -196,10 +196,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
  - **Visualisez des données avec de nouveaux graphiques :** faites votre choix parmi 11 graphiques et ajoutez-en un à vos formulaires et rapports pour mieux visualiser les données et prendre des décisions en connaissance de cause. [En savoir plus](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
-### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalités
- - Discutez avec vos co-auteurs pendant la modification : collaborez plus efficacement en discutant avec vos co-auteurs, sans quitter Excel.** ** Notez que cette fonctionnalité n’est pas disponible dans certaines régions.[En savoir plus](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalité
+ - **Discutez avec vos co-auteurs pendant la modification :** Collaborez plus efficacement en discutant avec vos co-auteurs, sans quitter Excel. Notez que cette fonctionnalité n’est pas disponible dans certaines régions.[En savoir plus](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalités
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
  - **Saisie mains libres :** utilisez votre voix pour créer des messages électroniques en dictant simplement ce que vous voulez écrire. Vous n’avez pas besoin de taper au clavier. [En savoir plus](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Affichez trois fuseaux horaires :** vous devez planifier une réunion sur plusieurs fuseaux horaires ? Ajoutez plusieurs fuseaux horaires à votre calendrier pour voir facilement la disponibilité des participants et choisissez un horaire qui convient à tout le monde. [En savoir plus](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **Partage de calendriers simplifié :** le partage de vos calendriers est plus simple et les calendriers partagés à partir de la version de bureau d’Outlook sont désormais disponibles dans Outlook Mobile également. [En savoir plus](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
@@ -256,7 +256,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 -   **Écoutez vos messages électroniques :** Outlook peut lire vos messages électroniques à haute voix et mettre en surbrillance le texte à mesure qu’il est lu. [En savoir plus](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **Ne ratez aucun rappel :** configurez les rappels de sorte qu’ils s’affichent dans une fenêtre contextuelle par-dessus les fenêtres sur lesquelles vous travaillez. Sinon, Outlook clignotera dans la barre des tâches pour attirer votre attention.[En savoir plus](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **Ne ratez aucun rappel :** Configurez les rappels de sorte qu’ils s’affichent dans une fenêtre contextuelle par-dessus les fenêtres sur lesquelles vous travaillez. Sinon, Outlook clignotera dans la barre des tâches pour attirer votre attention.[En savoir plus](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marquez les éléments supprimés comme lus :** vous pouvez à présent définir les messages que vous supprimez comme lus. Pour ce faire, accédez à Fichier \> Options \> Courrier \> Autre.
 -   **Option de chiffrement :** les utilisateurs de chiffrement de messages Office 365 peuvent chiffrer un message et l’envoyer à n’importe quel destinataire, qu’il soit situé à l’intérieur ou à l’extérieur de leur organisation. L’option de chiffrement apparaît sous Options \> Autorisation lors de la création d’un message. [En savoir plus](https://aka.ms/omeoverview)
 
@@ -292,15 +292,15 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950) : Vulnérabilité de divulgation d’informations Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030) : Vulnérabilité d’exécution de code à distance Microsoft Office
-
+-   **Contrôles de Flash, Silverlight et Shockwave bloqués à partir de l’activation d’Office pour des raisons de sécurité :** Pour des raisons de sécurité, les nouvelles versions de Microsoft Office pour Office 365 sur Windows bloquent l’activation des contrôles Flash, Silverlight et Shockwave.  En savoir plus [ici](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) et [ici](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="version-1803-march-27"></a>Version 1803 : 27 mars
 *Version 1803 (build 9126.2116)*
 
-### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalités
+### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalité
 -   **Microsoft Translator :** traduisez des mots, des expressions ou des phrases dans une autre langue avec Microsoft Translator. Vous pouvez le faire à partir de l’onglet Révision du ruban.
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : parfois, l’impression rapide d’un classeur Excel joint à un courrier électronique Outlook ne fonctionnait pas.
 -   Résolution d’un problème : lorsque l’utilisateur cliquait sur un lien hypertexte, Excel se bloquait parfois.
 -   Résolution d’un problème : l’utilisation des fonctions de cube provoquait le blocage d’Excel.
@@ -380,7 +380,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1801-february-7"></a>Version 1801 : 7 février
 *Version 1801 (build 9001.2144)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : si votre langue d’édition est le japonais, le chinois ou le coréen, Excel peut se figer lorsque vous essayez de choisir une nouvelle police dans l’onglet Accueil ou en cours d’édition.
 
 
@@ -404,7 +404,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1712-january-30"></a>Version 1712 : 30 janvier
 *Version 1712 (build 8827.2179)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : les barres de défilement étaient manquantes lorsqu’un classeur était ouvert et qu’Excel était réduit.
 
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
@@ -414,11 +414,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1712-january-17"></a>Version 1712 : 17 janvier
 *Version 1712 (build 8827.2148)*
 
-### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalités
+### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalité
 -   **Conversion d’icônes SVG en formes :** transformez toutes les icônes et les images SVG en formes Office afin que vous puissiez modifier leur couleur, taille ou texture.
 -   **Désélection de cellules :** effectuez des sélections dans votre feuille de calcul et désélectionnez les cellules sur lesquelles vous avez cliqué accidentellement sans avoir à recommencer.
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : l’ouverture de plusieurs classeurs en double-cliquant sur les noms de fichier dans l’Explorateur de fichiers entraînait l’échec des références de classeur.
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
@@ -477,7 +477,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1711-january-2"></a>Version 1711 : 2 janvier
 *Version 1711 (build 8730.2165)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : la création programmatique d’un tableau croisé dynamique suivie par une actualisation programmatique entraînait le blocage d’Excel.
 -   Résolution d’un problème : l’appel programmatique de Workbook.Open() pouvait entraîner le blocage d’Excel.
 
