@@ -3,7 +3,7 @@ title: Mises à jour de Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
-ms.openlocfilehash: b2aace5f2936b9adc546067940e065433d8a49c1
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: a855804aeb3f9ffc07bf2dcf85a74239123f4738
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520516"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954790"
 ---
 # <a name="project-server-updates"></a>Mises à jour de Project Server
 
@@ -30,6 +30,7 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
   
 |**Date de sortie**|**Numéro KB**|
 |:-----|:-----|:-----|
+|Septembre 2018  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |Août 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |Juillet 2018  <br/> |[Article 4022240 de la Base de connaissances](https://support.microsoft.com/kb/4022240) <br/>|
 |Juin 2018  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
@@ -59,7 +60,31 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 |Avril 2016  <br/> |[KB3114936](https://support.microsoft.com/kb/3114936) <br/> |
 |Mars 2016  <br/> |[KB3114823](https://support.microsoft.com/kb/3114823) <br/> |
 |Février 2016  <br/> |[KB3114723](https://support.microsoft.com/kb/3114723) <br/> |
-|Janvier 2016  <br/> |[KB3114493](https://support.microsoft.com/kb/3114493) <br/> |
+|Janvier 2016  <br/> |[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KB3114493](https://support.microsoft.com/kb/3114493) <br/> |
 |Décembre 2015  <br/> |[KB3114341](https://support.microsoft.com/kb/3114341) <br/> |
 |Novembre 2015  <br/>  |[KB3101369](https://support.microsoft.com/kb/3101369) <br/> |
 |Octobre 2015  <br/> |[KB3085489](https://support.microsoft.com/kb/3085489) <br/> |
@@ -79,6 +104,7 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 
 |**Date de sortie**|**Numéro KB**|
 |:-----|:-----|:-----|
+|Septembre 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |Août 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |Juillet 2018  <br/>  |[Article 4032219 de la Base de connaissances](https://support.microsoft.com/kb/4032219) <br/> |
 |Juin 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
