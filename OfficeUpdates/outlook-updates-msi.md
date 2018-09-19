@@ -3,19 +3,19 @@ title: Dernières mises à jour pour les versions d’Outlook qui utilisent Wind
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Outlook 2016, Outlook 2013 et Outlook 2010
-ms.openlocfilehash: 5f11b7c8fa3c653c414720582c75cbaf733e1e12
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 2e8c901b34b9a3e432efcbe91100210914af8227
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520496"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954770"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Outlook qui utilisent Windows Installer (MSI)
 
@@ -44,7 +44,7 @@ La compatibilité d’Outlook avec Office 365 et votre environnement local dépe
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU d’août 2018 <br/>[KB4032235](https://support.microsoft.com/en-us/help/4032235) <br/><br/> PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de septembre 2018 <br/>[KB4092462](https://support.microsoft.com/en-us/help/4092462) <br/><br/> PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Mises à jour d’Outlook 2013
 

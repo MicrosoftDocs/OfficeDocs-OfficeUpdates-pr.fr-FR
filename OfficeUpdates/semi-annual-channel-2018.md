@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: f7d33739981dcbe14a9a940ea09c93ba9e9a46fc
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f1f0e3b40a49db9d2c3b66c7d07fab2fb864902b
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520656"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952444"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notes de publication pour les publications du Canal semi-annuel en 2018
 
@@ -24,52 +24,82 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
-> - Le canal semi-annuel était appelé canal différé avant janvier 2018.
+> - Le Canal semi-annuel était nommé Canal différé avant janvier 2018.
 
-## <a name="version-1803-august-14"></a>Version 1803 : 14 août
-*Version 1803 (build 9126.2275)*
+## <a name="version-1803-september-11"></a>Version 1803 : Septembre 11
+*Version 1803 (Build 9126.2282)*
 
-### <a name="access-security-updates"></a>Access : mises à jour de sécurité
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312) : vulnérabilité d’exécution de code à distance Microsoft Access « Use-After-Free »
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331) : Vulnérabilité d’exécution de code à distance Microsoft Excel
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Vulnérabilité de divulgation d’informations Microsoft Excel
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375) : vulnérabilité d’exécution de code à distance Microsoft Excel 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379) : vulnérabilité d’exécution de code à distance Microsoft Excel 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382) : vulnérabilité de divulgation d’informations Microsoft Excel 
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430) : Vulnérabilité d’exécution de code à distance Word PDF
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021) : mise à jour de protection fiable pour Microsoft Office 
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Vulnérabilité d’exécution de code à distance Win32k Graphics
 
-### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité
+
+## <a name="version-1708-september-11"></a>Version 1708 : Septembre 11
+*Version 1708 (Build 8431.2309)*
+
+*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1803, build 16.0.9126.2282). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331) : Vulnérabilité d’exécution de code à distance Microsoft Excel
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Vulnérabilité de divulgation d’informations Microsoft Excel
+
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430) : Vulnérabilité d’exécution de code à distance Word PDF
+
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Vulnérabilité d’exécution de code à distance Win32k Graphics
+
+
+## <a name="version-1803-august-14"></a>Version 1803 : 14 août
+*Version 1803 (Build 9126.2275)*
+
+### <a name="access-security-updates"></a>Access : Mises à jour de sécurité
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312) : Vulnérabilité « Use-After-Free » d’exécution de code à distance Microsoft Access
+
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Vulnérabilité d’exécution de code à distance Microsoft Excel 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379) : vulnérabilité d’exécution de code à distance Microsoft Excel 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Vulnérabilité de divulgation d’informations Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Mise à jour de protection fiable pour Microsoft Office 
+
+### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378) : vulnérabilité de divulgation d’informations Microsoft Office 
 
 
-## <a name="version-1708-august-14"></a>Version 1708 : 14 août
+## <a name="version-1708-august-14"></a>Version 1708 : 14 août
 *Version 1708 (Build 8431.2299)*
 
 *Il s’agit de la version du canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du canal semi-annuel est désormais disponible (version 1803, build 16.0.9126.2275). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="access-security-updates"></a>Access : mises à jour de sécurité
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312) : vulnérabilité d’exécution de code à distance Microsoft Access « Use-After-Free »
+### <a name="access-security-updates"></a>Access : mises à jour de sécurité
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312) : Vulnérabilité « Use-After-Free » d’exécution de code à distance Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375) : vulnérabilité d’exécution de code à distance Microsoft Excel 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379) : vulnérabilité d’exécution de code à distance Microsoft Excel 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382) : vulnérabilité de divulgation d’informations Microsoft Excel 
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Vulnérabilité d’exécution de code à distance Microsoft Excel 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379) : vulnérabilité d’exécution de code à distance Microsoft Excel 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Vulnérabilité de divulgation d’informations Microsoft Excel 
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021) : mise à jour de protection fiable pour Microsoft Office 
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Mise à jour de protection fiable pour Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378) : vulnérabilité de divulgation d’informations Microsoft Office 
 
 
 ## <a name="version-1803-july-10"></a>Version 1803 : 10 juillet
 *Version 1803 (build 9126.2259)*
 
-### <a name="access-security-updates"></a>Access : mises à jour de sécurité
+### <a name="access-security-updates"></a>Access : mises à jour de sécurité
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903) : Vulnérabilité d’exécution de code à distance Microsoft Access
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312) : vulnérabilité d’exécution de code à distance Microsoft Access « Use-After-Free » 
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312) : vulnérabilité d’exécution de code à distance Microsoft Access « Use-After-Free » 
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : l’ouverture d’une application d’exécution Access (fichier .accde) générait un message d’erreur de type « Le format de cette base de données est inconnu. » et l’application ne s’ouvrait pas.
@@ -90,7 +120,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Emplacements des fichiers par compte :** lors de l’ouverture ou de l’enregistrement d’un fichier, la liste des emplacements est organisée selon le compte qui lui est associé.
 -   **Personnalisation du stylet :** choisissez un jeu personnel de stylets et de surligneurs pour l’entrée manuscrite. Votre jeu personnalisé est disponible sur tous vos ordinateurs Windows.
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnérabilité de corruption de mémoire de Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884) : Vulnérabilité de corruption de mémoire de Microsoft Office
@@ -147,7 +177,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Boîte de réception Prioritaire :** la boîte de réception est divisée en deux onglets : Prioritaire et Autre. Les messages sont triés selon le contenu du message et les personnes avec qui vous interagissez le plus souvent. [En savoir plus](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
 -   **Accéder rapidement aux groupes les plus utilisés :** les groupes avec lesquels vous êtes le plus susceptible d’interagir maintenant sont affichés en haut de la liste sous Groupes dans le volet Dossiers.
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939) : Vulnérabilité de divulgation d’informations Microsoft Office
 -   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Vulnérabilité d’exécution de code à distance Microsoft Outlook
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Vulnérabilité d’exécution de code à distance Microsoft Outlook
@@ -351,7 +381,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157) : Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158) : Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281) : Vulnérabilité d’exécution de code à distance Microsoft Office
--   [ADV180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003) : mise à jour de protection fiable pour Microsoft Office
+-   [ADV180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003) : mise à jour de protection fiable pour Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : lors du déploiement de mises à jour à l’aide de System Center Configuration Manager sur un client où des applications Office sont en cours d’exécution, la mise à jour n’était pas appliquée après le redémarrage de l’appareil pendant l’exécution des applications Office.
@@ -369,26 +399,26 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1708-july-10"></a>Version 1708 : 10 juillet
 *Version 1708 (build 8431.2280)*
 
-*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible,  (version 1803, build 9126.2259). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible, (version 1803, build 9126.2259). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="access-security-updates"></a>Access : mises à jour de sécurité
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312) : vulnérabilité d’exécution de code à distance Microsoft Access « Use-After-Free »
+### <a name="access-security-updates"></a>Access : mises à jour de sécurité
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312) : Vulnérabilité « Use-After-Free » d’exécution de code à distance Microsoft Access
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310) : Vulnérabilité de falsification Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281) : Vulnérabilité d’exécution de code à distance Microsoft Office
 
 
 ## <a name="version-1708-june-12"></a>Version 1708 : 12 juin
 *Version 1708 (build 8431.2270)*
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246) : Vulnérabilité de divulgation d’informations Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244) : Vulnérabilité d’élévation de privilège Microsoft Outlook
 
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
@@ -401,11 +431,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 *Il s’agit de la version du Canal différé disponible depuis septembre 2017. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en juillet 2018. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1708, build 8431.2270). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246) : Vulnérabilité de divulgation d’informations Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244) : Vulnérabilité d’élévation de privilège Microsoft Outlook
 
 
@@ -413,13 +443,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1708-may-8"></a>Version 1708 : 8 mai
 *Version 1708 (build 8431.2250)*
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Vulnérabilité de divulgation d’informations Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Outlook
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
@@ -433,13 +463,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 *Il s’agit de la version du Canal différé disponible depuis septembre 2017. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en juillet 2018. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1708, build 8431.2250). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Vulnérabilité de divulgation d’informations Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Outlook
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
@@ -451,7 +481,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1708-april-10"></a>Version 1708 : 10 avril
 *Version 1708 (build 8431.2242)*
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
@@ -469,7 +499,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 *Il s’agit de la version du Canal différé disponible depuis septembre 2017. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en juillet 2018. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1708, build 8431.2242). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
@@ -482,10 +512,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1708-march-13"></a>Version 1708 : 13 mars
 *Version 1708 (build 8431.2236)*
 
-### <a name="access-security-updates"></a>Access : mises à jour de sécurité
+### <a name="access-security-updates"></a>Access : mises à jour de sécurité
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903) : Vulnérabilité d’exécution de code à distance Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907) : Contournement de la fonctionnalité de sécurité Microsoft Office Excel
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
@@ -498,10 +528,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 *Il s’agit de la version du Canal différé disponible depuis septembre 2017. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en juillet 2018. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1708, build 8431.2236). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="access-security-updates"></a>Access : mises à jour de sécurité
+### <a name="access-security-updates"></a>Access : mises à jour de sécurité
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903) : Vulnérabilité d’exécution de code à distance Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907) : Contournement de la fonctionnalité de sécurité Microsoft Office Excel
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
@@ -515,10 +545,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : lorsque vous utilisez un formulaire à plusieurs éléments, l’ajustement de la position de la roulette de la souris ou de la barre de défilement ne modifie pas les éléments affichés dans le formulaire.
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850) : Vulnérabilité d’élévation de privilège Microsoft Outlook
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Vulnérabilité de corruption de mémoire de Microsoft Outlook
 
@@ -533,10 +563,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 *Il s’agit de la version du Canal différé disponible depuis septembre 2017. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en juillet 2018. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1708, build 8431.2215). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850) : Vulnérabilité d’élévation de privilège Microsoft Outlook
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Vulnérabilité de corruption de mémoire de Microsoft Outlook
 
@@ -575,7 +605,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Modifications des fichiers partagés :** affichez l’auteur des modifications dans les classeurs partagés et restaurez des versions antérieures. [Plus d’informations](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 -   **Sélection par lasso avec un bouton de stylet :** utilisez les boutons de stylet numérique pris en charge pour sélectionner par lasso l’entrée manuscrite sans accéder au ruban.
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631) : Vulnérabilité de corruption de mémoire de Microsoft Office
@@ -626,7 +656,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Accès invité à des groupes Office 365 :** collaborez avec des personnes en dehors de l’organisation en leur accordant l’accès à des conversations de groupe, à des fichiers, à des invitations de calendrier et au bloc-notes de groupes. [Plus d’informations](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **Messages appelant une action :** les développeurs peuvent créer des messages afin que les utilisateurs puissent exécuter facilement des actions simples ou rapides directement à partir d’Outlook sans avoir à basculer vers un site web externe ou une application distincte. [Plus d’informations](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office Outlook
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Vulnérabilité de divulgation d’informations Microsoft Office Outlook
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Vulnérabilité de corruption de mémoire de Microsoft Office Outlook
@@ -770,7 +800,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Vulnérabilité d’exécution de code à distance Microsoft Office
--   [ADV180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003) : mise à jour de protection fiable pour Microsoft Office
+-   [Avis 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003) : Mise à jour de protection fiable pour Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Ajoutez la prise en charge de l’authentification unique (SSO) pour les utilisateurs de domaine pour les plans Office 365 Germany où l’identité est fédérée avec Active Directory local.
@@ -799,11 +829,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 *Il s’agit de la version du Canal différé disponible depuis septembre 2017. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en juillet 2018. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1708, build 8431.2153). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [Avis 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021) : Mise à jour de protection fiable pour Microsoft Office
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791) : Vulnérabilité d’exécution de code à distance Microsoft Outlook
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Vulnérabilité d’exécution de code à distance Microsoft Outlook
 
@@ -822,7 +852,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795) : Vulnérabilité d’exécution de code à distance Microsoft Office
--   [ADV180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003) : mise à jour de protection fiable pour Microsoft Office
+-   [Avis 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003) : Mise à jour de protection fiable pour Microsoft Office
 
 > [!NOTE]
 > Si vous avez besoin d’aide pour un problème avec l’utilisation d’Office, nous vous recommandons de publier votre question sur le [Forum des réponses de Microsoft](https://answers.microsoft.com/) ou de la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez aussi contacter le [support](https://support.microsoft.com/contactus).
