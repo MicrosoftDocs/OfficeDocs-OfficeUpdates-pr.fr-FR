@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les informations sur les dernières mises à jour pour Office pour Mac, notamment des liens de téléchargement des packages et un historique des mises à jour.
-ms.openlocfilehash: f8b461a204840d8fab957c8f79364d3ed9a1fb83
-ms.sourcegitcommit: 974fa36131b2fad205b3fc64dcfa526a99b54eb7
+ms.openlocfilehash: 3cfecfaadaa03e8f1177cbcdc8a578a0a6958015
+ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2018
-ms.locfileid: "23981450"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24056133"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historique des mises à jour pour Office pour Mac
 
@@ -29,7 +29,7 @@ Le tableau suivant récapitule les informations sur la version la plus récente 
 16.17 (18090901)  <br/> |11 septembre 2018  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Notes de publication](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - Ces informations s’appliquent également à Office 2016 pour Mac, qui est la version définitive d’Office pour Mac et est disponible sous la forme d’un achat unique dans un point de vente ou via un contrat de licence en volume.
+> - Ces informations ne s’appliquent plus à Office 2016 pour Mac, qui est la version définitive d’Office pour Mac et est disponible sous la forme d’un achat unique dans un point de vente ou via un contrat de licence en volume.  Les versions 16.16 et antérieures peuvent être activées par une license en volume d’Office pour Mac 2016. Toutefois, à partir de la version 16.17, la licence en volume 2016 n’est plus compatible.
 > - Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité incluses dans une version donnée d’Office pour Mac, consultez la page [Notes de publication pour Office pour Mac](release-notes-office-for-mac.md).
 > - Si vous souhaitez accéder en avant-première aux nouvelles versions, rejoignez le programme [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
 
