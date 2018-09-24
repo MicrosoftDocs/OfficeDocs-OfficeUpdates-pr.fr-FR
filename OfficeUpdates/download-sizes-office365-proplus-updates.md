@@ -3,19 +3,19 @@ title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/6/2018
+ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
-ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
+ms.openlocfilehash: a24200136bb968725bb78cc6df179932c8b35eed
+ms.sourcegitcommit: df20f4e7260515436bf69201c1e5e8a60b9b92e2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23965140"
+ms.lasthandoff: 09/21/2018
+ms.locfileid: "24960944"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -36,6 +36,38 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 > - Seules les versions antérieures les plus récentes sont indiquées dans les tableaux. Si vous mettez à jour votre canal à partir d’une version antérieure, votre téléchargement sera plus volumineux.
 > - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum. 
 
+  ## <a name="september-11-2018"></a>11 septembre 2018
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 1808 (Build 10730.20102).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1808 (Build 10730.20088)  <br/> |5 septembre 2018  <br/> |96  <br/> |
+|Version 1807 (Build 10325.20118)  <br/> |14 août 2018  <br/> |239 <br/> |
+|Version 1807 (Build 10325.20082)  <br/> |25 juillet 2018  <br/> |240  <br/> |
+
+  
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+La version la plus récente est la Version 1803 (Build 9126.2282).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1803 (build 9126.2259)  <br/> |10 juillet 2018  <br/> |99  <br/> |
+|Version 1708 (Build 9126.2275)  <br/> |14 août 2018  <br/> |99 <br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
+
+La version la plus récente est la version 1808 (Build 10730.20102).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1803 (Build 9126.2275)  <br/> |14 août 2018  <br/> |289 <br/> |
+|Version 1803 (build 9126.2259)  <br/> |10 juillet 2018  <br/>   |287  <br/>|
+
   ## <a name="september-5-2018"></a>5 septembre 2018
 
 ### <a name="monthly-channel"></a>Canal mensuel
@@ -44,24 +76,24 @@ La version actuelle est la version 1808 (build 10730.20088).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1807 (build 10325.20118)  <br/> |14 août 2018  <br/> |231  <br/> |
-|Version 1807 (build 10325.20082)  <br/> |25 juillet 2018  <br/> |237  <br/> |
+|Version 1807 (Build 10325.20118)  <br/> |14 août 2018  <br/> |231  <br/> |
+|Version 1807 (Build 10325.20082)  <br/> |25 juillet 2018  <br/> |237  <br/> |
 
   ## <a name="august-14-2018"></a>14 août 2018
 
 ### <a name="monthly-channel"></a>Canal mensuel
 
-La version la plus récente est la version 1807 (build 10325.20118).
+La version la plus récente est la version 1807 (Build 10325.20118).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1807 (build 10325.20082)  <br/> |25 juillet 2018  <br/> |82  <br/> |
+|Version 1807 (Build 10325.20082)  <br/> |25 juillet 2018  <br/> |82  <br/> |
 |Version 1807 (build 10228.20134)  <br/> |17 juillet 2018  <br/> |183  <br/> |
 
   
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
 
-La version la plus récente est la version 1803 (build 9126.2275).
+La version la plus récente est la version 1803 (Build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -71,7 +103,7 @@ La version la plus récente est la version 1803 (build 9126.2275).
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
-La version la plus récente est la version 1803 (build 9126.2275).
+La version la plus récente est la version 1803 (Build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -168,15 +200,15 @@ La version actuelle est la version 1708 (build 8431.2270).
    
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
-La version la plus récente est la version 1803 (build 9126.2275).
+La version la plus récente est la version 1803 (Build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1708 (build 8431.2227)  <br/> |12 juin 2018  <br/> |94  <br/> |
-|Version 1708 (build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
+|Version 1708 (Build 8431.2227)  <br/> |12 juin 2018  <br/> |94  <br/> |
+|Version 1708 (Build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
 |Version 1708 (build 8431.2270)  <br/> |12 juin 2018  <br/> |279  <br/> |
 
-La version la plus récente est la version 1803 (build 9126.2227).
+La version actuelle est la version 1803 (build 9126.2227).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
