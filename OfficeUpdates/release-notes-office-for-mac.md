@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 8db9d034e7a95d69e9d0eca05731e57e217f6bcc
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056143"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004451"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -23,11 +23,13 @@ ms.locfileid: "24056143"
 Office pour Mac, qui est fourni avec un abonnement Office 365, est mis à jour régulièrement pour proposer des nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.
   
 Les mises à jour sont disponibles dans la fonctionnalité de mise à jour automatique Microsoft (AutoUpdate). Pour utiliser Microsoft AutoUpdate, démarrez une application Office, telle que Word, puis sélectionnez **Aide** > **Vérifier les mises à jour**. Si vous êtes un administrateur et si vous voulez mettre à jour les ordinateurs de votre organisation avec vos outils de déploiement de logiciels existants, vous pouvez télécharger et déployer les packages de mise à jour pour chaque application.
+
   
 > [!NOTE]
 > - Pour obtenir la liste de toutes les versions d’Office pour Mac et les liens de téléchargement supplémentaires, reportez-vous à l’article relatif à l’[historique des mises à jour pour Office pour Mac](update-history-office-for-mac.md). 
 > - Si vous êtes abonné à Office Insider, consultez les [notes de publication pour les builds Insider Fast d’Office 2016 pour Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
-> - Ces informations ne s’appliquent plus à Office 2016 pour Mac, qui est la version définitive d’Office pour Mac et est disponible sous la forme d’un achat unique dans un point de vente ou via un contrat de licence en volume.  Les versions jusqu’à la 16.16 comprise peuvent être activées par une license en volume d’Office pour Mac 2016. Toutefois, à partir de la version 16.17, la licence en volume 2016 n’est plus compatible.
+> - À compter de la version 16.17 de septembre 2018, ces notes de publication s’appliquent également à Office 2019 pour Mac, qui est une version d’Office pour Mac disponible sous la forme d’un achat unique dans un point de vente ou via un contrat de licence en volume. Toutefois, certaines fonctionnalités répertoriées dans les notes de publication sont disponibles uniquement si vous avez souscrit un abonnement Office 365.
+> - Les notes de publication pour la version 16.16 et versions antérieures s’appliquent également à Office 2016 pour Mac, qui est également une version d’Office pour Mac disponible sous forme d’un achat unique. Les versions 16.16 et antérieures peuvent être activées par une license en volume d’Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou une version ultérieure avec une licence en volume d’Office 2016 pour Mac. 
 > - Les liens de téléchargement sont fournis uniquement pour les versions les plus récentes.
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
@@ -47,7 +49,7 @@ Cette version inclut les mises à jour suivantes.
 |PowerPoint  <br/> |**Retenir leur attention avec les mentions \@ :** Utilisez @mentions dans les commentaires pour informer les collègues que vous avez besoin de leur apport. [En savoir plus](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>** Dessiner avec le mode d’entrée manuscrite :** Utilisez votre souris ou écran tactile et les stylos dans l’onglet Création pour écrire, dessiner et mettre en surbrillance.[](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insertion de modèles 3D pour voir tous les angles :** Insérer facilement un modèle 3D, puis le faire pivoter à 360 degrés. [En savoir plus](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**La police que vous choisissez est la police qu'ils voient :** Incorporez des polices personnalisées dans vos fichiers afin que, où ils qu'ils aillent, leurs polices les suivent. [En savoir plus](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Mise à jour automatique Microsoft (AutoUpdate) 4.3  <br/> |||[Package mise à jour automatique Microsoft (AutoUpdate)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
-|Suite Office  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332) : Vulnérabilité d’exécution de code à distance Microsoft Graphics <br/>||
+|Suite Office  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332) : vulnérabilité d’exécution de code à distance Microsoft Graphics <br/>||
 
 ## <a name="august-2018-release"></a>Version 2018 août
 
