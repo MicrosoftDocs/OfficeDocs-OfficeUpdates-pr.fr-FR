@@ -3,41 +3,41 @@ title: Historique des mises à jour pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/24/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: Fournit aux professionnels de l’informatique les informations sur les dernières mises à jour pour Office pour Mac, notamment des liens de téléchargement des packages et un historique des mises à jour.
-ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
-ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
+description: Fournit aux professionnels de l’informatique les informations sur les dernières mises à jour pour Office pour Mac, notamment des liens de téléchargement des packages, et un historique des mises à jour
+ms.openlocfilehash: b143ab1be848e0efe17709fcce92302e04855c2a
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25004441"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341379"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historique des mises à jour pour Office pour Mac
 
   
-Office pour Mac est fourni avec un abonnement Office 365 et est mis à jour régulièrement pour vous fournir des nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité. Les informations suivantes sont essentiellement destinées aux professionnels de l’informatique qui déploient Office pour Mac auprès des utilisateurs de leur organisation.
+La version d’Office pour Mac qui est fournie avec un abonnement Office 365 est mise à jour régulièrement pour fournir des nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité. Les informations suivantes sont essentiellement destinées aux professionnels de l’informatique qui déploient Office pour Mac auprès des utilisateurs de leur organisation.
 
 Le tableau suivant récapitule les informations sur la version la plus récente d’Office pour Mac.
 
-|**Version actuelle**|**Date de sortie**|**Lien de téléchargement**|**Plus d’informations**|
+|**Version actuelle**|**Date de publication**|**Lien de téléchargement**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
 16.17 (18090901)  <br/> |11 septembre 2018  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Notes de publication](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - À compter de la version 16.17 de septembre 2018, cette information s’applique également à Office 2019 pour Mac, qui est une version d’Office pour Mac disponible sous la forme d’un achat unique dans un point de vente ou via un contrat de licence en volume.
-> - Les informations d’historique de mise à jour pour la version 16.16 et versions antérieures s’appliquent également à Office 2016 pour Mac, qui est également une version d’Office pour Mac disponible sous forme d’un achat unique. Les versions 16.16 et antérieures peuvent être activées par une license en volume d’Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou une version ultérieure avec une licence en volume d’Office 2016 pour Mac.
-> - Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité incluses dans une version donnée d’Office pour Mac, consultez la page [Notes de publication pour Office pour Mac](release-notes-office-for-mac.md).
+> - À compter de la version 16.17 de septembre 2018, cette information s’applique également à Office 2019 pour Mac, qui est une version d’Office pour Mac disponible sous la forme d’un achat unique dans un point de vente ou via un contrat de licence en volume.
+> - Les informations d’historique de mises à jour pour la version 16.16 et les versions antérieures s’appliquent aussi à Office 2016 pour Mac, qui est également une version d’Office pour Mac disponible sous forme d’achat unique. Les anciennes versions, jusqu’à 16.16 incluse, peuvent être activées avec une licence en volume d’Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou ultérieure avec une licence en volume d’Office 2016 pour Mac. Pour plus d’informations sur les versions d’Office 2016 pour Mac à partir de septembre, consultez [Notes de publication pour Office 2016 pour Mac](release-notes-office-2016-mac.md)
+> - Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité incluses dans une version donnée d’Office pour Mac, consultez [Notes de publication pour Office pour Mac](release-notes-office-for-mac.md).
 > - Si vous souhaitez accéder en avant-première aux nouvelles versions, rejoignez le programme [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Packages les plus récents pour Office pour Mac
 
 
-Le tableau suivant répertorie les packages les plus récents pour Office pour Mac et les applications individuelles, telles que Word et Excel. Tous les packages sont uniquement en 64 bits. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version. Le package d’installation est utilisé si l’application n’est pas déjà installée, tandis que le package de mise à jour est utilisé pour mettre à jour une installation existante.
+Le tableau suivant répertorie les packages les plus récents pour Office pour Mac et les applications individuelles, telles que Word et Excel. Tous les packages sont uniquement en 64 bits. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version. Le package d’installation est utilisé si l’application n’est pas déjà installée, tandis que le package de mise à jour est utilisé pour mettre à jour une installation existante.
   
 |**Application**|**Version**|**Liens de téléchargement**|**Code de hachage SHA1 pour le package d’installation**|
 |:-----|:-----|:-----|:-----|
@@ -55,21 +55,21 @@ Le tableau suivant fournit des informations sur les packages les plus récents, 
   
 |**Programme**|**Version**|**Package**|**Code de hachage SHA1**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mise à jour automatique Microsoft (AutoUpdate)  <br/> |4.3 (18090901)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des publications pour la mise à jour automatique Microsoft (AutoUpdate)](release-history-microsoft-autoupdate.md) |
-|Skype Entreprise  <br/> |16.21.0.65  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 31235D956A16159A7552B5351A26704074A10722 <br/> |La dernière version a été publiée le 14 septembre 2018. <br/><br/>[Dernières mises à jour](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|Bureau à distance | 10.2.1 (1143) | [Télécharger](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Ce package d’installation est en 64 bits. <br/> <br/>[Nouveautés](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
+|Microsoft mise à jour automatique Microsoft (AutoUpdate) (MAU)  <br/> |4.3 (18090901)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des versions pour MAU](release-history-microsoft-autoupdate.md) |
+|Skype Entreprise  <br/> |16.21.0.75  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | A530ADCB7DEF1EFDB9590B159CDB27DE571D1269 <br/> |La dernière version a été publiée le 26 septembre 2018. <br/><br/>[Dernières mises à jour](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Bureau à distance | 10.2.1 (1143) | [Télécharger](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Ce package d’installation est en 64 bits. <br/> <br/>[Nouveautés](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Portail d’entreprise Intune |1.5 (52.1805002.000) [180509] | [Télécharger](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Nouveautés de Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
-|Plug-in de navigateur Safari Microsoft SharePoint au niveau local pour Office 2016 pour Mac  <br/> |15.32.0 (170309)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Ce package d’installation est en 64 bits.  <br/> |
+|Plug-in du navigateur Safari pour Microsoft SharePoint au niveau local pour Office 2016 pour Mac  <br/> |15.32.0 (170309)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Ce package d’installation est en 64 bits.  <br/> |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Historique des publications pour Office pour Mac
 
-Le tableau suivant fournit des informations sur l’historique des publications et des liens de téléchargement pour Office pour Mac. Le tableau est trié par date de publication, avec la date de publication la plus récente affichée en premier. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version. Toutes les versions publiées après le 22 août 2016 sont uniquement en 64 bits. Toutes les versions publiées avant le 22 août 2016 sont uniquement en 32 bits.
+Le tableau suivant fournit des informations sur l’historique des publications et des liens de téléchargement pour Office pour Mac. Le tableau est trié par date de publication, avec la date de publication la plus récente affichée en premier. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version. Toutes les versions publiées après le 22 août 2016 sont uniquement en 64 bits. Toutes les versions publiées avant le 22 août 2016 sont uniquement en 32 bits.
 
 > [!NOTE]
 > Les liens de téléchargement sont fournis uniquement pour les versions les plus récentes.
   
-|**Date de sortie**|**Version**|**Plus d’informations**|**Package d’installation**|**Packages de mise à jour**|
+|**Date de publication**|**Version**|**Plus d’informations**|**Package d’installation**|**Packages de mise à jour**|
 |:-----|:-----|:-----|:-----|:-----|
 |11 septembre 2018  <br/> |16.17 (18090901)  <br/> |[Notes de publication](release-notes-office-for-mac.md#september-2018-release) <br/> |[Suite Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.17.18090901_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |
 |14 août 2018  <br/> |16.16 (18081201)  <br/> |[Notes de publication](release-notes-office-for-mac.md#august-2018-release) <br/> |[Suite Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.16.18081201_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18081201_Updater.pkg) <br/> |
@@ -104,30 +104,30 @@ Le tableau suivant fournit des informations sur l’historique des publications 
 |17 novembre 2016  <br/> |15.28.0 (16111700)  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2016-release) <br/> |||
 |15 novembre 2016  <br/> |15.28.0 (16111501)  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2016-release) <br/> |||
 |15 novembre 2016  <br/> |15.28.0 (161113)  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2016-release) <br/> |||
-|11 octobre 2016  <br/> |15.27.0 (161010)  <br/> |[Article 3193438 de la Base de connaissances](https://support.microsoft.com/kb/3193438) <br/> |||
+|11 octobre 2016  <br/> |15.27.0 (161010)  <br/> |[KB 3193438](https://support.microsoft.com/kb/3193438) <br/> |||
 |16 septembre 2016  <br/> |15.26.1 (160916)  <br/> |Correctif relatif aux dossiers publics pour Outlook  <br/> |||
-|13 septembre 2016  <br/> |15.26.0 (160910)  <br/> |[Article 3186807 de la Base de connaissances](https://support.microsoft.com/kb/3186807) <br/> |||
+|13 septembre 2016  <br/> |15.26.0 (160910)  <br/> |[KB 3186807](https://support.microsoft.com/kb/3186807) <br/> |||
 |26 août 2016  <br/> |15.25.1 (160826)  <br/> |Correctif relatif aux macros pour Excel  <br/>  |||
-|22 août 2016  <br/> |15.25.0 (160817)  <br/> |[Article 3179163 de la Base de connaissances](https://support.microsoft.com/kb/3179163) <br/> |||
-|22 août 2016  <br/> |15.25.0 (160818)  <br/> |[Article 3179163 de la Base de connaissances](https://support.microsoft.com/kb/3179163) <br/> |||
-|12 juillet 2016  <br/> |15.24.0 (160709)  <br/> |[Article 3170460 de la Base de connaissances](https://support.microsoft.com/kb/3170460) <br/> |||
-|25 juin 2016  <br/> |15.23.2 (160624)  <br/> |Correctif logiciel de service des éléments récents  <br/> |||
-|18 juin 2016  <br/> |15.23.1 (160617)  <br/> |Correctif logiciel des macros en japonais  <br/>  |||
-|14 juin 2016  <br/> |15.23.0 (160611)  <br/> |[Article 3165798 de la Base de connaissances](https://support.microsoft.com/kb/3165798) <br/> |||
+|22 août 2016  <br/> |15.25.0 (160817)  <br/> |[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> |||
+|22 août 2016  <br/> |15.25.0 (160818)  <br/> |[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> |||
+|12 juillet 2016  <br/> |15.24.0 (160709)  <br/> |[KB 3170460](https://support.microsoft.com/kb/3170460) <br/> |||
+|25 juin 2016  <br/> |15.23.2 (160624)  <br/> |Correctif du service MRU  <br/> |||
+|18 juin 2016  <br/> |15.23.1 (160617)  <br/> |Correctif pour les macros en japonais  <br/>  |||
+|14 juin 2016  <br/> |15.23.0 (160611)  <br/> |[KB 3165798](https://support.microsoft.com/kb/3165798) <br/> |||
 |13 mai 2016  <br/> |15.22.1 (160512)  <br/> |Correctif de compatibilité des notes de fin  <br/>  |||
-|10 mai 2016  <br/> |15.22.0 (160506)  <br/> |[Article 3155777 de la Base de connaissances](https://support.microsoft.com/kb/3155777) <br/> |||
-|12 avril 2016  <br/> |15.21.1 (160411)  <br/> |[Article 3142577 de la Base de connaissances](https://support.microsoft.com/kb/3142577) <br/> |||
-|16 mars 2016  <br/> |15.20.0 (160315)  <br/> |[Article 3138327 de la Base de connaissances](https://support.microsoft.com/kb/3138327) <br/> |||
-|16 février 2016  <br/> |15.19.1 (160212)  <br/> |[Article 3134241 de la Base de connaissances](https://support.microsoft.com/kb/3134241) <br/> |||
-|12 janvier 2016  <br/> |15.18.0 (160109)  <br/> |[Article 3133711 de la Base de connaissances](https://support.microsoft.com/kb/3133711) <br/> |||
-|17 décembre 2015  <br/> |15.17.1 (151217)  <br/> |[Article 3127248 de la Base de connaissances](https://support.microsoft.com/kb/3127248) <br/> |||
-|10 décembre 2015  <br/> |15.17.0 (151206)  <br/> |[Article 3119518 de la Base de connaissances](https://support.microsoft.com/kb/3119518) <br/> |||
-|10 novembre 2015  <br/> |15.16.0 (151105)  <br/> |[Article 3102925 de la Base de connaissances](https://support.microsoft.com/kb/3102925) <br/> |||
-|13 octobre 2015  <br/> |15.15.0 (151008)  <br/> |[Article 3097264 de la Base de connaissances](https://support.microsoft.com/kb/3097264) <br/> |||
-|15 septembre 2015  <br/> |15.14.0 (150911)  <br/> |[Article 3088502 de la Base de connaissances](https://support.microsoft.com/kb/3088502) <br/> |||
-|11 août 2015  <br/> |15.13.1 (150807)  <br/> |[Article 3082420 de la Base de connaissances](https://support.microsoft.com/kb/3082420) <br/> |||
-|28 juillet 2015  <br/> |15.12.3 (150724)  <br/> |[Article 3074482 de la Base de connaissances](https://support.microsoft.com/kb/3074482) <br/> |||
-|9 juillet 2015  <br/> |15.11.2 (150701)  <br/> |[Article 3074479 de la Base de connaissances](https://support.microsoft.com/kb/3074479) <br/>|||
+|10 mai 2016  <br/> |15.22.0 (160506)  <br/> |[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> |||
+|12 avril 2016  <br/> |15.21.1 (160411)  <br/> |[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> |||
+|16 mars 2016  <br/> |15.20.0 (160315)  <br/> |[KB 3138327](https://support.microsoft.com/kb/3138327) <br/> |||
+|16 février 2016  <br/> |15.19.1 (160212)  <br/> |[KB 3134241](https://support.microsoft.com/kb/3134241) <br/> |||
+|12 janvier 2016  <br/> |15.18.0 (160109)  <br/> |[KB 3133711](https://support.microsoft.com/kb/3133711) <br/> |||
+|17 décembre 2015  <br/> |15.17.1 (151217)  <br/> |[KB 3127248](https://support.microsoft.com/kb/3127248) <br/> |||
+|10 décembre 2015  <br/> |15.17.0 (151206)  <br/> |[KB 3119518](https://support.microsoft.com/kb/3119518) <br/> |||
+|10 novembre 2015  <br/> |15.16.0 (151105)  <br/> |[KB 3102925](https://support.microsoft.com/kb/3102925) <br/> |||
+|13 octobre 2015  <br/> |15.15.0 (151008)  <br/> |[KB 3097264](https://support.microsoft.com/kb/3097264) <br/> |||
+|15 septembre 2015  <br/> |15.14.0 (150911)  <br/> |[KB 3088502](https://support.microsoft.com/kb/3088502) <br/> |||
+|11 août 2015  <br/> |15.13.1 (150807)  <br/> |[KB 3082420](https://support.microsoft.com/kb/3082420) <br/> |||
+|28 juillet 2015  <br/> |15.12.3 (150724)  <br/> |[KB 3074482](https://support.microsoft.com/kb/3074482) <br/> |||
+|9 juillet 2015  <br/> |15.11.2 (150701)  <br/> |[KB 3074479](https://support.microsoft.com/kb/3074479) <br/>|||
    
 
 
