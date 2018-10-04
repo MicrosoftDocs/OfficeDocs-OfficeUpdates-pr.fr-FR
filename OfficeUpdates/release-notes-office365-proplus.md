@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions d’Office 365 ProPlus pour chaque canal de mise à jour et des liens vers des notes de publication et l’historique des mises à jour
-ms.openlocfilehash: 56d4196a2927ab36e3f6155b9e47e02f58d2efcc
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
+ms.openlocfilehash: f5eb1057e2db9052cc11b636ca66b0053bd67dc6
+ms.sourcegitcommit: 116ff3898a6272bff303c954059ff487f91746b0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25346980"
+ms.lasthandoff: 10/04/2018
+ms.locfileid: "25363894"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informations de version pour les mises à jour vers Office 365 ProPlus
 
@@ -40,20 +40,19 @@ Pour plus d’informations concernant la taille de téléchargement approximativ
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Historique des mises à jour pour les versions Office 365 ProPlus
 
-Pour consulter la liste complète des versions, reportez-vous aux articles suivants :
+Pour consulter la liste complète des versions, reportez-vous aux articles suivants :
  - [Historique des mises à jour pour Office 365 ProPlus (classées par date)](update-history-office365-proplus-by-date.md)
- - [Historique des mises à jour pour Office 365 ProPlus (classées par version)](update-history-office365-proplus-by-version.md)
 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Notes de publication pour les versions Office 365 ProPlus
 
 Pour obtenir la liste complète des notes de publication par canal de mise à jour et par année, consultez les articles suivants :
- - Mensuel : [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)
- - Semi-annuel (ciblé) : [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
- - Semi-annuel : [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Mensuel : [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)
+ - Semi-annuel (ciblé) : [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
+ - Semi-annuel : [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
 ## <a name="office-for-mac-release-information"></a>Informations sur les versions Office pour Mac
 
-Pour plus d’informations sur les mises à jour vers Office pour Mac, inclus avec toutes les offres d’abonnement Office 365 comprenant Office 365 ProPlus, consultez les articles suivants :
+Pour plus d’informations sur les mises à jour vers Office pour Mac, inclus avec toutes les offres d’abonnement Office 365 comprenant Office 365 ProPlus, consultez les articles suivants :
  - [Historique des mises à jour pour Office pour Mac](update-history-office-for-mac.md)
  - [Notes de publication pour Office pour Mac](release-notes-office-for-mac.md)
 
