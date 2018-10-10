@@ -1,0 +1,50 @@
+---
+title: Historique des mises à jour pour Office 2019
+ms.author: timda
+author: TimDavenport
+manager: andrewmo
+ms.date: 10/9/2018
+ms.audience: ITPro
+ms.topic: reference
+ms.prod: office-perpetual-itpro
+localization_priority: Priority
+ms.collection: RelNotes_Perpetual
+description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions définitives d’Office 2019 qui utilisent Démarrer en un clic
+ms.openlocfilehash: 1e5bce4402470c436821a33ee4ac3d2560498415
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25459893"
+---
+# <a name="update-history-for-office-2019"></a><span data-ttu-id="d0439-103">Historique des mises à jour pour Office 2019</span><span class="sxs-lookup"><span data-stu-id="d0439-103">Update history for Office 2013</span></span>
+
+<span data-ttu-id="d0439-104">Microsoft publie des mises à jour de sécurité et des mises à jour de qualité, telles que des mises à jour assurant la stabilité ou l'amélioration des performances, pour Office 2019, selon les besoins.</span><span class="sxs-lookup"><span data-stu-id="d0439-104">Microsoft releases security updates and quality updates, such as updates that provide stability or performance improvements, for Office 2019 as needed.</span></span> <span data-ttu-id="d0439-105">Ces mises à jour sont publiées environ une fois par mois, généralement le deuxième mardi du mois.</span><span class="sxs-lookup"><span data-stu-id="d0439-105">These updates are released approximately once a month, usually on the second Tuesday of the month.</span></span>
+
+<span data-ttu-id="d0439-106">Si vous souhaitez contrôler si vous êtes à jour, vérifiez votre numéro de version d’Office et mettez à jour manuellement Office si nécessaire.</span><span class="sxs-lookup"><span data-stu-id="d0439-106">If you're using one of these products, and you'd like to verify you're up to date, check your Office version number and manually update Office if necessary.</span></span> <span data-ttu-id="d0439-107">Pour vérifier votre version d’Office, procédez comme suit :</span><span class="sxs-lookup"><span data-stu-id="d0439-107">To check your version of Office, do the following:</span></span>
+
+  1.    <span data-ttu-id="d0439-108">Ouvrez une application Office 2019, telle que Word ou Excel.</span><span class="sxs-lookup"><span data-stu-id="d0439-108">Open any Office 2013 application, such as Word or Excel.</span></span>
+  2.    <span data-ttu-id="d0439-109">Choisissez **fichier > Compte**.</span><span class="sxs-lookup"><span data-stu-id="d0439-109">Choose **File > Account**.</span></span>
+  3.    <span data-ttu-id="d0439-110">Sous **Informations sur le produit**, notez le numéro de version sous la **section À propos**.</span><span class="sxs-lookup"><span data-stu-id="d0439-110">Under **Product Information**, note the version number under the **About section**.</span></span>
+
+<span data-ttu-id="d0439-111">Si le numéro de version correspond à la version la plus récente, vous êtes à jour.</span><span class="sxs-lookup"><span data-stu-id="d0439-111">If the version number matches the most current version, you're up to date.</span></span> <span data-ttu-id="d0439-112">Si ce n’est pas le cas, vous pouvez mettre à jour manuellement pour obtenir la dernière version d’Office 2019.</span><span class="sxs-lookup"><span data-stu-id="d0439-112">If not, you can manually update to get the latest version of Office 2019.</span></span> <span data-ttu-id="d0439-113">Pour mettre à jour Office, [procédez comme suit](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).</span><span class="sxs-lookup"><span data-stu-id="d0439-113">To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).</span></span>
+
+
+<span data-ttu-id="d0439-114">Le tableau suivant fournit l’historique de mise à jour pour Office 2019, avec la dernière date de sortie répertoriée en premier.</span><span class="sxs-lookup"><span data-stu-id="d0439-114">The following table provides update history for Office 2019, with the most recent release date listed first.</span></span> <span data-ttu-id="d0439-115">Le tableau inclut la version et le numéro de la version de build et répertorie les mises à jour de sécurité qui sont incluses dans la version, ainsi qu’un lien vers plus d’informations sur la mise à jour de sécurité.</span><span class="sxs-lookup"><span data-stu-id="d0439-115">The table includes the version and build number for the release and lists the security updates that are included in the release, along with a link to more information about the security update.</span></span>
+
+<span data-ttu-id="d0439-116">Les nouvelles versions incluent toutes les mises à jour contenues dans les versions précédentes.</span><span class="sxs-lookup"><span data-stu-id="d0439-116">New versions contain all the updates contained in previous versions.</span></span>
+
+## <a name="volume-licensed-versions-of-office-2019"></a><span data-ttu-id="d0439-117">Versions de licence en volume d’Office 2019</span><span class="sxs-lookup"><span data-stu-id="d0439-117">Volume licensed versions of Office 2019</span></span>
+<span data-ttu-id="d0439-118">Les informations suivantes s’appliquent aux versions de licences en volume d´Office 2019, comme Office Professionnel Plus 2019 acheté dans un contrat de licence en volume.</span><span class="sxs-lookup"><span data-stu-id="d0439-118">The following information applies to volume licensed versions of Office 2019, such as Office Professional Plus 2019 purchased through a volume licensing agreement.</span></span>
+
+  
+|<span data-ttu-id="d0439-119">**Date de sortie**</span><span class="sxs-lookup"><span data-stu-id="d0439-119">**Release date**</span></span>|<span data-ttu-id="d0439-120">**Numéro de version**</span><span class="sxs-lookup"><span data-stu-id="d0439-120">**Version number**</span></span>|<span data-ttu-id="d0439-121">**Plus d’informations**</span><span class="sxs-lookup"><span data-stu-id="d0439-121">**More information**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="d0439-122">9 octobre 2018</span><span class="sxs-lookup"><span data-stu-id="d0439-122">October 9, 2018</span></span>   |<span data-ttu-id="d0439-123">Version 1808 (Build 10337.20021)</span><span class="sxs-lookup"><span data-stu-id="d0439-123">Version 1808 (Build 10337.20021)</span></span>  |[<span data-ttu-id="d0439-124">CVE-2018-8432</span><span class="sxs-lookup"><span data-stu-id="d0439-124">CVE-2018-8432</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8432) <br/> [<span data-ttu-id="d0439-125">CVE-2018-8501</span><span class="sxs-lookup"><span data-stu-id="d0439-125">CVE-2018-8501</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8501) <br/> [<span data-ttu-id="d0439-126">CVE-2018-8502</span><span class="sxs-lookup"><span data-stu-id="d0439-126">CVE-2018-8502</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8502) <br/> [<span data-ttu-id="d0439-127">CVE-2018-8504</span><span class="sxs-lookup"><span data-stu-id="d0439-127">CVE-2018-8504</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8504) <br/> [<span data-ttu-id="d0439-128">ADV-180026</span><span class="sxs-lookup"><span data-stu-id="d0439-128">ADV-180026</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180026) <br/>|
+
+## <a name="retail-versions-of-office-2019"></a><span data-ttu-id="d0439-129">Versions commerciales d´Office 2019</span><span class="sxs-lookup"><span data-stu-id="d0439-129">Retail versions of Office 2019</span></span>
+<span data-ttu-id="d0439-130">Les informations suivantes s’appliquent aux versions commerciales d´Office 2019, comme Office Professionnel 2019 acheté dans un magasin.</span><span class="sxs-lookup"><span data-stu-id="d0439-130">The following information applies to retail versions of Office 2019, such as Office Professional 2019 purchased at a retail store.</span></span>
+
+|<span data-ttu-id="d0439-131">**Date de sortie**</span><span class="sxs-lookup"><span data-stu-id="d0439-131">**Release date**</span></span>|<span data-ttu-id="d0439-132">**Numéro de version**</span><span class="sxs-lookup"><span data-stu-id="d0439-132">**Version number**</span></span>|<span data-ttu-id="d0439-133">**Plus d’informations**</span><span class="sxs-lookup"><span data-stu-id="d0439-133">**More information**</span></span>|
+|:-----|:-----|:-----|
+|<span data-ttu-id="d0439-134">9 octobre 2018</span><span class="sxs-lookup"><span data-stu-id="d0439-134">October 9, 2018</span></span>   |<span data-ttu-id="d0439-135">Version 1809 (Build 10827.20150)</span><span class="sxs-lookup"><span data-stu-id="d0439-135">Version 1809 (Build 10827.20138)</span></span>  |[<span data-ttu-id="d0439-136">CVE-2018-8432</span><span class="sxs-lookup"><span data-stu-id="d0439-136">CVE-2018-8432</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8432) <br/> [<span data-ttu-id="d0439-137">CVE-2018-8501</span><span class="sxs-lookup"><span data-stu-id="d0439-137">CVE-2018-8501</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8501) <br/> [<span data-ttu-id="d0439-138">CVE-2018-8502</span><span class="sxs-lookup"><span data-stu-id="d0439-138">CVE-2018-8502</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8502) <br/> [<span data-ttu-id="d0439-139">CVE-2018-8504</span><span class="sxs-lookup"><span data-stu-id="d0439-139">CVE-2018-8504</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8504) <br/> [<span data-ttu-id="d0439-140">ADV-180026</span><span class="sxs-lookup"><span data-stu-id="d0439-140">ADV-180026</span></span>](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/ADV180026) <br/>|
