@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office 365 ProPlus (classées par date)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/28/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions d'Office 365 ProPlus, classées par date et accompagnées de liens vers leurs notes de publication
-ms.openlocfilehash: 6990f8b6b8268594d34dbae8c4e31e59ba3cd58a
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
+ms.openlocfilehash: b43645d1ee37144af913529d421986550776471a
+ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25347000"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25459401"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -32,8 +32,9 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 
 |**Année**|**Date de publication**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|27 septembre   |[**Version 1809 (build 10827.20138)**](monthly-channel-2018.md#version-1809-september-27)| | |
-|2018|11 septembre   |[Version 1808 (Build 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[**Version 1808 (Build 10730.20102)**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**Version 1803 (Build 9126.2282)**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [Version 1708 (Build 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
+|2018|9 octobre |[**Version 1809 (Build 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**Version 1808 (Build 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Version 1803 (Build 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Version 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018|27 septembre   |[Version 1809 (build 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
+|2018|11 septembre   |[Version 1808 (Build 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[Version 1808 (Build 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[Version 1803 (Build 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [Version 1708 (Build 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018|5 septembre   |[Version 1808 (Build 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018|14 août   |[Version 1807 (Build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[Version 1803 (Build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[Version 1803 (Build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [Version 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||25 juillet   |[Version 1807 (Build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
@@ -49,12 +50,12 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 ||8 mai   |[Version 1804 (build 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[Version 1803 (build 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[Version 1708 (build 8431.2250)](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [Version 1705 (Build 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||25 avril   | [Version 1804 (build 9226.2114)](monthly-channel-2018.md#version-1804-april-25)   |   |   |
 ||11 avril   | [Version 1803 (build 9126.2152)](monthly-channel-2018.md#version-1803-april-11)   |   |   |
-||10 avril   |   | [Version 1803 (build 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [Version 1708 (Build 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [Version 1705 (build 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
+||10 avril   |   | [Version 1803 (build 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [Version 1708 (build 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [Version 1705 (build 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
 ||27 mars   | [Version 1803 (build 9126.2116)](monthly-channel-2018.md#version-1803-march-27)   |   |   |
 ||20 mars   |   | [Version 1803 (build 9126.2098)](semi-annual-channel-targeted-2018.md#version-1803-march-20)   |   |
 ||13 mars  | [Version 1802 (build 9029.2253)](monthly-channel-2018.md#version-1802-march-13)   | [Version 1803 (build 9126.2072)](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [Version 1708 (build 8431.2236)](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [Version 1705 (Build 8201.2265)](semi-annual-channel-2018.md#version-1705-march-13)   |
 ||26 février   | [Version 1802 (build 9029.2167)](monthly-channel-2018.md#version-1802-february-26)   |   |   |
-||13 février   | [Version 1801 (build 9001.2171)](monthly-channel-2018.md#version-1801-february-13)   | [Version 1708 (Build 8431.2215)](semi-annual-channel-targeted-2018.md#version-1708-february-13)   | [Version 1708 (Build 8431.2215)](semi-annual-channel-2018.md#version-1708-february-13)  <br/>   [Version 1705 (Build 8201.2258)](semi-annual-channel-2018.md#version-1705-february-13)   |
+||13 février   | [Version 1801 (build 9001.2171)](monthly-channel-2018.md#version-1801-february-13)   | [Version 1708 (build 8431.2215)](semi-annual-channel-targeted-2018.md#version-1708-february-13)   | [Version 1708 (Build 8431.2215)](semi-annual-channel-2018.md#version-1708-february-13)  <br/>   [Version 1705 (Build 8201.2258)](semi-annual-channel-2018.md#version-1705-february-13)   |
 ||7 février   | [Version 1801 (build 9001.2144)](monthly-channel-2018.md#version-1801-february-7)   |   |   |
 ||1er février   | [Version 1801 (build 9001.2138)](monthly-channel-2018.md#version-1801-february-1)   |   |   |
 ||30 janvier   | [Version 1712 (build 8827.2179)](monthly-channel-2018.md#version-1712-january-30)  |   |   |
