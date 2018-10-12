@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/3/2018
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les publications du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
-ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.openlocfilehash: 0982cb8515d3fb9c5234ca72eb45b6b688e597e1
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362709"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456788"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -24,6 +24,43 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  > [!NOTE]
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+
+## <a name="version-1809-october-9"></a>Version 1809 : le 9 octobre
+*Version 1809 (Build 10827.20150)*
+
+### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502) : vulnérabilité d’exécution de code à distance Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Mise à jour de protection fiable pour Microsoft Office 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint : mises à jour de sécurité 
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501) : Vulnérabilité de l’exécution de code à distance Microsoft PowerPoint
+
+### <a name="word-security-updates"></a>Word : mises à jour de sécurité 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504) : Vulnérabilité de l’exécution de code à distance Microsoft Word 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Mise à jour de protection fiable pour Microsoft Office 
+
+### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432) : Vulnérabilité de l’exécution de code à distance Microsoft Graphics 
+
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité 
+-   Corrige le problème lorsque les symboles compris entre 2190... et 2194 sont remplacés par Cambria Math. Il est à l’origine de la hauteur de cellule Excel à augmenter de 3 fois.
+-   Cela entraîne une augmentation de 3 fois la hauteur de la cellule Excel.
+-   Nous étudions actuellement la baisse de performance lors du passage de la fenêtre d’Application Excel à partir d’un ordinateur de bureau à un autre. En attendant, si vous remarquez cette lenteur, il convient alors de sélectionner "Optimiser la compatibilité" pour "Lors de l'utilisation de plusieurs écrans" dans l'onglet "Général" de la boîte de dialogue Options de fichier.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
+-   Corrige un problème de corruption potentielle de fichiers lors de l'enregistrement de fichiers par le contenu de ActiveX.
+
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
+-   Problème résolu: lors de l'insertion d'un objet Document Word, l'éditeur d'équation apparaissait.
+
+### <a name="project-non-security-updates"></a>Project : mises à jour non relatives à la sécurité
+-   Résoudre un problème quand, lorsque vous définissiez un en-tête ou un pied de page pour une impression, les modifications n'étaient pas conservées lors de la prochaine impression du projet.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : mises à jour non relatives à la sécurité
+-   Correction du problème des applications affichant des animations malgré la désactivation des animations via les paramètres d'accessibilité et de performance. 
+-   Correction du problème de fond vide en utilisant un outil de dessin surligneur.
 
 ## <a name="version-1809-september-27"></a>Version 1809 : 27 septembre
 *Version 1809 (build 10827.20138)*
@@ -39,7 +76,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Obtenez des suggestions d’orthographe pour la recherche** Après avoir effectué une recherche, Outlook suggère une requête de recherche avec des corrections orthographiques.
 - **Les icônes de ruban ont une nouvelle apparence** Ne vous inquiétez pas, tout fonctionne de la même façon. De plus, elles ont belle allure sur des écrans de toutes tailles. [En savoir plus](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
 - **Regarder vos diapositives s’animer** Insérez des graphiques 3D animés pour voir des cœurs battre, des planètes orbiter, et des tyrannosaures se déchaîner à l’écran.  [En savoir plus](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Nouveaux outils de vérification linguistique** Ne vous en faites pas pour vos mots. PowerPoint fournit désormais des suggestions pour la grammaire et l’orthographe. [En savoir plus](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Les icônes de ruban ont une nouvelle apparence** Ne vous inquiétez pas, tout fonctionne de la même façon. De plus, elles ont belle allure sur des écrans de toutes tailles. [En savoir plus](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
@@ -56,11 +93,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331) : Vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Vulnérabilité de divulgation d’informations Microsoft Excel
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : mises à jour de sécurité
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430) : Vulnérabilité d’exécution de code à distance Word PDF
 
 ### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité
--   CVE-2018-8332: Vulnérabilité d’exécution de code à distance Win32k Graphics[ ](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)
+-   CVE-2018-8332:  Vulnérabilité d’exécution de code à distance Win32k Graphics[ ](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)
 
 
 ## <a name="version-1808-september-5"></a>Version 1808 : 5 septembre
@@ -113,7 +150,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1807-july-25"></a>Version 1807 : 25 juillet
 *Version 1807 (Build 10325.20082)*
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
 - **Avertissements pour les compléments Outlook :** les compléments COM Outlook peuvent parfois rencontrer des problèmes qui ralentissent le reste d’Outlook. Ces problèmes peuvent être dus à la latence d’événements tels que le basculement entre les dossiers Outlook, la réception de nouveaux e-mails, l’ouverture d’éléments de calendrier, etc. Lorsque de tels problèmes surviennent, Outlook affiche un avertissement dans la barre de notification.
 - **Participer à des réunions d’équipes à partir de la boîte de dialogue Rappels d’Outlook :** lorsqu'Outlook rappelle une réunion à venir aux utilisateurs, un bouton Participer en ligne apparaît si la réunion à venir est une réunion d’équipes en ligne. Le processus est le même que pour rejoindre une réunion Skype Entreprise à partir de la boîte de dialogue Rappels d’Outlook.
 
@@ -155,7 +192,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  - **Amélioration de la modification des cellules et de la barre de formule :** vous pouvez maintenant utiliser CTRL+A pour sélectionner du texte dans une cellule ou dans la barre de formule. La prise en charge des émoticônes et autres caractères complexes est également améliorée.[En savoir plus](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Prise en charge améliorée des SVG :** vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
  - **Périodicité par défaut  :** dans la boîte de dialogue Périodicité du rendez-vous (sous « Plage de périodicité »), « Fin prévue le » est le paramètre par défaut (au lieu de « Aucune date de fin ») et le premier de l'énumération, et une date d’expiration par défaut est définie.
  - **Améliorations apportées au vérificateur d’accessibilité :** Le vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos messages plus accessibles. [En savoir plus](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
@@ -195,7 +232,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246) : vulnérabilité de divulgation d’informations Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248) : vulnérabilité d’exécution de code à distance Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244) : vulnérabilité d’élévation de privilège Microsoft Outlook
 
 ### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
@@ -223,7 +260,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalité
  - **Discutez avec vos coauteurs en même temps que vous modifiez :** collaborez plus efficacement en discutant avec vos coauteurs, sans quitter Excel. Notez que cette fonctionnalité n’est pas disponible dans certaines régions.[En savoir plus](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
  - **Saisie mains libres :** utilisez votre voix pour créer des messages électroniques en dictant simplement ce que vous voulez écrire. Vous n’avez pas besoin de taper au clavier. [En savoir plus](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Affichez trois fuseaux horaires :** vous devez planifier une réunion sur plusieurs fuseaux horaires ? Ajoutez plusieurs fuseaux horaires à votre calendrier pour voir facilement la disponibilité des participants et choisir un horaire qui convient à tout le monde. [En savoir plus](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **Simplification du partage de calendriers :** le partage de vos calendriers est plus simple et les calendriers partagés à partir de la version de bureau d’Outlook sont désormais disponibles dans Outlook Mobile également. [En savoir plus](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
@@ -278,7 +315,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1804-april-25"></a>Version 1804 : 25 avril
 *Version 1804 (build 9226.2114)*
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
 -   **Écoutez vos messages électroniques :** Outlook peut lire vos messages électroniques à haute voix et mettre en surbrillance le texte à mesure qu’il est lu. [En savoir plus](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **Ne ratez aucun rappel :** configurez les rappels de sorte qu’ils s’affichent dans une fenêtre contextuelle par-dessus les fenêtres sur lesquelles vous travaillez. Sinon, Outlook clignotera dans la barre des tâches pour attirer votre attention.[En savoir plus](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marquez les éléments supprimés comme lus :** vous pouvez à présent définir les messages que vous supprimez comme lus. Pour ce faire, accédez à Fichier \> Options \> Courrier \> Autre.
@@ -332,7 +369,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive Entreprise : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : OneDrive Entreprise (Groove.exe) utilisait l’équivalent d’un cœur de processeur (par exemple, 25  % sur un processeur 4 cœurs) dans le gestionnaire des tâches pendant des périodes de temps prolongées.
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
 -   **Avertissement de copie carbone invisible (Cci) :** un avertissement s’affiche si vous choisissez Répondre à tous pour un message qui vous a été envoyé en copie carbone invisible (Cci).
 -   **Une ligne « À : » plus intelligente :** lorsque vous cliquez sur la ligne « À : » pour indiquer le(s) destinataire(s) d’un message, nous vous proposons des destinataires que vous êtes susceptible de choisir. De plus, vous pouvez voir leur photo, afin de vous assurer que vous envoyez le message à la bonne personne. 
 
@@ -360,14 +397,14 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907) : Contournement de la fonctionnalité de sécurité Microsoft Office Excel
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : mises à jour de sécurité
 -   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919) : Vulnérabilité de divulgation d’informations Microsoft Office
 
 
 ## <a name="version-1802-february-26"></a>Version 1802 : 26 février
 *Version 1802 (build 9029.2167)*
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
 -   **Affichage des participants aux réunions :** vous pouvez maintenant voir les réponses des autres personnes à une demande de réunion, même si vous n’êtes pas l’organisateur.
 -   **Triez vos e-mails en toute simplicité :** grâce à vos commentaires, nous avons rétabli le tri sur la liste des messages et le filtre Non lus pour les personnes qui n’utilisent pas de boîte de réception Prioritaire.
 
@@ -442,10 +479,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Conversion d’icônes SVG en formes :** transformez toutes les icônes et les images SVG en formes Office afin de pouvoir modifier leur couleur, taille ou texture.
 -   **Désélection de cellules :** effectuez des sélections dans votre feuille de calcul et désélectionnez les cellules sur lesquelles vous avez cliqué accidentellement sans avoir à recommencer.
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : l’ouverture de plusieurs classeurs en double-cliquant sur les noms de fichier dans l’Explorateur de fichiers entraînait l’échec des références de classeur.
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
 -   **Conversion d’icônes SVG en formes :** transformez toutes les icônes et les images SVG en formes Office afin de pouvoir modifier leur couleur, taille ou texture.
 -   **Améliorations apportées aux groupes Office 365 :** il est plus facile que jamais de lire les conversations de groupe et d’y répondre, car vous pouvez double-cliquer sur un message de groupe pour l’ouvrir dans sa propre fenêtre.
 
