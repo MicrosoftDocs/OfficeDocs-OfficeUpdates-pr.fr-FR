@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/1/2018
+ms.date: 10/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les informations sur les dernières mises à jour pour Office pour Mac, notamment des liens de téléchargement des packages, et un historique des mises à jour
-ms.openlocfilehash: 6771df21cbb5bad3f5cd01a79d8f02a9c1adc221
-ms.sourcegitcommit: 2a0ed40f3028b7e4e1239491b924adbc2ae9fb52
+ms.openlocfilehash: 815d839f05b6d17b5599c120cb7a9be8037d031f
+ms.sourcegitcommit: 2766d17c1c83a1d84655370870928ee86162ba3b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2018
-ms.locfileid: "25354294"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25540310"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historique des mises à jour pour Office pour Mac
 
@@ -30,7 +30,7 @@ Le tableau suivant récapitule les informations sur la version la plus récente 
   
 > [!NOTE]
 > - À compter de la version 16.17 de septembre 2018, cette information s’applique également à Office 2019 pour Mac, qui est une version d’Office pour Mac disponible sous la forme d’un achat unique dans un point de vente ou via un contrat de licence en volume.
-> - Les informations d’historique de mise à jour pour la version 16.16 et versions antérieures s’appliquent également à Office 2016 pour Mac, qui est également une version d’Office pour Mac disponible sous forme d’un achat unique. Les versions 16.16 et antérieures peuvent être activées par une license en volume d’Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou ultérieure avec une licence en volume d’Office 2016 pour Mac. Pour plus d’informations sur les versions d'Office 2016 pour Mac à partir de septembre, consultez [Notes de publication pour Office 2016 pour Mac](release-notes-office-2016-mac.md)
+> - Les informations d’historique de mises à jour pour la version 16.16 et les versions antérieures s’appliquent aussi à Office 2016 pour Mac, qui est également une version d’Office pour Mac disponible sous forme d’achat unique. Les anciennes versions, jusqu’à 16.16 incluse, peuvent être activées avec une licence en volume d’Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou ultérieure avec une licence en volume d’Office 2016 pour Mac. Pour plus d’informations sur les versions d’Office 2016 pour Mac à partir de septembre, consultez [Notes de publication pour Office 2016 pour Mac](release-notes-office-2016-mac.md)
 > - Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité incluses dans une version donnée d’Office pour Mac, consultez [Notes de publication pour Office pour Mac](release-notes-office-for-mac.md).
 > - Si vous souhaitez accéder en avant-première aux nouvelles versions, rejoignez le programme [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
 
@@ -56,7 +56,7 @@ Le tableau suivant fournit des informations sur les packages les plus récents, 
 |**Programme**|**Version**|**Package**|**Code de hachage SHA1**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft mise à jour automatique Microsoft (AutoUpdate) (MAU)  <br/> |4.3 (18090901)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des versions pour MAU](release-history-microsoft-autoupdate.md) |
-|Skype Entreprise  <br/> |16.21.0.87  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 27E3FB163AB42003A9A452A74388557EFAB4F67D <br/> |La dernière version a été publiée le 1 octobre 2018. <br/><br/>[Dernières mises à jour](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Skype Entreprise  <br/> |16.22.0.160 <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |La dernière version a été publiée le 12 octobre 2018. <br/><br/>[Dernières mises à jour](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |Bureau à distance | 10.2.1 (1143) | [Télécharger](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Ce package d’installation est en 64 bits. <br/> <br/>[Nouveautés](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Portail d’entreprise Intune |1.5 (52.1805002.000) [180509] | [Télécharger](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Nouveautés de Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
 |Plug-in du navigateur Safari pour Microsoft SharePoint au niveau local pour Office 2016 pour Mac  <br/> |15.32.0 (170309)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Ce package d’installation est en 64 bits.  <br/> |
