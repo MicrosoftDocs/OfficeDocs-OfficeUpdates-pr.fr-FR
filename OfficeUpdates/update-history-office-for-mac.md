@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les informations sur les dernières mises à jour pour Office pour Mac, notamment des liens de téléchargement des packages, et un historique des mises à jour
-ms.openlocfilehash: 6c4f45903c180a2be6c6edf0ec0b0e7ae49098eb
-ms.sourcegitcommit: 6f2752d626a3c59bcfa984d4351e944cad171b8d
+ms.openlocfilehash: 07fe8ff246504b0723b86f796bfa8a7f00b6cdb0
+ms.sourcegitcommit: 5626bb716f12dd31eccb33bf0e0e8ed024392017
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 10/17/2018
-ms.locfileid: "25578935"
+ms.locfileid: "25597827"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historique des mises à jour pour Office pour Mac
 
@@ -54,9 +54,9 @@ Le tableau suivant répertorie les packages les plus récents pour Office pour M
 
 Le tableau suivant fournit des informations sur les packages les plus récents, y compris un lien de téléchargement, pour d’autres programmes Mac de Microsoft qui pourraient intéresser les professionnels de l’informatique. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version. 
   
-|**Programme**|**Version**|**Package**|**Hachage SHA-1**|**Plus d’informations**|
+|**Programme**|**Version**|**Package**|**Hachage SHA-1 / SHA-256**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft mise à jour automatique Microsoft (AutoUpdate) (MAU)  <br/> |4.3 (18090901)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des versions pour MAU](release-history-microsoft-autoupdate.md) |
+|Mise à jour automatique Microsoft (AutoUpdate) (MAU)  <br/> |4.4 (18101400)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/> | Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des versions pour MAU](release-history-microsoft-autoupdate.md) |
 |Skype Entreprise  <br/> |16.22.0.160 <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |La dernière version a été publiée le 12 octobre 2018. <br/><br/>[Dernières mises à jour](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |Bureau à distance | 10.2.2 (1291)  | [Télécharger](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Ce package d’installation est en 64 bits. <br/> <br/>[Nouveautés](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Portail d’entreprise Intune |1.5 (52.1805002.000) [180509] | [Télécharger](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Nouveautés de Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
