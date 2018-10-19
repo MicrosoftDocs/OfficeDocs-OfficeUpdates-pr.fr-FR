@@ -3,19 +3,19 @@ title: Taille des téléchargements pour les mises à jour d’Office 365 ProPlu
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/18/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations concernant la taille approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 78ab2d6fa201e495f4dcbb48ac1a331100119fd9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: e95939a6e9f1c67ece3479a988ff3ca4103058d1
+ms.sourcegitcommit: 5610fbdb9179573d3fac69d744ca1e3efed83f7a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459411"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25625036"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille des téléchargements pour les mises à jour d’Office 365 ProPlus
 
@@ -34,7 +34,21 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 > - Les dates de sortie et les numéros de build mis en italique et placés entre « \< \> » peuvent être modifiés. 
 > - Seules les publications sorties au cours des quatre derniers mois sont indiquées.
 > - Seules les versions antérieures les plus récentes sont indiquées dans les tableaux. Si vous mettez à jour votre canal à partir d’une version antérieure, votre téléchargement sera plus volumineux.
-> - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum. 
+> - Si vous changez de canal, en passant par exemple du Canal semi-annuel (ciblé) au canal Semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum. 
+
+## <a name="october-16-2018"></a>16 octobre 2018
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 1809 (build 10827.20181).
+  
+|**Publication mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1808 (build 10730.20088)  <br/> |5 septembre 2018  <br/> |170  <br/> |
+|Version 1808 (Build 10730.20102)  <br/> |12 septembre 2018  <br/> |176 <br/> |
+|Version 1808 (Build 10730.20127)  <br/> |24 septembre 2018  <br/> |396 <br/> |
+|Version 1809 (Build 10827.20138)  <br/> |27 septembre 2018  <br/> |86 <br/> |
+|Version 1809 (Build 10827.20150)  <br/> |9 octobre 2018  <br/> |82 <br/> |
 
 ## <a name="october-9-2018"></a>9 octobre 2018
 
