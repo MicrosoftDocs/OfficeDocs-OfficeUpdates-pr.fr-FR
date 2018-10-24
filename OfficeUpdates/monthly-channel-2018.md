@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/11/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les publications du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+ms.openlocfilehash: a14a4c99d586c58fc118182148acaf54adb37673
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25504986"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718968"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -24,8 +24,17 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  > [!NOTE]
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+> - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) tous les mois pendant une certaine période de temps. Cela permet de garantir que les choses fonctionnent comme prévu avant de proposer la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas une fonctionnalité ou un élément mais que celui-ci a été décrit ci-dessous, ne vous inquiétez pas ; vous finirez par l'obtenir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-## <a name="version-1809-october-9"></a>Version 1809 : le 9 octobre
+
+## <a name="version-1809-october-16"></a>Version 1809 : 9 octobre
+*Version 1809 (build 10827.20138)* 
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : mises à jour non relatives à la sécurité 
+-  Corrige divers problèmes de performances.
+
+
+## <a name="version-1809-october-9"></a>Version 1809 : 9 octobre
 *Version 1809 (Build 10827.20150)*
 
 ### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
@@ -35,11 +44,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Mise à jour de protection fiable pour Microsoft Office 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint : mises à jour de sécurité 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501) : Vulnérabilité de l’exécution de code à distance Microsoft PowerPoint
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501) : vulnérabilité de l’exécution de code à distance Microsoft PowerPoint
 
 ### <a name="word-security-updates"></a>Word : mises à jour de sécurité 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504) : Vulnérabilité de l’exécution de code à distance Microsoft Word 
--   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Mise à jour de protection fiable pour Microsoft Office 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504) : vulnérabilité de l’exécution de code à distance Microsoft Word 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): mise à jour de protection fiable pour Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Suite Office : mises à jour de sécurité 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432) : Vulnérabilité de l’exécution de code à distance Microsoft Graphics 
@@ -355,7 +364,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Avertissement de copie carbone invisible (Cci) :** un avertissement s’affiche si vous choisissez Répondre à tous pour un message qui vous a été envoyé en copie carbone invisible (Cci).
 -   **Une ligne « À : » plus intelligente :** lorsque vous cliquez sur la ligne « À : » pour indiquer le(s) destinataire(s) d’un message, nous vous proposons des destinataires que vous êtes susceptible de choisir. De plus, vous pouvez voir leur photo, afin de vous assurer que vous envoyez le message à la bonne personne. 
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint : mises à jour de fonctionnalité
+### <a name="powerpoint-feature-updates"></a>PowerPoint : mises à jour de fonctionnalités
 -   **Microsoft Translator :** traduisez des mots, des expressions ou des phrases dans une autre langue avec Microsoft Translator. Vous pouvez le faire à partir de l’onglet Révision du ruban.
 -   **Meilleure prise en charge des affichages haute définition** : si vous utilisez plusieurs écrans ou une station d’accueil pour ordinateur portable, les applications Office s’affichent plus nettement, même si les affichages ont différents paramètres de mise à l’échelle. [En savoir plus](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
@@ -379,14 +388,14 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907) : Contournement de la fonctionnalité de sécurité Microsoft Office Excel
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : mises à jour de sécurité
 -   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919) : Vulnérabilité de divulgation d’informations Microsoft Office
 
 
 ## <a name="version-1802-february-26"></a>Version 1802 : 26 février
 *Version 1802 (build 9029.2167)*
 
-### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalités
 -   **Affichage des participants aux réunions :** vous pouvez maintenant voir les réponses des autres personnes à une demande de réunion, même si vous n’êtes pas l’organisateur.
 -   **Triez vos e-mails en toute simplicité :** grâce à vos commentaires, nous avons rétabli le tri sur la liste des messages et le filtre Non lus pour les personnes qui n’utilisent pas de boîte de réception Prioritaire.
 
@@ -458,7 +467,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1712 (build 8827.2148)*
 
 ### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalité
--   **Conversion d’icônes SVG en formes :** transformez toutes les icônes et les images SVG en formes Office afin de pouvoir modifier leur couleur, taille ou texture.
+-   **Conversion d’icônes SVG en formes :** transformez toutes les icônes et les images SVG en formes Office afin de pouvoir modifier leur couleur, leur taille ou leur texture.
 -   **Désélection de cellules :** effectuez des sélections dans votre feuille de calcul et désélectionnez les cellules sur lesquelles vous avez cliqué accidentellement sans avoir à recommencer.
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
@@ -481,10 +490,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : la recherche de messages par date dans PChat échouait lorsque la date n’était pas au format des États-Unis (mm/jj/aa).
 -   Résolution d’un problème : lorsque la stratégie EnableExternalP2PFileTransfer était définie sur False, les utilisateurs avaient toujours la possibilité de joindre des fichiers dans les réunions.
 
-### <a name="visio-feature-updates"></a>Visio : mises à jour de fonctionnalité
+### <a name="visio-feature-updates"></a>Visio : mises à jour de fonctionnalités
 -   **Utilisre des modèles Excel pour exporter vers un diagramme Visio :** obtenez un aperçu de vos organigrammes Visio. Saisissez vos données dans l’un des modèles Excel de diagramme de processus et effectuez un export dans Visio pour créer le diagramme automatiquement. Nécessite Visio Pro pour Office 365.
 
-### <a name="word-feature-updates"></a>Word : mises à jour de fonctionnalité
+### <a name="word-feature-updates"></a>Word : mises à jour de fonctionnalités
 -   **Conversion d’icônes SVG en formes :** transformez toutes les icônes et les images SVG en formes Office afin de pouvoir modifier leur couleur, taille ou texture.
 
 
@@ -492,7 +501,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1711 (build 8730.2175)*
 
 ### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): vulnérabilité d’exécution de code à distance Microsoft Excel
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796) : vulnérabilité d’exécution de code à distance Microsoft Excel
 -   [Avis 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021) : Mise à jour de protection fiable pour Microsoft Office
 
 ### <a name="outlook-security-updates"></a>Outlook : mises à jour de sécurité

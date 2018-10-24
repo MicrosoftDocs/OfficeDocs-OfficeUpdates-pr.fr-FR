@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les informations sur les dernières mises à jour pour Office pour Mac, notamment des liens de téléchargement des packages, et un historique des mises à jour
-ms.openlocfilehash: 7c01797a8cc02e08e70acab9daa2e9dcdb376bc8
-ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
+ms.openlocfilehash: 65ce4c028eff54b9a115a7961bdb59effcf7f303
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25638164"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718958"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historique des mises à jour pour Office pour Mac
 
@@ -56,11 +56,11 @@ Le tableau suivant fournit des informations sur les packages les plus récents, 
   
 |**Programme**|**Version**|**Package**|**Plus d’informations**|**Hachage SHA-1 / SHA-256**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mise à jour automatique Microsoft (AutoUpdate) (MAU)  <br/> |4.4 (18101400)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des versions pour MAU](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
-|Skype Entreprise  <br/> |16.22.0.160 <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |La dernière version a été publiée le 12 octobre 2018. <br/><br/>[Dernières mises à jour](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |
-|Bureau à distance | 10.2.2 (1291)  | [Télécharger](https://go.microsoft.com/fwlink/?linkid=868963) | Ce package d’installation est en 64 bits. <br/> <br/>[Nouveautés](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
+|Mise à jour automatique Microsoft (AutoUpdate) (MAU)  <br/> |4.4 (18101400)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des versions pour MAU](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
+|Skype Entreprise  <br/> |16.22.0.175 <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |La dernière version a été publiée le 22 octobre 2018. <br/><br/>[Dernières mises à jour](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 5D7B265631C304E21D39A2456CFC9E8932F36619504EC713809AFE5D78085AAC <br/> |
+|Bureau à distance | 10.2.2 (1291)  | [Télécharger](https://go.microsoft.com/fwlink/?linkid=868963) | Ce package d’installation est en 64 bits. <br/> <br/>[Nouveautés](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
 |Portail d’entreprise Intune |1.5 (52.1805002.000) [180509] | [Télécharger](https://go.microsoft.com/fwlink/?linkid=869655)| [Nouveautés de Microsoft Intune](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
-|Plug-in du navigateur Safari pour Microsoft SharePoint local pour Office 2016 pour Mac  <br/> |15.32.0 (170309)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |Ce package d’installation est en 64 bits.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
+|Plug-in du navigateur Safari pour Microsoft SharePoint local pour Office 2016 pour Mac  <br/> |15.32.0 (170309)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |Ce package d’installation est en 64 bits.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Historique des publications pour Office pour Mac
