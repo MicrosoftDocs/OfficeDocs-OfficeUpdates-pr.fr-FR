@@ -38,7 +38,7 @@
 ## [Mises à jour d’Office 2010](update-history-office-2010-click-to-run.md)
 
 # Produits Office Server
-## [Mises à jour d’Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+## [Mises à jour d’Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 ## [Mises à jour de Project Server](project-server-updates.md)
 ## [Mises à jour de SharePoint](sharepoint-updates.md)
 ## [Skype pour Business Server met à jour](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
