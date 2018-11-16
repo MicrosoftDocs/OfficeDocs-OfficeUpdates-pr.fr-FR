@@ -3,19 +3,19 @@ title: Historique des mises à jour pour les produits « Démarrer en un clic 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2010 qui utilisent la technologie « Démarrer en un clic »
-ms.openlocfilehash: b8dac3a66f54c2048c36e466925b0fa8badaf8f5
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: b45180ca519493021d840d3fb51aaac2c179183f
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456758"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296624"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historique des mises à jour pour les produits « Démarrer en un clic » Office 2010
 
@@ -30,9 +30,9 @@ Les produits Office 2010 suivants sont tenus à jour automatiquement à l’aid
 Si vous utilisez l’un de ces produits, et que vous souhaitez vérifier que vous êtes à jour, cherchez votre numéro de version Office et mettez manuellement à jour Office si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2010 est **14.0.7214.5000**, qui a été publiée le 9 octobre 2018. 
+> La version la plus récente d’Office 2010 est **14.0.7224.5000**, qui a été publié le 13 novembre 2018. 
   
-Pour vérifier votre version d’Office, procédez comme suit :
+Pour vérifier votre version d’Office, procédez comme suit :
   
 1. Ouvrez une application Office 2010, par exemple Word ou Excel.
     
@@ -54,11 +54,12 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2018 |9 octobre  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
+|2018 |13 novembre  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
+||9 octobre  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
 | |Le 11 septembre  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
 ||Le 14 août  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
-||10 juillet  <br/> |14.0.7211.5000  <br/> |[Article 4340798 de la Base de connaissances](https://support.microsoft.com/en-us/help/4340798) <br/> |
-||12 juin  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
+||10 juillet  <br/> |14.0.7211.5000  <br/> |[Article 4340798 de la Base de connaissances](https://support.microsoft.com/en-us/help/4340798) <br/> |
+||12 juin  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
 ||8 mai  <br/> |14.0.7209.5000  <br/> |[KB4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 avril  <br/> |14.0.7197.5000  <br/> |[KB4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
 ||13 mars  <br/> |14.0.7196.5000  <br/> |[KB4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
