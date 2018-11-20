@@ -3,7 +3,7 @@ title: Mises à jour de Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
-ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.openlocfilehash: 138bb48526568fd0349f270b9ee7f4f89afaaf3d
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024588"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296614"
 ---
 # <a name="project-server-updates"></a>Mises à jour de Project Server
 
@@ -28,8 +28,9 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
   
 ## <a name="project-server-2013-update-history"></a>Historique des mises à jour de Project Server 2013
   
-|**Date de sortie**|**Numéro KB**|
+|**Date de sortie**|**Numéro d’article de la Base de connaissances**|
 |:-----|:-----|:-----|
+|Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
 |Octobre 2018  <br/> |[Article de la base de connaissances 4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |Septembre 2018  <br/> |[Article de la base de connaissances 4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |Août 2018  <br/> |[Article de la base de connaissances 4032245](https://support.microsoft.com/kb/4032245) <br/>|
@@ -79,8 +80,9 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
    
 ## <a name="project-server-2010-update-history"></a>Historique des mises à jour de Project Server 2010
 
-|**Date de sortie**|**Numéro KB**|
+|**Date de sortie**|**Numéro d’article de la Base de connaissances**|
 |:-----|:-----|:-----|
+|Novembre 2018  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
 |Octobre 2018  <br/>  |[Article de la base de connaissances 4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Septembre 2018  <br/>  |[Article de la base de connaissances 4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |Août 2018  <br/>  |[Article de la base de connaissances 4092438](https://support.microsoft.com/kb/4092438) <br/>|

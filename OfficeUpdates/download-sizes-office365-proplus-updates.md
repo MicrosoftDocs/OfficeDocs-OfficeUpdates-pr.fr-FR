@@ -3,19 +3,19 @@ title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: cdef21f3a216ef3e53d9c61fa6d5b3887edd92dd
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 28cd4f213edada1ecb0cb10f240dfa30c7d950c5
+ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031663"
+ms.lasthandoff: 11/14/2018
+ms.locfileid: "26299087"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -37,20 +37,20 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 > - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum. 
 
 
-## <a name="november-11-2018"></a>11 novembre 2018
+## <a name="november-13-2018"></a>13 novembre 2018
 
 ### <a name="monthly-channel"></a>Canal mensuel
 
-La publication provisoire est la version 1810 <(build 11001.20094)>. 
+La version actuelle est la version 1810 (build 11001.20108). 
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 1809 (build 10827.20181)  <br/> |16 octobre 2018  <br/> |188<br/> |
-|Version 1809 (build 11001.20074)  <br/> |29 octobre 2018  <br/> |61<br/> |
+|Version 1809 (build 11001.20074)  <br/> |29 octobre 2018  <br/> |64<br/> |
 
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
 
-La publication provisoire est la version 1803 <(build 9126.2315)>.
+La version actuelle est la version 1803 (build 9126.2315).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -59,7 +59,7 @@ La publication provisoire est la version 1803 <(build 9126.2315)>.
 
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
-La publication provisoire est la version 1808 <(build 10730.20205)>.
+La version actuelle est la version 1808 (build 10730.20205).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|

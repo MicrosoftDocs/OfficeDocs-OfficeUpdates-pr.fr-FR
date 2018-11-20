@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office 365 ProPlus (classées par date
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par date, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: c58289c4e240af9a182bd82fc253e7f0df57bf23
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 70fe3128638a8453b5156d47a8b626e0aa5692d8
+ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031653"
+ms.lasthandoff: 11/14/2018
+ms.locfileid: "26299077"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -31,10 +31,10 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
  
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensuel  <br/> |1810  <br/> |11001.20074<br/> | 29 octobre 2018  <br/> |Publication de la version 1811 <br/>|
-|Semi-annuel (ciblé)  <br/> |1808  <br/> |10730.20155 <br/> | 9 octobre 2018  <br/> | 12 mars 2019 <br/>|
-|Semi-annuel <br/> |1803  <br/> | 9126.2295<br/> |9 octobre 2018  <br/> |  10 septembre 2019 <br/>|
-|Semi-annuel <br/> |1708  <br/> |8431.2316  <br/> |9 octobre 2018  <br/> |  12 mars 2019 <br/>|
+|Mensuel  <br/> |1810  <br/> |11001.20108<br/> | 13 novembre 2018  <br/> |Publication de la version 1811 <br/>|
+|Semi-annuel (ciblé)  <br/> |1808  <br/> |10730.20205 <br/> | 13 novembre 2018  <br/> | 12 mars 2019 <br/>|
+|Semi-annuel <br/> |1803  <br/> | 9126.2315<br/> | 13 novembre 2018  <br/> |  10 septembre 2019 <br/>|
+|Semi-annuel <br/> |1708  <br/> | 8431.2329  <br/> | 13 novembre 2018  <br/> |  12 mars 2019 <br/>|
 
 Pour plus d’informations sur la taille de téléchargement approximative lors de la mise à jour à partir d’une version précédente d’Office 365 ProPlus vers la version la plus récente, reportez-vous aux [tailles de téléchargement pour les mises à jour vers Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
@@ -44,6 +44,7 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 
 |**Année**|**Date de sortie**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2018|13 novembre |[Version 1810 (build 11001.20108)](monthly-channel-2018.md#version-1810-november-13)|[Version 1808 (build 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[Version 1803 (build 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [Version 1708 (build 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
 |2018|29 octobre |[Version 1810 (build 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |
 |2018|16 octobre |[Version 1809 (build 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
 |2018|9 octobre |[Version 1809 (build 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[Version 1808 (build 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[Version 1803 (build 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Version 1708 (build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
