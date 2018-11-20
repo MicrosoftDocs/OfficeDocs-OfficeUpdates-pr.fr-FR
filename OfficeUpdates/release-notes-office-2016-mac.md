@@ -7,15 +7,15 @@ ms.date: 11/15/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
-localization_priority: Priority
+localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office 2016 pour Mac à partir de septembre 2018
-ms.openlocfilehash: 479e50848de36ad16ffea8fabd5edcb8dc4d6bf3
-ms.sourcegitcommit: 48a8c199876f17579ae095e6d4665d41cfc99ed3
+ms.openlocfilehash: 20c7fa686db9f41396fff213c5098b10350399bb
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26538074"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618394"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Notes de publication pour Office 2016 pour Mac
 
