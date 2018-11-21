@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel (ciblé) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/19/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 4877f865b77fa11161c7180d1203bd2ee4066f59
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526409"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618434"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2018
 
@@ -37,9 +37,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 -   [CVE-2018-8522](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8522) : Vulnérabilité d’exécution de code à distance Microsoft Outlook 
 -   [CVE-2018-8524](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8524) : Vulnérabilité d’exécution de code à distance Microsoft Outlook 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8558): Vulnérabilité de divulgation d’informations Microsoft Outlook 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8558) : Vulnérabilité de divulgation d’informations Microsoft Outlook 
 -   [CVE-2018-8576](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8576) : Vulnérabilité d’exécution de code à distance Microsoft Outlook 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8579): Vulnérabilité de divulgation d’informations Microsoft Outlook 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8579) : Vulnérabilité de divulgation d’informations Microsoft Outlook 
 -   [CVE-2018-8582](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8582) : Vulnérabilité d’exécution de code à distance Microsoft Outlook 
 
 ### <a name="project-security-updates"></a>Project : Mises à jour de sécurité 
@@ -63,6 +63,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - Résolution d’un problème : les utilisateurs ne pouvaient pas utiliser correctement le bouton de contrôle Comptes pour basculer entre des comptes sur des formulaires personnalisés.
 - Résolution d’un problème : les utilisateurs étaient confrontés à un blocage lors de l’utilisation de ScanPST pour réparer un fichier OST/PST.
 - Résolution d’un problème : le champ Cc: dans certains e-mails ne s’affichait pas aux utilisateurs possédant des profils de mode en ligne.
+
+### <a name="onenote-non-security-updates"></a>OneNote : Mises à jour non relatives à la sécurité 
+
+- Correction d’un problème de stabilité qui peut se produire lors de la synchronisation et de l’accès à une section supprimée.
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité 
 
@@ -118,7 +122,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
  - **Modifications en collaboration :** travaillez avec d’autres personnes en même temps dans votre classeur. [En savoir plus](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **L’enregistrement automatique des fichiers cloud est désormais activé par défaut :** L’enregistrement automatique est activé par défaut dans la version de septembre 2018 du Canal semi-annuel (ciblé). Ce changement signifie que les utilisateurs n’ont plus à s’inquiéter de perdre des modifications apportées à des documents stockés sur OneDrive ou SharePoint Online. Les modifications sont automatiquement enregistrées dans le cloud, et les utilisateurs n’ont plus à appuyer sur Ctrl+S ou sur le bouton Enregistrer. Ils doivent cependant comprendre ce changement de comportement afin de ne pas modifier accidentellement des documents. Notez que les utilisateurs peuvent désactiver l’enregistrement automatique à l’aide du bouton bascule Enregistrement automatique dans la partie supérieure de l’écran. Nous vous recommandons d’informer vos utilisateurs de ce prochain changement et de leur expliquer comment tirer le meilleur parti de cette nouvelle fonctionnalité dans Office 365. [En savoir plus sur l’enregistrement automatique](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Apprenez-en davantage sur ce que les administrateurs informatiques doivent savoir concernant la fonctionnalité Enregistrement automatique](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **Modification des cellules et de la barre de formule améliorée :** Vous pouvez désormais utiliser CTRL+A pour sélectionner du texte dans une cellule ou la barre de formule. Les emojis et autres caractères complexes seront également mieux pris en charge. [En savoir plus](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Modification des cellules et de la barre de formule améliorée :** vous pouvez désormais utiliser CTRL+A pour sélectionner du texte dans une cellule ou la barre de formule. Les emojis et autres caractères complexes seront également mieux pris en charge. [En savoir plus](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Améliorations apportées au vérificateur d’accessibilité :** le vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos classeurs plus accessibles. [En savoir plus](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Éviter des modifications indésirables :** Paramétrez vos classeurs de façon à ce qu’ils s’ouvrent en lecture seule pour empêcher toute modification accidentelle. Accédez à Fichier > Informations > Protéger le classeur > Toujours ouvrir en lecture seule
 
