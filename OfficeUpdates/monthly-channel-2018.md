@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 11/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
+ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706648"
+ms.lasthandoff: 11/29/2018
+ms.locfileid: "26987094"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -37,7 +37,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Zoom et conserver :** au lieu d’ajuster le Zoom chaque fois que vous lisez un message, choisir la valeur par défaut à utiliser pour tous vos messages.  [En savoir plus](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
 - **Déplacement de messages Outlook asynchrone :** déplacer les messages de façon asynchrone pour augmenter la productivité pour les utilisateurs d’Outlook.
-- **Amélioration des expériences activé / désactivé de la boîte de réception prioritaire :** messages non lus à afficher sur tous les dossiers, pas seulement la boîte de réception lorsque la boîte de réception prioritaire est désactivée. Trier par état d’indicateur ajouté. Meilleure interaction avec la boîte de réception prioritaire par recherche : la boîte de réception prioritaire reste jusqu'à ce que commence une recherche. Texte 'Résultats' affiché une fois la recherche terminée.
+- **Afficher les détails LinkedIn des personnes dans Outlook :** à présent, lorsque vous ouvrez la carte de visite d’un contact, vous pouvez en savoir plus à son sujet en consultant son profil LinkedIn.
+- **Amélioration des expériences avec la boîte de réception Prioritaire activée ou non :** pour les clients qui n’utilisent pas la boîte de réception Prioritaire, nous avons remis en place l’onglet Non lu dans la liste des messages au sein de tous les dossiers. Nous avons également ajouté un tri par indicateur pour faciliter la recherche des éléments avec indicateur. Enfin, nous avons amélioré le modèle d’interaction de la boîte de réception Prioritaire avec la recherche : la boîte de réception Prioritaire reste en place jusqu'à ce qu’un utilisateur commence à effectuer une recherche et le texte « Résultats » apparaît une fois la recherche terminée.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 
