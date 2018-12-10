@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180774"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194915"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -90,8 +90,8 @@ La version actuelle est la version 1803 (build 9126.2315).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1803 (build 9126.2282) <br/> |9 octobre 2018  <br/> |61 <br/> |
-|Version 1803 (build 9126.2282)  <br/> |11 septembre 2018  <br/> |58<br/> |
+|Version 1803 (build 9126.2295) <br/> |9 octobre 2018  <br/> |61 <br/> |
+|Version 1803 (build 9126.2282)  <br/> |11 septembre 2018  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
@@ -192,7 +192,7 @@ La version actuelle est la version 1803 (build 9126.2282).
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 1803 (build 9126.2259)  <br/> |10 juillet 2018  <br/> |99  <br/> |
-|Version 1708 (build 9126.2275)  <br/> |14 août 2018  <br/> |99 <br/> |
+|Version 1803 (build 9126.2275)  <br/> |14 août 2018  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
@@ -233,8 +233,8 @@ La version actuelle est la version 1803 (build 9126.2275).
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1803 (build 8431.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
-|Version 1708 (build 8431.2270)  <br/> |12 juin 2018  <br/> |279  <br/> |
+|Version 1803 (build 9126.2259)  <br/> |10 juillet 2018  <br/> |86  <br/> |
+|Version 1708 (build 8431.2280)  <br/> |10 juillet 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
