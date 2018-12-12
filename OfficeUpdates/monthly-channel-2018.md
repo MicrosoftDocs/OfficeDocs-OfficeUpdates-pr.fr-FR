@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/29/2018
+ms.date: 12/04/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
+ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26987094"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "27154822"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -25,6 +25,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large.Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1811-november-27"></a>Version 1811 : 27 novembre
 *Version 1811 (build 11029.20079)* 
@@ -39,6 +40,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Déplacement de messages Outlook asynchrone :** déplacer les messages de façon asynchrone pour augmenter la productivité pour les utilisateurs d’Outlook.
 - **Afficher les détails LinkedIn des personnes dans Outlook :** à présent, lorsque vous ouvrez la carte de visite d’un contact, vous pouvez en savoir plus à son sujet en consultant son profil LinkedIn.
 - **Amélioration des expériences avec la boîte de réception Prioritaire activée ou non :** pour les clients qui n’utilisent pas la boîte de réception Prioritaire, nous avons remis en place l’onglet Non lu dans la liste des messages au sein de tous les dossiers. Nous avons également ajouté un tri par indicateur pour faciliter la recherche des éléments avec indicateur. Enfin, nous avons amélioré le modèle d’interaction de la boîte de réception Prioritaire avec la recherche : la boîte de réception Prioritaire reste en place jusqu'à ce qu’un utilisateur commence à effectuer une recherche et le texte « Résultats » apparaît une fois la recherche terminée.
+- **Bloquage du téléchargement de contenu externe par défaut dans les e-mails signés et chiffrés SMIME :** en raison d’une vulnérabilité dans le protocole SMIME, Outlook bloque le téléchargement de contenu externe dans les messages qui ont été chiffrés ou signés à l’aide de SMIME. Les utilisateurs ne pourront pas télécharger du contenu externe encliquant une seule fois dessus via l’interface utilisateur d’Outlook afin de réduire la vulnérabilité de sécurité. Il existe une nouvelle option dans la boîte de dialogue Options qui permet aux utilisateurs de revenir à l’ancien comportement. 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 
