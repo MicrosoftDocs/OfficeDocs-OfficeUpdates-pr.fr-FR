@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel (ciblé) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/19/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618434"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241515"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2018
 
@@ -24,6 +24,55 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+
+ 
+> [!NOTE]
+> - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+
+## <a name="version-1808-december-11"></a>Version 1808 : 11 Décembre 
+*Version 1808 (Build 10730.20262)*
+
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8598): Vulnérabilité de divulgation d’informations Microsoft Excel 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8636) : Vulnérabilité d’exécution de code à distance Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8587): Vulnérabilité d’exécution de code à distance Microsoft Outlook  
+
+### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint 
+
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité 
+
+- Résolution du problème dans les sessions de co-création où un segment n'est pas correctement mis à jour après qu’un autre utilisateur applique un filtre de colonne aux données de ce segment.
+- Résolution du problème dans une session de co-création où un des utilisateurs efface la légende dans un segment, ce qui amène Excel à se bloquer pour un autre utilisateur de la session de co-création.
+- Résolution du blocage lors de la création de plusieurs segments de tableau liés à la même colonne de données puis suppression de cette colonne de données.
+- Résolution du problème qui parfois bloquait Excel lors que l’actualisation d’un tableau de requêtes filtrées contenant du texte renvoyé à la ligne dans les cellules lorsque l’option pour ajuster automatiquement la largeur des colonnes était désactivée.
+- Résolution d’un problème dans lequel segments enregistrés dans Excel 2007 peuvent déclencher un blocage lorsqu’ils sont ouverts dans les versions plus récentes d’Excel si le nombre d’éléments affichés dans les segments change.
+- Résolution du problème dans lequel les utilisateurs rencontraient des blocages lors de l’ouverture du dossier Historique des conversations.
+- Présente la prise en charge du bouton Obtenir Diagnostics pour simplifier l’enquête de demandes de support.
+
+### <a name="outlook-non-secirity-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+
+- Résolution du problème qui amenait les utilisateurs à voir une erreur lors du démarrage de la boîte de dialogue « Gérer les règles et alertes ».
+- Résolution du problème qui faisait que les utilisateurs ne pouvaient pas se connecter à leurs boîtes aux lettres via DirectAccess lors de l’utilisation d’une connexion limitée.
+- Résolution du problème amenant les utilisateurs à voir les documents gratuits stockés dans les Dossiers Publics être ouverts en « Mode protégé ».
+- Résolution du problème selon lequel les utilisateurs avaient des pièces jointes inattendues lors du transfert d’éléments comportant des pièces jointes dans le texte de transfert.
+- Résolution du problème qui causait les fichiers OFT à avoir un rendu de mauvaise qualité après avoir été envoyés en pièce jointe.
+- Résolution du problème qui entraînait certains utilisateurs de compléments à être bloqués lors de l’ajout d’une réunion dans un calendrier partagé. 
+
+### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
+
+- Résolution du problème autour d’une nouvelle devise vénézuélienne prise en charge dans Project.
+- Résolution du problème dans lequel Project peut se bloquer lors de l’utilisation d’une Surface 4 connectée à un moniteur externe.
+- Résolution du problème dans lequel Project peut se bloquer lors de l’enregistrement d’un projet dans le format XML.
+- Résolution du problème où les champs personnalisés d’entreprise ressource peuvent être supprimés après avoir modifié un calendrier de ressource.
+- Résolution du problème qui amenait les utilisateurs à rencontrer des blocages lors de la recherche de noms coréens.
 
 ## <a name="version-1808-november-13"></a>Version 1808 : 13 novembre
 *Version 1808 (build 10730.20205)*
