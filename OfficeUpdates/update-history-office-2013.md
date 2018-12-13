@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions définitives d’Office 2013 qui utilisent Démarrer en un clic
-ms.openlocfilehash: 12f398ed28d41cda77c3bb6395bb34bd0d9bd9d8
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: c9bc33cbb9fbac0fece3da84a954f99eed8a33bd
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296604"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241405"
 ---
 # <a name="update-history-for-office-2013"></a>Historique des mises à jour pour Office 2013
 
@@ -46,7 +46,7 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2018 |13 novembre   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/fr-FR/help/4469617)  |
+|2018|13 novembre   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/fr-FR/help/4469617)  |
 ||9 octobre   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/fr-FR/help/4464656)  |
 | |11 septembre   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/fr-FR/help/4459402)  |
 ||14 Août   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/fr-FR/help/4346823)  |
