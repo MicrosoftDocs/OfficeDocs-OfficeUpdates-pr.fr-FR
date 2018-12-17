@@ -3,19 +3,19 @@ title: Dernières mises à jour pour les versions d’Outlook qui utilisent Wind
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 12/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Outlook 2016, Outlook 2013 et Outlook 2010
-ms.openlocfilehash: ac904d82c5c8e728c1fa1103c5cd241592de90dd
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: 2f955b1cf34610e396aa7353318fda2c295ca048
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296564"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241285"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Outlook qui utilisent Windows Installer (MSI)
 
@@ -44,18 +44,18 @@ La compatibilité d’Outlook avec Office 365 et votre environnement local dép
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Mise à jour publique de novembre 2018 <br/>[KB4461506](https://support.microsoft.com/help/4461506) <br/><br/> PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de décembre 2018 <br/>[ARTICLE 4461544 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/help/4461544) <br/><br/> PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Mises à jour d’Outlook 2013
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de décembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Mise à jour publique de novembre 2018 <br/>[KB4461486](https://support.microsoft.com/help/4461486) <br/><br/>  PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de décembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |PU de décembre 2018 <br/>[ARTICLE 4461556 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/help/4461556) <br/><br/>  PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Mises à jour d’Outlook 2010
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |PU d’octobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  PU d’avril 2015 pour Office 2010 pour MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/fr-FR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Mise à jour publique de novembre 2018 <br/>[KB4461529](https://support.microsoft.com/help/4461529) <br/><br/>  PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2010 <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |PU d’octobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  PU d’avril 2015 pour Office 2010 pour MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/fr-FR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |PU de décembre 2018 <br/>[ARTICLE 4461576 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/help/4461576) <br/><br/>  PU d’août 2016 pour le filtre anti-courrier indésirable d’Outlook 2010 <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
    
 

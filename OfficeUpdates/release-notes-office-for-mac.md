@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: c38a599be2719cd869d4265c1a387ae1764d3635
-ms.sourcegitcommit: 635e48db44bb7ba94f298748ad90dfc55843fb5c
+ms.openlocfilehash: 99fef039dcc905c0d0e71df61941951f993570cc
+ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2018
-ms.locfileid: "27134265"
+ms.lasthandoff: 12/14/2018
+ms.locfileid: "27279705"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -33,6 +33,24 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Les liens de téléchargement sont fournis uniquement pour les versions les plus récentes.
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large.Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="december-2018-release"></a>Version de décembre 2018
+
+ **Date de publication :** 11 décembre 2018 
+  
+ *Version 16.20.0 (build 18120801)* 
+  
+Cette version inclut les mises à jour suivantes :
+
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+|:-----|:-----|:-----|
+|Word  <br/>| **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Conservez l’apparence de votre texte :** incorporez des polices pour vous assurer que le texte de votre document a le même aspect, quel que soit l’ordinateur. Plus de surprise ! [En savoir plus](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>| |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Passez de l’iPhone à PowerPoint en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre diapositive depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Outlook  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Partagez votre calendrier :** partagez votre calendrier avec votre famille, vos amis et collègues. Ouvrez les calendriers partagés avec vous sur un Mac, un PC ou les versions cloud d’Outlook. [En savoir plus](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Désactivez le transfert pour une réunion :** empêchez les participants de transférer vos réunions à d’autres personnes. [En savoir plus](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Utilisez Teams pour vous connecter à vos réunions :** vous travaillez avec des équipes à distance ? Utilisez Teams dans Outlook pour planifier et participer à des réunions en ligne. [En savoir plus](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Affichez les participants aux réunion :** cliquez sur une réunion ou un événement dans votre calendrier pour afficher qui prévoit d’être présent.<br/><br/> **Affichez trois fuseaux horaires :** vous devez planifier une réunion sur plusieurs fuseaux horaires ? Ajoutez plusieurs fuseaux horaires à votre calendrier pour voir facilement la disponibilité des participants et choisissez un horaire qui convient à tout le monde. [En savoir plus](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
+|Mise à jour automatique Microsoft 4.6 <br/>| Mise à jour des catalogues de sécurité pour qu’ils contiennent les codes de hachage SHA-256 au lieu de SHA-1 <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
+|Suite Office  <br/>| |<br/>||
+
 
 ## <a name="november-2018-release"></a>Version de novembre 2018
 
@@ -62,7 +80,7 @@ Cette version inclut les mises à jour suivantes :
 |**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
 |Word  <br/>|||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
-|Excel  <br/>|**Collaborez à l’aide de commentaires :** insérez la conversation directement dans votre feuille de calcul avec la zone de réponse intégrée. [En savoir plus](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **Apprenez-en davantage sur vos données :** le nouveau bouton Idées recherche des modèles dans vos données, et les utilise pour créer des suggestions intelligentes, personnalisées. [En savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **Plus d’automatisation du remplissage automatique :** lorsque vous tapez une formule, le menu Remplissage autom. s’affiche, montrant les options d’argument disponibles.  <br/><br/> **Navigation VoiceOver désormais améliorée :** vous utilisez VoiceOver dans Excel ? Déplacez-vous dans les feuilles en appuyant sur VO+U. Vous pouvez également activer le Trackpad Commander macOS pour faire cela. <br/> ||[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
+|Excel  <br/>|**Collaborez à l’aide de commentaires :** insérez la conversation directement dans votre feuille de calcul avec la zone de réponse intégrée. [En savoir plus](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **Plus d’automatisation du remplissage automatique :** lorsque vous tapez une formule, le menu Remplissage autom. s’affiche, montrant les options d’argument disponibles.  <br/><br/> **Navigation VoiceOver désormais améliorée :** vous utilisez VoiceOver dans Excel ? Déplacez-vous dans les feuilles en appuyant sur VO+U. Vous pouvez également activer le Trackpad Commander macOS pour faire cela. <br/> ||[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Rendez vos images accessibles :** lorsque vous insérez une image, Office suggère des légendes lisibles par des personnes souffrant de troubles de la vision.  <br/><br/> **Les déclencheurs d’animation sont là :** Vous les avez demandés ! Les déclencheurs d’animation ne sont plus réservés à Windows. Vous pouvez y accéder sous l’onglet Animations. [En savoir plus](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**Recherche améliorée :** sélectionnez la zone de recherche pour obtenir des suggestions rapides basées sur votre historique de recherche récent. Aucune saisie n’est nécessaire.  [En savoir plus](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
 |Suite Office  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8432) Vulnérabilité d’exécution de code à distance des composants de graphique Microsoft <br/>||
