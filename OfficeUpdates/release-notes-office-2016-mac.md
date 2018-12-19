@@ -3,19 +3,19 @@ title: Notes de publication pour Office 2016 pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/13/2018
+ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office 2016 pour Mac à partir de septembre 2018
-ms.openlocfilehash: 02d05f36f123836b81a66ea1ba3646d88ab05b69
-ms.sourcegitcommit: 7941e614327f57d4269e7840cbbc276fac781297
+ms.openlocfilehash: 442b8bcd1934733a2358598e1caf440ead72b5eb
+ms.sourcegitcommit: f8141088dc76d6e8104fa97eb1003743b1381e27
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/13/2018
-ms.locfileid: "27258470"
+ms.lasthandoff: 12/17/2018
+ms.locfileid: "27294514"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Notes de publication pour Office 2016 pour Mac
 
@@ -36,7 +36,7 @@ Le tableau suivant répertorie les packages les plus récents pour Office 2016 
 
 |**Application**|**Version**|**Liens de téléchargement**|**Codes de hachage SHA256 pour le package d’installation**|
 |:-----|:-----|:-----|:-----|
-|Suite Office (toutes les applications)  <br/> |16.16.5 (18120901) <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |0EDCD514D578FFF9A998B117B8BCD7E2C34F3111DFBB83842D975CE6D85766DF  <br/> |
+|Suite Office (toutes les applications)  <br/> |16.16.5 (18120901) <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |5F3874464F179FDC432BB225F120F95734660C9F7745D3D447FA60DA915F1AF1  <br/> |
 |Word  <br/> |16.16.5 (18120901)   <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.18120901_Updater.pkg) <br/> |DFFDE425F9D113D2718C4227E974BFC4FB07D160CAEA611FB6FC18230AB3E2DF <br/>|
 |Excel  <br/> |16.16.5 (18120901)  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/> |6851775F9B0C3F6D23A182861C63578DFF70167D413A70910D76281317BDAD25 <br/>  |
 |PowerPoint  <br/> |16.16.5 (18120901)   <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/> | 9BE23E5ECD9B0EECB940E36FCF78DB42A958DEC97D897F6890F999426FE754F4<br/> |
@@ -72,8 +72,8 @@ Cette version inclut les mises à jour suivantes.
   
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
-|Word  <br/> ||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777OfficeMac/Microsoft_Word_16.16.18111001_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8574](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8574) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8577) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OffoiceMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/>|
+|Word  <br/> ||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18111001_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8574](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8574) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8577) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18111001_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18111001_Updater.pkg) <br/>|
 |OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18111001_Updater.pkg)|
