@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office 365 ProPlus (classées par date
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 1/3/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par date, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: 751079b24cfe9ac537ad2dc61f4c79ee637e5a1a
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: fb609e400e9c091545ee3a0ae7248a1046c3018b
+ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241425"
+ms.lasthandoff: 01/04/2019
+ms.locfileid: "27525775"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -31,7 +31,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
  
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensuel  <br/> |1811  <br/> |11029.20108<br/> | 11 décembre 2018  <br/> |Publication de la version 1812 <br/>|
+|Mensuel  <br/> |1812  <br/> |11126.20188<br/> | 3 janvier 2019 <br/> |Publication de la version 1901 <br/>|
 |Semi-annuel (ciblé)  <br/> |1808  <br/> |10730.20262 <br/> | 11 décembre 2018  <br/> | 12 mars 2019 <br/>|
 |Semi-annuel <br/> |1803  <br/> | 9126.2336<br/> | 11 décembre 2018 <br/> |  10 septembre 2019 <br/>|
 |Semi-annuel <br/> |1708  <br/> | 8431.2351  <br/> | 11 décembre 2018 <br/> |  12 mars 2019 <br/>|
@@ -44,6 +44,7 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 
 |**Année**|**Date de sortie**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|3 janvier   |[Version 1812 (build 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018|11 décembre |[Version 1811 (build 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[Version 1808 (Build 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Version 1803 (build 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Version 1708 (build 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27 novembre   |[Version 1811 (build 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
 |2018|13 novembre |[Version 1810 (build 11001.20108)](monthly-channel-2018.md#version-1810-november-13)|[Version 1808 (build 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[Version 1803 (build 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [Version 1708 (build 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
