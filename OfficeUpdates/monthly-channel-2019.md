@@ -1,0 +1,63 @@
+---
+title: Notes de publication pour les publications du canal mensuel en 2019
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 01/03/2019
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
+ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
+ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.translationtype: HT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 01/04/2019
+ms.locfileid: "27724917"
+---
+# <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
+
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités, mises à jour de sécurité et mises à jour non relatives à la sécurité incluses dans les mises à jour du canal mensuel vers Office 365 ProPlus en 2019.
+ 
+ > [!NOTE]
+> - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
+> - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+> - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large.Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+ > [!NOTE]
+> - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md). 
+
+## <a name="version-1812-january-3"></a>Version 1812 : 3 janvier
+*Version 1812 (build 11126.20188)* 
+
+### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
+- **Découvrez Microsoft Graph :** importer ou lier des données intelligentes et réinventer votre base de données de bureau avec la Technologie Intelligente. [En savoir plus](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
+
+### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
+
+- **Conserver le vérificateur d’accessibilité en cours d’exécution pendant que vous travaillez :** effectuer le suivi des problèmes d’accessibilité dans votre document sans nécessiter l’ouverture en continu du vérificateur d’accessibilité. Via un indicateur dans la barre d’état, comme la vérification orthographique, Excel détecte les problèmes d’accessibilité pendant que vous travaillez. 
+
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+
+- **Toutes vos options de chiffrement au même endroit :** Accédez aux Options > Chiffrer pour choisir la sécurisation de votre courrier électronique. [En savoir plus](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
+
+- **Insertion d’entrées manuscrites sur une diapositive :** Convertir vos entrées manuscrites en formes standard et texte, puis obtenir des idées de conception de diapositive intelligente à partir de PowerPoint Designer. [En savoir plus](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+- **Conserver le vérificateur d’accessibilité en cours d’exécution pendant que vous travaillez :** effectuer le suivi des problèmes d’accessibilité dans votre document sans nécessiter l’ouverture en continu du vérificateur d’accessibilité. Via un indicateur dans la barre d’état, comme la vérification orthographique, PowerPoint détecte les problèmes d’accessibilité pendant que vous travaillez. 
+
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+
+- **Améliorer la compréhension avec Line Focus :** Parcourir un document ligne par ligne sans subir de distractions. Ajuster le focus pour placer une, trois ou cinq lignes visibles à la fois. [En savoir plus](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **De statique à époustouflant - Transformer votre document :** Transformer votre document en une page web interactive et facile à partager, qui s’affiche parfaitement sur n’importe quel appareil. [En savoir plus](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Conserver le vérificateur d’accessibilité en cours d’exécution pendant que vous travaillez :** effectuer le suivi des problèmes d’accessibilité dans votre document sans nécessiter l’ouverture en continu du vérificateur d’accessibilité. Via un indicateur dans la barre d’état, comme la vérification orthographique, Word détecte les problèmes d’accessibilité pendant que vous travaillez. 
+
+### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
+
+- **Dites au revoir aux liens rompus Excel :** Vous ne trouvez pas le classeur Excel lié à votre diagramme du visualiseur de données ? Recréez un lien vers celui-ci et c’est reparti. [En savoir plus](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+
+
+
