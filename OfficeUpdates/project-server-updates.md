@@ -3,7 +3,7 @@ title: Mises à jour de Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
-ms.openlocfilehash: 138bb48526568fd0349f270b9ee7f4f89afaaf3d
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: 78cf1ddaab810b239d74b4276ef12bb04a097ddb
+ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296614"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "27770105"
 ---
 # <a name="project-server-updates"></a>Mises à jour de Project Server
 
@@ -30,6 +30,8 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
   
 |**Date de sortie**|**Numéro d’article de la Base de connaissances**|
 |:-----|:-----|:-----|
+|Janvier 2019  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
+|Décembre 2018  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
 |Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
 |Octobre 2018  <br/> |[Article de la base de connaissances 4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |Septembre 2018  <br/> |[Article de la base de connaissances 4092475](https://support.microsoft.com/kb/4092475) <br/>|
@@ -82,6 +84,8 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 
 |**Date de sortie**|**Numéro d’article de la Base de connaissances**|
 |:-----|:-----|:-----|
+|Janvier 2019  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
+|Décembre 2018  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|
 |Novembre 2018  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
 |Octobre 2018  <br/>  |[Article de la base de connaissances 4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Septembre 2018  <br/>  |[Article de la base de connaissances 4092484](https://support.microsoft.com/kb/4092484) <br/>|

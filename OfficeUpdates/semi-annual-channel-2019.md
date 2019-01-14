@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: da269198a90b18ef62ae293273028d7206efd330
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: e6c20afbeb967d0fc3c559e5be7f798b51b6d7bd
+ms.sourcegitcommit: 3cabf1996522b156bf438969f8aa086f54baec7d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773184"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27777450"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -31,6 +31,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ## <a name="version-1808-january-8"></a>Version 1808 : 8 janvier
 *Version 1808 (build 10730.20264)*
+
+### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
+
+ - **Visualisez des données avec de nouveaux graphiques :** faites votre choix parmi 11 graphiques et ajoutez-en un à vos formulaires et rapports pour mieux visualiser les données et prendre des décisions en connaissance de cause. [En savoir plus](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
  - **Modifications en collaboration :** travaillez avec d’autres personnes en même temps dans votre classeur. [En savoir plus](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
