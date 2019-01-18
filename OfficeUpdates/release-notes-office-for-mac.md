@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/14/2018
+ms.date: 01/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 99fef039dcc905c0d0e71df61941951f993570cc
-ms.sourcegitcommit: 6c090794632dc563050b8457ed2058dbe98791ea
+ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2018
-ms.locfileid: "27279705"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325454"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -33,6 +33,23 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Les liens de téléchargement sont fournis uniquement pour les versions les plus récentes.
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="january-2019-release"></a>Version de janvier 2019
+
+ **Date de publication :** 16 janvier 2019 
+  
+ *Version 16.21.0 (build 190101500)* 
+  
+Cette version inclut les mises à jour suivantes :
+
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+|:-----|:-----|:-----|
+|Word  <br/>| **Passez de l’iPhone à Word en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre document depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos documents pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>| [CVE-2019-0561 :](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0561) vulnérabilité de divulgation d’informations Microsoft Word  <br/><br/> [CVE-2019-0585 :](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0585) vulnérabilité d’exécution de code à distance Microsoft Word |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **Collaborez à l’aide de commentaires :** insérez la conversation directement dans votre feuille de calcul avec la zone de réponse intégrée. [En savoir plus](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos feuilles de calcul :** appliquez des étiquettes de niveau de confidentialité à vos feuilles de calcul pour qu’elles restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/> | <br/><br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Imprimer les numéros de diapositive dans les documents :** lorsque vous imprimez une présentation sous forme de document, chaque diapositive comporte le numéro de diapositive correspondant. <br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos présentations :** appliquez des étiquettes de niveau de confidentialité à vos présentations pour qu’elles restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **Appliquez des étiquettes de niveau de confidentialité à vos messages :** appliquez des étiquettes de niveau de confidentialité à vos messages pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Mise à jour automatique Microsoft (AutoUpdate) 4.7 <br/>| Le démon AutoUpdate se lance désormais dans le cadre du processus d’installation. Cela permet de clarifier les boîtes de dialogue de sécurité que les utilisateurs voyaient auparavant. <br/><br/> Les fonctionnalités de sécurité de la mise à jour automatique Microsoft (AutoUpdate) ont été améliorées pour prendre en charge les certificats SHA256. <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
 
 ## <a name="december-2018-release"></a>Version de décembre 2018
 

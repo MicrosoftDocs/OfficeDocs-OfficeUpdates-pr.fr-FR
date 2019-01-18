@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 990e7afafea208c46e58d2e2b11dd6ec7555c7af
-ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
+ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "27992118"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325434"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -151,6 +151,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - Résolution d’un problème qui entraînait l’affichage d’un message indiquant une mémoire insuffisante.
 - Résolution d’un ensemble de problèmes qui empêchaient certains utilisateurs d’ouvrir les e-mails et les documents protégés par IRM partagés avec eux par des personnes d’autres organisations.
 - Problèmes de performances du serveur résolus.
+- Amélioration des performances d’ouverture.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 - Résolution d’un problème lié à la prise en charge de TLS 1.2. (Remarque : il s’agit du correctif déjà mentionné dans les notes du 10 avril ainsi qu’ici nouveau dans le cadre du correctif cumulatif de septembre.)
