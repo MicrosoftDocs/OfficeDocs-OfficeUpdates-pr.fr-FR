@@ -3,19 +3,19 @@ title: Historique des mises à jour pour les produits « Démarrer en un clic 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2010 qui utilisent la technologie « Démarrer en un clic »
-ms.openlocfilehash: a13085d71336e28d919e9d0097320afa6ebe67df
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: e0bae21f1bc795ab1e7e70f8b93784db2eed677b
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241385"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27770155"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historique des mises à jour pour les produits « Démarrer en un clic » Office 2010
 
@@ -30,7 +30,7 @@ Les produits Office 2010 suivants sont tenus à jour automatiquement à l’aid
 Si vous utilisez l’un de ces produits, et que vous souhaitez vérifier que vous êtes à jour, cherchez votre numéro de version Office et mettez manuellement à jour Office si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2010 est **14.0.7224.5000**, qui a été publié le 13 novembre 2018. 
+> La version la plus récente d’Office 2010 est **14.0.7228.5000**, qui a été publiée le 8 janvier 2019. 
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -54,6 +54,7 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
+|2019|8 janvier  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |
 |2018|13 novembre  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
 ||9 octobre  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
 | |11 septembre  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
