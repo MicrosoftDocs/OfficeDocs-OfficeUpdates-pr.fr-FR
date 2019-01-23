@@ -41,7 +41,8 @@
       "breadcrumb_path": "/OfficeUpdates/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "searchScope": ["Office Updates"],
-      "feedback_system": "GitHub",
+      "feedback_system": "None",
+      "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-OfficeUpdates",
       "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates/issues",
       "bilingual_type": "hover over"
