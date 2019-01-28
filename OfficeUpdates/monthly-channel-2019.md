@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27724917"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442060"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -29,11 +29,20 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md). 
 
+## <a name="version-1812-january-14"></a>Version 1812 : 14 janvier
+*Version 1812 (build 11126.20266)* 
+
+Mises à jour non relatives à la sécurité uniquement. Plus d’informations bientôt disponibles.
+
+
+## <a name="version-1812-january-8"></a>Version 1812 : 8 janvier
+*Version 1812 (build 11126.20196)* 
+
+### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
+- Résolution d’un problème : vous ne pouviez pas désélectionné les styles des barres Critical, Late et Slack pour le diagramme de Gantt une fois que vous en aviez sélectionné un.
+
 ## <a name="version-1812-january-3"></a>Version 1812 : 3 janvier
 *Version 1812 (build 11126.20188)* 
-
-### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
-- **Découvrez Microsoft Graph :** importer ou lier des données intelligentes et réinventer votre base de données de bureau avec la Technologie Intelligente. [En savoir plus](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
 
@@ -61,3 +70,5 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
+> [!NOTE]
+> Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
