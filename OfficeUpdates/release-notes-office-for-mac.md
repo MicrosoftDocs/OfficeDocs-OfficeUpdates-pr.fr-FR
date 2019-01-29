@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/16/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28726707"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530289"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -35,6 +35,25 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="january-2019-release"></a>Version de janvier 2019
+
+ **Date de publication :** 24 janvier 2019 
+  
+ *Version 16.21.0 (build 19011700)*
+
+ Cette version inclut les mises à jour suivantes :
+
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+|:-----|:-----|:-----|
+|Word  <br/>| Résolution d’un problème : il concernait la localisation en chinois.<br/><br/>| |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
+|Outlook  <br/>| Résolution d’un problème : il concernait la localisation en chinois.<br/><br/>  | |[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
+
+ **Date de publication :** 23 janvier 2019 
+  
+ *Version 16.21.0 (build 190102303)* Cette version inclut les mises à jour suivantes :
+ 
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+ |:-----|:-----|:-----|
+ |Excel  <br/>| Résolution d’un problème : l’espacement entre les caractères rétrécissait lorsque des caractères unicode et non unicode étaient mélangés. <br/><br/> | <br/><br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19012303_Updater.pkg) <br/>|
 
  **Date de publication :** 16 janvier 2019 
   
