@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 1/29/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
+ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325434"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29647019"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -109,9 +109,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Donnez un titre à vos diapositives avec un stylet :** utilisez votre stylet pour écrire un titre, puis regardez PowerPoint le convertir en texte. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Éviter des modifications indésirables :** Paramétrez vos classeurs de façon à ce qu’ils s’ouvrent en lecture seule pour empêcher toute modification accidentelle. Accédez à Fichier > Informations > Protéger le classeur > Toujours ouvrir en lecture seule
 - **Améliorations apportées au vérificateur d’accessibilité :** le vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos présentations plus accessibles. [En savoir plus](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
--  **Proposez un questionnaire ou une enquête à votre public:** insérez un questionnaire ou une enquête sur une diapositive. Office collecte et stocke les réponses pour vous. [En savoir plus](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Mises à jour non relatives à la sécurité
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 - Résolution d’un problème : des fichiers comportant du contenu ActiveX pouvaient être endommagés lors de leur enregistrement.
 - Résolution d’un problème : les tableaux étaient indûment affichés avec des bordures épaisses.
 - Résolution d’un problème : un blocage potentiel se produisait parfois lors de la modification de la propriété Shape.Visibile.
