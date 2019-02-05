@@ -43,7 +43,7 @@
 | 1/11/2019 | [Notes de publication pour les publications du Canal semi-annuel en 2019](/OfficeUpdates/semi-annual-channel-2019) | modifié |
 
 
-## <a name="week-of-january-14-2019"></a>Semaine du 14 janvier, 2019
+## <a name="week-of-january-14-2019"></a>Semaine du 14 janvier 2019
 
 
 | Publié le |Titre de la rubrique | Modification |
@@ -71,4 +71,19 @@
 | 1/24/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
 | 1/24/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
 | 1/24/2019 | [Notes de mise à jour pour Office pour Mac](/OfficeUpdates/release-notes-office-for-mac) | modifié |
-| 1/24/2019 | [Historique mises à jour pour Office pour Mac](/OfficeUpdates/update-history-office-for-mac) | Modifié le |
+| 1/24/2019 | [Historique mises à jour pour Office pour Mac](/OfficeUpdates/update-history-office-for-mac) | modifié |
+
+
+## <a name="week-of-january-28-2019"></a>Semaine du 28 janvier, 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 1/31/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
+| 1/31/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
+| 1/31/2019 | [Notes de publication pour les publications du Canal semi-annuel en 2019](/OfficeUpdates/semi-annual-channel-2019) | modifié |
+| 1/31/2019 | [Historique mises à jour pour Office pour Mac](/OfficeUpdates/update-history-office-for-mac) | modifié |
+| 1/31/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | modifié |
+| 1/2/2019 | [Historique de mise à jour pour Office mensuel canal (prévu)](/OfficeUpdates/update-history-monthly-channel-targeted) | ajouté |
+| 1/2/2019 | [Historique de mise à jour pour Office initiés canal](/OfficeUpdates/update-history-office-insider) | ajouté |
+| 1/2/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | Modifié le |
