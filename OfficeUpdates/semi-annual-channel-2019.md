@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/29/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690726"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954056"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -28,6 +28,68 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+> - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
+
+## <a name="version-1808-february-12"></a>Version 1808 : 12 Février
+*Version 1808 (Build 10730.20280)*
+
+### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité 
+
+- Cette mise à jour ajoute la prise en charge de nouvelles ères japonais à Access.
+
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité 
+
+- Corrige un problème qui obligeait les utilisateurs avec des règles qui font référence à un dossier qui n’existent plus pour 1. afficher une erreur lorsque vous tentez de gérer les règles et 2. pour afficher les règles côté client qui ne parviennent pas à s’exécuter.
+- Corrige un problème qui obligeait les utilisateurs avec mise en cache délégué des boîtes aux lettres à produire des blocages fréquents, à intervalles imprévisibles.
+- Corrige un problème qui entraînait toutes les réunions en journée à apparaitre comme spam un jour de plus que prévu dans certains affichages en raison de l’heure de fin de la réunion définie à minuit le jour suivant.
+- A résolu un blocage lors de la création de nouveaux rendez-vous ou réunions qui font référence à des zones japonaises.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+
+- Nous avons résolu le problème dans lequel les compléments déployé à l’aide [du déploiement centralisé Office O365](https://docs.microsoft.com/fr-FR/office/dev/add-ins/publish/centralized-deployment), ont été figés et inutilisables.
+
+
+## <a name="version-1803-february-12"></a>Version 1803 : 12 Février
+*Version 1803 (build 9126.2356)*
+
+*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible: Version 1808 (build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+
+### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité 
+
+- Cette mise à jour ajoute la prise en charge de nouvelles ères japonais à Access.
+
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité 
+
+- Cette mise à jour ajoute la prise en charge de nouvelles zones japonais à Excel.
+
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+
+- A résolu un blocage lors de la création de nouveaux rendez-vous ou réunions qui font référence à des zones japonaises.
+
+### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
+- Cette mise à jour ajoute la prise en charge de nouvelles ères japonais à Project.
+
+### <a name="word-non-security-updates"></a>Word: Mises à jour non relatives à la sécurité
+
+- Cette mise à jour ajoute la prise en charge de nouvelles zones japonais à Word.
+
+### <a name="visio-non-security-updates"></a>Visio : Mises à jour non relatives à la sécurité
+
+- Cette mise à jour ajoute la prise en charge de nouvelles zones japonais à Visio.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+
+- Nous avons résolu le problème dans lequel les compléments déployé à l’aide [du déploiement centralisé Office O365](https://docs.microsoft.com/fr-FR/office/dev/add-ins/publish/centralized-deployment), ont été figés et inutilisables.
+
+## <a name="version-1708-february-12"></a>Version 1708 : 12 Février
+*Version 1708 (Build 8431.2372)*
+
+*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1808, build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+
+- Nous avons résolu le problème dans lequel les compléments déployé à l’aide [du déploiement centralisé Office O365](https://docs.microsoft.com/fr-FR/office/dev/add-ins/publish/centralized-deployment), ont été figés et inutilisables.
+
 
 ## <a name="version-1808-january-8"></a>Version 1808 : 8 janvier
 *Version 1808 (build 10730.20264)*
@@ -35,7 +97,6 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
 
  - **Visualisez des données avec de nouveaux graphiques :** faites votre choix parmi 11 graphiques et ajoutez-en un à vos formulaires et rapports pour mieux visualiser les données et prendre des décisions en connaissance de cause. [En savoir plus](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
-
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
  - **Modifications en collaboration:** travaillez avec d’autres personnes en même temps dans votre classeur. [En savoir plus](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)

@@ -3,19 +3,19 @@ title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 02/05/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: f6468864d9512a35d8039ecabed84b8b0652c645
-ms.sourcegitcommit: 2efea0f3a7d37521268b072a1121007242196431
+ms.openlocfilehash: af2a2c8268aa1682bd459e06d9336ea94de0f46b
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/05/2019
-ms.locfileid: "29740739"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954046"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -40,32 +40,32 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 
 ### <a name="monthly-channel"></a>Canal mensuel
 
-La publication prévue est la version 1901 <(build 11231.20136). 
+La version la plus actuelle est la version 1901 (build 11231.20174). 
   
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1901 (build 11231.20130)  <br/> |31 janvier 2019  <br/> |60<br/> |
-|Version 1812 (build 11126.20266)  <br/> |14 janvier 2019  <br/> |159<br/> |
-|Version 1812 (build 11126.20196)  <br/> |8 Janvier 2019  <br/> |160<br/> |
+|Version 1901 (build 11231.20130)  <br/> |31 janvier 2019  <br/> |66<br/> |
+|Version 1812 (build 11126.20266)  <br/> |14 janvier 2019  <br/> |158<br/> |
+
 
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
 
-La publication prévue est la version 1808 <(build 10730.20276).
+La version la plus actuelle est la version 1808 (build 10730.20280).
 
-|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1808 (build 10730.20264)  <br/> |8 janvier 2019  <br/> |83<br/> |
-|Version 1803 (build 9126.2336) <br/> |11 décembre 2018  <br/> | 279<br/> |
+|Version 1808 (build 10730.20264)  <br/> |8 janvier 2019  <br/> |79<br/> |
+|Version 1803 (build 9126.2336) <br/> |11 décembre 2018  <br/> |280<br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
-La publication prévue est la version 1808 <(build 10730.20276).
+La version la plus actuelle est la version 1808 (build 10730.20280).
   
-|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 1808 (build 10730.20264)  <br/> |8 janvier 2019  <br/> |83<br/> |
-|Version 1808 (Build 10730.20262)  <br/> |11 décembre 2018  <br/> |89 <br/> |
+|Version 1808 (build 10730.20264)  <br/> |8 janvier 2019  <br/> |79 <br/> |
+|Version 1808 (Build 10730.20262)  <br/> |11 décembre 2018  <br/> |280 <br/> |
 
 
 ## <a name="january-31-2019"></a>31 janvier 2019

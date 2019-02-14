@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d9ace400fb5f3c92d1e0089c851f51109dfc2228
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325414"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29953996"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -28,6 +28,24 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  
 > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+
+## <a name="version-1808-february-12"></a>Version 1808 : Février 12
+*Version 1808 (Build 10730.20280)* 
+
+### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité 
+
+- Cette mise à jour ajoute la prise en charge de nouvelles ères japonais à Access.
+
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité 
+
+- Corrige un problème qui obligeait les utilisateurs avec des règles qui font référence à un dossier qui n’existent plus pour afficher une erreur lorsque vous tentez de gérer les règles et pour afficher les règles côté client qui ne parviennent pas à s’exécuter.
+- Corrige un problème qui obligeait les utilisateurs avec mise en cache délégué des boîtes aux lettres à produire des blocages fréquents, à intervalles imprévisibles.
+- Corrige un problème qui entraînait toutes les réunions en journée à apparaitre comme spam un jour de plus que prévu dans certains affichages en raison de l’heure de fin de la réunion définie à minuit le jour suivant.
+- A résolu un blocage lors de la création de nouveaux rendez-vous ou réunions qui font référence à des zones japonaises.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+
+- Nous avons résolu le problème dans lequel les compléments déployé à l’aide [Office O365 centralisé déploiement](https://docs.microsoft.com/fr-FR/office/dev/add-ins/publish/centralized-deployment), ont été figés et inutilisables.
 
 
 ## <a name="version-1808-january-8"></a>Version 1808 : 8 janvier

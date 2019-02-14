@@ -3,19 +3,19 @@ title: Dernières mises à jour pour les versions d’Outlook qui utilisent Wind
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 01/09/2019
+ms.date: 02/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Outlook 2016, Outlook 2013 et Outlook 2010
-ms.openlocfilehash: 5da86216814402607d1a2145e947551bf3eb0102
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: cc2d49a53410048d401940204d853e6505f14892
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770015"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964566"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Outlook qui utilisent Windows Installer (MSI)
 
@@ -44,18 +44,18 @@ La compatibilité d’Outlook avec Office 365 et votre environnement local dép
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Mise à jour publique de janvier 2019 <br/>[KB4461601](https://support.microsoft.com/help/4461601) 
+|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU février 2019 <br/>[KB4462147](https://support.microsoft.com/help/4462147) 
 
 ## <a name="outlook-2013-updates"></a>Mises à jour d’Outlook 2013
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de décembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Mise à jour publique de janvier 2019 <br/>[KB4461595](https://support.microsoft.com/help/4461595)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de décembre 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |PU février 2019 <br/>[KB4462141](https://support.microsoft.com/help/4462141)  |
    
 ## <a name="outlook-2010-updates"></a>Mises à jour d’Outlook 2010
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |PU d’octobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  PU d’avril 2015 pour Office 2010 pour MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/fr-FR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Mise à jour publique de janvier 2019 <br/>[KB4461623](https://support.microsoft.com/help/4461623) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |PU d’octobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  PU d’avril 2015 pour Office 2010 pour MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/fr-FR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |PU février 2019 <br/>[KB4462182](https://support.microsoft.com/help/4462182) <br><br><br><br/>|
    
 
