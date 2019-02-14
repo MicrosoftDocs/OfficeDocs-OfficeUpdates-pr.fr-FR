@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/31/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 3d3d89e04afc5b1db95e740c5064173bb5e465c2
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 9ad21789db5aa940eb879f14684d7e56c4ddfbb4
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690676"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954006"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -28,6 +28,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
  > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md). 
+
+## <a name="version-1901-february-12"></a>Version 1901 : Février 12
+*Version 1901 (build 11231.20174)* 
+
+Mises à jour de sécurité répertoriées [ici](office365-proplus-security-updates.md)
 
 ## <a name="version-1901-january-31"></a>Version 1901 : 31 janvier
 *Version 1901 (build 11231.20130)* 
