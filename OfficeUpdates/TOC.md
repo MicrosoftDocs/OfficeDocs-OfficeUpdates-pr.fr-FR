@@ -38,14 +38,14 @@
 ## [Historique des versions de Microsoft AutoUpdate](release-history-microsoft-autoupdate.md)
 
 # Office (perpétuel)
-## [Mises à jour d’Office 2019](update-history-office-2019.md)
-## [Mises à jour Office 2010, 2013 et 2016 (MSI)](office-updates-msi.md)
-## [Mises à jour Outlook 2010, 2013 et 2016 (MSI)](outlook-updates-msi.md)
+## [Mises à jour Office 2016 et 2019 (C2R)](update-history-office-2019.md)
 ## [Mises à jour d’Office 2013 (C2R)](update-history-office-2013.md)
 ## [Mises à jour d’Office 2010 (C2R)](update-history-office-2010-click-to-run.md)
-## [Mises à jour de Skype Entreprise (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
+## [Mises à jour Office 2010, 2013 et 2016 (MSI)](office-updates-msi.md)
+## [Mises à jour Outlook 2010, 2013 et 2016 (MSI)](outlook-updates-msi.md)
 ## [Fichiers .msp Office 2016](msp-files-office-2016.md)
 ## [Fichiers .msp Office 2013](msp-files-office-2013.md)
+## [Mises à jour de Skype Entreprise (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 
 # Produits Office Server
 ## [Mises à jour d’Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)

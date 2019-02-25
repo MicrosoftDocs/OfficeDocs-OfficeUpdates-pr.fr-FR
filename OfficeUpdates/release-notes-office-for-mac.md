@@ -1,21 +1,21 @@
 ---
 title: Notes de publication pour Office pour Mac
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 2/20/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: 76bb531d3d1ade277ee81256407cfeefdac4ac4b
+ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530289"
+ms.lasthandoff: 02/20/2019
+ms.locfileid: "30128120"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -33,6 +33,34 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Les liens de téléchargement sont fournis uniquement pour les versions les plus récentes.
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="february-2019-release"></a>Publication en février 2019
+
+**Date de sortie :** 20 février 2019 
+  
+ *Version 16.22.1 (build 19022000)*
+
+ Cette version inclut les mises à jour suivantes :
+
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+|:-----|:-----|:-----|
+|Outlook  <br/>| Correction d’un problème avec l’authentification pour les comptes Google.<br/><br/> Correction d’un problème de synchronisation du calendrier. <br/>  | |[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) <br/>|
+ 
+
+**Date de sortie :** 12 février 2019 
+  
+ *Version 16.22.0 (build 19021100)*
+
+ Cette version inclut les mises à jour suivantes :
+
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+|:-----|:-----|:-----|
+|Mot  <br/>| **Dessinez avec le trackpad :** Déplacez votre doigt sur le trackpad pour dessiner sur l’écran. [Plus d’informations](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **Dessinez avec le trackpad :** Déplacez votre doigt sur le trackpad pour dessiner sur l’écran. [Plus d’informations](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Dessinez avec le trackpad :** Déplacez votre doigt sur le trackpad pour dessiner sur l’écran. [Plus d’informations](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
+|Outlook  <br/>|  <br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
+|Mise à jour automatique Microsoft (AutoUpdate) 4.7 <br/>| <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
 
 ## <a name="january-2019-release"></a>Version de janvier 2019
 
