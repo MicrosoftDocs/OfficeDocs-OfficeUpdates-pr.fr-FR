@@ -1,12 +1,44 @@
 ---
-title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 2/15/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ProPlus Description: "fournit une audience rapide aux Insiders avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
+title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/1/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ProPlus Description: "fournit une audience rapide aux Insiders avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
 Cet article contient des notes de publication pour les versions inSiders de Word, Excel, PowerPoint, Outlook, Access et Project pour le bureau Windows. Chaque semaine, nous allons mettre en évidence les nouvelles fonctionnalités intéressantes, les correctifs importants et les problèmes importants que vous devez connaître. Notez que nous déployons souvent des fonctionnalités (voire parfois des correctifs) vers des Insiders sur une période de temps. Cela nous permet de vous assurer que les choses fonctionnent correctement avant de publier la fonctionnalité sur un public plus large. Par conséquent, si vous ne voyez pas un des éléments décrits ci-dessous, ne vous inquiétez pas.  
 
-## <a name="february-12-2019-version-1902-build-1133020014"></a>Février 12 2019 version 1902 (Build 11330,20014)
+## <a name="february-25-2019-version-1903-build-1133020014"></a>25 février 2019 version 1903 (Build 11330,20014)
+
+
+## <a name="notable-fixes"></a>Correctifs notables:
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème de blocage qui s'est produit lors de la pression sur «ÉCHAP» dans les options.
+- Nous avons résolu un problème avec Copy & Paste from Word to PowerPoint Online
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème où la copie d'une cellule dans Excel provoquait une utilisation élevée du processeur lors de l'ouverture d'un document protégé et d'un document modifiable
+
+### <a name="powerpoint"></a>PowerPoint
+- Nous avons résolu un problème avec la taille de l'image de la diapositive lors de l'utilisation de @Mentions dans PowerPoint
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème: la recherche Outlook n'honorait pas le tri chronologique sélectionné.
+- Nous avons résolu un problème où le bouton de ruban «ouvrir cette tâche» ne répondait pas à certains messages électroniques.
+- Nous avons résolu un problème: Outlook n'a pas effacé les salles de site après que les utilisateurs ont sélectionné une salle disponible dans la recherche de salle
+
+### <a name="access"></a>Access
+- Nous avons mis à jour le texte d'invite qui s'affichait lors de la confirmation des tables de reliaison avec un DataSource.
+- Nous avons résolu la boîte de dialogue d'importation/exportation enregistrée qui avait du texte blanc sur fond blanc dans un thème foncé
+- Nous avons résolu un problème: les utilisateurs n'ont pas pu définir la propriété du contrôle d'affichage pour un champ Oui/non pour TextBox en création de table
+
+### <a name="project"></a>Project
+- Différents correctifs de performances et de stabilité
+
+</BR></BR>
+
+
+
+## <a name="february-12-2019-version-1903-build-1133020014"></a>Février 12 2019 version 1903 (Build 11330,20014)
 
 ## <a name="whats-new"></a>Nouveautés:
 
@@ -73,6 +105,7 @@ Utilisez Morph de la même façon que vous le feriez avec les tables
 Le nouveau gestionnaire de comptes affiche tous vos comptes personnels et professionnels à un seul endroit, et vous permet de contrôler leur basculement. Cette expérience mise à jour indique clairement comment vous êtes connecté, et vous pouvez désormais basculer entre les comptes professionnels et personnels sans avoir à vous déconnecter d'abord ou à gérer des boîtes de dialogue complexes.
 
 
+![MeMock. png](Images/MeMock.png)
 
 #### <a name="scenarios-to-try"></a>Scénarios à essayer:
 - Basculer entre les comptes
@@ -103,7 +136,7 @@ Le nouveau gestionnaire de comptes affiche tous vos comptes personnels et profes
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1902-build-1133020014"></a>Février 9 2019 version 1902 (Build 11330,20014)
+## <a name="february-9-2019-version-1903-build-1133020014"></a>Février 9 2019 version 1903 (Build 11330,20014)
 
 
 ## <a name="notable-fixes"></a>Correctifs notables:
