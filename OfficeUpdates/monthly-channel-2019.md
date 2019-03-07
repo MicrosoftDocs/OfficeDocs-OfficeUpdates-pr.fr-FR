@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 02/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 9ad21789db5aa940eb879f14684d7e56c4ddfbb4
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
+ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954006"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379359"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -29,7 +29,45 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md). 
 
-## <a name="version-1901-february-12"></a>Version 1901 : Février 12
+## <a name="version-1902-march-4"></a>Version 1902 : 4 mars
+*Version 1902 (build 11328.20146)* 
+
+### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
+
+- **Garder un œil sur vos objets de base de données :** repérez plus facilement l’onglet actif, faites glisser les onglets pour les réorganiser facilement et fermez des objets de base de données d’un simple clic.
+- **Zoomer avec plus de place :** augmentez la taille de la zone de Zoom, modifiez la police et Zoom mémorise tout. [En savoir plus](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+
+### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
+
+- **Attirez leur attention avec les \@mentions :** utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention. [En savoir plus](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Apprenez-en davantage sur vos données :** le nouveau bouton Idées recherche des modèles dans vos données, et les utilise pour créer des suggestions intelligentes, personnalisées. [En savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Enregistrez les modifications au fur et à mesure :** chargez vos fichiers sur OneDrive pour vous assurer que vos mises à jour sont enregistrées automatiquement.
+- **Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+
+- **Pause intégrée entre les réunions qui se suivent :** laissez les participants souffler ou se déplacer entre sites en paramétrant les réunions pour qu’elles se terminent 5 à 10 minutes plus tôt par défaut. [En savoir plus ici](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) [et ici](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- **Utiliser la lecture à voix haute pour écouter vos e-mails :** Outlook peut lire vos e-mails à voix haute, en mettant le texte en surbrillance à mesure de la lecture.Pour activer la fonctionnalité Lecture à voix haute, accédez aux paramètres d’ergonomie. [En savoir plus](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+- **Chiffrement de messages : stratégie IRM de chiffrage uniquement :** une nouvelle option de chiffrage uniquement apparaît dans le menu Options > Autorisations pour les utilisateurs de Chiffrement de messages Office 365. Cette option permet de chiffrer un message et de l’envoyer à vos collègues ou à des personnes à l’extérieur de votre organisation. [En savoir plus](https://aka.ms/omeoverview)
+- **Nouvelle forme par défaut pour la plage de périodicité :** pour la boîte de dialogue Récurrence, la plage de récurrence utilisée par défaut était « Aucune date de fin ». Cela facilitait la création de séries récurrentes de longue durée, qui peuvent se corrompre avec le temps. Nous mettons à jour la valeur par défaut de la boîte de dialogue Récurrence sur « Terminer avant », afin que notre valeur par défaut corresponde aux meilleures pratiques recommandées pour l'établissement de calendrier.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
+
+- **L’insertion d’une vidéo en ligne est plus facile que jamais :** vous souhaitez placer une vidéo à partir de Vimeo ou YouTube dans votre diapositive ? L’URL de la page de la vidéo est suffisante. [En savoir plus](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Vous calculez, nous nous occupons de la mise en forme :** nous modifions des expressions mathématiques dessinées à la main et les reproduisons en caractères standard. Sélectionnez simplement Entrée manuscrite en équation et sélectionnez vos notes manuscrites pour commencer. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Enregistrez les modifications au fur et à mesure :** chargez vos fichiers sur OneDrive pour vous assurer que vos mises à jour sont enregistrées automatiquement.
+- **Donnez du peps aux liens hypertexte avec des couleurs vives :** le bleu n’est plus l’unique choix pour les liens hypertexte. Appliquez-leur la couleur de police de votre choix. [En savoir plus](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) CHANGE 24843
+
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+
+- **Enregistrez les modifications au fur et à mesure :** chargez vos fichiers sur OneDrive pour vous assurer que vos mises à jour sont enregistrées automatiquement.
+- **Découvrez pourquoi l’enregistrement automatique n’est pas activé ! ** Cliquer sur le bouton bascule d’enregistrement automatique lorsqu’il est désactivé permet à présent d’afficher un commentaire utile avec les raisons pour lesquelles l’enregistrement automatique est peut-être désactivé. Dans le cas où la seule raison qui empêche l’enregistrement automatique est le fait que le document n’est pas sur SkyDrive ou SharePoint, nous proposerons de déplacer le document aisément avec un clic !
+ 
+### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
+
+- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/DeployOffice/teams-install)
+
+## <a name="version-1901-february-12"></a>Version 1901 : 12 février
 *Version 1901 (build 11231.20174)* 
 
 Mises à jour de sécurité répertoriées [ici](office365-proplus-security-updates.md)
