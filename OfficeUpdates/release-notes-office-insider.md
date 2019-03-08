@@ -1,12 +1,17 @@
 ---
-title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/1/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ProPlus Description: "fournit une audience rapide aux Insiders avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
+title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/07/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ProPlus Description: "fournit une audience rapide aux Insiders avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
-Cet article contient des notes de publication pour les versions inSiders de Word, Excel, PowerPoint, Outlook, Access et Project pour le bureau Windows. Chaque semaine, nous allons mettre en évidence les nouvelles fonctionnalités intéressantes, les correctifs importants et les problèmes importants que vous devez connaître. Notez que nous déployons souvent des fonctionnalités (voire parfois des correctifs) vers des Insiders sur une période de temps. Cela nous permet de vous assurer que les choses fonctionnent correctement avant de publier la fonctionnalité sur un public plus large. Par conséquent, si vous ne voyez pas un des éléments décrits ci-dessous, ne vous inquiétez pas.  
+Cet article contient des notes de publication pour les versions inSiders de Word, Excel, PowerPoint, Outlook, Access et Project pour le bureau Windows. Chaque semaine, nous allons mettre en évidence les nouvelles fonctionnalités intéressantes, les correctifs importants et les problèmes importants que vous devez connaître. Notez que nous déployons souvent des fonctionnalités (voire parfois des correctifs) vers des Insiders sur une période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
 
-## <a name="february-25-2019-version-1903-build-1133020014"></a>25 février 2019 version 1903 (Build 11330,20014)
+> [!NOTE]
+> - Les notes de publication sont publiées toutes les semaines et peuvent être une compilation de plusieurs builds. 
+> - La date de publication des notes de publication peut ne pas correspondre à la date de publication réelle.
+
+## <a name="march-1-2019"></a>1er mars 2019 
+Version 1903 (Build 11414,20014)
 
 
 ## <a name="notable-fixes"></a>Correctifs notables:
@@ -38,7 +43,8 @@ Cet article contient des notes de publication pour les versions inSiders de Word
 
 
 
-## <a name="february-12-2019-version-1903-build-1133020014"></a>Février 12 2019 version 1903 (Build 11330,20014)
+## <a name="february-15-2019"></a>15 février 2019 
+Version 1903 (Build 11310,20016)
 
 ## <a name="whats-new"></a>Nouveautés:
 
@@ -53,12 +59,12 @@ Spécifier les formes à Morpher
 
 - Pour obtenir Morph pour traiter deux objets en tant que même objet, l'utilisateur peut renommer les formes à l'aide du volet de sélection.
 - Le nom doit être précédé de «!!» (deux points d'exclamation) pour que Morph permette de remplacer notre comportement de correspondance par défaut, par exemple «!! Nom
-- Les utilisateurs peuvent continuer à renommer des formes avec n'importe quel nom qui ne commence pas par «!!» sans se soucier de modifier la façon dont fonctionne Morph.
+- Les utilisateurs peuvent continuer à renommer des formes avec n'importe quel nom qui ne commence pas par «!!» sans se soucier de modifier le fonctionnement de morph.
 
 #### <a name="scenarios-to-try"></a>Scénarios à essayer:
 
 - Insérer une forme dans une diapositive, disons un rectangle
-- Créer une nouvelle diapositive
+- Créer une diapositive
 - Insérer une autre forme dans la deuxième diapositive, disons le triangle
 - Ouvrez SelectionPane, renommez le rectangle de la diapositive 1 en «!! Shape ", et renommez le triangle de la diapositive 2 en «!! géométrie
 - Application de Morph sur la deuxième diapositive
@@ -136,7 +142,8 @@ Le nouveau gestionnaire de comptes affiche tous vos comptes personnels et profes
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1903-build-1133020014"></a>Février 9 2019 version 1903 (Build 11330,20014)
+## <a name="february-11-2019"></a>11 février 2019
+Version 1903 (Build 11330,20014)
 
 
 ## <a name="notable-fixes"></a>Correctifs notables:
@@ -165,7 +172,8 @@ Le nouveau gestionnaire de comptes affiche tous vos comptes personnels et profes
 </BR></BR>
 
 
-## <a name="january-30-2019-version-1902-build-1132620000"></a>30 janvier 2019 version 1902 (Build 11326,20000)
+## <a name="february-1-2019"></a>1er février 2019 
+Version 1902 (Build 11326,20000)
 
 
 ## <a name="notable-fixes"></a>Correctifs notables
