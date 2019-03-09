@@ -1,5 +1,5 @@
 ---
-title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/07/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ProPlus Description: "fournit une audience rapide aux Insiders avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
+title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/08/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ProPlus Description: "fournit une audience rapide aux Insiders avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
@@ -7,8 +7,56 @@ title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: 
 Cet article contient des notes de publication pour les versions inSiders de Word, Excel, PowerPoint, Outlook, Access et Project pour le bureau Windows. Chaque semaine, nous allons mettre en évidence les nouvelles fonctionnalités intéressantes, les correctifs importants et les problèmes importants que vous devez connaître. Notez que nous déployons souvent des fonctionnalités (voire parfois des correctifs) vers des Insiders sur une période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
 
 > [!NOTE]
-> - Les notes de publication sont publiées toutes les semaines et peuvent être une compilation de plusieurs builds. 
-> - La date de publication des notes de publication peut ne pas correspondre à la date de publication réelle.
+> - Les notes de publication sont publiées toutes les semaines et peuvent être une compilation de plusieurs builds
+> - La date de publication des notes de publication peut ne pas correspondre à la date de publication réelle
+
+
+## <a name="march-8-2019"></a>8 mars 2019 
+Version 1903 (Build 11425,20036)
+
+## <a name="whats-new"></a>Nouveautés:
+
+### <a name="word"></a>Word
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>Trouver ce que vous recherchez avec Microsoft Search
+
+Avec Microsoft Search, vous pouvez trouver tous les fichiers, les actions, les personnes et l'aide dont vous avez besoin pour effectuer votre travail.
+
+#### <a name="getting-started"></a>Mise en route:
+
+- La fonctionnalité apparaît de manière visible en haut de l'interface utilisateur dans l'en-tête.
+
+#### <a name="scenarios-to-try"></a>Scénarios à essayer:
+
+- Rechercher un collège, un document récent ou rechercher les commandes du ruban que vous utilisez le plus souvent
+- Rechercher un sujet ou un sujet pour obtenir plus d'informations
+
+
+## <a name="notable-fixes"></a>Correctifs notables:
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème de blocage qui s'est produit lors de la pression sur «ÉCHAP» dans les options.
+- Nous avons résolu un problème de blocage survenu lors de la réponse à des commentaires
+- Nous avons résolu un problème avec Copy & Paste from Word to PowerPoint Online
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème où la copie d'une cellule dans Excel provoquait une utilisation élevée du processeur lors de l'ouverture d'un document protégé et d'un document modifiable
+
+### <a name="powerpoint"></a>PowerPoint
+- Différents correctifs de performances et de stabilité
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème: la recherche Outlook n'honorait pas le tri chronologique sélectionné.
+- Nous avons résolu un problème où le bouton de ruban «ouvrir cette tâche» ne répondait pas à certains messages électroniques.
+- Nous avons résolu un problème: Outlook n'a pas effacé les salles de site après que les utilisateurs ont sélectionné une salle disponible dans la recherche de salle
+
+### <a name="access"></a>Access
+- Nous avons résolu la boîte de dialogue d'importation/exportation enregistrée qui avait du texte blanc sur fond blanc dans un thème foncé
+- Nous avons résolu un problème: les utilisateurs n'ont pas pu définir la propriété DisplayControl d'un champ Oui/non sur TextBox en création de table
+
+### <a name="project"></a>Project
+- Différents correctifs de performances et de stabilité
+
 
 ## <a name="march-1-2019"></a>1er mars 2019 
 Version 1903 (Build 11414,20014)
