@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379359"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509297"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -46,10 +46,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 
-- **Pause intégrée entre les réunions qui se suivent :** laissez les participants souffler ou se déplacer entre sites en paramétrant les réunions pour qu’elles se terminent 5 à 10 minutes plus tôt par défaut. [En savoir plus ici](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) [et ici](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- 
+  **Pause intégrée entre les réunions qui se suivent :** laissez les participants souffler ou se déplacer entre les sites en paramétrant les réunions pour qu’elles se terminent 5 à 10 minutes plus tôt par défaut. [En savoir plus](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Utiliser la lecture à voix haute pour écouter vos e-mails :** Outlook peut lire vos e-mails à voix haute, en mettant le texte en surbrillance à mesure de la lecture.Pour activer la fonctionnalité Lecture à voix haute, accédez aux paramètres d’ergonomie. [En savoir plus](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **Chiffrement de messages : stratégie IRM de chiffrage uniquement :** une nouvelle option de chiffrage uniquement apparaît dans le menu Options > Autorisations pour les utilisateurs de Chiffrement de messages Office 365. Cette option permet de chiffrer un message et de l’envoyer à vos collègues ou à des personnes à l’extérieur de votre organisation. [En savoir plus](https://aka.ms/omeoverview)
-- **Nouvelle forme par défaut pour la plage de périodicité :** pour la boîte de dialogue Récurrence, la plage de récurrence utilisée par défaut était « Aucune date de fin ». Cela facilitait la création de séries récurrentes de longue durée, qui peuvent se corrompre avec le temps. Nous mettons à jour la valeur par défaut de la boîte de dialogue Récurrence sur « Terminer avant », afin que notre valeur par défaut corresponde aux meilleures pratiques recommandées pour l'établissement de calendrier.
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 
@@ -65,7 +65,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  
 ### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
 
-- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/DeployOffice/teams-install)
+- 
+  **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Version 1901 : 12 février
 *Version 1901 (build 11231.20174)* 

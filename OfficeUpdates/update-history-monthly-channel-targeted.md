@@ -3,19 +3,19 @@ title: Historique des mises à jour pour le canal mensuel Office (ciblé)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/01/2019
+ms.date: 03/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: f30eef0585fda90bc28737419386c84469c3ea6c
-ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
+ms.openlocfilehash: a4b79be302debe7782f193ff15de65888c8d30a1
+ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "30361729"
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "30512773"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
@@ -24,6 +24,12 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 ## <a name="office-insider-versions-and-builds"></a>Builds et versions Office Insider
 
 Si vous êtes inscrit au niveau Canal mensuel (ciblé), anciennement appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds ultérieurs contenant d’importants correctifs ou mises à jour de sécurité. La liste suivante indique les derniers versions et builds Canal mensuel (ciblé), avec **le dernier build publié qui apparaît en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents. Pour rechercher les notes de publication, consultez la rubrique [Nouveautés pour les participants au programme Office Insider](https://support.office.com/fr-FR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+> [!NOTE]
+> - L’historique de mise à jour ici répertorie toutes les builds publiées
+> - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu’au numéro de build publié des notes de publication
+
+**2 mars 2019**<br/> Version 1902 (build 11328.20146)<br/>
 
 **1er mars 2019**<br/> Version 1902 (build 11328.20140)<br/>
 
