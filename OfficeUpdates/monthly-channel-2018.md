@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 3/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
-ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
+ms.openlocfilehash: db7e95f6140b84b4f41c7172868ca124dbb9de3b
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "27992128"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568377"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -57,7 +57,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 
-- **Zoom et conserver :** au lieu d’ajuster le Zoom chaque fois que vous lisez un message, choisir la valeur par défaut à utiliser pour tous vos messages.  [En savoir plus](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Zoom et conserver :** au lieu d’ajuster le Zoom chaque fois que vous lisez un message, choisir la valeur par défaut à utiliser pour tous vos messages.  [En savoir plus](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Déplacement de messages Outlook asynchrone :** déplacer les messages de façon asynchrone pour augmenter la productivité pour les utilisateurs d’Outlook.
 - **Afficher les détails LinkedIn des personnes dans Outlook :** à présent, lorsque vous ouvrez la carte de visite d’un contact, vous pouvez en savoir plus à son sujet en consultant son profil LinkedIn.
 - **Amélioration des expériences avec la boîte de réception Prioritaire activée ou non :** pour les clients qui n’utilisent pas la boîte de réception Prioritaire, nous avons remis en place l’onglet Non lu dans la liste des messages au sein de tous les dossiers. Nous avons également ajouté un tri par indicateur pour faciliter la recherche des éléments avec indicateur. Enfin, nous avons amélioré le modèle d’interaction de la boîte de réception Prioritaire avec la recherche : la boîte de réception Prioritaire reste en place jusqu'à ce qu’un utilisateur commence à effectuer une recherche et le texte « Résultats » apparaît une fois la recherche terminée.
