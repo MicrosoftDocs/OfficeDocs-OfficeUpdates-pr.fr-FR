@@ -1,5 +1,5 @@
 ---
-title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/08/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ProPlus Description: "fournit une audience rapide aux Insiders avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
+title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/15/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ Description proPlus: «fournit aux Insiders une audience rapide avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
@@ -10,6 +10,32 @@ Cet article contient des notes de publication pour les versions inSiders de Word
 > - Les notes de publication sont publiées toutes les semaines et peuvent être une compilation de plusieurs builds
 > - La date de publication des notes de publication peut ne pas correspondre à la date de publication réelle
 
+## <a name="march-15-2019"></a>15 mars 2019 
+Version 1904 (Build 11504,20000)
+
+## <a name="notable-fixes"></a>Correctifs notables:
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème: PPP incorrect dans un document enregistré en tant que fichier PDF.
+
+### <a name="excel"></a>Excel
+- Différents correctifs de performances et de stabilité
+
+### <a name="powerpoint"></a>PowerPoint
+- Nous avons résolu un problème dans lequel le volet commentaires ne s'ouvre pas correctement ou se ferme.
+- Nous avons résolu un problème dans lequel l'application pouvait se bloquer lors de la suppression d'une vidéo.
+- Nous avons résolu un problème où, dans certaines instances, l'application ne se lance pas.
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème: les accusés de lecture étaient incorrects lorsqu'ils étaient affichés en japonais
+
+### <a name="access"></a>Access
+- Différents correctifs de performances et de stabilité
+
+### <a name="project"></a>Projet
+- Différents correctifs de performances et de stabilité
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>8 mars 2019 
 Version 1903 (Build 11425,20036)
@@ -54,7 +80,7 @@ Avec Microsoft Search, vous pouvez trouver tous les fichiers, les actions, les p
 - Nous avons résolu la boîte de dialogue d'importation/exportation enregistrée qui avait du texte blanc sur fond blanc dans un thème foncé
 - Nous avons résolu un problème: les utilisateurs n'ont pas pu définir la propriété DisplayControl d'un champ Oui/non sur TextBox en création de table
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 
@@ -84,7 +110,7 @@ Version 1903 (Build 11414,20014)
 - Nous avons résolu la boîte de dialogue d'importation/exportation enregistrée qui avait du texte blanc sur fond blanc dans un thème foncé
 - Nous avons résolu un problème: les utilisateurs n'ont pas pu définir la propriété du contrôle d'affichage pour un champ Oui/non pour TextBox en création de table
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 </BR></BR>
@@ -185,7 +211,7 @@ Le nouveau gestionnaire de comptes affiche tous vos comptes personnels et profes
 ### <a name="access"></a>Access
 - Différents correctifs de performances et de stabilité
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 
@@ -214,7 +240,7 @@ Version 1903 (Build 11330,20014)
 ### <a name="access"></a>Access
 - Différents correctifs de performances et de stabilité
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 </BR></BR>
@@ -246,5 +272,5 @@ Version 1902 (Build 11326,20000)
 ### <a name="access"></a>Access
 - Nous avons résolu un problème de mise à l'échelle avec des graphiques
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
