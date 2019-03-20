@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
+ms.sourcegitcommit: 6289999d0145176584837695178b2c5bb0b961f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "27258500"
+ms.lasthandoff: 03/19/2019
+ms.locfileid: "30684169"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2018
 
@@ -232,7 +232,6 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités 
 - **L’enregistrement automatique des fichiers cloud est désormais activé par défaut :** L’enregistrement automatique est activé par défaut dans la version de septembre 2018 du Canal semi-annuel (ciblé). Ce changement signifie que les utilisateurs n’ont plus à s’inquiéter de perdre des modifications apportées à des documents stockés sur OneDrive ou SharePoint Online. Les modifications sont automatiquement enregistrées dans le cloud, et les utilisateurs n’ont plus à appuyer sur Ctrl+S ou sur le bouton Enregistrer. Ils doivent cependant comprendre ce changement de comportement afin de ne pas modifier accidentellement des présentations. Notez que les utilisateurs peuvent désactiver l’enregistrement automatique à l’aide du bouton bascule Enregistrement automatique dans la partie supérieure de l’écran. Nous vous recommandons d’informer vos utilisateurs de ce prochain changement et de leur expliquer comment tirer le meilleur parti de cette nouvelle fonctionnalité dans Office 365. [En savoir plus sur l’enregistrement automatique](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Apprenez-en davantage sur ce que les administrateurs informatiques doivent savoir concernant la fonctionnalité Enregistrement automatique](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **Modification des cellules et de la barre de formule améliorée :** Vous pouvez désormais utiliser CTRL+A pour sélectionner du texte dans une cellule ou la barre de formule. Les emojis et autres caractères complexes seront également mieux pris en charge. [En savoir plus](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Convertissez vos documents manuscrits :** prenez des notes et gribouillez des dessins, puis convertissez-les en texte lisible et en formes nettes afin de créer une présentation soignée. [En savoir plus](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **Prise en charge améliorée des SVG :** vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Donnez un titre à vos diapositives avec un stylet :** utilisez votre stylet pour écrire un titre, puis regardez PowerPoint le convertir en texte. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
