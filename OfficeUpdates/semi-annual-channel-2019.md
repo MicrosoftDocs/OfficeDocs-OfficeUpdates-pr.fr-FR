@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 3/6/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
-ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
+ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466111"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568357"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -29,6 +29,25 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
+
+## <a name="version-1808-march-12"></a>Version 1808 : 12 mars
+*Version 1808 (build 10730.20304)*
+
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
+
+- Résolution d’un problème : VBA renvoie le mauvais numéro de page.
+- Amélioration du délai d’enregistrement sur le fichier Word local. 
+
+### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+
+- Fourniture de la clé de registre pour désactiver l’option « Chiffrer uniquement » dans le menu de chiffrement de messages Office 365.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : mises à jour non relatives à la sécurité
+
+- Résolution d’un problème : la mise à jour Office risque de se bloquer pendant un certain temps lors du téléchargement.
+
+## <a name="version-1803-march-12"></a>Version 1803 : 12 mars 
+Il n’existe aucune mise à jour ce mois-ci.
 
 ## <a name="version-1808-february-12"></a>Version 1808 : 12 Février
 *Version 1808 (Build 10730.20280)*

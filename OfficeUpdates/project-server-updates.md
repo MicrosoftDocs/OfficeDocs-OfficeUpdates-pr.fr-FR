@@ -3,7 +3,7 @@ title: Mises à jour de Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/13/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
-ms.openlocfilehash: befaaa2d69bfacbde84fa65774a21846135e7a55
-ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
+ms.openlocfilehash: 5ed56e7ec406da4cb89c40aa42abab46dadffe87
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29964606"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568347"
 ---
 # <a name="project-server-updates"></a>Mises à jour de Project Server
 
@@ -30,6 +30,7 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
   
 |**Date de sortie**|**Numéro d’article de la Base de connaissances**|
 |:-----|:-----|:-----|
+|Mars 2019  <br/> |[Article 4462218 de la Base de connaissances](https://support.microsoft.com/kb/4462218) <br/>|
 |Février 2019  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |Janvier 2019  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
 |Décembre 2018  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
@@ -85,6 +86,7 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 
 |**Date de sortie**|**Numéro d’article de la Base de connaissances**|
 |:-----|:-----|:-----|
+|Mars 2019  <br/>  |[Article 4462227 de la Base de connaissances](https://support.microsoft.com/kb/4462227) <br/>|
 |Février 2019  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |Janvier 2019  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
 |Décembre 2018  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|

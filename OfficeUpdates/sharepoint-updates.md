@@ -3,7 +3,7 @@ title: Mises à jour de SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/13/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Recherchez et gérez les mises à jour pour SharePoint Server 2016, SharePoint 2013 et SharePoint 2010 au même endroit. Utilisez les liens figurant sur cette page pour obtenir plus d’informations sur les mises à jour et les télécharger.
-ms.openlocfilehash: 10bf842fd626af1105dfe5c9e2209fe9d7cc05e7
-ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
+ms.openlocfilehash: 0cd017a3cc8ad2178f51bc55215e83e07985bb65
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29964636"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568337"
 ---
 # <a name="sharepoint-updates"></a>Mises à jour de SharePoint
 
@@ -33,6 +33,7 @@ Pour connaître les dernières mises à jour de SharePoint Online et d’Office�
 
 |**Nom du package**|**Numéro KB**|**Date de sortie**|
 |:-----|:-----|:-----|
+|SharePoint Server 2019  <br/>  |[Article 4462199 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4462199)  <br/> |Mars 2019  <br/> |
 |SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[KB 4462171](https://support.microsoft.com/fr-FR/help/4462171) <br/> [KB 4462170](https://support.microsoft.com/fr-FR/help/4462170) <br/> |Février 2019  <br/> |
 |SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[Article 4461634 de la base de connaissance](https://support.microsoft.com/fr-FR/help/4461634) <br/> [Article 4461514 de la base de connaissances](https://support.microsoft.com/fr-FR/help/4461514) <br/> |Janvier 2019  <br/> |
 |SharePoint Server 2019  <br/>  |[ARTICLE 4461548 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/fr-FR/help/4461548)  <br/> |Décembre 2018  <br/> |
@@ -41,6 +42,7 @@ Pour connaître les dernières mises à jour de SharePoint Online et d’Office�
 
 |**Nom du package**|**Numéro KB**|**Date de sortie**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>  |[Article 4462211 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4462211) <br/>  |Mars 2019  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4462155](https://support.microsoft.com/fr-FR/help/4462155) <br/>  |Février 2019  <br/> |
 |SharePoint Server 2016  <br/>  |[Article 4461598 de la base de connaissances](https://support.microsoft.com/fr-FR/help/4461598) <br/>  |Janvier 2019  <br/> |
 |SharePoint Server 2016  <br/>  |[ARTICLE 4461541 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/fr-FR/help/4461541) <br/>  |Décembre 2018  <br/> |
@@ -91,7 +93,8 @@ Les packages suivants sont fournis pour les mises à jour cumulatives :
     
 |**Nom du package**|**Numéro KB**|**Date de sortie**|
 |:-----|:-----|:-----|
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462150](https://support.microsoft.com/fr-FR/help/4462150) <br/> [KB 4462152](https://support.microsoft.com/fr-FR/help/4462152) <br/> |Février 2019  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[Article 4462217 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4462217) <br/> [Article 4462219 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4462219) <br/> |Mars 2019  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4462150](https://support.microsoft.com/fr-FR/help/4462150) <br/> [KB 4462152](https://support.microsoft.com/fr-FR/help/4462152) <br/> |Février 2019  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[Article 4461603 de la base de connaissances](https://support.microsoft.com/fr-FR/help/4461603) <br/> [Article 4461605 de la base de connaissances](https://support.microsoft.com/fr-FR/help/4461605) <br/> |Janvier 2019  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[ARTICLE 4461552 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/fr-FR/help/4461552) <br/> [ARTICLE 4461555 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/fr-FR/help/4461555) <br/> |Décembre 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/fr-FR/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/fr-FR/help/4461510) <br/> |Novembre 2018  <br/> |
@@ -156,6 +159,7 @@ Les packages suivants sont fournis pour les mises à jour cumulatives :
 
 |**Nom du package**|**Numéro KB**|**Date de sortie**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[Article 4462231 de la Base de connaissances](https://support.microsoft.com/help/4462231) <br/> [Article 4462228 de la Base de connaissances](https://support.microsoft.com/help/4462228) <br/> |Mars 2019  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461630](https://support.microsoft.com/help/4461630) <br/> [KB 4462181](https://support.microsoft.com/help/4462181) <br/> |Février 2019  <br/> |
 |SharePoint Server 2010  <br/> |[Article 4461622 de la base de connaissances](https://support.microsoft.com/fr-FR/help/4461622) <br/> |Janvier 2019  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[ARTICLE 4461580 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/help/4461580) <br/> [ARTICLE 4461575 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/help/4461575) <br/> |Décembre 2018  <br/> |

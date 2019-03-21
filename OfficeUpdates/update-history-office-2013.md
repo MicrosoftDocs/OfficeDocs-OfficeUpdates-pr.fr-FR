@@ -3,26 +3,26 @@ title: Historique des mises à jour pour Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/13/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions définitives d’Office 2013 qui utilisent Démarrer en un clic
-ms.openlocfilehash: fc89aee709a5b14fabde1ae9439c2b6a17c61307
-ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
+ms.openlocfilehash: 42418530bb24ea1edc8e30b368c2d09a494e990a
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29964586"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568157"
 ---
 # <a name="update-history-for-office-2013"></a>Historique des mises à jour pour Office 2013
 
 La plupart des produits Office 2013 sont tenus à jour automatiquement à l’aide d’une technologie nommée Démarrer en un clic. Si vous voulez vérifier que vous êtes à jour, vérifiez le numéro de votre version d’Office et mettez à jour Office manuellement si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2013 est la version **15.0.5111.1001**, qui a été publiée le 12 juin 2019. 
+> La version la plus récente d’Office 2013 est la version **15.0.5119.1000**, qui a été publiée le 12 mars 2019. 
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -46,7 +46,8 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2019|12 février   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/fr-FR/help/4488446)  |
+|2019|12 mars   |15.0.5119.1000   |[Article 4491754 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4491754)  |
+||12 février   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/fr-FR/help/4488446)  |
 ||8 janvier   |15.0.5101.1002   |[Article 4484800 de la base de connaissances](https://support.microsoft.com/fr-FR/help/4484800)  |
 |2018|19 Décembre   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/fr-FR/help/4477615)  |
 ||13 novembre   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/fr-FR/help/4469617)  |
