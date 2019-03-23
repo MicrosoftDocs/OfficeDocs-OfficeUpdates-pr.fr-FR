@@ -1,5 +1,5 @@
 ---
-title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/15/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ Description proPlus: «fournit aux Insiders une audience rapide avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
+title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/22/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ Description proPlus: «fournit aux Insiders une audience rapide avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
@@ -10,7 +10,36 @@ Cet article contient des notes de publication pour les versions inSiders de Word
 > - Les notes de publication sont publiées toutes les semaines et peuvent être une compilation de plusieurs builds
 > - La date de publication des notes de publication peut ne pas correspondre à la date de publication réelle
 
-## <a name="march-15-2019"></a>15 mars 2019 
+## <a name="march-22-2019"></a>22 mars 2019
+Version 1904 (Build 11514,20004)
+
+## <a name="notable-fixes"></a>Correctifs notables:
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème: l'interface utilisateur affichait constamment «vérification des modifications»
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème dans lequel l'application pouvait se bloquer après avoir déplacé une feuille de calcul.
+- Nous avons résolu un problème dans lequel l'application pouvait se bloquer après l'enregistrement au format PDF.
+- Nous avons résolu un problème: la boîte de dialogue d'enregistrement n'acceptait pas certains caractères coréens.
+
+### <a name="powerpoint"></a>PowerPoint
+- Différents correctifs de performances et de stabilité
+
+### <a name="outlook"></a>Outlook
+- Différents correctifs de performances et de stabilité
+
+### <a name="access"></a>Accès
+- Nous avons résolu le message d'erreur dans Access lorsqu'un raccourci supplémentaire vers Access a été créé.
+- Nous avons résolu un problème: les données provenant d'un SharePoint lié s'affichaient de manière incorrecte
+
+### <a name="project"></a>Project
+- Nous avons résolu un problème où les paramètres de langue basculaient entre le chinois et l'anglais.
+- Nous avons résolu un problème dans lequel l'application pouvait se bloquer lors de la synchronisation avec SharePoint.
+
+</BR></BR>
+
+## <a name="march-15-2019"></a>15 mars 2019
 Version 1904 (Build 11504,20000)
 
 ## <a name="notable-fixes"></a>Correctifs notables:
@@ -29,10 +58,10 @@ Version 1904 (Build 11504,20000)
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème: les accusés de lecture étaient incorrects lorsqu'ils étaient affichés en japonais
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 - Différents correctifs de performances et de stabilité
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Différents correctifs de performances et de stabilité
 
 </BR></BR>
@@ -76,11 +105,11 @@ Avec Microsoft Search, vous pouvez trouver tous les fichiers, les actions, les p
 - Nous avons résolu un problème où le bouton de ruban «ouvrir cette tâche» ne répondait pas à certains messages électroniques.
 - Nous avons résolu un problème: Outlook n'a pas effacé les salles de site après que les utilisateurs ont sélectionné une salle disponible dans la recherche de salle
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 - Nous avons résolu la boîte de dialogue d'importation/exportation enregistrée qui avait du texte blanc sur fond blanc dans un thème foncé
 - Nous avons résolu un problème: les utilisateurs n'ont pas pu définir la propriété DisplayControl d'un champ Oui/non sur TextBox en création de table
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Différents correctifs de performances et de stabilité
 
 
@@ -105,12 +134,12 @@ Version 1903 (Build 11414,20014)
 - Nous avons résolu un problème où le bouton de ruban «ouvrir cette tâche» ne répondait pas à certains messages électroniques.
 - Nous avons résolu un problème: Outlook n'a pas effacé les salles de site après que les utilisateurs ont sélectionné une salle disponible dans la recherche de salle
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 - Nous avons mis à jour le texte d'invite qui s'affichait lors de la confirmation des tables de reliaison avec un DataSource.
 - Nous avons résolu la boîte de dialogue d'importation/exportation enregistrée qui avait du texte blanc sur fond blanc dans un thème foncé
 - Nous avons résolu un problème: les utilisateurs n'ont pas pu définir la propriété du contrôle d'affichage pour un champ Oui/non pour TextBox en création de table
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Différents correctifs de performances et de stabilité
 
 </BR></BR>
@@ -208,10 +237,10 @@ Le nouveau gestionnaire de comptes affiche tous vos comptes personnels et profes
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème avec l'affichage du bouton Envoyer vers OneNote
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 - Différents correctifs de performances et de stabilité
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Différents correctifs de performances et de stabilité
 
 
@@ -237,10 +266,10 @@ Version 1903 (Build 11330,20014)
 ### <a name="outlook"></a>Outlook
 - Différents correctifs de performances et de stabilité
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 - Différents correctifs de performances et de stabilité
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Différents correctifs de performances et de stabilité
 
 </BR></BR>
@@ -269,8 +298,8 @@ Version 1902 (Build 11326,20000)
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème: l'affichage des tâches dans le calendrier n'affichait pas correctement l'objet de la tâche.
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 - Nous avons résolu un problème de mise à l'échelle avec des graphiques
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Différents correctifs de performances et de stabilité
