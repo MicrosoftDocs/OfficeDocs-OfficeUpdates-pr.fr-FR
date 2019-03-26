@@ -3,30 +3,23 @@ title: Historique des mises à jour pour Office pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/12/2018
+ms.date: 3/19/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les informations sur les dernières mises à jour pour Office pour Mac, notamment des liens de téléchargement des packages et un historique des mises à jour.
-ms.openlocfilehash: ab85fb82969fc541026f4992318de7bd8ce9f761
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 2b177e0a23838b965a297e94f414413c3b95ecfe
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568317"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737554"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historique des mises à jour pour Office pour Mac
   
 Office pour Mac est fourni avec un abonnement Office 365 et est mis à jour régulièrement pour vous fournir des nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité. Les informations suivantes sont essentiellement destinées aux professionnels de l’informatique qui déploient Office pour Mac auprès des utilisateurs de leur organisation.
-
-Le tableau suivant récapitule les informations sur la version la plus récente d’Office pour Mac.
-
-|**Type de suite Office**|**Version actuelle**|**Date de sortie**|**Lien de téléchargement**|**Plus d’informations**|
-|:-----|:-----|:-----|:-----|
-|Avec Microsoft Teams | 16.23.0 (19030902)  <br/> |12 mars 2019  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |[Notes de publication](release-notes-office-for-mac.md#march-2019-release) <br/> |
-|Sans Microsoft Teams| 16.23.0 (19030902)  <br/> |12 mars 2019  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Notes de publication](release-notes-office-for-mac.md#march-2019-release) <br/>|
 
 > [!NOTE]
 > - À partir de la version 16.21, Microsoft Teams sera installé par défaut pour les ***nouvelles*** installations si vous utilisez le package d’installation de la suite Office. Pour plus d’informations, consultez l’article [Installations de Microsoft Teams sur un Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
@@ -39,25 +32,31 @@ Le tableau suivant récapitule les informations sur la version la plus récente 
 ## <a name="most-current-packages-for-office-for-mac"></a>Packages les plus récents pour Office pour Mac
 
 Le tableau suivant répertorie les packages les plus récents pour la suite Office et les applications individuelles. La suite Office inclut toutes les applications individuelles, telles que Word, PowerPoint et Excel. Tous les packages sont uniquement en 64 bits. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version. Le package d’installation est utilisé si l’application n’est pas déjà installée, tandis que le package de mise à jour est utilisé pour mettre à jour une installation existante.
-  
-|**Application**|**Version**|**Liens de téléchargement**|**Code de hachage SHA-256 pour le package d’installation**|
-|:-----|:-----|:-----|:-----|
-|Suite Office <br/> (avec Microsoft Teams)   |16.23.0 (19030902)  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |3260799CC15E0AD84FCD221483E4CAA1C8BC7EEDF992C02CAF63317BBA191038<br/> |
-|Suite Office <br/>(sans Microsoft Teams)  <br/> |16.23.0 (19030902)  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |ABC379274A23D6902FC306514EA96317D375F96C437B6B840EFB7CE2FE00530F <br/> |
-|Word  <br/> |16.23.0 (19030902)   <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/> |7D7E2EF10C6187318B418508CF4785B11435570722892C3E8814A68B65ECC7F3 <br/> |
-|Excel  <br/> |16.23.0 (19030902)   <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.23.19030902_Updater.pkg) <br/> |6E884FEAAEF0F31B688D65F7B7AEC86BB2BB03A88EE2D0091C9403ABFC0E3234 <br/> |
-|PowerPoint  <br/> |16.23.0 (19030902)    <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/> |5764BF2C9C031C37402759FF4CDCBB6A25189C668E93AB7DB1080EC93FF237B1 <br/> |
-|Outlook  <br/> |16.23.0 (19030902)   <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/> |C03DB06B6A886523E93AB960D2C406F6A72769E8A0D1E89C658DFC3156BEDFD4 <br/> |
-|OneNote  <br/> |16.23.0 (19030902)    <br/> |[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.23.19030902_Updater.pkg) <br/> |Non applicable  <br/> |
+
+Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)
+
+### <a name="march-12-2019"></a>12 mars 2019
+Version 16.23.0 (19030902)
+ 
+|**Application**|**Liens de téléchargement**|**Code de hachage SHA-256 pour le package d’installation**|
+|:-----|:-----|:-----|
+|Suite Office <br/> (avec Microsoft Teams)   |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |3260799CC15E0AD84FCD221483E4CAA1C8BC7EEDF992C02CAF63317BBA191038<br/> |
+|Suite Office <br/>(sans Microsoft Teams)  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |ABC379274A23D6902FC306514EA96317D375F96C437B6B840EFB7CE2FE00530F <br/> |
+|Word  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/> |7D7E2EF10C6187318B418508CF4785B11435570722892C3E8814A68B65ECC7F3 <br/> |
+|Excel  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.23.19030902_Updater.pkg) <br/> |6E884FEAAEF0F31B688D65F7B7AEC86BB2BB03A88EE2D0091C9403ABFC0E3234 <br/> |
+|PowerPoint  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/> |5764BF2C9C031C37402759FF4CDCBB6A25189C668E93AB7DB1080EC93FF237B1 <br/> |
+|Outlook  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/> |C03DB06B6A886523E93AB960D2C406F6A72769E8A0D1E89C658DFC3156BEDFD4 <br/> |
+|OneNote  <br/> |[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.23.19030902_Updater.pkg) <br/> |Non applicable  <br/> |
    
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Packages les plus récents pour d’autres programmes Mac de Microsoft
 
 Le tableau suivant fournit des informations sur les packages les plus récents, y compris un lien de téléchargement, pour d’autres programmes Mac de Microsoft qui pourraient intéresser les professionnels de l’informatique. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version. 
+
   
 |**Programme**|**Version**|**Package**|**Plus d’informations**|**Code de hachage SHA-1/ SHA-256**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mise à jour automatique Microsoft  <br/> |4.8 (19022003)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des publications pour la mise à jour automatique Microsoft (AutoUpdate)](release-history-microsoft-autoupdate.md)<br/> |CEC4E8458027571E69BACE1424079E0C883CCB944398EFA3A8D35ABCB28935B6 <br/>|
+|Mise à jour automatique Microsoft  <br/> |4.9 (19030902)  <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Ce package de mise à jour est en 64 bits. <br/><br/>[Historique des publications pour la mise à jour automatique Microsoft (AutoUpdate)](release-history-microsoft-autoupdate.md)<br/> |756777A295ACB64D8CB26EE11A813A6154CB438DE85B7AB5781AD68835BBBA69 <br/>|
 |Skype Entreprise  <br/> |16.24.0.191 <br/> |[Télécharger](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |La dernière version a été publiée le 31 janvier 2019. <br/><br/>[Dernières mises à jour](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  B35E2BE81C90D9E0ABFE1EC3A9384A3DE826C35D9F1304C111C56D5B44BB2A72 <br/> |
 |Bureau à distance | 10.2.9  | [Télécharger](https://go.microsoft.com/fwlink/?linkid=868963) | Ce package d’installation est en 64 bits. <br/> <br/>[Nouveautés](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |   ffed37daf89803c40f59e61a539d4e0a347ac2dee7070a523b44cf69bb9221cd <br/> |
 |Portail d’entreprise Intune |1.5 (52.1805002.000) [180509] | [Télécharger](https://go.microsoft.com/fwlink/?linkid=869655)| [Nouveautés de Microsoft Intune](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
@@ -70,65 +69,63 @@ Le tableau suivant fournit des informations sur l’historique des publications 
 > [!NOTE]
 > Les liens de téléchargement sont fournis uniquement pour les versions les plus récentes.
   
-|**Date de sortie**|**Version**|**Plus d’informations**|**Package d’installation**|**Packages de mise à jour**|
+|**Date de sortie**|**Version**|**Package d’installation**|**Packages de mise à jour**|
 |:-----|:-----|:-----|:-----|:-----|
-12 mars 2019  <br/> |16.23.0 (19030902)  <br/> |[Notes de publication](release-notes-office-for-mac.md#march-2019-release)| [Suite Office (avec Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.23.19030902_BusinessPro_Installer.pkg) <br/> <br/>[Suite Office (sans Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.23.19030902_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.23.19030902_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.23.19030902_Updater.pkg) <br/>
-20 février 2019  <br/> |16.22 (19022000)  <br/> |[Notes de publication](release-notes-office-for-mac.md#february-2019-release)|[Outlook](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> |  [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) |
-12 février 2019  <br/> |16.22 (19021100)  <br/> |[Notes de publication](release-notes-office-for-mac.md#february-2019-release)| [Suite Office (avec Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.22.19021100_BusinessPro_Installer.pkg) <br/> <br/>[Suite Office (sans Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.22.19021100_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.22.19021100_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.22.19021100_Updater.pkg) <br/>
-24 janvier 2019  <br/> |16.21 (19011700)  <br/> |[Notes de publication](release-notes-office-for-mac.md#january-2019-release)|[Word](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/><br/>[Outlook](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> |  [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) |
-23 janvier 2019  <br/> |16.21 (19012303)  <br/> |[Notes de publication](release-notes-office-for-mac.md#january-2019-release)|[Excel](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/>| [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.21.19012303_Updater.pkg)<br/> <br/> |
-16 janvier 2019  <br/> |16.21 (19011500)  <br/> |[Notes de publication](release-notes-office-for-mac.md#january-2019-release)| [Suite Office (avec Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.21.19011500_BusinessPro_Installer.pkg) <br/> <br/>[Suite Office (sans Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.21.19011500_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.21.19011500_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.21.19011500_Updater.pkg) <br/>
-11 décembre 2018  <br/> |16.20 (18120801)  <br/> |[Notes de publication](release-notes-office-for-mac.md#december-2018-release) <br/> |[Suite Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.20.18120801_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.20.18120801_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.20.18120801_Updater.pkg) <br/>
-|13 novembre 2018  <br/> |16.19 (18110915)  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2018-release) <br/> |[Suite Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.19.18110915_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.19.18110915_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.19.18110915_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.19.18110915_Updater.pkg) <br/> |
-|16 octobre 2018  <br/> |16.18 (18101400)  <br/> |[Notes de publication](release-notes-office-for-mac.md#october-2018-release) <br/> |[Suite Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.18.18101400_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |
-|11 septembre 2018  <br/> |16.17 (18090901)  <br/> |[Notes de publication](release-notes-office-for-mac.md#september-2018-release) <br/> |[Suite Office](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.17.18090901_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |
-|14 août 2018  <br/> |16.16 (18081201)  <br/> |[Notes de publication](release-notes-office-for-mac.md#august-2018-release) <br/> |||
-|10 juillet 2018  <br/> |16.15 (18070902)  <br/> |[Notes de publication](release-notes-office-for-mac.md#july-2018-release) <br/> |||
-|13 juin 2018  <br/> |16.14.1 (18061302)  <br/> |[Notes de publication](release-notes-office-for-mac.md#june-2018-release) <br/> |||
-|12 juin 2018  <br/> |16.14.0 (18061000)  <br/> |[Notes de publication](release-notes-office-for-mac.md#june-2018-release) <br/> |||
-|24 mai 2018  <br/> |16.13.1 (18052304)  <br/> |[Notes de publication](release-notes-office-for-mac.md#may-2018-release) <br/> |||
-|23 mai 2018  <br/> |16.13.1 (18052203)  <br/> |[Notes de publication](release-notes-office-for-mac.md#may-2018-release) <br/> |||
-|15 mai 2018  <br/> |16.13.0 (18051301)  <br/> |[Notes de publication](release-notes-office-for-mac.md#may-2018-release) <br/> |||
-|11 avril 2018  <br/> |16.12.0 (18041000)  <br/> |[Notes de publication](release-notes-office-for-mac.md#april-2018-release) <br/> |||
-|19 mars 2018  <br/> |16.11.1 (18031900)  <br/> |[Notes de publication](release-notes-office-for-mac.md#march-2018-release) <br/> ||<br/> |
-|13 mars 2018  <br/> |16.11.0 (18031100)  <br/> |[Notes de publication](release-notes-office-for-mac.md#march-2018-release) <br/> | <br/> |
-|13 février 2018  <br/> |16.10.0 (18021001)  <br/> |[Notes de publication](release-notes-office-for-mac.md#february-2018-release) <br/> |||
-|26 janvier 2018  <br/> |16.9.1 (18012504)  <br/> |[Notes de publication](release-notes-office-for-mac.md#january-2018-release) <br/> |||
-|18 janvier 2018  <br/> |16.9.0 (18011602)  <br/> |[Notes de publication](release-notes-office-for-mac.md#january-2018-release) <br/> |||
-|12 décembre 2017  <br/> |15.41.0 (17120500)  <br/> |[Notes de publication](release-notes-office-for-mac.md#december-2017-release) <br/> |||
-|14 novembre 2017  <br/> |15.40.0 (17110800)  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2017-release) <br/> |||
-|10 octobre 2017  <br/> |15.39.0 (17101000)  <br/> |[Notes de publication](release-notes-office-for-mac.md#october-2017-release) <br/> |||
-|12 septembre 2017  <br/> |15.38.0 (17090200)  <br/> |[Notes de publication](release-notes-office-for-mac.md#september-2017-release) <br/> |||
-|15 août 2017  <br/> |15.37.0 (17081500)  <br/> |[Notes de publication](release-notes-office-for-mac.md#august-2017-release) <br/> |||
-|21 juillet 2017  <br/> |15.36.1 (17072101)  <br/> |[Notes de publication](release-notes-office-for-mac.md#july-2017-release) <br/> |||
-|11 juillet 2017  <br/> |15.36.0 (17070200)  <br/> |[Notes de publication](release-notes-office-for-mac.md#july-2017-release) <br/> |||
-|16 juin 2017  <br/> |15.35.0 (17061600)  <br/> |[Notes de publication](release-notes-office-for-mac.md#june-2017-release) <br/> |||
-|13 juin 2017  <br/> |15.35.0 (17061000)  <br/> |[Notes de publication](release-notes-office-for-mac.md#june-2017-release) <br/> |||
-|16 mai 2017  <br/> |15.34.0 (17051500)  <br/> |[Notes de publication](release-notes-office-for-mac.md#may-2017-release) <br/> |||
-|11 avril 2017  <br/> |15.33.0 (17040900)  <br/> |[Notes de publication](release-notes-office-for-mac.md#april-2017-release) <br/> |||
-|14 mars 2017  <br/> |15.32.0 (17030901)  <br/> |[Notes de publication](release-notes-office-for-mac.md#march-2017-release) <br/> |||
-|16 février 2017  <br/> |15.31.0 (17021600)  <br/> |[Notes de publication](release-notes-office-for-mac.md#february-2017-release) <br/> |||
-|11 janvier 2017  <br/> |15.30.0 (17010700)  <br/> |[Notes de publication](release-notes-office-for-mac.md#january-2017-release) <br/> |||
-|15 décembre 2016  <br/> |15.29.1 (16121500)  <br/> |[Notes de publication](release-notes-office-for-mac.md#december-2016-release) <br/> |||
-|13 décembre 2016  <br/> |15.29.0 (16120900)  <br/> |[Notes de publication](release-notes-office-for-mac.md#december-2016-release) <br/> |||
-|17 novembre 2016  <br/> |15.28.0 (16111700)  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2016-release) <br/> |||
-|15 novembre 2016  <br/> |15.28.0 (16111501)  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2016-release) <br/> |||
-|15 novembre 2016  <br/> |15.28.0 (161113)  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2016-release) <br/> |||
-|11 octobre 2016  <br/> |15.27.0 (161010)  <br/> |[Article 3193438 de la Base de connaissances](https://support.microsoft.com/kb/3193438) <br/> |||
-|16 septembre 2016  <br/> |15.26.1 (160916)  <br/> |Correctif relatif aux dossiers publics pour Outlook  <br/> |||
-|13 septembre 2016  <br/> |15.26.0 (160910)  <br/> |[Article 3186807 de la Base de connaissances](https://support.microsoft.com/kb/3186807) <br/> |||
-|26 août 2016  <br/> |15.25.1 (160826)  <br/> |Correctif relatif aux macros pour Excel  <br/>  |||
-|22 août 2016  <br/> |15.25.0 (160817)  <br/> |[Article 3179163 de la Base de connaissances](https://support.microsoft.com/kb/3179163) <br/> |||
-|22 août 2016  <br/> |15.25.0 (160818)  <br/> |[Article 3179163 de la Base de connaissances](https://support.microsoft.com/kb/3179163) <br/> |||
-|12 juillet 2016  <br/> |15.24.0 (160709)  <br/> |[Article 3170460 de la Base de connaissances](https://support.microsoft.com/kb/3170460) <br/> |||
-|25 juin 2016  <br/> |15.23.2 (160624)  <br/> |Correctif logiciel de service des éléments récents  <br/> |||
-|18 juin 2016  <br/> |15.23.1 (160617)  <br/> |Correctif logiciel des macros en japonais  <br/>  |||
-|14 juin 2016  <br/> |15.23.0 (160611)  <br/> |[Article 3165798 de la Base de connaissances](https://support.microsoft.com/kb/3165798) <br/> |||
-|13 mai 2016  <br/> |15.22.1 (160512)  <br/> |Correctif de compatibilité des notes de fin  <br/>  |||
-|10 mai 2016  <br/> |15.22.0 (160506)  <br/> |[Article 3155777 de la Base de connaissances](https://support.microsoft.com/kb/3155777) <br/> |||
-|12 avril 2016  <br/> |15.21.1 (160411)  <br/> |[Article 3142577 de la Base de connaissances](https://support.microsoft.com/kb/3142577) <br/> |||
-|16 mars 2016  <br/> |15.20.0 (160315)  <br/> |[Article 3138327 de la Base de connaissances](https://support.microsoft.com/kb/3138327) <br/> |||
-|16 février 2016  <br/> |15.19.1 (160212)  <br/> |[Article 3134241 de la Base de connaissances](https://support.microsoft.com/kb/3134241) <br/> |||
-|12 janvier 2016  <br/> |15.18.0 (160109)  <br/> |[KB 3133711](https://support.microsoft.com/kb/3133711) <br/> |||
+12 mars 2019  <br/> |16.23.0 (19030902)  <br/> | [Suite Office (avec Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.23.19030902_BusinessPro_Installer.pkg) <br/> <br/>[Suite Office (sans Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.23.19030902_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.23.19030902_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.23.19030902_Updater.pkg) <br/>
+20 février 2019  <br/> |16.22 (19022000)  <br/> |[Outlook](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> |  [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) |
+12 février 2019  <br/> |16.22 (19021100)  <br/> |[Suite Office (avec Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.22.19021100_BusinessPro_Installer.pkg) <br/> <br/>[Suite Office (sans Microsoft Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.22.19021100_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.22.19021100_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.22.19021100_Updater.pkg) <br/>
+24 janvier 2019  <br/> |16.21 (19011700)  <br/> | |
+16 janvier 2019  <br/> |16.21 (19011500)  <br/> | |
+11 décembre 2018  <br/> |16.20 (18120801)  <br/> | |
+|13 novembre 2018  <br/> |16.19 (18110915)  <br/> | |
+|16 octobre 2018  <br/> |16.18 (18101400)  <br/> | |
+|11 septembre 2018  <br/> |16.17 (18090901)  <br/> | |
+|14 août 2018  <br/> |16.16 (18081201)  <br/> ||
+|10 juillet 2018  <br/> |16.15 (18070902)  <br/> ||
+|13 juin 2018  <br/> |16.14.1 (18061302)  <br/> ||
+|12 juin 2018  <br/> |16.14.0 (18061000)  <br/> ||
+|24 mai 2018  <br/> |16.13.1 (18052304)  <br/> ||
+|23 mai 2018  <br/> |16.13.1 (18052203)  <br/> ||
+|15 mai 2018  <br/> |16.13.0 (18051301)  <br/> ||
+|11 avril 2018  <br/> |16.12.0 (18041000)  <br/> ||
+|19 mars 2018  <br/> |16.11.1 (18031900)  <br/> ||
+|13 mars 2018  <br/> |16.11.0 (18031100)  <br/> | |
+|13 février 2018  <br/> |16.10.0 (18021001)  <br/> ||
+|26 janvier 2018  <br/> |16.9.1 (18012504)  <br/> ||
+|18 janvier 2018  <br/> |16.9.0 (18011602)  <br/> ||
+|12 décembre 2017  <br/> |15.41.0 (17120500)  <br/> ||
+|14 novembre 2017  <br/> |15.40.0 (17110800)  <br/> ||
+|10 octobre 2017  <br/> |15.39.0 (17101000)  <br/> ||
+|12 septembre 2017  <br/> |15.38.0 (17090200)  <br/> ||
+|15 août 2017  <br/> |15.37.0 (17081500)  <br/> ||
+|21 juillet 2017  <br/> |15.36.1 (17072101)  <br/> ||
+|11 juillet 2017  <br/> |15.36.0 (17070200)  <br/> ||
+|16 juin 2017  <br/> |15.35.0 (17061600)  <br/> ||
+|13 juin 2017  <br/> |15.35.0 (17061000)  <br/> ||
+|16 mai 2017  <br/> |15.34.0 (17051500)  <br/> ||
+|11 avril 2017  <br/> |15.33.0 (17040900)  <br/> ||
+|14 mars 2017  <br/> |15.32.0 (17030901)  <br/> ||
+|16 février 2017  <br/> |15.31.0 (17021600)  <br/> ||
+|11 janvier 2017  <br/> |15.30.0 (17010700)  <br/> ||
+|15 décembre 2016  <br/> |15.29.1 (16121500)  <br/> ||
+|13 décembre 2016  <br/> |15.29.0 (16120900)  <br/> ||
+|17 novembre 2016  <br/> |15.28.0 (16111700)  <br/> ||
+|15 novembre 2016  <br/> |15.28.0 (16111501)  <br/> ||
+|15 novembre 2016  <br/> |15.28.0 (161113)  <br/> ||
+|11 octobre 2016  <br/> |15.27.0 (161010)  <br/> |<!---[KB 3193438](https://support.microsoft.com/kb/3193438) <br/> -->|||
+|16 septembre 2016  <br/> |15.26.1 (160916)  <br/> |<!---Public folder fix for Outlook  <br/> -->|||
+|13 septembre 2016  <br/> |15.26.0 (160910)  <br/> |<!---[KB 3186807](https://support.microsoft.com/kb/3186807) <br/> -->|||
+|26 août 2016  <br/> |15.25.1 (160826)  <br/> |<!---Macro fix for Excel  <br/> --> |||
+|22 août 2016  <br/> |15.25.0 (160817)  <br/> |<!---[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> -->|||
+|22 août 2016  <br/> |15.25.0 (160818)  <br/> |<!---[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> --> |||
+|12 juillet 2016  <br/> |15.24.0 (160709)  <br/> |<!---[KB 3170460](https://support.microsoft.com/kb/3170460) <br/> -->|||
+|25 juin 2016  <br/> |15.23.2 (160624)  <br/> |<!---MRU service hotfix  <br/> -->|||
+|18 juin 2016  <br/> |15.23.1 (160617)  <br/> |<!---Japanese macro hotfix  <br/> --> |||
+|14 juin 2016  <br/> |15.23.0 (160611)  <br/> |<!---[KB 3165798](https://support.microsoft.com/kb/3165798) <br/> -->|||
+|13 mai 2016  <br/> |15.22.1 (160512)  <br/> |<!---EndNote compatibility fix  <br/> --> |||
+|10 mai 2016  <br/> |15.22.0 (160506)  <br/> |<!---[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> -->|||
+|12 avril 2016  <br/> |15.21.1 (160411)  <br/> |<!---[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> -->|||
+|16 mars 2016  <br/> |15.20.0 (160315)  <br/> |<!---[KB 3138327](https://support.microsoft.com/kb/3138327) <br/> --> |||
+|16 février 2016  <br/> |15.19.1 (160212)  <br/> |<!---[KB 3134241](https://support.microsoft.com/kb/3134241) <br/> -->|||
+|12 janvier 2016  <br/> |15.18.0 (160109)  <br/> |<!---[KB 3133711](https://support.microsoft.com/kb/3133711) <br/> -->|||
 
-   

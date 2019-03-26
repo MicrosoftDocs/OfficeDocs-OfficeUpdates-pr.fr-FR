@@ -3,19 +3,19 @@ title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/10/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 649c2c37850c1a764515bd0dfb1217452d8640ab
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568197"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737544"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -29,7 +29,7 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 
   
 > [!NOTE]
-> - La taille de téléchargement approximative indiquée dans les tableaux s’applique uniquement à la version x86 en-us d’Office 365 ProPlus. 
+> - La taille de téléchargement approximative indiquée dans les tableaux s’applique uniquement à la version x64 en-us d’Office 365 ProPlus. (Toutes les versions publiées avant le 13 mars 2019 affichent des tailles x86.)
 > - Les tailles de téléchargement indiquées sont approximatives. Les tailles de téléchargement réelles peuvent varier d’environ 50 Mo. 
 > - Les dates de sortie et les numéros de build mis en italique et placés entre « \< \> » peuvent être modifiés. 
 > - Seules les publications sorties au cours des quatre derniers mois sont indiquées.
