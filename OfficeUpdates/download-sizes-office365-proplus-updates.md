@@ -3,19 +3,19 @@ title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/19/2019
+ms.date: 3/27/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 649c2c37850c1a764515bd0dfb1217452d8640ab
-ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
+ms.openlocfilehash: 604b71c37813e37bde2d4e299f78508627a6121b
+ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30737544"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936844"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -34,7 +34,19 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 > - Les dates de sortie et les numéros de build mis en italique et placés entre « \< \> » peuvent être modifiés. 
 > - Seules les publications sorties au cours des quatre derniers mois sont indiquées.
 > - Seules les versions antérieures les plus récentes sont indiquées dans les tableaux. Si vous mettez à jour votre canal à partir d’une version antérieure, votre téléchargement sera plus volumineux.
-> - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum. 
+> - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
+
+## <a name="march-25-2019"></a>25 mars 2019
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1902 (build 11328.20222). 
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (build 11328.20158)  <br/> |12 mars 2019  <br/> |67<br/> |
+|Version 1901 (Build 11328.201460)  <br/> |04 mars 2019  <br/> |67<br/> |
+|Version 1901 (Build 11328.20146)  <br/> |12 février 2019  <br/> |307<br/> |
 
 ## <a name="march-12-2019"></a>12 mars 2019
 
