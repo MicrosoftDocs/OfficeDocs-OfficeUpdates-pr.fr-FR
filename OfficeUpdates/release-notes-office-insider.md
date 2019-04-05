@@ -1,7 +1,22 @@
 ---
-title: "notes de publication pour Office Insiders" ms. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/22/2019 ms. audience: Win32 Fast ms. topic: référence ms. service: o365-ProPlus-localization_priority: critique ms. collection: RelNotes_ Description proPlus: «fournit aux Insiders une audience rapide avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
+title: Notes de publication pour Office Insiders
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Fournit une audience rapide aux Insiders avec la dernière liste des nouvelles fonctionnalités clés, des correctifs ou des problèmes connus
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: fr-FR
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478541"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
 Cet article contient des notes de publication pour les versions inSiders de Word, Excel, PowerPoint, Outlook, Access et Project pour le bureau Windows. Chaque semaine, nous allons mettre en évidence les nouvelles fonctionnalités intéressantes, les correctifs importants et les problèmes importants que vous devez connaître. Notez que nous déployons souvent des fonctionnalités (voire parfois des correctifs) vers des Insiders sur une période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
@@ -33,7 +48,7 @@ Version 1904 (Build 11514,20004)
 - Nous avons résolu le message d'erreur dans Access lorsqu'un raccourci supplémentaire vers Access a été créé.
 - Nous avons résolu un problème: les données provenant d'un SharePoint lié s'affichaient de manière incorrecte
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Nous avons résolu un problème où les paramètres de langue basculaient entre le chinois et l'anglais.
 - Nous avons résolu un problème dans lequel l'application pouvait se bloquer lors de la synchronisation avec SharePoint.
 
@@ -61,7 +76,7 @@ Version 1904 (Build 11504,20000)
 ### <a name="access"></a>Accès
 - Différents correctifs de performances et de stabilité
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 </BR></BR>
@@ -109,7 +124,7 @@ Avec Microsoft Search, vous pouvez trouver tous les fichiers, les actions, les p
 - Nous avons résolu la boîte de dialogue d'importation/exportation enregistrée qui avait du texte blanc sur fond blanc dans un thème foncé
 - Nous avons résolu un problème: les utilisateurs n'ont pas pu définir la propriété DisplayControl d'un champ Oui/non sur TextBox en création de table
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 
@@ -127,7 +142,7 @@ Version 1903 (Build 11414,20014)
 - Nous avons résolu un problème où la copie d'une cellule dans Excel provoquait une utilisation élevée du processeur lors de l'ouverture d'un document protégé et d'un document modifiable
 
 ### <a name="powerpoint"></a>PowerPoint
-- Nous avons résolu un problème avec la taille de l'image de la diapositive lors de l'utilisation de @Mentions dans PowerPoint
+- Nous avons résolu un problème avec la taille de l' @Mentions image de la diapositive lors de l'utilisation de PowerPoint
 
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème: la recherche Outlook n'honorait pas le tri chronologique sélectionné.
@@ -139,7 +154,7 @@ Version 1903 (Build 11414,20014)
 - Nous avons résolu la boîte de dialogue d'importation/exportation enregistrée qui avait du texte blanc sur fond blanc dans un thème foncé
 - Nous avons résolu un problème: les utilisateurs n'ont pas pu définir la propriété du contrôle d'affichage pour un champ Oui/non pour TextBox en création de table
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 </BR></BR>
@@ -240,7 +255,7 @@ Le nouveau gestionnaire de comptes affiche tous vos comptes personnels et profes
 ### <a name="access"></a>Accès
 - Différents correctifs de performances et de stabilité
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 
@@ -269,7 +284,7 @@ Version 1903 (Build 11330,20014)
 ### <a name="access"></a>Accès
 - Différents correctifs de performances et de stabilité
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
 
 </BR></BR>
@@ -301,5 +316,5 @@ Version 1902 (Build 11326,20000)
 ### <a name="access"></a>Accès
 - Nous avons résolu un problème de mise à l'échelle avec des graphiques
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Différents correctifs de performances et de stabilité
