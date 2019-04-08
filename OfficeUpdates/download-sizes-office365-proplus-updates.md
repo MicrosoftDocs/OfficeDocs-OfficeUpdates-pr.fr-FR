@@ -3,19 +3,19 @@ title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/3/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: b62212216545a690172901bef75543778b6dad64
-ms.sourcegitcommit: 7380adc27555df032fbc89fb3b68bafa82e0fad4
+ms.openlocfilehash: 89e16d8802ba6093b3ce0fb2d44dc3cc8fa61567
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31043430"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478561"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -59,7 +59,7 @@ La publication prévue est la version 1902 (build 11328.20230).
 
 ### <a name="monthly-channel"></a>Canal mensuel
 
-La publication prévue est la version 1903 (build 11425.20202). 
+La version actuelle est la version 1903 (build 11425.20202). 
   
 |**Mise à niveau à partir de**|**Date de sortie**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|

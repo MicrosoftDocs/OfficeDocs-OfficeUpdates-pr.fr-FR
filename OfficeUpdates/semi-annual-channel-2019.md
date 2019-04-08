@@ -3,28 +3,26 @@ title: Notes de publication pour les publications du Canal semi-annuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/6/2019
+ms.date: 4/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568357"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478571"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités, mises à jour de sécurité et mises à jour non relatives à la sécurité incluses dans les mises à jour du Canal semi-annuel vers Office 365 ProPlus en 2019. 
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal semi-annuel vers Office 365 ProPlus en 2019, dont Visio Pro pour Office 365 et le Client de bureau Project Online.
 
 > [!NOTE]
-> - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
-> - Le Canal semi-annuel était nommé Canal différé avant janvier 2019.
 
 > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
@@ -33,7 +31,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1808-march-12"></a>Version 1808 : 12 mars
 *Version 1808 (build 10730.20304)*
 
-### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word: Mises à jour non relatives à la sécurité
 
 - Résolution d’un problème : VBA renvoie le mauvais numéro de page.
 - Amélioration du délai d’enregistrement sur le fichier Word local. 
@@ -50,7 +48,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 Il n’existe aucune mise à jour ce mois-ci.
 
 ## <a name="version-1808-february-12"></a>Version 1808 : 12 Février
-*Version 1808 (Build 10730.20280)*
+*Version 1808 (build 10730.20280)*
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité 
 
@@ -71,7 +69,7 @@ Il n’existe aucune mise à jour ce mois-ci.
 ## <a name="version-1803-february-12"></a>Version 1803 : 12 Février
 *Version 1803 (build 9126.2356)*
 
-*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible: Version 1808 (build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+*Il s’agit de la version du canal semi-annuel disponible depuis juillet 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du canal semi-annuel est désormais disponible (version 1808, build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité 
 
@@ -101,9 +99,9 @@ Il n’existe aucune mise à jour ce mois-ci.
 - Nous avons résolu le problème dans lequel les compléments déployé à l’aide [du déploiement centralisé Office O365](https://docs.microsoft.com/fr-FR/office/dev/add-ins/publish/centralized-deployment), ont été figés et inutilisables.
 
 ## <a name="version-1708-february-12"></a>Version 1708 : 12 Février
-*Version 1708 (Build 8431.2372)*
+*Version 1708 (build 8431.2372)*
 
-*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1808, build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+*Il s’agit de la version du canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du canal semi-annuel est désormais disponible (version 1808, build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 
@@ -262,7 +260,7 @@ Il n’existe aucune mise à jour ce mois-ci.
 ## <a name="version-1803-january-8"></a>Version 1803 : 8 janvier
 *Version 1803 (build 9126.2351)*
 
-*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1808). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+*Il s’agit de la version du canal semi-annuel disponible depuis juillet 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du canal semi-annuel est désormais disponible (version 1808). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Mises à jour non relatives à la sécurité
 - Correction d’un problème pour vous assurer une parité de fonctionnalité de l’option LinkedIn entre les applications Office.
