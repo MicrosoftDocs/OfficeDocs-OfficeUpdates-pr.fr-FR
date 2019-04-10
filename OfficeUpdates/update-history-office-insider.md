@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider Fast pour ordinateur de bureau Windows
-ms.openlocfilehash: cd4a6dd474302e7dc4f0896c5e9f6ab4480a340d
-ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
+ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30737514"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516469"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historique des mises à jour pour le canal Office Insider
 
@@ -33,19 +33,21 @@ Si vous êtes inscrit au niveau Insider, vous recevez des mises à jour fréquen
 
 Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/fr-FR/OfficeUpdates/release-notes-office-insider).
 
-**18 mars 2019**<br/> Version 1904 (build 11520.20004)<br/>
+**1 avril 2019**<br/> Version 1904 (build 11527.20004)<br/>
+
+**18 mars 2019**<br/> Version 1904 (build 11520.20004)<br/>
 
 **11 mars 2019**<br/> Version 1904 (build 11504.20000)<br/>
 
 **1er mars 2019**<br/> Version 1903 (build 11425.20036)<br/> 
 
-**25 février 2019**<br/> Version 1903 (build 11414.20014)<br/> 
+**25 février 2019**<br/> Version 1903 (build 11414.20014)<br/> 
 
 **12 février 2019**<br/> Version 1903 (build 11406.20002)<br/> 
 
-**9 février 2019**<br/> Version 1903 (build 11330.20014)<br/> 
+**9 février 2019**<br/> Version 1903 (build 11330.20014)<br/> 
 
-**30 janvier 2019**<br/> Version 1902 (build 11326.20000)<br/> 
+**30 janvier 2019**<br/> Version 1902 (build 11326.20000)<br/> 
 
 **25 janvier 2019**<br/> Version 1902 (build 11316.20026)<br/> 
 
@@ -59,16 +61,14 @@ Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de
 ## <a name="insider-community"></a>Communauté Insider
 
 ![Image montrant la communauté Insider. ](images/insidercommunity.png) <br/>
-**Communauté Office Insider**<br/> Si vous voulez discuter avec d’autres participants au programme Insider, publiez des posts dans notre communauté.<br/> 
+**Communauté Office Insider**<br/> Si vous voulez discuter avec d’autres participants du programme Insider, publiez des posts dans notre communauté.<br/> 
 [Visiter la communauté](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
 
 ![Image montrant l’icône Twitter. ](images/twitter.png)<br/>
-**Office Insider sur Twitter**<br/> Sur @OfficeInsider, nous publions fréquemment des posts sur les versions Insider et hébergeons des événements spéciaux pour les participants au programme Insider.<br/> 
+**Office Insider sur Twitter**<br/> Dans @OfficeInsider, nous publions fréquemment des posts sur les versions Insider et hébergeons des événements spéciaux pour les participants au programme Insider.<br/> 
 [Suivez-nous sur Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
-  ![Image montrant l’icône Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![IImage montrant l’icône Facebook.  ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Obtenir d’abord de nouvelles fonctionnalités**
