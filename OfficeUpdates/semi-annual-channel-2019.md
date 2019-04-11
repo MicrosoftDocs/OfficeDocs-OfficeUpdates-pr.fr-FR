@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478571"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745546"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -27,6 +27,18 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
+
+## <a name="version-1808-april-9"></a>Version 1808 : 9 avril
+*Version 1808 (build 10730.20334)*
+
+### <a name="word-non-security-updates"></a>Word: Mises à jour non relatives à la sécurité
+
+- Résolution d’un problème qui permettait à l’utilisateur d’ouvrir des documents de manière anonyme dans IE ou Edge.
+- Résolution du problème suivant : la mise en forme de la couleur de surbrillance du texte d’un champ PAGE et/ou NBPAGES dans l’en-tête ou le pied de page d’un document Word noircissait le champ au lieu d’afficher la couleur de surbrillance appliquée au texte.
+- Nous avons ajouté la prise en charge du complément Assistant Carte postale japonais Word pour la nouvelle ère japonaise. 
+
+## <a name="version-1803-april-9"></a>Version 1803 : 9 avril
+Pas de mise à jour ce mois-ci.
 
 ## <a name="version-1808-march-12"></a>Version 1808 : 12 mars
 *Version 1808 (build 10730.20304)*
