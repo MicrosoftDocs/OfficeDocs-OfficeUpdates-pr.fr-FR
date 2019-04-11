@@ -3,19 +3,19 @@ title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/3/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 89e16d8802ba6093b3ce0fb2d44dc3cc8fa61567
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: ec4cd8df8f0d3fdd4e3abc957024af699d6058f2
+ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478561"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31763722"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -36,10 +36,20 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 > - Seules les versions antérieures les plus récentes sont indiquées dans les tableaux. Si vous mettez à jour votre canal à partir d’une version antérieure, votre téléchargement sera plus volumineux.
 > - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
 
+## <a name="april-9-2019"></a>9 avril 2019
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1903 (build 11425.20204). 
+  
+|**Mise à niveau à partir de**|**Date de sortie**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1903 (Build 11425.20202)  <br/> |1er avril 2019  <br/> |307<br/> |
+|Version 1902 (build 11328.20158)  <br/> |12 mars 2019  <br/> |204<br/> |
+
 
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
 
-La publication prévue est la version 1808 (build 10730.20334).
+La version actuelle est la version 1808 (build 10730.20334).
 
 |**Mise à niveau à partir de**|**Date de sortie**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -48,7 +58,7 @@ La publication prévue est la version 1808 (build 10730.20334).
 
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
-La publication prévue est la version 1902 (build 11328.20230).
+La version actuelle est la version 1902 (build 11328.20230).
   
 |**Mise à niveau à partir de**|**Date de sortie**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
