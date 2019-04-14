@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/5/2019
+ms.date: 4/11/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516069"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818511"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -25,7 +25,38 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
 
-## <a name="april-5th-2019"></a>5 avril 2019
+## <a name="april-11-2019"></a>11 avril 2019
+Version 1905 (Build 11601.20042)
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="all-applications"></a>Toutes les applications
+ - Nous avons résolu un problème qui empêchait certains utilisateurs d’enregistrer des fichiers sur des emplacements cloud
+ - Nous avons résolu un problème dans lequel le volet incorrect pouvait s’ouvrir à partir du ruban
+
+### <a name="word"></a>Word 
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème dans lequel les utilisateurs voyaient un message d’erreur pour les types de données liées lorsque le classeur ne contenait pas de types de données liées
+- Nous avons résolu un problème pouvant modifier les liens URL dans un document Word lorsqu’il est affiché en local et en ligne
+
+### <a name="powerpoint"></a>PowerPoint
+- Nous avons résolu un problème pouvant bloquer l’application après annulation des modifications dans l’onglet animations
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème qui empêchait certains utilisateurs de modifier le champ Notes des contacts dans un dossier Public
+- Nous avons résolu un problème pouvant produire un conflit entre les dates d’expiration et de suppression
+
+### <a name="access"></a>Accès
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Project
+- Divers correctifs en lien avec les performances et la stabilité
+
+</BR></BR>
+
+## <a name="april-5-2019"></a>5 avril 2019
 Version 1904 (Build 11527.20014)
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
