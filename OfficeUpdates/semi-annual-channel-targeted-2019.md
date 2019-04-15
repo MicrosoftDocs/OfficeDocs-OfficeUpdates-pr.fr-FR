@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel (ciblé) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 68384248cc9385dc03a9f67408a5e0603e1e9986
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: e72fac101cd74306e818790d2a90db01dc9c36c4
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478551"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751495"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -27,6 +27,26 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  
 > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+
+## <a name="version-1902-april-9"></a>Version 1902 : 9 avril
+*Version 1902 (build 11328.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+
+- Résout un problème qui provoquait un blocage des clients lors du chargement des images sur la carte de visite.
+- Résout un problème qui provoquait un blocage de certains clients lors du démarrage d'applications Office.
+- Résolution d’un problème : les fenêtres n'apparaissaient pas au bon emplacement lorsque la barre des tâches système était située à gauche ou en haut de l'écran.
+
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+
+- Si un fichier est ouvert en lecture seule et que vous cliquez sur « Enregistrer sous » dans le volet d’informations, le problème est résolu et l'interface utilisateur d’enregistrement s'affiche.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+
+- Résolution d’un problème qui entraînait des invites de connexion excessives sur les appareils Windows 10 (version 1803 ou ultérieure).
+- Résolution du problème qui provoquait des blocages lors du téléchargement d’images liées.
+- Correction du flou des fichiers EMF volumineux collés dans Word, Excel, PowerPoint.
+- Correction du bogue dans la logique d'analyse de l'historique des versions qui, dans de rares cas, entraînait l'ouverture des documents en lecture seule.
 
 ## <a name="version-1902-march-12"></a>Version 1902 : 12 mars
 *Version 1902 (build 11328.20158)*
