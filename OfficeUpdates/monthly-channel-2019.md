@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
+ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818501"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31912570"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -28,6 +28,16 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md). 
 
+## <a name="version-1903-april-17"></a>Version 1903 : le 17 avril
+*Version 1903 (Build 11425.20228)*
+
+- Diverses résolutions de bogues et de performances.
+
+## <a name="version-1903-april-16"></a>Version 1903 : 16 avril
+*Version 1903 (Build 11425.20218)*
+
+- Diverses résolutions de bogues et de performances.
+
 ## <a name="version-1903-april-9"></a>Version 1903 : 9 avril
 *Version 1903 (Build 11425.20204)* 
 
@@ -36,7 +46,7 @@ Mises à jour de sécurité répertoriées [ici](office365-proplus-security-upda
 ## <a name="version-1903-april-01"></a>Version 1903 : 01 avril 
 *Version 1903 (Build 11425.20202)* 
 
-### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
+### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalités
 
 - **Augmenter la portée de votre contenu :** Vous devez rendre vos feuilles de calcul accessibles ? Laissez le vérificateur d’accessibilité s’en charger sans interférer dans votre travail. Pour l’essayer, cliquez sur Révision > Vérification de l’accessibilité. Les éléments détectés devant faire l’objet d’un examen apparaissent dans la barre d’état.
 
@@ -46,7 +56,7 @@ Mises à jour de sécurité répertoriées [ici](office365-proplus-security-upda
 
 - **Augmenter la portée de votre contenu :** Vous devez rendre vos présentations accessibles ? Laissez le vérificateur d’accessibilité s’en charger sans interférer dans votre travail. Pour l’essayer, cliquez sur Révision > Vérification de l’accessibilité. Les éléments détectés devant faire l’objet d’un examen apparaissent dans la barre d’état.
 
-- **Pourquoi réinventer lorsque vous pouvez réutiliser ?**  Gagnez du temps en réutilisant les diapositives que vous avez créées ou que d’autres personnes ont partagées avec vous.
+- **Pourquoi réinventer la roue si vous pouvez réutiliser du support existant ?**  Gagnez du temps en réutilisant les diapositives que vous avez créées ou que d’autres personnes ont partagées avec vous.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 
@@ -60,7 +70,7 @@ Mises à jour de sécurité répertoriées [ici](office365-proplus-security-upda
 - **Augmenter la portée de votre contenu :** Vous devez rendre vos documents accessibles ? Laissez le vérificateur d’accessibilité s’en charger sans interférer dans votre travail. Pour l’essayer, cliquez sur Révision > Vérification de l’accessibilité. Les éléments détectés devant faire l’objet d’un examen apparaissent dans la barre d’état.
 
 ## <a name="version-1902-march-25"></a>Version 1902 : 25 mars 
-*Version 1902 (build 11328.20222)*
+*Version 1902 (Build 11328.20222)*
 
 - Diverses résolutions de bogues et de performances.
 
@@ -70,7 +80,7 @@ Mises à jour de sécurité répertoriées [ici](office365-proplus-security-upda
 - Diverses résolutions de bogues et de performances.
 
 ## <a name="version-1902-march-4"></a>Version 1902 : 4 mars
-*Version 1902 (build 11328.20146)* 
+*Version 1902 (build 11328.20146)* 
 
 ### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
 
@@ -79,7 +89,7 @@ Mises à jour de sécurité répertoriées [ici](office365-proplus-security-upda
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
 
-- **Attirez leur attention avec le \@mentions :** utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention. [En savoir plus](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Attirez leur attention avec les \@mentions :** utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention. [En savoir plus](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Apprenez-en davantage sur vos données :** le nouveau bouton Idées recherche des modèles dans vos données, et les utilise pour créer des suggestions intelligentes, personnalisées. [En savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Enregistrez les modifications au fur et à mesure :** chargez vos fichiers sur OneDrive pour vous assurer que vos mises à jour sont enregistrées automatiquement.
 - **Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -138,7 +148,7 @@ Mises à jour de sécurité répertoriées [ici](office365-proplus-security-upda
 Mises à jour non relatives à la sécurité uniquement, résolvant les problèmes de performances.
 
 ## <a name="version-1812-january-8"></a>Version 1812 : 8 janvier
-*Version 1812 (build 11126.20196)* 
+*Version 1812 (build 11126.20196)* 
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
 - Résolution d’un problème : vous ne pouviez pas désélectionné les styles des barres Critical, Late et Slack pour le diagramme de Gantt une fois que vous en aviez sélectionné un.
