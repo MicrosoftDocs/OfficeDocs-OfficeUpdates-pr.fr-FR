@@ -3,31 +3,39 @@ title: Historique des mises à jour pour le canal mensuel Office (ciblé)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/29/2019
+ms.date: 04/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: fdced22eae18b138ae8a0ae59449c1131207a0e4
-ms.sourcegitcommit: bc2b4e9dc112c3d123c2e4fd50e5533032ee5471
+ms.openlocfilehash: 7e50142c1c0e404ef9693f19cd6a5fccfefa0b42
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31026385"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958115"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
-Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Canal mensuel (ciblé), vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.
+Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Canal mensuel (Ciblé), vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.
 
 ## <a name="office-insider-versions-and-builds"></a>Builds et versions Office Insider
 
-Si vous êtes inscrit au niveau Canal mensuel (ciblé), anciennement appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds ultérieurs contenant d’importants correctifs ou mises à jour de sécurité. La liste suivante indique les derniers versions et builds Canal mensuel (ciblé), avec **le dernier build publié qui apparaît en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents. Pour rechercher les notes de publication, consultez la rubrique [Nouveautés pour les participants au programme Office Insider](https://support.office.com/fr-FR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Si vous êtes inscrit au niveau Canal mensuel (Ciblé), anciennement appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds ultérieurs contenant d’importants correctifs ou mises à jour de sécurité. La liste suivante indique les derniers versions et builds Canal mensuel (ciblé), avec **le dernier build publié qui apparaît en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents. Pour rechercher les notes de publication, consultez la rubrique [Nouveautés pour les participants au programme Office Insider](https://support.office.com/fr-FR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - L’historique de mise à jour ici répertorie toutes les builds publiées
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu’au numéro de build publié des notes de publication
+
+[//]: # (NE PAS SUPPRIMER)
+
+**16 avril 2019**<br/>
+Version 1903 (Build 11425.20218)<br/>
+
+**9 avril 2019**<br/>
+Version 1903 (Build 11425.20204)<br/>
 
 **29 mars 2019**<br/> Version 1903 (Build 11425.20202)<br/>
 

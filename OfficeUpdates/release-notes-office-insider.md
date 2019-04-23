@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818511"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958135"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -25,7 +25,60 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
 
-## <a name="april-11-2019"></a>11 avril 2019
+## <a name="april-19-2019"></a>19 avril 2019
+Version 1905 (Build 11609.20002)
+
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>Améliorations de l’expérience des cartes renseignées à l’aide des Types de données
+
+Cette fonctionnalité est un amélioration du produit pour les utilisateurs qui tracent des graphiques de carte renseignées à l’aide des Types de données géographiques d’ Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone.
+
+##### <a name="getting-started"></a>Mise en route :
+
+- Cette fonctionnalité est un amélioration du produit à des fonctionnalités existantes dans Excel. Pour utiliser l’amélioration-convertir des emplacements en entités enrichis et le traçage de mappages renseignés. 
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+- Les utilisateurs peuvent essayer le mappage des villes, des états, des départements, des pays/régions et des codes postaux. 
+
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="all-applications"></a>Toutes les applications
+- Nous avons résolu un problème dans lequel la boîte de dialogue Exécuter en Premier aurait affiché chaque fois qu’une application a été démarrée
+- Nous avons résolu un problème dans lequel un lien de SharePoint de la boîte de dialogue « Enregistrer sous » peut être manquant.
+- Nous avons résolu un problème dans lequel les utilisateurs verront incorrectement une boîte de dialogue « Réparer maintenant »
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème où certains utilisateurs souhaiteraient recevoir une erreur de mémoire ou d’espace disque insuffisant(e) lorsque vous demandez une police
+- Nous avons résolu un problème dans lequel une fenêtre pourrait perdre le focus lors du changement à partir du volet commentaires
+
+### <a name="excel"></a>Excel
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="powerpoint"></a>PowerPoint
+- Nous avons résolu un problème qui empêche le redimensionnement des formes personnalisés
+- Nous avons résolu un problème pour lequel PowerPoint peut se bloquer lorsque vous ouvrez un fichier en mode d’affichage protégée
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème qui empêchait certains utilisateurs de sélectionner des mots chinois
+- Nous avons résolu un problème dans lequel les dates d’expiration n’ont pas été calculées correctement
+
+### <a name="access"></a>Accès
+- Nous avons résolu un problème qui empêchait certains utilisateurs d’utiliser Macro Builder
+- Nous avons résolu un problème dans lequel l’impression d’un rapport imprime uniquement la première page
+- Nous avons résolu un problème qui provoquait le blocage de l’application lors de la suppression d’un hyperlien
+- Nous avons résolu un problème lié au fait que certains éléments apparaissent en dehors de l’écran lorsque vous utilisez l’affichage relations
+
+### <a name="project"></a>Project
+- Divers correctifs en lien avec les performances et la stabilité
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>12 avril 2019
 Version 1905 (Build 11601.20042)
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
@@ -213,7 +266,7 @@ Version 1903 (Build 11414.20014)
 - Nous avons résolu un problème : copier une cellule dans Excel causait un utilisation intensive du processeur quand effectué quand un document protégé et modifiable était ouvert
 
 ### <a name="powerpoint"></a>PowerPoint
-- Nous avons résolu un problème avec la taille d’image de diapositive lorsque vous utilisez @Mentions dans PowerPoint.
+- Nous avons résolu un problème avec la taille d’image de diapositive lorsque vous utilisez les @Mentions dans PowerPoint
 
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème dans lequel la recherche Outlook ne respectait pas le tri chronologique sélectionné
