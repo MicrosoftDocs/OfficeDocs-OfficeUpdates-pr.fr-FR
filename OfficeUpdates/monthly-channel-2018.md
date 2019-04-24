@@ -11,11 +11,11 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
 ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
-ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30737564"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438719"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
