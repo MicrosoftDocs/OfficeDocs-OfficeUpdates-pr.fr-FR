@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l'informatique la liste des fichiers. msp les plus récents pour les versions perpétuelles d'Office 2016 qui utilisent Windows Installer (MSI)
 ms.openlocfilehash: 8ccebf9a8eee47a862d8e3cf3847a8bac4538c2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745516"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438819"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Liste des fichiers. msp les plus récents pour les produits Office 2016
 
@@ -51,7 +51,7 @@ Le tableau suivant répertorie tous les fichiers. msp publiés depuis la publica
 |nom de fichier. msp * * * *|Produit * * * *|Date de publication non liée à la sécurité * * * *|Article de la base de connaissances non liée à la sécurité * * * *|Date de publication de la sécurité * * * *|Article de la base de connaissances de sécurité * * * *|BASE de connaissances de sécurité remplacée par * * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Access-x-none  <br/> |Access 2016  <br/> |5 mars 2019  <br/> |[4462192](https://support.microsoft.com/help/4462192) <br/> |10 juillet 2018  <br/> |[4018338](https://support.microsoft.com/en-us/help/4018338) <br/> |[4011665](https://support.microsoft.com/en-us/help/4011665) <br/> |
-|ACE-x-none  <br/> |Office 2016  <br/> |5 septembre 2017  <br/> |[3191924](https://support.microsoft.com/help/3191924) <br/> |9 avril 2019  <br/> |[4462213](https://support.microsoft.com/help/4462213) <br/> |[4018294](https://support.microsoft.com/help/4018294)  <br/> |
+|ACE-x-none  <br/> |Office 2016  <br/> |5 septembre 2017  <br/> |[3191924](https://support.microsoft.com/help/3191924) <br/> |9 avril 2019  <br/> |[4462213](https://support.microsoft.com/help/4462213) <br/> |[4018294](https://support.microsoft.com/help/4018294)  <br/> |
 |acewss-x-none  <br/> |Office 2016  <br/> |7 novembre 2017  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |graphique-x-aucun  <br/> |Office 2016  <br/> |2 avril 2019  <br/> |[4464501](https://support.microsoft.com/en-us/help/4464501) <br/> |10 avril 2018  <br/> |[4018319](https://support.microsoft.com/en-us/help/4018319) <br/> |[4011095](https://support.microsoft.com/en-us/help/4011095) <br/> |
 |CONV-x-none  <br/> |Office 2016  <br/> |Non applicable  <br/> |Non applicable  <br/> |12 septembre 2017  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
@@ -59,21 +59,21 @@ Le tableau suivant répertorie tous les fichiers. msp publiés depuis la publica
 |csisyncclient-x-none  <br/> |Office 2016  <br/> |4 octobre 2016  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |DCF-x-none  <br/> |Office 2016  <br/> |2 janvier 2019  <br/> |[4461435](https://support.microsoft.com/help/4461435) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |eqnedt32-x-none  <br/> |Office 2016  <br/> |Non applicable  <br/> |Non applicable  <br/> |9 janvier 2018  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|Excel-x-aucun  <br/> |Excel 2016  <br/> |5 mars 2019  <br/> |[4462212](https://support.microsoft.com/help/4462212) <br/> |9 avril 2019  <br/> |[4462236](https://support.microsoft.com/en-us/help/4462236) <br/> |[4462115](https://support.microsoft.com/en-us/help/4462115) <br/> |
+|Excel-x-aucun  <br/> |Excel 2016  <br/> |5 mars 2019  <br/> |[4462212](https://support.microsoft.com/help/4462212) <br/> |9 avril 2019  <br/> |[4462236](https://support.microsoft.com/en-us/help/4462236) <br/> |[4462115](https://support.microsoft.com/en-us/help/4462115) <br/> |
 |excelpp-x-none  <br/> |Office 2016  <br/> |5 décembre 2017  <br/> |[4011218](https://support.microsoft.com/help/4011218) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |exppdf-x-none  <br/> |Office 2016  <br/> |5 avril 2016  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |FilterPack-x-none  <br/> |Office 2016  <br/> |8 décembre 2015  <br/> |[2920684](https://support.microsoft.com/help/2920684) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |polices-x-none  <br/> |Office 2016  <br/> |5 avril 2016  <br/> |[3114903](https://support.microsoft.com/help/3114903) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |gkall-x-none  <br/> |Office 2016  <br/> |6 septembre 2016  <br/> |[3115276](https://support.microsoft.com/help/3115276) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |Graph-x-none  <br/> |Office 2016  <br/> |6 mars 2018  <br/> |[4011624](https://support.microsoft.com/en-us/help/4011624) <br/> |13 novembre 2018  <br/> |[4022232](https://support.microsoft.com/en-us/help/4022232) <br/> |[4022177](https://support.microsoft.com/en-us/help/4022177)  <br/> |
-|Groove-x-aucun  <br/> |OneDrive Entreprise  <br/> |7 août 2018  <br/> |[4022219](https://support.microsoft.com/help/4022219) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
+|Groove-x-aucun  <br/> |OneDrive Entreprise  <br/> |7 août 2018  <br/> |[4022219](https://support.microsoft.com/help/4022219) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |ieawsdc-x-none  <br/> |Office 2016  <br/> |13 octobre 2015  <br/> |[3085538](https://support.microsoft.com/help/3085538) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |kohhc-x-none  <br/> |Office 2016  <br/> |6 juin 2017  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |lèvre-*LL-CC* <sup>1</sup> <br/> |Pack d'interface linguistique Office 2016  <br/> |2 avril 2019  <br/> |[4462241](https://support.microsoft.com/en-us/help/4462241) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |Lync-x-none  <br/> |Skype Entreprise 2016  <br/> |2 avril 2019  <br/> |[4462234](https://support.microsoft.com/en-us/help/4462234) <br/> |13 novembre 2018  <br/> |[4461473](https://support.microsoft.com/help/4461473) <br/> |[4022221](https://support.microsoft.com/help/4022221)  <br/> |
 |mscomctlocx-x-none  <br/> |Office 2016  <br/> |Non applicable   <br/> |Non applicable  <br/> |12 janvier 2016  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |Non applicable  <br/> |
 |msmipc-x-none  <br/> |Office 2016  <br/> |4 avril 2017  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |Non applicable   <br/> |Non applicable  <br/> |Non applicable  <br/> |
-|mso-x-none  <br/> |Office 2016  <br/> |5 mars 2019  <br/> |[4462214](https://support.microsoft.com/en-us/help/4462214) <br/> |9 avril 2019  <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |[4462146](https://support.microsoft.com/en-us/help/4462146) <br/> |
+|mso-x-none  <br/> |Office 2016  <br/> |5 mars 2019  <br/> |[4462214](https://support.microsoft.com/en-us/help/4462214) <br/> |9 avril 2019  <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |[4462146](https://support.microsoft.com/en-us/help/4462146) <br/> |
 |msodll20-x-none  <br/> |Office 2016  <br/> |4 septembre 2018  <br/> |[4011670](https://support.microsoft.com/help/4011670) <br/> |13 juin 2017  <br/> |[3178667](https://support.microsoft.com/help/3178667) <br/> |Non applicable  <br/> |
 |msodll30-x-none  <br/> |Office 2016  <br/> |5 mars 2019  <br/> |[4462195](https://support.microsoft.com/en-us/help/4462195) <br/> |12 septembre 2017  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
 |msodll40ui-x-none  <br/> |Office 2016  <br/> |2 octobre 2018  <br/> |[4461442](https://support.microsoft.com/en-us/help/4461442) <br/> |10 mai 2016  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |Non applicable  <br/> |
