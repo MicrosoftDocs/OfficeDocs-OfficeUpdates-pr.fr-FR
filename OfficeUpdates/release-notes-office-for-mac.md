@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 3/27/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 98e7a3eb90a7ab39d4d3b898ffba4d4d88bfb1a3
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: df504e92bf8e5c52119c2ec40ab21435af0379d8
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745606"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438989"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -34,13 +34,34 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
+## <a name="april-2019-release"></a>Version d’avril 2019
+
+ **Date de publication :** 16 avril 2019 
+  
+ *Version 16.24 (build 19041401)*
+
+
+ Cette version inclut les mises à jour suivantes :
+
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+|:-----|:-----|:-----|:-----|
+|Word  <br/>| Modification des icônes d’application pour refléter les expériences utilisateur simples, performantes et intelligentes avec Office. <br/><br/>Obtenez des suggestions en fonction de votre activité et de ce que font les personnes qui vous entourent.<br/>|<br/><br/> |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
+|Excel  <br/>| Modification des icônes d’application pour refléter les expériences utilisateur simples, performantes et intelligentes avec Office.<br/> <br/>Lorsque vous enregistrez une macro, vous pouvez désormais utiliser les références relatives, ce qui signifie que les actions dans la macro seront appliquées par rapport à la cellule active, et non à une cellule ou à une plage spécifique.<br/><br/>Les tâches courantes sont plus faciles à trouver dans le ruban, y compris les recherches et sélections sous l’onglet Accueil, et le Zoom sur la sélection, Nouvelle fenêtre et Réorganiser tout sous l’onglet Affichage.<br/><br/>Obtenez des suggestions en fonction de votre activité et de ce que font les personnes qui vous entourent.<br/>|[CVE-2019-0828](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0828) : Vulnérabilité d’exécution de code à distance Microsoft Excel |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
+|PowerPoint  <br/>| Modification des icônes d’application pour refléter les expériences utilisateur simples, performantes et intelligentes avec Office.<br/><br/>Obtenez des suggestions en fonction de votre activité et de ce que font les personnes qui vous entourent.<br/><br/>Enregistrement audio et vidéos avec un simple Contrôle + clic.| |[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
+|Outlook  <br/>| Modification des icônes d’application pour refléter les expériences utilisateur simples, performantes et intelligentes avec Office. <br/><br/>Prise en charge de liens fiables Advanced Threat Protection (ATP).  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
+|OneNote  <br/>| Modification des icônes d’application pour refléter les expériences utilisateur simples, performantes et intelligentes avec Office. <br/><br/>Accès facile à vos Notes : les volets de navigation récemment mis à jour vous donnent le contrôle en vous permettant d’accéder facilement à vos blocs-notes, sections et pages.<br/><br/>Recherche par expression : vous pouvez désormais ajouter des guillemets autour d’une expression pour effectuer une recherche exacte au lieu de rechercher les mots séparés.  ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Onenote_16.24.19041401_Updater.pkg) <br/>|
+|Mise à jour automatique Microsoft (AutoUpdate) 4.10<br/>| Améliorations de la fonctionnalité d’installation sur Clonage : pour les appareils éligibles, les mises à jour seront installées sur des copies des applications actuellement en cours d’utilisation, réduisant ainsi la durée d’arrêt du service de l’application en raison des mises à jour. <br/><br/> Optimisations d’installation.<br/><br/>Améliorations de télémétrie.<br/><br/>Corrections de bogues.<br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
+|Suite Office  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0822) : Vulnérabilité d’exécution de code à distance des composants de Graphics de Microsoft<br/><br/>|<br/>|
+
+
+
 ## <a name="march-2019-release"></a>Version de mars 2019
 
 **Date de publication :** 27 mars 2019
 
  Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mettre à jour**|**Mises à jour de sécurité**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mise à jour**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Outlook  <br/>| Résout un problème lié à la suppression des calendriers partagés ou délégués. [En savoir plus](https://support.office.com/article/42302f59-8325-4fab-aacb-13bbef855a0f)<br/>  | |[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19032603_Updater.pkg) <br/>|
 
@@ -49,7 +70,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
  Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Mise à jour automatique Microsoft 4.9 <br/>| Corrections de bugs et améliorations apportées aux performances d’installation des mises à jour. <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.9.19030902_Updater.pkg)
 
@@ -57,10 +78,10 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
  Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| <br/> | |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
-|Excel  <br/>| **Six fonctions puissantes :** nous avons ajouté les six nouvelles fonctions ci-dessous pour optimiser vos feuilles de calcul : FILTRE, TRI, TRI.PAR, UNIQUE, SEQUENCE et TABLEAU.ALEAT. <br/><br/>  |  <br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
+|Excel  <br/>|  <br/><br/>  |  <br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Meilleur ajustement de forme : **déplacez votre doigt sur le trackpad et regardez l’encre circuler sur l’écran. [En savoir plus](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f) <br/><br/> | <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/>|
 
@@ -70,7 +91,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
  Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Mise à jour automatique Microsoft (AutoUpdate) 4.8 <br/>| Correction d’un problème avec invite des MAU Opt dans les mises à jour automatiques pour Mac OS 10.10 <br/><br/> Mis à jour pour MAU ApplicationID 'MSau03' à 'MSau04' <br/><br/> Correction d’un problème avec MAU privilégié d’assistance pour l’installation pendant l’exécution d’une autre version <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.8.19022003_Updater.pkg)|
 
@@ -80,7 +101,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
  Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Outlook  <br/>| Correction d’un problème avec l’authentification pour les comptes Google.<br/><br/> Correction d’un problème de synchronisation du calendrier. <br/>  | |[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) <br/>|
  
@@ -90,10 +111,10 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
  Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **Dessinez avec le trackpad :** déplacez votre doigt sur le trackpad pour dessiner sur l’écran. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
-|Excel  <br/>| **Dessinez avec le trackpad :** Déplacez votre doigt sur le trackpad pour dessiner sur l’écran. [Plus d’informations](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|Mot  <br/>| **Dessinez avec le trackpad :** Déplacez votre doigt sur le trackpad pour dessiner sur l’écran. [Plus d’informations](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **Dessinez avec le trackpad :** Déplacez votre doigt sur le trackpad pour dessiner sur l’écran. [Plus d’informations](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Dessinez avec le trackpad :** Déplacez votre doigt sur le trackpad pour dessiner sur l’écran. [Plus d’informations](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
 |Mise à jour automatique Microsoft (AutoUpdate) 4.7 <br/>| <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
@@ -107,7 +128,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
  Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| Résolution d’un problème : il concernait la localisation en chinois.<br/><br/>| |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
 |Outlook  <br/>| Résolution d’un problème : il concernait la localisation en chinois.<br/><br/>  | |[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
@@ -116,7 +137,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
   
  *Version 16.21.0 (build 190102303)* Cette version inclut les mises à jour suivantes :
  
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
  |:-----|:-----|:-----|:-----|
  |Excel  <br/>| Résolution d’un problème : l’espacement entre les caractères rétrécissait lorsque des caractères unicode et non unicode étaient mélangés. <br/><br/> | <br/><br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19012303_Updater.pkg) <br/>|
 
@@ -126,13 +147,13 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
   
 Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Passez de l’iPhone à Word en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre document depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos documents pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561 :](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0561) vulnérabilité de divulgation d’informations Microsoft Word  <br/><br/> [CVE-2019-0585 :](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0585) vulnérabilité d’exécution de code à distance Microsoft Word |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Collaborez à l’aide de commentaires :** insérez la conversation directement dans votre feuille de calcul avec la zone de réponse intégrée. [En savoir plus](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos feuilles de calcul :** appliquez des étiquettes de niveau de confidentialité à vos feuilles de calcul pour qu’elles restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/> | <br/><br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Imprimer les numéros de diapositive dans les documents :** lorsque vous imprimez une présentation sous forme de document, chaque diapositive comporte le numéro de diapositive correspondant. <br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos présentations :** appliquez des étiquettes de niveau de confidentialité à vos présentations pour qu’elles restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/> | <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **Appliquez des étiquettes de niveau de confidentialité à vos messages :** appliquez des étiquettes de niveau de confidentialité à vos messages pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
-|Mise à jour automatique Microsoft (AutoUpdate) 4.7 <br/>| Le démon AutoUpdate se lance désormais dans le cadre du processus d’installation. Cela permet de clarifier les boîtes de dialogue de sécurité que les utilisateurs voyaient auparavant. <br/><br/> Les fonctionnalités de sécurité de la mise à jour automatique Microsoft (AutoUpdate) ont été améliorées pour prendre en charge les certificats SHA256. <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+|Mise à jour automatique Microsoft (AutoUpdate) 4.7 <br/>| Le démon AutoUpdate se lance désormais dans le cadre du processus d’installation. Cela permet de clarifier les boîtes de dialogue de sécurité que les utilisateurs voyaient auparavant. <br/><br/> Les fonctionnalités de sécurité de la mise à jour automatique Microsoft (AutoUpdate) ont été améliorées pour prendre en charge les certificats SHA256. <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
 > À partir de la version 16.21, Microsoft Teams sera installé par défaut pour les ***nouvelles*** installations. Pour plus d’informations, consultez l’article [Installations de Microsoft Teams sur un Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
@@ -146,13 +167,13 @@ Cette version inclut les mises à jour suivantes :
   
 Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Réduisez votre tension oculaire avec le mode Foncé :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Conservez l’apparence de votre texte :** incorporez des polices pour vous assurer que le texte de votre document a le même aspect, quel que soit l’ordinateur. Plus de surprise ! [En savoir plus](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>| |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **Réduisez votre tension oculaire avec le mode Foncé :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Passez de l’iPhone à PowerPoint en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre diapositive depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Partagez votre calendrier :** partagez votre calendrier avec votre famille, vos amis et collègues. Ouvrez les calendriers partagés avec vous sur un Mac, un PC ou les versions cloud d’Outlook. [En savoir plus](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Désactivez le transfert pour une réunion :** empêchez les participants de transférer vos réunions à d’autres personnes. [En savoir plus](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Utilisez Teams pour vous connecter à vos réunions :** vous travaillez avec des équipes à distance ? Utilisez Teams dans Outlook pour planifier et participer à des réunions en ligne. [En savoir plus](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Affichez les participants aux réunion :** cliquez sur une réunion ou un événement dans votre calendrier pour afficher qui prévoit d’être présent.<br/><br/> **Affichez trois fuseaux horaires :** vous devez planifier une réunion sur plusieurs fuseaux horaires ? Ajoutez plusieurs fuseaux horaires à votre calendrier pour voir facilement la disponibilité des participants et choisissez un horaire qui convient à tout le monde. [En savoir plus](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
-|Mise à jour automatique Microsoft 4.6 <br/>| Mise à jour des catalogues de sécurité pour qu’ils contiennent les codes de hachage SHA-256 au lieu de SHA-1 <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
+|Mise à jour automatique Microsoft 4.6 <br/>| Mise à jour des catalogues de sécurité pour qu’ils contiennent les codes de hachage SHA-256 au lieu de SHA-1 <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Suite Office  <br/>| |<br/>||
 
 
@@ -160,11 +181,11 @@ Cette version inclut les mises à jour suivantes :
 
  **Date de publication :** 13 novembre 2018 
   
- *Version 16.19.0 (build 18110915)* 
+ *Version 16.19.0 (build 18110915)* 
   
 Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Accéder à l’image ?** Recherchez des images sur le web à partir de vos applications Office.Pour commencer, sélectionnez Insertion > Images en ligne. [En savoir plus](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/>  **Nouveautés dans nom de fichier ? Outils pratiques :** Cliquez sur le nom de fichier pour déplacer, renommer ou parcourir rapidement l’historique des versions de vos documents cloud. [En savoir plus](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg) <br/>|
 |Excel  <br/>| **Accéder à l’image ?** Recherchez des images sur le web à partir de vos applications Office.Pour commencer, sélectionnez Insertion > Images en ligne. [En savoir plus](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **Nouveautés dans nom de fichier ? Outils pratiques :** Cliquez sur le nom de fichier pour déplacer, renommer ou parcourir rapidement l’historique des versions de vos documents cloud. [En savoir plus](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>|[CVE-2018-8574](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8574) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/>[CVE-2018-8577](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8577) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/><br/>|[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/>|
@@ -177,11 +198,11 @@ Cette version inclut les mises à jour suivantes :
 
  **Date de publication :** 16 octobre 2018 
   
- *Version 16.18.0 (build 18101400)* 
+ *Version 16.18.0 (build 18101400)* 
   
 Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
 |Excel  <br/>|**Collaborez à l’aide de commentaires :** insérez la conversation directement dans votre feuille de calcul avec la zone de réponse intégrée. [En savoir plus](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **Plus d’automatisation du remplissage automatique :** lorsque vous tapez une formule, le menu Remplissage autom. s’affiche, montrant les options d’argument disponibles.  <br/><br/> **Navigation VoiceOver désormais améliorée :** vous utilisez VoiceOver dans Excel ? Déplacez-vous dans les feuilles en appuyant sur VO+U. Vous pouvez également activer le Trackpad Commander macOS pour faire cela. <br/> ||[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
@@ -194,11 +215,11 @@ Cette version inclut les mises à jour suivantes :
 
  **Date de publication :** 11 septembre 2018 
   
- *Version 16.17.0 (build 18090901)* 
+ *Version 16.17.0 (build 18090901)* 
   
 Cette version inclut les mises à jour suivantes :
   
-|**Application**|**Mises à jour de fonctionnalités**|**mises à jour de sécurité ;**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |<br/>**Dessinez avec des entrées manuscrites :** utilisez votre souris ou servez-vous du pavé tactile et de stylets pour écrire, dessiner et mettre en surbrillance. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Insérez des modèles 3D pour afficher tous les angles :** insérez facilement un modèle 3D, puis faites-le pivoter à 360 degrés. [En savoir plus](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
 |Excel  <br/> |**Dessinez avec des entrées manuscrites :** utilisez votre souris ou servez-vous du pavé tactile et des stylets sous l’onglet Dessin pour écrire, dessiner et mettre en surbrillance. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insérez des modèles 3D pour afficher tous les angles :** insérez facilement un modèle 3D, puis faites-le pivoter à 360 degrés. [En savoir plus](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Les raccourcis personnalisés sont de retour :** nous vous avons entendus ! À votre demande, nous avons rétabli les touches de raccourci personnalisées. [En savoir plus](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8429) : Vulnérabilité de divulgation d’informations Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8331) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
@@ -211,11 +232,11 @@ Cette version inclut les mises à jour suivantes :
 
  **Date de publication :** 14 août 2018 
   
- *Version 16.16.0 (build 18081201)* 
+ *Version 16.16.0 (build 18081201)* 
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour des fonctionnalités**|**Mises à jour de sécurité**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour des fonctionnalités**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
 |Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8375) : Vulnérabilité d’exécution de code à distance Microsoft Excel  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8382) : Vulnérabilité de divulgation d’informations Microsoft Excel  <br/>  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
@@ -232,7 +253,7 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour des fonctionnalités**|**Mises à jour de sécurité**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour des fonctionnalités**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
@@ -246,7 +267,7 @@ Cette version inclut les mises à jour suivantes.
 
 **Date de publication :** 13 juin 2018 
 
-*Version 16.14.1 (build 18061302)*
+*Version 16.14.1 (build 18061302)*
 
 Cette version corrige un problème avec les packages de programme de mise à jour pour les applications individuelles.
 <br/><br/>
@@ -254,11 +275,11 @@ Cette version corrige un problème avec les packages de programme de mise à jou
 
  **Date de publication :** 12 juin 2018 
   
- *Version 16.14.0 (build 18061000)* 
+ *Version 16.14.0 (build 18061000)* 
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour des fonctionnalités**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour des fonctionnalités**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Améliorez la lisibilité avec les outils pédagogiques :** faites plaisir à vos yeux. Ajustez l’espacement du texte, la largeur de colonne et la couleur de page, ou écoutez Word lire votre document à voix haute, en mettant en surbrillance le texte lu. [En savoir plus](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
 |Excel  <br/> |**Renseignez des données en un clin d’œil :** donnez quelques exemples à la fonction Remplissage instantané et elle insérera vos données pour vous. [En savoir plus](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **Franchissez la barrière de la langue :** traduisez des mots, des expressions ou des phrases dans une autre langue avec Microsoft Translator. [En savoir plus](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
@@ -294,7 +315,7 @@ Cette version inclut une notification destinée à l’utilisateur final, confor
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour des fonctionnalités**|**Mises à jour de sécurité**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour des fonctionnalités**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |**Discuter avec les co-auteurs pendant la modification :** collaborez plus efficacement en discutant avec vos co-auteurs, sans quitter Word. [En savoir plus](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **Insersion et modification des icônes :** utilisez les icônes pour ajouter un impact visuel à votre document en insérant et en modifiant l’une des 500 icônes. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/><br/> **Rédiger votre meilleur CV à l’aide de LinkedIn :** grâce à l’Assistant CV, présentez vos expériences professionnelles, vos meilleures compétences et d’autres informations pour un poste donné. Recherchez cet assistant sous l’onglet Révision. [En savoir plus](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a.aspx)<br/> <br/> **Accessibilité intégrée :** utilisez votre clavier pour accéder rapidement au ruban et pour mettre en forme les mots ou les images que vous venez d’insérer.  <br/> |||
 |Excel  <br/> |**Discutez avec les co-auteurs pendant la modification :** collaborez plus efficacement en discutant avec vos co-auteurs, sans quitter Excel. [En savoir plus](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **Insersion et modification des icônes :** utilisez les icônes pour ajouter un impact visuel à votre classeur en insérant et en modifiant l’une des 500 icônes. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**Utilisation d’une chronologie pour filtrer vos données :** filtrez facilement un tableau croisé dynamique en faisant glisser la plage de dates avec un filtre de chronologie. [En savoir plus](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8147) : Vulnérabilité d’exécution de code à distance Microsoft Excel   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8162) : Vulnérabilité d’exécution de code à distance Microsoft Excel  <br/> ||
@@ -311,7 +332,7 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour des fonctionnalités**|**Mises à jour de sécurité**|**Mises à jour non liées à la sécurité**|**Lien de téléchargement du package de mise à jour**|
+|**Application**|**Mises à jour des fonctionnalités**|**Mises à jour de sécurité**|**Mises à jour non relatives à la sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**Amélioration du partage et de la collaboration :** vos documents OneDrive synchronisés en local s’ouvrent directement à partir du cloud, ce qui vous permet de les enregistrer automatiquement, de les partager et de collaborer facilement sur ces documents.  <br/> <br/> **Ajout d’un impact visuel :** insérez et modifiez des graphiques vectoriels évolutifs (SVG) dans vos documents pour y ajouter un effet visuel et conserver une bonne qualité de l’image. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
 |Excel  <br/> |**Amélioration du partage et de la collaboration :** vos classeurs OneDrive synchronisés en local s’ouvrent directement à partir du cloud, ce qui vous permet de les enregistrer automatiquement, de les partager et de collaborer facilement sur ces classeurs.  <br/> <br/> **Ajout d’un impact visuel :** insérez et modifiez des graphiques vectoriels évolutifs (SVG) dans vos classeurs pour y ajouter un effet visuel et conserver une bonne qualité de l’image. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-1029) : Vulnérabilité d’exécution de code à distance Microsoft Excel  <br/> ||||
@@ -429,7 +450,7 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour de sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Amélioration de Visual Basic Editor :** créez et modifiez des macros dans Visual Basic Editor en utilisant IntelliSense, les menus VBA et les barres d’outils, ainsi que les outils de débogage, un explorateur d’objets, et bien plus encore.   |
 |Excel  <br/> |**Amélioration de Visual Basic Editor :** créez et modifiez des macros dans Visual Basic Editor en utilisant IntelliSense, les menus VBA et les barres d’outils, ainsi que les outils de débogage, un explorateur d’objets, et bien plus encore.  |
@@ -447,7 +468,7 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour de sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
 |Excel  <br/> ||[CVE-2017-8631](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-8631) : Vulnérabilité de corruption de mémoire de Microsoft Office   <br/><br/> [CVE-2017-8632](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-8632) : Vulnérabilité de corruption de mémoire de Microsoft Office  |
 |Suite Office  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-8676) : Vulnérabilité de divulgation d’informations Windows GDI+  |
@@ -462,7 +483,7 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|
+|**Application**|**Mises à jour de fonctionnalité**|
 |:-----|:-----|
 |Word  <br/> |**Recherche :** recherchez des citations pertinentes, des sources citables et des images sans quitter Word. [En savoir plus](https://support.office.com/article/1728f286-8702-4d72-8169-ab7677ca0e1f#ID0EACAAA=Mac)  <br/><br/> **Liens fiables :** lorsqu’un utilisateur clique sur un lien, la protection avancée contre les menaces d’Office 365 (ATP) inspecte le lien pour déterminer s’il est malveillant. Si le lien est considéré comme malveillant, l’utilisateur est redirigé vers une page d’avertissement au lieu de l’URL cible d’origine. [En savoir plus](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3) |
 |Excel  <br/> |**Liens fiables :** lorsqu’un utilisateur clique sur un lien, la protection avancée contre les menaces d’Office 365 (ATP) inspecte le lien pour déterminer s’il est malveillant. Si le lien est considéré comme malveillant, l’utilisateur est redirigé vers une page d’avertissement au lieu de l’URL cible d’origine. [En savoir plus](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)  |
@@ -486,7 +507,7 @@ Cette version corrige le problème dans Outlook lié à la mise à jour des mess
 
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour de sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
 |Excel  <br/> |**Images dans les en-têtes et les pieds de page :** personnalisez vos classeurs imprimés en ajoutant des images dans les en-têtes et les pieds de page. ||
 |Outlook  <br/> |**Envoi de messages électroniques selon votre calendrier :** retardez la remise d’un message ou choisissez le moment où il sera envoyé. [En savoir plus](https://support.office.com/article/a02097de-76c2-4895-9557-0818ef229024)  <br/><br/> **Tous vos dossiers favoris au même endroit :** créez des raccourcis vers tous les dossiers que vous utilisez régulièrement. Tous les raccourcis apparaissent dans les favoris en haut de l’encadré. [En savoir plus](https://support.office.com/article/4357e516-8608-4bfd-b229-fb08ad29b08d)  <br/><br/> **Reproduire la mise en forme :** disponible lors de la création de messages électroniques, d’événements et de tâches.  <br/> ||
@@ -509,7 +530,7 @@ Cette version corrige un problème où OneNote se bloque lorsque vous créez une
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour de sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
 |Word  <br/> ||[CVE-2017-8509](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-8509) : Vulnérabilité d’exécution de code à distance Microsoft Office  |
 |Outlook  <br/> |**Gain de temps lors de la rédaction de messages électroniques :** créez un modèle de message électronique et réutilisez-le ultérieurement pour gagner du temps. [En savoir plus](https://support.office.com/article/6339b60e-2e5a-4aed-a9e6-2e7b5d7eb5a0)  <br/><br/> **Demande de confirmation de lecture et d’accusé de réception :** soyez informé lorsque vos messages électroniques importants ont été remis aux destinataires et ouverts. [En savoir plus](https://support.office.com/article/2493ae0b-fba6-47f3-a5d5-ca0c0dbfe878)  <br/><br/> **Configuration de compte simplifiée :** à présent, lorsque vous ajoutez un compte Exchange ou Gmail, les paramètres sont mis à jour pour vous. Indiquez simplement votre nom d’utilisateur et votre mot de passe. [En savoir plus](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b#PickTab=Outlook_for_Mac)|
@@ -523,9 +544,9 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour de sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Arrière-plans modernes pour le mode Focus :** choisissez entre les arrière-plans Crépuscule ou Nuit polaire, lorsque vous êtes en mode Focus dans l’onglet d’**affichage**. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Police Dubai :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Word  <br/> |**Arrière-plans modernes pour le mode Focus :** choisissez entre les arrière-plans Crépuscule ou Nuit polaire, lorsque vous êtes en mode Focus dans l’onglet d’**affichage**. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Excel  <br/> |**Police Dubai :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Groupes :** affichez vos 10 groupes principaux, et lisez ou répondez aux conversations de groupe directement dans le dossier Groupes.  <br/> <br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
@@ -550,7 +571,7 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|
+|**Application**|**Mises à jour de fonctionnalité**|
 |:-----|:-----|
 |Microsoft AutoUpdate  <br/> | - Prise en charge des mises à jour de la suite Delta, qui réduit de moitié la taille de la mise à jour mensuelle.  <br/><br/>  - Prise en charge des mises à jour automatiques de Microsoft AutoUpdate, où cette fonction peut se mettre à jour automatiquement sans informations d’identification de l’administrateur.  <br/> |Cette version de Microsoft AutoUpdate n’est pas disponible en téléchargement.  <br/> |
    
@@ -562,10 +583,10 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour de sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
 |Excel  <br/> ||Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/MS17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)   |
-|Outlook  <br/> |**Prise en charge de la Touch Bar :** les commandes les plus importantes en fonction de votre travail sont à portée de main. (Compatible uniquement avec les ordinateurs MacBook Pro dotés de la Touch Bar.)   <br/><br/> **Complément de traducteur :** traduisez des messages électroniques sans quitter Outlook. Activez simplement le complément de traducteur pour traduire le contenu en un clic. Faites votre choix parmi 60 langues. [En savoir plus](https://support.office.com/article/3d7e12ed-99d6-406e-a453-b9db0d9653fa#OutlookVersion=Mac)  <br/><br/> [Installation du complément à partir d’Office Store](https://go.microsoft.com/fwlink/p/?linkid=841914)  <br/><br/> **Accès à davantage de fonctionnalités directement dans votre boîte de réception :** les compléments pour Outlook vous permettent de créer des tâches dans Wunderlist, d’effectuer le suivi des réponses aux messages électroniques via Boomerang et bien plus encore. [En savoir plus](https://support.office.com/article/1ee261f9-49bf-4ba6-b3e2-2ba7bcab64c8#OfficeVersion=Outlook_2016_for_Mac)  |
+|Outlook  <br/> |**Prise en charge de la Touch Bar :** les commandes les plus importantes en fonction de votre travail sont à portée de main. (Compatible uniquement avec les ordinateurs MacBook Pro dotés de la Touch Bar.)   <br/><br/> **Complément de traducteur :** traduisez des messages électroniques sans quitter Outlook. Activez simplement le complément de traducteur pour traduire le contenu en un clic. Faites votre choix parmi 60 langues. [En savoir plus](https://support.office.com/article/3d7e12ed-99d6-406e-a453-b9db0d9653fa#OutlookVersion=Mac)  <br/><br/> [Installation du complément à partir de l’Office Store](https://go.microsoft.com/fwlink/p/?linkid=841914)  <br/><br/> **Accès à davantage de fonctionnalités directement dans votre boîte de réception :** les compléments pour Outlook vous permettent de créer des tâches dans Wunderlist, d’effectuer le suivi des réponses aux messages électroniques via Boomerang et bien plus encore. [En savoir plus](https://support.office.com/article/1ee261f9-49bf-4ba6-b3e2-2ba7bcab64c8#OfficeVersion=Outlook_2016_for_Mac)  |
 |Suite Office  <br/> ||Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/MS17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)  |
    
 ## <a name="february-2017-release"></a>Version de février 2017
@@ -577,7 +598,7 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour non relatives à la sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour non relatives à la sécurité**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Prise en charge de la Touch Bar :** les commandes les plus importantes en fonction de votre travail sont à portée de main. (Compatible uniquement avec les ordinateurs MacBook Pro dotés de la Touch Bar.)   |
 |Excel  <br/> |**Prise en charge de la Touch Bar :** les commandes les plus importantes en fonction de votre travail sont à portée de main. (Compatible uniquement avec les ordinateurs MacBook Pro dotés de la Touch Bar.)   |
@@ -593,7 +614,7 @@ Cette version inclut les mises à jour suivantes.
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour non relatives à la sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour non relatives à la sécurité**|
 |:-----|:-----|:-----|
 |Word  <br/> |Choix possibles supplémentaires en mode Focus, notamment Chêne, Acajou et Graphite. Pour les abonnés à Office 365 uniquement. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx) <br/> |Résolution de plusieurs problèmes de performances. Par exemple, les délais d’attente de saisie ou de défilement, ou la baisse de performances lors de la modification d’un document volumineux.  |
 |Microsoft AutoUpdate  <br/> |Fonctionnalités supplémentaires de journalisation et de résolution des problèmes.  <br/> |Numéro de version mis à jour : 3.8.3.  |
@@ -615,7 +636,7 @@ Cette version corrige un problème d’ouverture ou d’enregistrement des fichi
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour non liées à la sécurité**|**Mises à jour de sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour non relatives à la sécurité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> | Préservez la fidélité de votre document avec des liens hypertexte qui fonctionnent lors de la conversion au format PDF. [En savoir plus](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> Prise en charge améliorée de la création de documents accessibles, et de l’utilisation de VoiceOver et des autres technologies d’assistance pour la lecture et la modification des documents. [En savoir plus](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
 |Excel  <br/> | Amélioration de la prise en charge de la création de documents accessibles et de l’utilisation de VoiceOver, ainsi que d’autres technologies d’assistance pour lire et modifier des documents. [En savoir plus](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Résolution d’un problème : lors l’utilisation de la validation des données, Excel se bloquait si vous entriez du texte dans la zone de message d’erreur.  <br/> |Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)   |
@@ -628,7 +649,7 @@ Cette version inclut les mises à jour suivantes.
 
  **Date de publication :** 17 novembre 2016 
   
- *Version 15.28.0 (build 16111700)* 
+ *Version 15.28.0 (build 16111700)* 
   
 Cette version corrige un problème avec Outlook et avec les dossiers publics sur Exchange Server 2010. 
 
@@ -649,7 +670,7 @@ Cette version corrige un problème avec les packages de mises à jour des applic
   
 Cette version inclut les mises à jour suivantes.
   
-|**Application**|**Mises à jour de fonctionnalités**|**Mises à jour non liées à la sécurité**|**Mises à jour de sécurité**|
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour non relatives à la sécurité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |Nouvelle prise en charge de grammaire pour le tchèque, le hongrois, le coréen, le norvégien, le polonais, le russe et le turc.  <br/> | Résolution d’un problème : Word ne parvenait pas à enregistrer les documents lorsque des feuilles de calcul Excel avec un certain contenu de bordure étaient incorporées dans le document.  <br/> |Bulletin de sécurité Microsoft [MS16-133](https://technet.microsoft.com/library/security/MS16-133) : Mise à jour de sécurité pour Microsoft Office (3199168) |
 |Excel  <br/> || Résolution d’un problème de longue durée : Excel ne parvenait pas à enregistrer les modifications sur certaines configurations de stockage d’entreprise, comme les unités NetApp FAS. Excel a adopté le même modèle d’enregistrement de fichier que Word.  <br/> |Bulletin de sécurité Microsoft [MS16-133](https://technet.microsoft.com/library/security/MS16-133) : Mise à jour de sécurité pour Microsoft Office (3199168)  <br/> |
