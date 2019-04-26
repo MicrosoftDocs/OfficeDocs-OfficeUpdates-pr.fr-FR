@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Office 2016, Office 2013 et Office 2010
 ms.openlocfilehash: 82f0e6e29bebaf99f87a91ef98bfe115f114954a
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745416"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438569"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -50,11 +50,11 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
    
 ## <a name="updates-released-in-past-12-months"></a>Mises à jour publiées au cours des douze derniers mois
 
-[Mises à jour de sécurité et non relatives à la sécurité pour avril 2019 : KB4495300](https://support.microsoft.com/en-us/help/4495300)
+[Mises à jour de sécurité et non relatives à la sécurité pour avril 2019 : KB4495300](https://support.microsoft.com/fr-FR/help/4495300)
 
-[Mises à jour de sécurité et non relatives à la sécurité pour mars 2019 : KB4491754](https://support.microsoft.com/en-us/help/4491754) 
+[Mises à jour de sécurité et non relatives à la sécurité pour mars 2019 : article 4491754 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4491754) 
 
-[Mises à jour de Sécurité and Non-Sécurité pour février 2019: KB4488446](https://support.microsoft.com/help/4488446)
+[Mises à jour de Sécurité and Non-Sécurité pour Février 2019: KB4488446](https://support.microsoft.com/help/4488446)
 
 [Mises à jour de sécurité et non relatives à la sécurité pour janvier 2019 : KB4484800](https://support.microsoft.com/help/4484800)
 
@@ -70,9 +70,9 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 
 [Mises à jour de sécurité et non relatives à la sécurité pour juillet 2018 : KB4340798](https://support.microsoft.com/help/4340798)   
 
-[Mises à jour de sécurité et non relatives à la sécurité pour juin 2018 : KB4299875](https://support.microsoft.com/help/4299875)  
+[Mises à jour de sécurité et non relatives à la sécurité pour juin 2018 : article 4299875 de la Base de connaissances](https://support.microsoft.com/help/4299875)  
 
-[Mises à jour de sécurité et non relatives à la sécurité pour mai 2018 : KB4133083 ](https://support.microsoft.com/en-us/help/4133083)
+[Mises à jour de sécurité et non relatives à la sécurité pour mai 2018 : KB4133083 ](https://support.microsoft.com/fr-FR/help/4133083)
   
  
   

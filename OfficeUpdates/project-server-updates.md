@@ -14,11 +14,11 @@ ms.collection:
 - RelNotes_Server
 description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
 ms.openlocfilehash: 75e8e5f56450363669c938156a121d5f87452593
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745476"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438797"
 ---
 # <a name="project-server-updates"></a>Mises à jour de Project Server
 
@@ -28,18 +28,18 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
   
 ## <a name="project-server-2013-update-history"></a>Historique des mises à jour de Project Server 2013
   
-|**Date de publication**|**Numéro d’article de la base de connaissances**|
+|**Date de sortie**|**Numéro KB**|
 |:-----|:-----|:-----|
 |Avril 2019  <br/> |[KB4464513](https://support.microsoft.com/kb/4464513) <br/>|
-|Mars 2019  <br/> |[KB4462218](https://support.microsoft.com/kb/4462218) <br/>|
+|Mars 2019  <br/> |[Article 4462218 de la Base de connaissances](https://support.microsoft.com/kb/4462218) <br/>|
 |Février 2019  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |Janvier 2019  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
 |Décembre 2018  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
 |Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
-|Octobre 2018  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
-|Septembre 2018  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
-|Août 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
-|Juillet 2018  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
+|Octobre 2018  <br/> |[Article de la base de connaissances 4461456](https://support.microsoft.com/kb/4461456) <br/>|
+|Septembre 2018  <br/> |[Article de la base de connaissances 4092475](https://support.microsoft.com/kb/4092475) <br/>|
+|Août 2018  <br/> |[Article de la base de connaissances 4032245](https://support.microsoft.com/kb/4032245) <br/>|
+|Juillet 2018  <br/> |[Article 4022240 de la Base de connaissances](https://support.microsoft.com/kb/4022240) <br/>|
 |Juin 2018  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |Mai 2018  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
 |Avril 2018  <br/> |[KB4018346](https://support.microsoft.com/kb/4018346) <br/> |
@@ -85,18 +85,18 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
    
 ## <a name="project-server-2010-update-history"></a>Historique des mises à jour de Project Server 2010
 
-|**Date de publication**|**Numéro d’article de la base de connaissances**|
+|**Date de sortie**|**Numéro KB**|
 |:-----|:-----|:-----|
 |Avril 2019  <br/>  |[KB4464521](https://support.microsoft.com/kb/4464521) <br/>|
-|Mars 2019  <br/>  |[KB4462227](https://support.microsoft.com/kb/4462227) <br/>|
+|Mars 2019  <br/>  |[Article 4462227 de la Base de connaissances](https://support.microsoft.com/kb/4462227) <br/>|
 |Février 2019  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |Janvier 2019  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
 |Décembre 2018  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|
 |Novembre 2018  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
-|Octobre 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
-|Septembre 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
-|Août 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
-|Juillet 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
+|Octobre 2018  <br/>  |[Article de la base de connaissances 4461463](https://support.microsoft.com/kb/4461463) <br/>|
+|Septembre 2018  <br/>  |[Article de la base de connaissances 4092484](https://support.microsoft.com/kb/4092484) <br/>|
+|Août 2018  <br/>  |[Article de la base de connaissances 4092438](https://support.microsoft.com/kb/4092438) <br/>|
+|Juillet 2018  <br/>  |[Article 4032219 de la Base de connaissances](https://support.microsoft.com/kb/4032219) <br/> |
 |Juin 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |Mai 2018  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
 |Avril 2018  <br/> |[KB4018358](https://support.microsoft.com/kb/4018358) <br/> |
@@ -144,5 +144,5 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Mises à jour d’ Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+- [Mises à jour d’Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 - [Mises à jour de SharePoint](sharepoint-updates.md)

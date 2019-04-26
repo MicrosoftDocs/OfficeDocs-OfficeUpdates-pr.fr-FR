@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
-ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
+ms.openlocfilehash: 6222443b6b6d22d2d80b135fe10fec61ff96d708
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31912570"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438649"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -27,6 +27,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
  > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md). 
+
+## <a name="version-1903-april-23"></a>Version 1903 : 23 avril
+*Version 1903 (Build 11425.20244)*
+
+- Diverses résolutions de bogues et de performances.
 
 ## <a name="version-1903-april-17"></a>Version 1903 : le 17 avril
 *Version 1903 (Build 11425.20228)*
