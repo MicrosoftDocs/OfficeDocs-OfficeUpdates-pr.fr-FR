@@ -3,19 +3,19 @@ title: Historique des mises à jour pour le canal mensuel Office (ciblé)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 04/17/2019
+ms.date: 04/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 7e50142c1c0e404ef9693f19cd6a5fccfefa0b42
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 0302cc1500701c6c71e8d41a09655659ee3f0d05
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958115"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368769"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
@@ -30,6 +30,18 @@ Si vous êtes inscrit au niveau Canal mensuel (Ciblé), anciennement appelé Ins
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu’au numéro de build publié des notes de publication
 
 [//]: # (NE PAS SUPPRIMER)
+
+**27 avril 2019**<br/>
+Version 1904 (Build 11601.20144)<br/>
+
+**26 avril 2019**<br/>
+Version 1904 (Build 11601.20136)<br/>
+
+**25 avril 2019**<br/>
+Version 1904 (Build 11601.20126)<br/>
+
+**16 avril 2019**<br/>
+Version 1904 (Build 11601.20072)<br/>
 
 **16 avril 2019**<br/>
 Version 1903 (Build 11425.20218)<br/>

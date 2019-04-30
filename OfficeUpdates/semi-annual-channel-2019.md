@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745546"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370196"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -29,21 +29,24 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
 
 ## <a name="version-1808-april-9"></a>Version 1808 : 9 avril
-*Version 1808 (build 10730.20334)*
+*Version 1808 (Build 10730.20334)*
 
-### <a name="word-non-security-updates"></a>Word: Mises à jour non relatives à la sécurité
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : mises à jour non relatives à la sécurité
+- Résolution d’un problème dans Lync (Skype Entreprise) qui avait pour effet que, quand une réunion en ligne comptait plus de 7 participants, il pouvait arriver que la fenêtre de réunion disparaisse.
+
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
 
 - Résolution d’un problème qui permettait à l’utilisateur d’ouvrir des documents de manière anonyme dans IE ou Edge.
 - Résolution du problème suivant : la mise en forme de la couleur de surbrillance du texte d’un champ PAGE et/ou NBPAGES dans l’en-tête ou le pied de page d’un document Word noircissait le champ au lieu d’afficher la couleur de surbrillance appliquée au texte.
 - Nous avons ajouté la prise en charge du complément Assistant Carte postale japonais Word pour la nouvelle ère japonaise. 
 
 ## <a name="version-1803-april-9"></a>Version 1803 : 9 avril
-Pas de mise à jour ce mois-ci.
+- Mises à jour de sécurité répertoriées [ici](office365-proplus-security-updates.md)
 
 ## <a name="version-1808-march-12"></a>Version 1808 : 12 mars
 *Version 1808 (build 10730.20304)*
 
-### <a name="word-non-security-updates"></a>Word: Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 
 - Résolution d’un problème : VBA renvoie le mauvais numéro de page.
 - Amélioration du délai d’enregistrement sur le fichier Word local. 
@@ -57,10 +60,10 @@ Pas de mise à jour ce mois-ci.
 - Résolution d’un problème : la mise à jour Office risque de se bloquer pendant un certain temps lors du téléchargement.
 
 ## <a name="version-1803-march-12"></a>Version 1803 : 12 mars 
-Il n’existe aucune mise à jour ce mois-ci.
+- Mises à jour de sécurité répertoriées [ici](office365-proplus-security-updates.md)
 
-## <a name="version-1808-february-12"></a>Version 1808 : 12 Février
-*Version 1808 (build 10730.20280)*
+## <a name="version-1808-february-12"></a>Version 1808 : 12 février
+*Version 1808 (Build 10730.20280)*
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité 
 
@@ -81,7 +84,7 @@ Il n’existe aucune mise à jour ce mois-ci.
 ## <a name="version-1803-february-12"></a>Version 1803 : 12 Février
 *Version 1803 (build 9126.2356)*
 
-*Il s’agit de la version du canal semi-annuel disponible depuis juillet 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du canal semi-annuel est désormais disponible (version 1808, build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible: Version 1808 (build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité 
 
@@ -111,9 +114,9 @@ Il n’existe aucune mise à jour ce mois-ci.
 - Nous avons résolu le problème dans lequel les compléments déployé à l’aide [du déploiement centralisé Office O365](https://docs.microsoft.com/fr-FR/office/dev/add-ins/publish/centralized-deployment), ont été figés et inutilisables.
 
 ## <a name="version-1708-february-12"></a>Version 1708 : 12 Février
-*Version 1708 (build 8431.2372)*
+*Version 1708 (Build 8431.2372)*
 
-*Il s’agit de la version du canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du canal semi-annuel est désormais disponible (version 1808, build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en mars 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1808, build 10730.20280). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 
@@ -272,7 +275,7 @@ Il n’existe aucune mise à jour ce mois-ci.
 ## <a name="version-1803-january-8"></a>Version 1803 : 8 janvier
 *Version 1803 (build 9126.2351)*
 
-*Il s’agit de la version du canal semi-annuel disponible depuis juillet 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du canal semi-annuel est désormais disponible (version 1808). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
+*Il s’agit de la version du Canal semi-annuel disponible depuis janvier 2018. Cette version continuera à être prise en charge et à recevoir des mises à jour de sécurité jusqu’en septembre 2019. Toutefois, une nouvelle version du Canal semi-annuel est désormais disponible (version 1808). Elle contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Mises à jour non relatives à la sécurité
 - Correction d’un problème pour vous assurer une parité de fonctionnalité de l’option LinkedIn entre les applications Office.
