@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438903"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370186"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -24,6 +24,32 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > [!NOTE]
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
+
+## <a name="april-26-2019"></a>26 avril 2019
+Version 1905 (Build 11617.20002)
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="word"></a>Word 
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="excel"></a>Excel
+- Nous avons corrigé un problème qui empêchait l’exécution des macros du solveur
+- Nous avons corrigé un problème qui pouvait empêcher l’importation de fichiers Excel dans SharePoint
+
+### <a name="powerpoint"></a>PowerPoint
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="outlook"></a>Outlook
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="access"></a>Access
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Project
+- Divers correctifs en lien avec les performances et la stabilité
+
+</BR></BR>
 
 ## <a name="april-19-2019"></a>19 avril 2019
 Version 1905 (Build 11609.20002)
