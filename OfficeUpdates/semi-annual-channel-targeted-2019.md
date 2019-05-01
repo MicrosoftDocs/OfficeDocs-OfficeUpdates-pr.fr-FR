@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel (ciblé) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: cdf78723e289a421c81986fd3ccc15e199fbb6ef
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958045"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370306"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -31,11 +31,26 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1902-april-9"></a>Version 1902 : 9 avril
 *Version 1902 (Build 11328.20230)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 
+- Résolution d’un problème qui avait pour effet que la touche de tabulation ne permettait pas de passer à la cellule suivante à partir d’une cellule contenant une formule se terminant par un nom défini.
+- Résolution d’un problème qui avait pour effet que la mise en forme d’une cellule occasionnait une croissance inutile de la taille du fichier.
+- Résolution d’un problème qui avait pour effet qu’un copier-coller de tableau croisé dynamique entre des classeurs pouvait entraîner le collage des données, sans le tableau croisé dynamique, pour vos collaborateurs.
+
+### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+
+- Résolution d’un problème : les fenêtres n'apparaissaient pas au bon emplacement lorsque la barre des tâches système était située à gauche ou en haut de l'écran.
 - Résout un problème qui provoquait un blocage des clients lors du chargement des images sur la carte de visite.
 - Résout un problème qui provoquait un blocage de certains clients lors du démarrage d'applications Office.
 - Résolution d’un problème : les fenêtres n'apparaissaient pas au bon emplacement lorsque la barre des tâches système était située à gauche ou en haut de l'écran.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : mises à jour non relatives à la sécurité
+
+- Résolution d’un problème dans Lync (Skype Entreprise) qui avait pour effet que, pour une réunion en ligne incluant plus de 7 participants, la fenêtre de réunion pouvait disparaître.
+
+### <a name="visio-non-security-updates"></a>Visio : mises à jour non relatives à la sécurité
+
+- Résolution d’un problème qui avait pour effet de perturber la hiérarchie de fenêtres pour des solutions tierces étendant Visio en désactivant la fonctionnalité PPP dynamique.
 
 ### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
 
@@ -43,6 +58,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 
+- Résolution d’un problème qui avait pour effet que des parties d’une mise à jour Office n’utilisaient pas la mise en cache partagé entre systèmes homologues pour l’optimisation de la distribution. 
+  [En savoir plus]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+- Résolution d’un bogue qui pouvait entraîner la suppression ou la non-activation de produits si Office était installé à l’aide de l’outil de déploiement Office en cas d’incompatibilité de casse.
 - Résolution d’un problème qui entraînait des invites de connexion excessives sur les appareils Windows 10 (version 1803 ou ultérieure).
 - Résolution du problème qui provoquait des blocages lors du téléchargement d’images liées.
 - Correction du flou des fichiers EMF volumineux collés dans Word, Excel, PowerPoint.
