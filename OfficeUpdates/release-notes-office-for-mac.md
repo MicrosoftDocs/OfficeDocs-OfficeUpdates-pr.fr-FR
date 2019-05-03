@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 5/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 6cb4866a65ad45e54a13f62e1b422675d8e4ede4
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 57e30df61e42547b0c23cdb797142dcf87666a56
+ms.sourcegitcommit: b3d71e9fbbece2bba40b6b71f2ad3f4bbbee7a55
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370256"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33527779"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -36,7 +36,24 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 ## <a name="april-2019-release"></a>Version d’avril 2019
 
- **Date de publication :** 16 avril 2019 
+**Date de publication :** 29 avril 2019 
+  
+ *Version 16.24.1 (build 19042400)*
+
+
+ Cette version inclut les mises à jour suivantes :
+
+|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+|:-----|:-----|:-----|:-----|
+|Word<br/>|Mises à jour des polices pour inclure le glyphe de la nouvelle ère japonaise.<br/>|<br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19042400_Updater.pkg)<br/>|
+|Excel<br/>|Mises à jour des polices pour inclure le glyphe de la nouvelle ère japonaise.<br/>|<br/>|[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19042400_Updater.pkg)<br/>|
+|PowerPoint<br/>|Mises à jour des polices pour inclure le glyphe de la nouvelle ère japonaise.<br/>|<br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19042400_Updater.pkg)<br/>|
+|Outlook<br/>|Mises à jour des polices pour inclure le glyphe de la nouvelle ère japonaise.<br/>|<br/>|[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19042400_Updater.pkg)<br/>|
+|OneNote<br/>|Mises à jour des polices pour inclure le glyphe de la nouvelle ère japonaise.<br/>|<br/>|[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Onenote_16.24.19042400_Updater.pkg)<br/>|
+
+
+
+ **Date de publication :** 16 avril 2019
   
  *Version 16.24 (build 19041401)*
 
