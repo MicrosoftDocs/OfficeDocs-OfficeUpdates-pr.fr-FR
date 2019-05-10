@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 0efbe8b5ffd532ac8b128db806f187c65da6e7ee
-ms.sourcegitcommit: f22412210c12d031708aa590d72231f93ab38d09
+ms.openlocfilehash: eeb5d5141eb2626c83b39134c63aaf2362d06ef2
+ms.sourcegitcommit: 3851db1b0d239bf34187d1e7c98f5d5c3a567367
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33661300"
+ms.lasthandoff: 05/08/2019
+ms.locfileid: "33663318"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -35,7 +35,6 @@ Mise à jour pour Microsoft Office 2016 ([KB2920717](https://support.microsoft.c
 Mise à jour pour Microsoft Office 2016 ([KB4461441](https://support.microsoft.com/help/4461441))<br/>
 Mise à jour pour Microsoft Office 2016 ([KB4461477](https://support.microsoft.com/help/4461477))<br/>
 Mise à jour pour Microsoft Office 2016 ([KB4462119](https://support.microsoft.com/help/4462119))<br/>
-Mise à jour pour Microsoft Office 2016 ([KB4462238](https://support.microsoft.com/help/4462238))<br/>
 Mise à jour pour Microsoft Office 2016 ([KB4462243](https://support.microsoft.com/help/4462243))<br/>
 Mise à jour pour Microsoft Office 2016 ([KB4464538](https://support.microsoft.com/help/4464538))<br/>
 Mise à jour pour Microsoft Office 2016 ([KB4464552](https://support.microsoft.com/help/4464552))<br/>
