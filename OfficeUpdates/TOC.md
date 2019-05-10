@@ -43,6 +43,7 @@
 ## [Mises à jour d’Office 2010 (C2R)](update-history-office-2010-click-to-run.md)
 ## [Mises à jour Office 2010, 2013 et 2016 (MSI)](office-updates-msi.md)
 ## [Mises à jour Outlook 2010, 2013 et 2016 (MSI)](outlook-updates-msi.md)
+## [Mises à jour d’Office non liées à la sécurité (MSI)](office-MSI-non-security-updates.md)
 ## [Fichiers .msp Office 2016](msp-files-office-2016.md)
 ## [Fichiers .msp Office 2013](msp-files-office-2013.md)
 ## [Mises à jour de Skype Entreprise (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
