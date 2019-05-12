@@ -3,19 +3,18 @@ title: Notes de publication pour les publications du canal mensuel en 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
+ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480086"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33834813"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -28,6 +27,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md). 
 
+## <a name="version-1904-may-08"></a>Version 1904 : 08 mai 
+*Version 1904 (build 11601.20178)* 
+
+ - Divers correctifs de bogues et de performances.
+
 ## <a name="version-1904-april-29"></a>Version 1904 : 29 avril
 *Version 1904 (Build 11601.20144)* 
 
@@ -35,15 +39,25 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Trouvez rapidement ce fichier :** Vous recherchez un fichier sur lequel vous avez travaillé récemment ? Renseignez simplement la zone de recherche dans Fichier > Page d’accueil pour trouver le fichier que vous recherchez.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+
+- **Connecter votre réseau LinkedIn avec Outlook :** connectez votre compte LinkedIn de façon sécurisée avec votre compte Microsoft pour afficher les informations du profil LinkedIn directement dans la carte Contacts. [En savoir plus](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 
 - **Trouvez rapidement ce fichier :** Vous recherchez un fichier sur lequel vous avez travaillé récemment ? Renseignez simplement la zone de recherche dans Fichier > Page d’accueil pour trouver le fichier que vous recherchez.
 
-### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalités
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+
+- **Exporter des diagrammes de processus vers Word :** ajouter automatiquement du contenu diagramme, comme des formes et des métadonnées, à un document Word. Puis personnalisez le document pour créer des instructions de processus et des manuels d’opération. [En savoir plus](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+ - **Couleurs pour le suivi des modifications, les commentaires et la collaboration en temps réel de façon synchronisée :** les correctifs introduits dans notre produit garantissent désormais que les commentaires, le suivi des modifications et le curseur d'un même collaborateur apparaissent dans la même couleur.
 
 - **Trouvez rapidement ce fichier :** Vous recherchez un fichier sur lequel vous avez travaillé récemment ? Renseignez simplement la zone de recherche dans Fichier > Page d’accueil pour trouver le fichier que vous recherchez.
 
-### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalités
+### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
+
+- **Nouvelles icônes :** nous avons ajouté plus de 300 nouvelles icônes en réponse à vos commentaires. Vous pouvez les trouver à l’aide du bouton Icônes sous l’onglet Insertion du ruban.
 
 - **Contrôles de confidentialité :** Des contrôles nouveaux, mis à jour et améliorés pour les données de diagnostic et les expériences connectées. [En savoir plus](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
@@ -78,7 +92,9 @@ Résolution d’un problème d’identification incorrecte du nom de la nouvelle
 ## <a name="version-1903-april-01"></a>Version 1903 : 01 avril
 *Version 1903 (Build 11425.20202)* 
 
-### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalités
+### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
+
+- **Analyses dans Excel :** les Analyses sont précieuses pour certains utilisateurs. Elles leur permettent d’accéder aisément à une analyse de données, tandis qu’elles présentent à d’autres utilisateurs une aux perspective sur leurs données. [En savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **Augmenter la portée de votre contenu :** Vous devez rendre vos feuilles de calcul accessibles ? Laissez le vérificateur d’accessibilité s’en charger sans interférer dans votre travail. Pour l’essayer, cliquez sur Révision > Vérification de l’accessibilité. Les éléments détectés devant faire l’objet d’un examen apparaissent dans la barre d’état.
 
@@ -166,6 +182,8 @@ Mises à jour de sécurité répertoriées [ici](office365-proplus-security-upda
 - **Ils verront votre mème :** lorsque du texte ou des images statiques ne conviennent pas, utilisez une image GIF animée pour mettre en avant vos idées. [En savoir plus](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
  
 ### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
+
+- **Double Take sur les organigrammes :** les superbes nouvelles dispositions des organigrammes du Visualiseur de données sont propres, nettes et faciles à comprendre. [En savoir plus](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **Gabarits Azure intégrés :** concevez une application cloud ou planifiez une architecture à l’aide de dizaines de gabarits Azure. [En savoir plus](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
