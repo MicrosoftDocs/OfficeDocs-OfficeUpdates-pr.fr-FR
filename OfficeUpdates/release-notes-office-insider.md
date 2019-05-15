@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370186"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882763"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -24,6 +24,65 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > [!NOTE]
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
+
+## <a name="may-10-2019"></a>10 mai 2019
+Version 1906 (build 11702.20000)
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="all"></a>Tous
+- Nous avons résolu un problème où la boîte de dialogue « Enregistrer sous » pouvait afficher un chemin erroné
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème où certaines sélections de la fonctionnalité Rechercher n’étaient pas insérées
+
+### <a name="excel"></a>Excel
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="powerpoint"></a>PowerPoint
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="outlook"></a>Outlook
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="access"></a>Access
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Project
+- Nous avons résolu un problème où il était parfois nécessaire de mettre en surbrillance des ID de tâche pour les voir
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>3 mai 2019
+Version 1906 (build 11629.20008)
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="all"></a>Tous
+- Nous avons résolu un problème où certains utilisateurs rencontraient des problèmes de synchronisation avec OneDrive Entreprise
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème où des liens externes étaient parfois supprimés de classeurs après la mise à niveau vers une version plus récente d’Excel
+- Nous avons résolu un problème où certains utilisateurs pouvaient rencontrer des difficultés lorsqu’ils sélectionnaient des cellules dans un nouveau classeur
+
+### <a name="powerpoint"></a>PowerPoint
+- Nous avons résolu un problème où les tailles de police n’étaient pas cohérentes lors de la conversion de dessins en texte
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème où l’enregistrement d’un contact d’un fichier .VCF pouvait entraîner des champs vides
+- Nous avons résolu un problème où un message pouvait rester affiché dans le dossier Boîte d’envoi bien qu’il ait été envoyé
+- Nous avons résolu un problème où Outlook pouvait se bloquer lors de l’affichage d’un message DRM
+
+### <a name="access"></a>Access
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Project
+- Nous avons résolu un problème qui entraînait le basculement de l’éditeur du chinois vers l’anglais
+- Nous avons résolu un problème où des tâches non publiées pouvaient s’afficher dans la copie publiée d’un projet maître
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>26 avril 2019
 Version 1905 (Build 11617.20002)
