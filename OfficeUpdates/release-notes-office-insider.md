@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/10/2019
+ms.date: 5/17/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
-ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
+ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
+ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33882763"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34161563"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -24,6 +24,117 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > [!NOTE]
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
+
+## <a name="may-17-2019"></a>17 mai 2019
+Version 1906 (Build 11708.20006)
+
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="user-experience-updates"></a>Mises à jour de l’expérience utilisateur
+
+Les mises à jour qui étaient dans « Bientôt disponible » figurent maintenant ici, avec le Ruban simplifié et une actualisation visuelle du volet dossiers, de la liste des messages et du volet de lecture.
+
+##### <a name="getting-started"></a>Mise en route :
+
+ces changements feront partie de la nouvelle interface par défaut ; elle est disponible derrière le commutateur Bientôt disponible depuis la mi-décembre pour une productivité totale
+
+#### <a name="customizable-simplified-ribbon"></a>Ruban simplifié personnalisable
+
+Aisément personnalisable pour basculer entre les affichages classique et simplifié et épingler/désépingler des commandes.
+
+##### <a name="getting-started"></a>Mise en route :
+
+les utilisateurs peuvent accéder au ruban simplifié en activant Bientôt disponible (initialement) et en cliquant sur le chevron du ruban pour basculer entre le ruban multilignes classique et le nouveau ruban simplifié à ligne unique.
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+basculez du ruban classique au ruban simplifié
+
+#### <a name="pick-your-favorite-action"></a>Choisissez l’action que vous préférez
+
+Ne pas utiliser d’indicateur et supprimer ? Comment Archiver ou Marquer comme lu ? Personnalisez le menu d’actions rapides avec les commandes que vous utilisez le plus.
+
+##### <a name="getting-started"></a>Mise en route :
+
+pour sélectionner vos actions rapides, cliquez avec le bouton droit sur un e-mail dans la liste des messages pour afficher le menu contextuel. Cliquez ensuite sur « Actions rapides... »
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+remplacez les actions par défaut Indicateur et Supprimer par Archiver, Déplacer ou Marquer comme lu, ou aucun pour une liste de messages plus lisible
+
+#### <a name="relaxed-or-tighter-layout-you-choose"></a>Disposition aérée ou plus resserrée ? Vous choisissez
+
+Utiliser un espacement plus étroit vous permet de décider si vous souhaitez davantage d’espace entre les éléments ou une disposition plus étroite pour en voir plus.
+
+##### <a name="getting-started"></a>Mise en route :
+
+Onglet Affichage, case à cocher Utiliser un espacement plus serré - dans le groupe Messages pour le ruban classique, dans les paramètres Affichage actuel pour le ruban simplifié
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+utilisez Outlook pour trier et écrire des e-mails avec et sans le paramètre activé. L’option Utiliser un espacement plus serré augmente le nombre de messages par page et simplifie les contrôles des formulaires de composition.
+
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a>Dédupliquez les entrées des derniers fichiers utilisés lors de l’utilisation du client de synchronisation OneDrive
+
+Permet une meilleure intégration du client de synchronisation OneDrive avec des pièces jointes dans le cloud en dédupliquant les entrées des derniers fichiers utilisés et en autorisant l’ajout rapide de données synchronisées en tant que pièces jointes dans le cadre d’une opération de copie.
+
+##### <a name="getting-started"></a>Mise en route :
+
+en utilisant le client de synchronisation OneDrive, vous ne verrez plus les doublons de fichier dans la liste des derniers fichiers utilisés lorsque vous ajoutez un fichier en pièce jointe.
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+activez le client de synchronisation OneDrive et utilisez le menu Joindre un fichier dans la version d’Outlook pour ordinateur
+
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a>Amélioration de la synchronisation des dossiers partagés pour les boîtes aux lettres avec de nombreux dossiers
+
+Depuis des années, Outlook est limité à un maximum de 500 dossiers lors de la synchronisation des boîtes aux lettres partagées. Avec cette modification, la synchronisation d’Outlook a été améliorée de façon à s’affranchir de la limite de 500 dossiers.
+
+##### <a name="getting-started"></a>Mise en route :
+
+créez 1 000 dossiers dans une boîte aux lettres, donnez à quelqu’un d’autre accès à la boîte aux lettres, créez un profil Outlook pour cette autre personne et vérifiez que la synchronisation fonctionne.
+
+### <a name="word"></a>Word
+
+#### <a name="erase-just-a-little-bit"></a>Effacer juste un peu
+
+##### <a name="getting-started"></a>Mise en route :
+
+accédez à l’onglet Dessiner. Sélectionnez la liste déroulante Gomme. Choisissez Petite gomme ou Gomme moyenne.
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+accédez à l’onglet Dessiner. Sélectionnez un stylet. Dessinez un trait d’encre. Sélectionnez la liste déroulante Gomme. Choisissez Petite gomme ou Gomme moyenne. Effacez partiellement le trait d’encre.
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="all"></a>Tous 
+- Nous avons résolu un problème qui empêchait certains utilisateurs d’enregistrer un fichier en tant que PDF
+- Nous avons résolu un problème qui pouvait avoir un impact sur les utilisateurs enregistrant des fichiers de grande taille sur un système 32 bits
+
+### <a name="word"></a>Word 
+- Nous avons considérablement amélioré la réactivité de la fonctionnalité de dictée
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème qui pouvait entraîner l’échec d’événements de double clic sur les appareils à écran tactile
+- Nous avons résolu un problème qui empêchait certains utilisateurs de modifier des macros VBA
+- Nous avons résolu un problème qui pouvait réduire les performances lors de l’utilisation de segments
+
+### <a name="powerpoint"></a>PowerPoint
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème où le modèle incorrect pouvait s’afficher à partir de la sélection
+
+### <a name="access"></a>Access
+- Nous avons résolu un problème de lisibilité lors de l’utilisation du Générateur de zoom pour afficher un long texte enrichi
+
+### <a name="project"></a>Project
+- Divers correctifs en lien avec les performances et la stabilité
+
+</BR></BR>
 
 ## <a name="may-10-2019"></a>10 mai 2019
 Version 1906 (build 11702.20000)
@@ -62,6 +173,7 @@ Version 1906 (build 11629.20008)
 - Nous avons résolu un problème où certains utilisateurs rencontraient des problèmes de synchronisation avec OneDrive Entreprise
 
 ### <a name="word"></a>Word 
+- Nous avons résolu un problème retardant parfois le démarrage de Word
 
 ### <a name="excel"></a>Excel
 - Nous avons résolu un problème où des liens externes étaient parfois supprimés de classeurs après la mise à niveau vers une version plus récente d’Excel
@@ -200,7 +312,7 @@ Version 1904 (Build 11527.20014)
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
 ### <a name="all-applications"></a>Toutes les applications
- - Nous avons résolu un problème dans lequel l’icône incorrecte d’application peut s’afficher pour Excel dans les menus contextuels
+- Nous avons résolu un problème dans lequel l’icône incorrecte d’application peut s’afficher pour Excel dans les menus contextuels
 - Nous avons résolu un problème dans lequel le bouton du menu Fichier pourrait disparaitre après avoir installé une mise à jour.
 - Nous avons résolu un problème qui peut modifier votre licence utilisateur.
 

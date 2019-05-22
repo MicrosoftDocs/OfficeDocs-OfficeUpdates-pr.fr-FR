@@ -3,18 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel (ciblé) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034495"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337108"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -32,8 +33,15 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
  -  Résolution d’un problème de blocage de la feuille de calcul lors de l’utilisation de l’appareil photo dans Excel.
+ - Un problème à l’origine de l’arrêt de la roulette de défilement de la souris sur une fenêtre active avec une feuille de graphique a été résolu.
+ - Un problème à l’origine du message d’erreur «erreur inattendue» apparaissant lors de l’import d’une feuille de calcul dans SharePoint a été résolu.
+ - Un problème entrainant le blocage d’Excel lorsque vous ouvrez un classeur contenant une mise en forme conditionnelle qui utilise un nom pour sa règle et un affichage personnalisé est appliqué a été résolu.
+ - Les macros utilisant la validation des données avec des formules de plus de 255 caractères peuvent avoir généré des erreurs d’exécution. Ce problème a été corrigé.
+ - Un problème causant les fichiers contenant des tableaux croisés dynamiques liés à d’autres classeurs d’être chargés lentement. Ce problème a été résolu.
+ - Un problème lors de l’ouverture de fichiers HTML et de la réception d’une erreur «format de fichier et extension ne correspondent pas» a été résolu.
+ - Une modification a été apportée à la résolution des problèmes avec le défilement de la roulette de la souris sur les fenêtres inactives.  
 
-### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
  - Résolution d’un problème qui empêchait les clients de modifier certains champs sur des éléments migrés.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
