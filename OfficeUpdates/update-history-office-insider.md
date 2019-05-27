@@ -3,19 +3,18 @@ title: Historique des mises à jour pour le canal Office Insider
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 04/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider Fast pour ordinateur de bureau Windows
-ms.openlocfilehash: dd5f4c337d4060ba2b1812cad8d7b6edd48137f2
-ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
+ms.openlocfilehash: c750a9379472576ed8316e54804709fe2c094cab
+ms.sourcegitcommit: 6c539a93fcd2137394873885154e2317de606e11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33639625"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34403569"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historique des mises à jour pour le canal Office Insider
 
@@ -35,20 +34,24 @@ Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de
 
 [//]: # (NE PAS SUPPRIMER)
 
+**22 mai 2019**<br/> Version 1906 (build 11715.20002)<br/> 
+
+**14 mai 2019**<br/> Version 1906 (build 11708.20006)<br/>
+
 **6 mai 2019**<br/>
-Version 1906 (Build 11702.20000)<br/>
+Version 1906 (build 11702.20000)<br/>
 
 **2 mai 2019**<br/>
 Version 1905 (build 11629.20008)<br/>
 
 **29 avril 2019**<br/>
-Version 1905 (Build 11624.20000)<br/>
+Version 1905 (build 11624.20000)<br/>
 
-**23 avril 2019**<br/> Version 1905 (Build 11617.20002)<br/>
+**23 avril 2019**<br/> Version 1905 (build 11617.20002)<br/>
 
-**15 avril 2019**<br/> Version 1905 (Build 11609.20002)<br/>
+**15 avril 2019**<br/> Version 1905 (build 11609.20002)<br/>
 
-**7 avril 2019**<br/> Version 1904 (Build 11601.20042)<br/>
+**7 avril 2019**<br/> Version 1904 (build 11601.20042)<br/>
 
 **18 mars 2019**<br/> Version 1904 (build 11520.20004)<br/>
 
@@ -85,7 +88,7 @@ Version 1905 (Build 11624.20000)<br/>
 
 
   [
-  ![Image montrant l’icône Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+  ![Image montrant l’icône Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/fr-FR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Obtenir d’abord de nouvelles fonctionnalités**

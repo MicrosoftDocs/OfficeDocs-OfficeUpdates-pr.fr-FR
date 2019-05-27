@@ -3,19 +3,19 @@ title: Historique des mises à jour pour le canal mensuel Office (ciblé)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 04/23/2019
+ms.date: 05/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 79b699861abccf27f37a0f20f066f41667476df8
-ms.sourcegitcommit: a91987b2cd720f39376703edaed6283f968d8e5c
+ms.openlocfilehash: 29252d82acf2c8c87ac422c9dde48a34d7c3a728
+ms.sourcegitcommit: 6c539a93fcd2137394873885154e2317de606e11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34107673"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34403559"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
@@ -31,36 +31,38 @@ Si vous êtes inscrit au niveau Canal mensuel (Ciblé), anciennement appelé Ins
 
 [//]: # (NE PAS SUPPRIMER)
 
-**16 mai, 2019**<br/>
-Version 1905 (Build 11629,20136)<br/>
+**22 mai 2019**<br/> Version 1905 (build 11629.20164)<br/>
+
+**16 mai 2019**<br/>
+Version 1905 (build 11629,20136)<br/>
 
 **14 mai, 2019**<br/>
-Version 1904 (Build 11601,20204)<br/>
+Version 1904 (build 11601,20204)<br/>
 
 **08 mai 2019**<br/>
 Version 1904 (build 11601.20178)<br/>
 
 **27 avril 2019**<br/>
-Version 1904 (Build 11601.20144)<br/>
+Version 1904 (build 11601.20144)<br/>
 
 **26 avril 2019**<br/>
-Version 1904 (Build 11601.20136)<br/>
+Version 1904 (build 11601.20136)<br/>
 
 **25 avril 2019**<br/>
-Version 1904 (Build 11601.20126)<br/>
+Version 1904 (build 11601.20126)<br/>
 
 **16 avril 2019**<br/>
-Version 1904 (Build 11601.20072)<br/>
+Version 1904 (build 11601.20072)<br/>
 
 **16 avril 2019**<br/>
-Version 1903 (Build 11425.20218)<br/>
+Version 1903 (build 11425.20218)<br/>
 
 **9 avril 2019**<br/>
-Version 1903 (Build 11425.20204)<br/>
+Version 1903 (build 11425.20204)<br/>
 
-**29 mars 2019**<br/> Version 1903 (Build 11425.20202)<br/>
+**29 mars 2019**<br/> Version 1903 (build 11425.20202)<br/>
 
-**25 mars 2019**<br/> Version 1903 (Build 11425.20184)<br/>
+**25 mars 2019**<br/> Version 1903 (build 11425.20184)<br/>
 
 **18 mars 2019**<br/> Version 1903 (build 11425.20140)<br/>
 
