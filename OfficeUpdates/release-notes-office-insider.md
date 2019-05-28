@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
-ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
+ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34161563"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432412"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -24,6 +24,42 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > [!NOTE]
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
+
+## <a name="may-24-2019"></a>24 mai 2019
+Version 1906 (build 11715.20002)
+
+## <a name="whats-new"></a>Nouveautés :
+
+#### <a name="user-experience-updates"></a>Mises à jour de l’expérience utilisateur
+
+Les mises à jour qui étaient dans « Bientôt disponible » figurent maintenant ici, avec le Ruban simplifié et une actualisation visuelle du volet dossiers, de la liste des messages et du volet de lecture.
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="all"></a>Tous
+
+- Nous avons résolu un problème qui empêchait le volet de conversation de s’afficher.
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème où, dans certains cas, Word ne mettait pas correctement en surbrillance des erreurs grammaticales
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème où une icône incorrecte était utilisée pour les éléments de graphique.
+- Nous avons résolu un problème qui autorisait l’activation d’un mauvais classeur dans un script VBA lorsque ce classeur était déjà ouvert.
+
+### <a name="powerpoint"></a>PowerPoint
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="outlook"></a>Outlook
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="access"></a>Access
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Projet
+- Nous avons résolu un problème qui entraînait le blocage de Project après le basculement vers la barre des tâches.
+
+</BR></BR>
 
 ## <a name="may-17-2019"></a>17 mai 2019
 Version 1906 (Build 11708.20006)
@@ -278,6 +314,22 @@ Cette fonctionnalité est un amélioration du produit pour les utilisateurs qui 
 ## <a name="april-12-2019"></a>12 avril 2019
 Version 1905 (Build 11601.20042)
 
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="access"></a>Access
+
+#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Nouveauté Access : connecteur de données vers Microsoft Graph
+
+Lier ou importer des services Microsoft Graph services pour créer des applications capables d’exploiter les données contextuelles dynamiques stockées dans le graphique
+
+#### <a name="getting-started"></a>Mise en route :
+
+onglet données externes dans le ruban, cliquez sur Nouvelles sources de données et recherchez le nouveau connecteur Graph dans le menu des services en ligne.
+
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Importez ou créez des liens vers différents services de graphiques, notamment des personnes, des groupes et des éléments OneDrive.
+
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
 ### <a name="all-applications"></a>Toutes les applications
@@ -308,6 +360,55 @@ Version 1905 (Build 11601.20042)
 
 ## <a name="april-5-2019"></a>5 avril 2019
 Version 1904 (Build 11527.20014)
+
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a>Outlook pour Windows : régler et partager les paramètres de votre boîte de réception Prioritaire
+
+Les préférences de votre boîte de réception prioritaire sont stockées dans le cloud afin que vous puissiez profiter de la même expérience cohérente lorsque vous utilisez Outlook pour Windows et Outlook sur le web sur n’importe quel ordinateur.
+
+#### <a name="getting-started"></a>Mise en route :
+
+Sous fichier > Options > onglet Général, vous trouvez une nouvelle préférence pour « Stocker mes paramètres Outlook dans le cloud ». Les utilisateurs doivent cocher la case pour que leurs paramètres de boîte de réception prioritaire puissent être partagés avec d’autres installations de la version de bureau d’Outlook et OWA.
+
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Modifier la boîte de réception prioritaire sur l’ordinateur sur lequel la préférence paramètres du Cloud est activée. Accédez à OWA et consultez également la préférence appliquée. Changez la boîte de réception prioritaire dans OWA et démarrez la version de bureau d’Outlook pour voir la préférence appliquée.
+
+### <a name="word"></a>Word
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>Le mode outils d’apprentissage offre une prise en charge supplémentaire pour d’autres couleurs de page
+
+Les outils d’apprentissage de Word prennent en charge d’autres couleurs de thème de page, ce qui permet de modifier la couleur d’arrière-plan de la page.  De nombreux utilisateurs ont des difficultés à lire avec un arrière-plan tout blanc ou tout noir, nous avons donc développé le choix de couleurs dans Word sur PC et Mac.
+
+#### <a name="getting-started"></a>Mise en route :
+
+Pour l’essayer, accédez à l’onglet Affichage, puis sélectionnez Outils d’apprentissage, puis Couleur de page.
+
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Pour l’essayer, accédez à l’onglet Affichage, puis sélectionnez Outils d’apprentissage, puis Couleur de page.
+
+### <a name="excel"></a>Excel
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a>Augmenter la créativité avec des modèles 3D animés
+
+Office prend désormais en charge les modèles animés, ce qui vous permet de lire votre feuille de calcul dans l’éditeur pour lui donner vie.
+
+#### <a name="getting-started"></a>Mise en route :
+
+1. Ouvrez Excel.
+2. Insérez un modèle 3D animé (bientôt disponible avec Remix, mais pour l’instant, accédez aux modèles animés ici: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art)
+3. Le modèle animé est joué dans l’éditeur ! Lancez le mode diaporama, le modèle s’anime également !
+4. Dans le ruban format 3D, explorez d’autres animations dans le modèle.
+
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+1. Insérez un modèle animé et lisez-le dans l’éditeur.
+2. Explorez les scènes d’animation disponibles dans le modèle animé via la Galerie Scènes (disponible dans le ruban Format 3D).
+3. Lisez et suspendez facilement l’animation à l’aide du ruban, du menu flottant ou de la barre d’espace.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
@@ -378,6 +479,22 @@ Version 1904 (build 11514.20004)
 ## <a name="march-15-2019"></a>15 mars 2019
 Version 1904 (build 11504.20000)
 
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="word"></a>Word
+
+#### <a name="focus-mode"></a>Mode Focus
+
+Passez en mode Focus via le menu Affichage afin de supprimer toute distraction et pouvoir vous concentrer sur votre travail. Pour les abonnés Office 365 uniquement.
+
+#### <a name="getting-started"></a>Mise en route :
+
+Bouton « Focus » de l’onglet Affichage dans le bouton « Focus » de la barre d’État du ruban
+
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Activer le mode Focus pour vivre l’expérience prioritaire
+
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
 ### <a name="word"></a>Word 
@@ -421,7 +538,19 @@ Avec Recherche Microsoft, vous pouvez trouver tous les fichiers, toutes les acti
 
 - Rechercher une université, un document récent ou rechercher les commandes du ruban que vous utilisez le plus souvent
 - Rechercher un sujet ou un objet pour obtenir plus d’informations sur celui-ci
+- 
+#### <a name="coauthoring"></a>CoAuthoring
 
+Vous en avez assez de ne pas pouvoir travailler à votre guise dans vos documents contenant des macros ? Vos fichiers docm sur OneDrive entreprise autorisent désormais les modifications simultanées par plusieurs auteurs.
+
+#### <a name="getting-started"></a>Mise en route :
+
+Pour accéder à cette fonctionnalité, l’utilisateur n’a pas besoin d’appuyer sur aucun bouton de l’interface utilisateur. Celle-ci est activée par défaut dans les fichiers docm de OneDrive entreprise.
+Donc, l’utilisateur devrait enregistrer un fichier docm sur OneDrive entreprise pour l’essayer.
+
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Créez un fichier docm dans OneDrive Entreprise, partagez-le avec vos collègues et collaborez.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
@@ -452,6 +581,21 @@ Avec Recherche Microsoft, vous pouvez trouver tous les fichiers, toutes les acti
 ## <a name="march-1-2019"></a>1er mars 2019 
 Version 1903 (Build 11414.20014)
 
+## <a name="whats-new"></a>Nouveautés
+
+### <a name="word"></a>Word
+
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a>Couleurs pour les suivis des modifications, les commentaires et la collaboration en temps réel de façon synchronisée
+
+Les correctifs introduits dans notre produit garantissent désormais que les commentaires, le suivi des modifications et le curseur d'un même collaborateur apparaissent dans la même couleur.
+
+#### <a name="getting-started"></a>Mise en route :
+
+Ouvrez un document SharePoint ou OneDrive ouvert par d’autres utilisateurs. Vérifiez que la couleur de suivi des modifications et des commentaires pour un utilisateur correspond à la couleur du curseur de cet utilisateur.
+
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Ouvrez un document SharePoint ou OneDrive ouvert par d’autres utilisateurs. Vérifiez que la couleur de suivi des modifications et des commentaires pour un utilisateur correspond à la couleur du curseur de cet utilisateur.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
