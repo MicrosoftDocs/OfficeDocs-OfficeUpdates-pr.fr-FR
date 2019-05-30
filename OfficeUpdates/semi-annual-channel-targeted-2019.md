@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel (ciblé) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337108"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432422"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -59,7 +59,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  - Résolution d’un problème qui avait pour effet de bloquer la modification d’une personne associée ajoutée par SharePoint.
  - Résolution du problème d’affichage de la boîte de dialogue « Impossible de charger la ressource » au démarrage de Word.
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non liées à la sécurité
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+ - Il s’agit d’un correctif pour résoudre ce problème : des fichiers ne peuvent pas être enregistrés dans des dossiers WebDAV Apache.
+ - Résolution d’un problème de fermeture soudaine d’Office lorsque des clients ouvrent des fichiers stockés dans le Cloud.
  - Résolution d’un problème d’identification incorrecte du nom de la nouvelle ère « Reiwa » dans les alphabets Hiragana et Kanji qui apparaît comme une expression incorrecte du point de vue orthographique ou grammatical.
  - Résolution d’un problème qui avait pour effet que la liste des fichiers récents semblait avoir été effacée pour de nombreux utilisateurs sous Windows 10.
  - Résolution d’un problème qui avait pour effet que l’utilisateur final voyait s’afficher une barre Office Update, même si une mise à jour déclenchée par l’administrateur était en cours.

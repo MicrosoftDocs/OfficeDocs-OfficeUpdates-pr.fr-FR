@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 29252d82acf2c8c87ac422c9dde48a34d7c3a728
-ms.sourcegitcommit: 6c539a93fcd2137394873885154e2317de606e11
+ms.openlocfilehash: 0a1503de7b2e6c12d7d3f44b926165cda8734109
+ms.sourcegitcommit: 01db1a12c902cc22867e31c1636e12c023b3f515
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34403559"
+ms.lasthandoff: 05/27/2019
+ms.locfileid: "34487545"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
@@ -30,6 +30,9 @@ Si vous êtes inscrit au niveau Canal mensuel (Ciblé), anciennement appelé Ins
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu’au numéro de build publié des notes de publication
 
 [//]: # (NE PAS SUPPRIMER)
+
+**25 mai 2019**<br/>
+Version 1905 (build 11629.20196)<br/>
 
 **22 mai 2019**<br/> Version 1905 (build 11629.20164)<br/>
 
