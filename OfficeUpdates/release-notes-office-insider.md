@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432412"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659781"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -24,6 +24,112 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > [!NOTE]
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
+
+
+## <a name="may-31-2019"></a>31 mai 2019
+Version 1906 (build 11722.20008)
+
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>La boîte de dialogue de contact du service clientèle est maintenant ancrable et apparaît sur la droite
+
+La boîte de dialogue utilisée pour contacter le service clientèle s’affiche désormais dans un volet de droite et elle démarre en tant que fenêtre ancrée.
+
+#### <a name="ink-in-your-email"></a>De l'encre dans votre courrier électronique !
+
+Vous pouvez désormais dessiner et annoter des images dans vos courriers électroniques Outlook.
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>Ouvrir des liens de document dans Word
+
+Lorsque vous cliquez sur un lien de document dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application Word par défaut.  Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. En savoir plus : https://support.office.com/fr-FR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Mise en route :
+
+La fonctionnalité est désactivée par défaut. Les utilisateurs peuvent soit l’activer via Options -> Avancés -> Paramètre de gestion des liens, soit choisir cette option lorsque les applications Win32 WXP les guident dans le cadre d’une expérience d’adhésion.
+Lorsque les utilisateurs cliquent sur des liens vers des fichiers Word/PowerPoint/Excel stockés sur OneDrive/OneDrive Entreprise/SharePoint à partir d’Outlook/Word/PowerPoint/Excel, ces liens s’ouvrent dans l’application Office appropriée plutôt que dans le navigateur par défaut.
+
+Pour modifier cette valeur par défaut, les utilisateurs peuvent mettre à jour les paramètres suivants dans Outlook/Word/Excel/PowerPoint:
+
+Fichier -> Options -> Avancés -> Gestion des liens
+
+Ce paramètre est partagé dans Outlook/Word/PowerPoint/Excel et peut être défini dans une de ces applications.
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Pour déclencher l’expérience d’acceptation-ouvrir un lien définir un document Word stocké dans OneDrive/SharePoint à partir d’Outlook/Word/PowerPoint/Excel-cliquez sur Ouvrir dans le client à partir d’Office Online-faites-le deux fois dans une fenêtre de 30 jours. Une fois que vous avez choisi cette option, les liens s’affichent dans les applications Win32 par défaut.
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>Ouvrir les liens de présentation dans PowerPoint
+
+Lorsque vous cliquez sur un lien de présentation dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application PowerPoint par défaut. Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. En savoir plus : https://support.office.com/fr-FR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Mise en route :
+
+La fonctionnalité est désactivée par défaut. Les utilisateurs peuvent soit l’activer via Options -> Avancés -> Paramètre de gestion des liens, soit choisir cette option lorsque les applications Win32 WXP les guident dans le cadre d’une expérience d’adhésion.
+Lorsque les utilisateurs cliquent sur des liens vers des fichiers Word/PowerPoint/Excel stockés sur OneDrive/OneDrive Entreprise/SharePoint à partir d’Outlook/Word/PowerPoint/Excel, ces liens s’ouvrent dans l’application Office appropriée plutôt que dans le navigateur par défaut.
+
+Pour modifier cette valeur par défaut, les utilisateurs peuvent mettre à jour les paramètres suivants dans Outlook/Word/Excel/PowerPoint:
+
+Fichier -> Options -> Avancés -> Gestion des liens
+
+Ce paramètre est partagé dans Outlook/Word/PowerPoint/Excel et peut être défini dans une de ces applications.
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Pour déclencher l’expérience d’adhésion – Ouvrir un lien vers une présentation PowerPoint stockée dans OneDrive/SharePoint à partir d’Outlook/Word/PowerPoint/Excel – cliquez sur Ouvrir dans Client à partir d’Office Online, faites-le deux fois dans une fenêtre de 30 jours. Une fois que vous avez choisi cette option, les liens s’affichent dans les applications Win32 par défaut.
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>Ouvrir des liens de classeur dans Excel
+
+Lorsque vous cliquez sur un lien de classeur dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application Excel par défaut. Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. Plus d’infos : https://support.office.com/fr-FR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Mise en route :
+
+La fonctionnalité est désactivée par défaut. Les utilisateurs peuvent soit l’activer via Options -> Avancés -> Paramètre de gestion des liens, soit choisir cette option lorsque les applications Win32 WXP les guident dans le cadre d’une expérience d’adhésion.
+Lorsque les utilisateurs cliquent sur des liens vers des fichiers Word/PowerPoint/Excel stockés sur OneDrive/OneDrive Entreprise/SharePoint à partir d’Outlook/Word/PowerPoint/Excel, ces liens s’ouvrent dans l’application Office appropriée plutôt que dans le navigateur par défaut.
+
+Pour modifier cette valeur par défaut, les utilisateurs peuvent mettre à jour les paramètres suivants dans Outlook/Word/Excel/PowerPoint:
+
+Fichier -> Options -> Avancés -> Gestion des liens
+
+Ce paramètre est partagé dans Outlook/Word/PowerPoint/Excel et peut être défini dans une de ces applications.
+
+##### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Pour déclencher l’expérience d’adhésion – Ouvrir un lien vers un classeur Excel stocké dans OneDrive/SharePoint à partir d’Outlook/Word/PowerPoint/Excel – cliquez sur Ouvrir dans Client à partir d’Office Online, faites-le deux fois dans une fenêtre de 30 jours. Une fois que vous avez choisi cette option, les liens s’affichent dans les applications Win32 par défaut.
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="all"></a>Tout
+- Nous avons résolu un problème qui entraînait l’enregistrement automatique des fichiers, même si l’enregistrement automatique était désactivé.
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème qui a pu empêcher certains utilisateurs d’enregistrer sur SharePoint
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème dans lequel une icône incorrecte pourrait être affichée pour les filtres inactifs
+
+### <a name="powerpoint"></a>PowerPoint
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème dans lequel certains utilisateurs apparaissaient par erreur en mode hors connexion dans une vue Planning de groupe
+- Nous avons résolu un problème qui empêchait SafeLink d’analyser une URL avec un espace de fin
+- Nous avons résolu un problème dans lequel les salles étaient affichées comme étant disponibles en dehors des heures de travail
+
+### <a name="access"></a>Access
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Project
+- Divers correctifs en lien avec les performances et la stabilité
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>24 mai 2019
 Version 1906 (build 11715.20002)
