@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549741"
+ms.locfileid: "34550895"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -77,6 +77,14 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Le mode outils d’apprentissage a un support supplémentaire pour plus de couleurs de pages :** les outils d’apprentissage de Word prennent en charge d’autres couleurs de thème de page, ce qui permet de modifier la couleur d’arrière-plan de la page.  De nombreux utilisateurs ont des difficultés à lire avec un arrière-plan tout blanc ou tout noir, nous avons donc développé le choix de couleurs dans Word sur PC et Mac.
 
 - **Prochainement :** Découvrez les dernières modifications prévues pour bientôt dans Office, testez-les et envoyez des commentaires. [En savoir plus](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
+
+- Permet aux utilisateurs de Skype Entreprise Online de désactiver l’astuce contextuelle « Ajoutez votre photo, vous pourrez ainsi être reconnu ». Pour en savoir plus sur la façon d’activer ce correctif, [voir ici](https://support.microsoft.com/help/4503469).
+
+- Empêche que le paramètre de sonnerie secondaire soit toujours activé après le redémarrage de Skype Entreprise. Pour en savoir plus sur la façon d’activer ce correctif, [voir ici](https://support.microsoft.com/help/4503470).
+
+ - Correction d’un problème qui avait pour effet que Skype Entreprise cessait de répondre en cas de participation à une réunion nombreuse tout en utilisant une application basée sur le Kit de développement logiciel (SDK) Microsoft Lync. Pour en savoir plus sur la façon d’activer ce correctif, [voir ici](https://support.microsoft.com/help/4503472).
 
 ## <a name="version-1904-may-22"></a>Version 1904 : 22 mai
 *Version 1904 (Build 11601.20230)*
