@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par date, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: f3848c46626369f6f957ed0839f7692af755f574
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549751"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684000"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -31,7 +31,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Tous les mois<br/>|1905<br/>|11629.20196<br/>|29 mai 2019<br/>|Publication de la version 1906<br/>|
+|Tous les mois<br/>|1905<br/>|11629.20214<br/>|3 juin 2019<br/>|Publication de la version 1906<br/>|
 |Semi-annuel (ciblé)<br/>|1902<br/>|11328.20286<br/>|14 mai 2019<br/>|10 septembre 2019<br/>|
 |Semi-annuel<br/>|1808<br/>|10730.20344<br/>|14 mai 2019<br/>|10 mars 2020<br/>|
 |Semi-annuel<br/>|1803<br/>|9126.2387<br/>|14 mai 2019<br/>|10 septembre 2019<br/>|
@@ -47,6 +47,7 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 
 |**Année**|**Date de sortie**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|3 juin|[Version 1905 (build 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 mai |[Version 1905 (build 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|22 mai |[Version 1904 (build 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|14 mai |[Version 1904 (build 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[Version 1902 (build 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[Version 1808 (build 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [Version 1803 (build 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
