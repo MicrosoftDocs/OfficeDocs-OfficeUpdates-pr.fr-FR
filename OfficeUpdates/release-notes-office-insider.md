@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/31/2019
+ms.date: 6/7/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
-ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
+ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
+ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34659781"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34773750"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -25,6 +25,35 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
 
+
+## <a name="june-7-2019"></a>7 juin, 2019
+Version 1907 (build 11727.20064)
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème qui entraînait parfois le blocage de Word lorsque la correction automatique était configurée pour mettre en majuscule la première lettre d’une phrase
+- Nous avons amélioré les performances lors de la modification d’un document sur SharePoint
+- Nous avons résolu un problème qui empêchait les images vectorielles créées dans Adobe Illustrator de s’afficher correctement
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème de définition incorrecte des champs de tri lors de l’enregistrement d’une macro
+- Nous avons résolu un problème qui provoque un arrêt ou un blocage lors du recalcul d’une formule de tableau
+
+### <a name="powerpoint"></a>PowerPoint
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème de mise à l’échelle incorrecte des pièces jointes incluses
+
+### <a name="access"></a>Access
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Project
+- Nous avons résolu un problème lié aux feuilles de temps à durée fixe qui modifiaient parfois la date de fin de l’affectation
+- Nous avons résolu un problème de valeurs de pourcentage d’achèvement erronées lors de l’ouverture d’un projet à partir d’une version antérieure.
+
+</BR></BR>
 
 ## <a name="may-31-2019"></a>31 mai 2019
 Version 1906 (build 11722.20008)
