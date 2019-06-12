@@ -1,36 +1,55 @@
 ---
 title: Notes de publication pour les publications du canal mensuel en 2019
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
+//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34683990"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857744"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal mensuel vers Office 365 ProPlus en 2019, dont Visio Pro pour Office 365 et le Client de bureau Project Online.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal mensuel vers Office 365 ProPlus en 2019, dont Visio Pro pour Office 365 et le Client de bureau Project Online et Office 365 Business.
  
  > [!NOTE]
-> - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
+> - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large.Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+> - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de fin juin, Microsoft Teams est inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, voir [déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
-## <a name="version-1905-june-03"></a>Version 1905 : 03 juin
-*Version 1905 (build 11629.20214)*
+## <a name="version-1905-june-11"></a>Version 1905 : 11 juin
+*Version 1905 (Build 11629.20246)*
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+
+- Résolution d’un problème dans lequel les graphiques en cascade et les graphiques en entonnoir ne sont pas synchronisés avec les tableaux lorsque des cellules ont été insérées ou supprimées.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 
  - Résolution d’un problème qui avait pour effet que certains compléments généraient des erreurs inattendues autour de formes dans des graphiques.
+
+### <a name="visio-non-security-updates"></a>Visio : mises à jour non relatives à la sécurité
+
+ - L’exportation vers SVG à partir de Visio ne fonctionnait pas pour de nombreuses formes.
+
+## <a name="version-1905-june-03"></a>Version 1905 : 3 juin 
+*Version 1905 (build 11629.20214)*
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+
+- Résolution d’un problème qui avait pour effet que certains compléments généraient des erreurs inattendues autour de formes dans des graphiques.
 
 ## <a name="version-1905-may-29"></a>Version 1905 : 29 mai
 *Version 1905 (Build 11629.20196)*

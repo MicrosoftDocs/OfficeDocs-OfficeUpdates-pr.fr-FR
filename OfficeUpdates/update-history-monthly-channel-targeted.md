@@ -1,21 +1,21 @@
 ---
 title: Historique des mises à jour pour le canal mensuel Office (ciblé)
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
-ms.date: 05/22/2019
+//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 2f5a739184c4064197538cba0cfe251604b06dd9
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 524ad5498491e1e5a9f7d130bf5514ba6e99d4a3
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34684020"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857764"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
@@ -29,9 +29,15 @@ Si vous êtes inscrit au niveau Canal mensuel (Ciblé), anciennement appelé Ins
 > - L’historique de mise à jour ici répertorie toutes les builds publiées
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu’au numéro de build publié des notes de publication
 
+ > [!NOTE]
+> - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
 [//]: # (NE PAS SUPPRIMER)
 
-**3 juin 2019**<br/>
+**11 juin 2019**<br/>
+Version 1906 (build 11727.20104)<br/>
+
+**3 juin 2019**<br/>
 Version 1905 (build 11629.20214)<br/>
 
 **25 mai 2019**<br/>
