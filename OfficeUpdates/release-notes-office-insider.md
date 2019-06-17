@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-//: ''
+ms.date: 6/14/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857754"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948790"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -27,6 +27,40 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
  > [!NOTE]
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+## <a name="june-14-2019"></a>14 juin 2019
+Version 1907 (build 11807.20000)
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème qui pouvait empêcher un utilisateur de se connecter en enregistrant dans OneDrive.
+- Nous avons résolu un problème qui empêche l’utilisateur de modifier les propriétés SharePoint en mode d’accès restreint.
+- Nous avons résolu un problème à l’origine de la modification du contenu de l’en-tête et du pied de page lors de l’ajustement des marges.
+- Nous avons résolu un problème dans lequel la mise en forme pourrait être rompue lorsque vous basculez en mode Web.
+- Nous avons résolu un problème qui pouvait empêcher un utilisateur d’utiliser des champs personnalisés lorsqu’ouverts à partir de SharePoint.
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème de performance lors de la suppression de lignes d’un ensemble filtré.
+- Nous avons résolu un problème qui pouvait parfois provoquer le clignotement de la souris en mode protégé.
+- Nous avons résolu un problème qui pouvait provoquer un blocage lors de la suppression d’une série.
+- Nous avons résolu un problème à l’origine de l’option d’ajout de l’historique des versions aux utilisateurs si cette option n’est pas disponible.
+- Nous avons résolu un problème qui aurait pu causer une exception lors de l’utilisation de l’outil de comparaison de feuilles de calcul.
+
+### <a name="powerpoint"></a>PowerPoint
+- Nous avons résolu un problème qui pouvait créer un blocage lorsque vous cliquez sur un lien vers SharePoint.
+- Nous avons résolu un problème qui pouvait faire passer l’utilisateur à la page suivante lors de la saisie à l’aide d’un stylet surface.
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème où, dans certains cas, le champ À était plus grand que normal.
+
+### <a name="access"></a>Access
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Project
+- Divers correctifs en lien avec les performances et la stabilité
+
+</BR></BR>
 
 ## <a name="june-7-2019"></a>7 juin 2019
 Version 1907 (build 11727.20064)
