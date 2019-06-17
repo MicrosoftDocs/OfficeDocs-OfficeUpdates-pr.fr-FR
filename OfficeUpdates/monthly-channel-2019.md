@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du canal mensuel en 2019
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-//: ''
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857744"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910384"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -111,9 +111,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  - Correction d’un problème qui avait pour effet que Skype Entreprise cessait de répondre en cas de participation à une réunion nombreuse tout en utilisant une application basée sur le Kit de développement logiciel (SDK) Microsoft Lync. Pour en savoir plus sur la façon d’activer ce correctif, [voir ici](https://support.microsoft.com/help/4503472).
 
 ## <a name="version-1904-may-22"></a>Version 1904 : 22 mai
-*Version 1904 (Build 11601.20230)*
+*Version 1904 (build 11601.20230)*
 
-Il s’agit d’un problème dans lequel les utilisateurs voient la nouvelle invite de confidentialité lors du lancement de chaque application, même après avoir sélectionné et activé un choix pour leur niveau de confidentialité.
+### <a name="office-suite-non-security-updates"></a>Suite Office : mises à jour non liées à la sécurité
+
+- Il s’agit d’un problème dans lequel les utilisateurs voient la nouvelle invite de confidentialité lors du lancement de chaque application, même après avoir sélectionné et activé un choix pour leur niveau de confidentialité.
 
 ## <a name="version-1904-may-14"></a>Version 1904 : 14 mai 
 *Version 1904 (Build 11601.20204)*

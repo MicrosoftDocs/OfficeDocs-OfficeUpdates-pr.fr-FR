@@ -3,19 +3,19 @@ title: Notes de publication pour les publications du Canal semi-annuel (ciblé) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/22/2019
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432422"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910394"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -27,6 +27,31 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  
 > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+
+## <a name="version-1902-june-11"></a>Version 1902 : 11 juin
+*Version 1902 (Build 11328.20318)*
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+ - Résolution d’un problème à l’origine d’un blocage lors de l’enregistrement d’un fichier contenant un mappage XML au format PDF.
+ - Résolution d’un problème qui a provoqué la suppression de liens externes lorsque les classeurs contenant des noms de feuilles non valides sont chargés.
+ - Résolution d’un problème de blocage de la feuille de calcul lors de l’utilisation de l’appareil photo dans Excel.
+ - Résolution d’un problème dans lequel les graphiques en cascade et les graphiques en entonnoir ne sont pas synchronisés avec les tableaux lorsque des cellules ont été insérées ou supprimées.
+ - Résolution d’un blocage lors du calcul d’un tableau de données lors du Calcul d’une feuille de calcul avec une formule matricielle sur une autre feuille dépendant du tableau. 
+ - Résolution d’un problème qui empêche l’ouverture de classeurs protégés par mot de passe à partir de SharePoint sans vérifier le fichier tout d’abord.
+ - Une modification a été apportée afin de garantir que l’événement BeforeSave soit géré lors du partage ou de la réactivation de l’enregistrement automatique.
+
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+ - Résolution d’un problème qui amenait les clients à voir les tâches disparaître lors de l’ajout d’une deuxième condition à «regrouper par».
+
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+ - Résolution lors du partage d’un document actuellement en collaboration avec le document générant une pièce jointe avec l’extension. asd.
+ - Résolution d’un problème lié aux commentaires attribués aux auteurs aléatoires.
+ - Correction d’un problème dans la suppression de la signature lors de l’extraction d’un document.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non liées à la sécurité
+ - Cela a résolu un bogue dans VBA indiquant l’état de remplissage d’une forme incorrecte après une action d’annulation.
+
 
 ## <a name="version-1902-may-14"></a>Version 1902 : 14 mai
 *Version 1902 (build 11328.20286)*
