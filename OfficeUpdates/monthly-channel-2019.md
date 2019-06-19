@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910384"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017364"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -38,14 +38,14 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 
- - Résolution d’un problème qui avait pour effet que certains compléments généraient des erreurs inattendues autour de formes dans des graphiques.
+- Résolution d’un problème qui avait pour effet que certains compléments généraient des erreurs inattendues autour de formes dans des graphiques.
 
 ### <a name="visio-non-security-updates"></a>Visio : mises à jour non relatives à la sécurité
 
- - L’exportation vers SVG à partir de Visio ne fonctionnait pas pour de nombreuses formes.
+- L’exportation vers SVG à partir de Visio ne fonctionnait pas pour de nombreuses formes.
 
-## <a name="version-1905-june-03"></a>Version 1905 : 3 juin 
-*Version 1905 (build 11629.20214)*
+## <a name="version-1905-june-3"></a>Version 1905 : 3 juin
+*Version 1905 (build 11629.20214)*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 
@@ -122,13 +122,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
  - Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/OfficeUpdates/office365-proplus-security-updates)
 
-## <a name="version-1904-may-08"></a>Version 1904 : 08 mai 
-*Version 1904 (build 11601.20178)* 
+## <a name="version-1904-may-8"></a>Version 1904 : 8 mai
+*Version 1904 (build 11601.20178)*
 
- - Divers correctifs de bogues et de performances.
+- Divers correctifs de bogues et de performances.
 
 ## <a name="version-1904-april-29"></a>Version 1904 : 29 avril
-*Version 1904 (Build 11601.20144)* 
+*Version 1904 (Build 11601.20144)*
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalités
 
@@ -146,7 +146,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Exporter des diagrammes de processus vers Word :** ajouter automatiquement du contenu diagramme, comme des formes et des métadonnées, à un document Word. Puis personnalisez le document pour créer des instructions de processus et des manuels d’opération. [En savoir plus](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
- - **Couleurs pour le suivi des modifications, les commentaires et la collaboration en temps réel de façon synchronisée :** les correctifs introduits dans notre produit garantissent désormais que les commentaires, le suivi des modifications et le curseur d'un même collaborateur apparaissent dans la même couleur.
+- **Couleurs pour le suivi des modifications, les commentaires et la collaboration en temps réel de façon synchronisée :** les correctifs introduits dans notre produit garantissent désormais que les commentaires, le suivi des modifications et le curseur d'un même collaborateur apparaissent dans la même couleur.
 
 - **Trouvez rapidement ce fichier :** Vous recherchez un fichier sur lequel vous avez travaillé récemment ? Renseignez simplement la zone de recherche dans Fichier > Page d’accueil pour trouver le fichier que vous recherchez.
 

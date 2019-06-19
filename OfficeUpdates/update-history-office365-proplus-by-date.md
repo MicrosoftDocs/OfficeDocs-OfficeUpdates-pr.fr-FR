@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par date, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: 3eae3d3143d7e774ae785ce56f7934eb35dfac0e
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 44abaebed9d32ef279a600d28c54002c42d144c5
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935906"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017374"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -49,16 +49,16 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 |**Année**|**Date de sortie**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
 |2019|11 juin|[Version 1905 (build 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[Version 1902 (build 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[Version 1808 (build 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[Version 1803 (build 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
-|2019|3 juin|[Version 1905 (build 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
+|2019|3 juin |[Version 1905 (build 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 mai |[Version 1905 (build 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|22 mai |[Version 1904 (build 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|14 mai |[Version 1904 (build 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[Version 1902 (build 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[Version 1808 (build 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [Version 1803 (build 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
 |2019|8 mai |[Version 1904 (build 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019|29 avril |[Version 1904 (Build 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
-|2019|22 avril |[Version 1903 (Build 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
+|2019|23 avril |[Version 1903 (Build 11425.20244)](monthly-channel-2019.md#version-1903-april-23)| | |
 |2019|17 avril |[Version 1903 (Build 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
 |2019|16 avril |[Version 1903 (Build 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | |
-|2019|9 avril |[Version 1903 (Build 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Version 1902 (Build 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[Version 1808 (Build 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Version 1803 (Build 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
+|2019|9 avril |[Version 1903 (Build 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Version 1902 (Build 11328.20230)](semi-annual-channel-targeted-2019.md#version-1902-april-9) |[Version 1808 (Build 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Version 1803 (Build 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019|01 avril |[Version 1903 (Build 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
 |2019|25 mars |[Version 1902 (build 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019|12 mars |[Version 1902 (build 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[Version 1902 (build 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[Version 1808 (build 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
