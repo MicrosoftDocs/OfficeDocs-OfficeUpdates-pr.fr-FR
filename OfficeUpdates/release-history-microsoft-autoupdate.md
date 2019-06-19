@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 856e2a039b7b4e7bbd7dcd3cba72be59e07f8c7b
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 77894c5325931fc3978f8113175de2a72623d8c8
+ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935836"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060306"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -90,11 +90,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 |10 mai 2016  <br/> |3.5.0  <br/> |[ARTICLE 3155777 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3155777) <br/> | <br/> |
 |12 avril 2016  <br/> |3.4.0  <br/> |[ARTICLE 3142577 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3142577) <br/> | <br/> |
 |5 janvier 2016  <br/> |3.4.0  <br/> |[ARTICLE 3133674 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
-|10 décembre 2015  <br/> |3.3.0  <br/> |[ARTICLE 3119516 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3119516) <br/> | <br/> |
-|13 octobre 2015  <br/> |3.2.0  <br/> |[ARTICLE 3097267 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3097267) <br/> | <br/> |
-|11 juin 2015  <br/> |3.1.1  <br/> |[ARTICLE 3048690 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048690) <br/> | <br/> |
-|15 mai 2015  <br/> |3.1.0  <br/> |[ARTICLE 3048681 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048681) <br/> | <br/> |
-|16 avril 2015  <br/> |3.0.6  <br/> |[ARTICLE 3048680 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3048680) <br/> | <br/> |
+
 
 ## <a name="related-topics"></a>Voir aussi
 
