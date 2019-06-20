@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 6b4f1f4f2b7613617645cd5e1d1eebd7682f7698
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
+ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935876"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060296"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -48,7 +48,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 |**Application**|**Mise à jour**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/><br/>|Attirez leur attention avec @Mentions : utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention. |[CVE-2019-1034 :](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034) vulnérabilité d’exécution de code à distance Microsoft Word<br/><br/>[CVE-2019-1035 :](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035) vulnérabilité d’exécution de code à distance Microsoft Word<br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|Attirez leur attention avec @Mentions : utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.|<br/>|[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
+|Excel<br/>|Attirez leur attention avec @Mentions : utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.<br/><br/>**Regrouper ou non :** il n’est pas nécessaire de regrouper les dates d’un tableau croisé dynamique. Désactivez le regroupement automatique en accédant à : Excel > Préférences > Tableaux et filtres.<br/><br/>**Coup d’œil sur les formats Indice et Exposant :** si les formats Indice, Exposant et Barré sont des formats que vous privilégiez, ajoutez-les à votre ruban et à la barre d’outils Accès rapide pour qu’ils soient faciles d’accès.| |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
 |PowerPoint<br/>|Attirez leur attention avec @Mentions : utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.<br/><br/>**Vidéos Online ont un nouvel emplacement:** enregistrez une vidéo sur Microsoft Stream afin que tous les membres de votre organisation puissent la voir. Insérer le lien de la vidéo et profitez d’une présentation multimédia pour une fraction de la taille du fichier .<br/><br/>**Légendes et sous-titres en direct :** les mots du présentateur sont automatiquement affichés à l’écran sous forme de sous-titres ou convertis en sous-titres dans la langue de votre choix. Pour de meilleurs résultats, utilisez un microphone sur casque.||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
 |Outlook|**D’Outlook vers OneNote en un seul clic:** en cliquant sur un bouton, vous pouvez enregistrer vos messages Outlook et notes de réunion dans un bloc-notes OneNote. Vous pouvez l’utiliser en tant qu’archive ou en tant qu’emplacement pratique pour conserver vos sélections. <br/> | |[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
 
