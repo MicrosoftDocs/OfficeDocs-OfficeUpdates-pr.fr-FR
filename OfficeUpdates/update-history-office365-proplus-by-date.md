@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par date, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: 0e719fa7c142989d3099b1ce43f24b9b8c084316
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 52cbaa1193d576b48770f1bd48b7b0db435be84b
+ms.sourcegitcommit: 6687d3d967294413101e7888d96750a4e389bd46
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203703"
+ms.locfileid: "35215325"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -32,7 +32,9 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
 |Tous les mois<br/>|1906<br/>|11727.20210<br/>|24 juin 2019<br/>|Publication de la version 1907<br/>|
-|Semi-annuel<br/>|1808<br/>|10730.20348<br/>|11 juin 2019<br/>|10 mars 2020<br/>|
+|Semi-annuel (ciblé)<br/>|1902<br/>|11328.20318<br/>|11 juin 2019<br/>|10 septembre 2019<br/>|
+|Semi-annuel<br/>|1808<br/>|10730.20348<br/>|11 juin 2019<br/>|10 mars 2020<br/>|
+|Semi-annuel<br/>|1803<br/>|9126.2388<br/>|11 juin 2019<br/>|10 septembre 2019<br/>|
 
 [//]: # (EOSTABLEEND)
 
