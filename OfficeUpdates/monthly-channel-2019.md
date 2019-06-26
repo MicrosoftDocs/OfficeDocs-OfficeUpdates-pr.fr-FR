@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
-ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
+ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017364"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203713"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -27,6 +27,50 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
  > [!NOTE]
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de fin juin, Microsoft Teams est inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, voir [déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+## <a name="version-1906-june-24"></a>Version 1906 : 24 juin
+*Version 1906 (build 11727.20210)*
+* Diverses résolutions de bogues et de performances.
+
+### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
+
+- **Regardez vos feuilles de calcul s’animer :** insérez des graphiques 3D animés pour voir des battements de cœur, des planètes en orbite ou un tyrannosaure dans le classeur. 
+  [En savoir plus](https://support.office.com/fr-FR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+
+- **Un ruban simplifié et personnalisable :** Profitez d’une seule ligne simplifiée avec les boutons les plus utilisés. Basculez aisément entre les affichages classique et simplifié et épinglez/désépinglez des commandes. 
+  [En savoir plus](https://support.office.com/fr-FR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+
+- **Sélectionnez votre action préférée:** ne pas utiliser indicateur et supprimer? Qu’en est-il d’Archiver ou Marquer comme lu ? Personnalisez le menu d’actions rapides avec les commandes que vous utilisez le plus.
+
+- **Amélioration de la synchronisation des dossiers partagés pour les boîtes aux lettres comportant de nombreux dossiers :** Pendant des années, Outlook a été limité à un maximum de 500 dossiers lors de la synchronisation de boîtes aux lettres partagées. Avec cette modification, la synchronisation d’Outlook a été améliorée de façon à s’affranchir de la limite de 500 dossiers.
+
+- **Les paramètres de la boîte de réception prioritaire restent sur plusieurs appareils :** vos préférences de boîte de réception prioritaire sont désormais stockées dans le Cloud. Profitez de la même expérience lorsque vous utilisez Outlook pour Windows sur n’importe quel ordinateur et Outlook sur le web. 
+  [En savoir plus](https://support.office.com/fr-FR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **Mise en forme aérée ou plus ajustée ? Vous décidez :** Utiliser un espacement plus étroit vous permet de décider si vous souhaitez davantage d’espace entre les éléments ou une disposition plus étroite pour en voir plus.
+
+- **Nous avons mis à jour l’expérience utilisateur Outlook pour vous :** Une expérience simplifiée, auparavant disponible en préversion, conçue pour vous aider à vous concentrer sur l’essentiel. 
+  [En savoir plus](https://support.office.com/fr-FR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+
+- **De l'encre dans votre courrier électronique !** Vous pouvez désormais dessiner et annoter des images dans vos courriers électroniques Outlook. 
+  [En savoir plus](https://support.office.com/fr-FR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+
+- **CoCréation :** Vous en avez assez de ne pas pouvoir travailler à votre guise dans vos documents contenant des macros ? Vos fichiers docm sur OneDrive Entreprise autorisent désormais les modifications simultanées par plusieurs auteurs.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité 
+
+ - Correctif pour afficher tous les flux de la caméra à partir de Polycom CX5500 et les appareils associés pendant une réunion lorsque votre moniteur est mis à l’échelle plus de 100%
+
+- Rogner correctement la vidéo pendant une réunion sur un moniteur de 4 Ko lorsque le paramètre «rogner et centrer ma vidéo dans les réunions» est activé
+
+- Autoriser le transfert de fichiers vers des clients Office Communicator hérités à partir d’un ordinateur Windows 10 avec plusieurs cartes réseau. [En savoir plus] (https://support.microsoft.com/help/4508477)
+
+- Expérience améliorée pour la communication entre les participants Skype Entreprise et Microsoft Teams
+
 
 ## <a name="version-1905-june-11"></a>Version 1905 : 11 juin
 *Version 1905 (Build 11629.20246)*
