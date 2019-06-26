@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203713"
+ms.locfileid: "35226864"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -26,7 +26,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large.Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de fin juin, Microsoft Teams est inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, voir [déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+> - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de début juillet, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, voir [déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
 ## <a name="version-1906-june-24"></a>Version 1906 : 24 juin
 *Version 1906 (build 11727.20210)*
@@ -54,7 +54,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Nous avons mis à jour l’expérience utilisateur Outlook pour vous :** Une expérience simplifiée, auparavant disponible en préversion, conçue pour vous aider à vous concentrer sur l’essentiel. 
   [En savoir plus](https://support.office.com/fr-FR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **De l'encre dans votre courrier électronique !** Vous pouvez désormais dessiner et annoter des images dans vos courriers électroniques Outlook. 
+- **Un dessin pour le dire :** dessinez à main levée sur des images ou ajoutez une zone de dessin pour transmettre vos idées avec l’entrée manuscrite. 
   [En savoir plus](https://support.office.com/fr-FR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
@@ -67,7 +67,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - Rogner correctement la vidéo pendant une réunion sur un moniteur de 4 Ko lorsque le paramètre «rogner et centrer ma vidéo dans les réunions» est activé
 
-- Autoriser le transfert de fichiers vers des clients Office Communicator hérités à partir d’un ordinateur Windows 10 avec plusieurs cartes réseau. [En savoir plus] (https://support.microsoft.com/help/4508477)
+- Autoriser le transfert de fichiers vers des clients Office Communicator hérités à partir d’un ordinateur Windows 10 avec plusieurs cartes réseau. [En savoir plus](https://support.microsoft.com/help/4508477)
 
 - Expérience améliorée pour la communication entre les participants Skype Entreprise et Microsoft Teams
 
