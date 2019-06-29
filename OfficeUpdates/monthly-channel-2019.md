@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226864"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345581"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -27,6 +27,25 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
  > [!NOTE]
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de début juillet, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, voir [déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+## <a name="version-1906-june-27"></a>Version 1906 : 27 juin
+*Version 1906 (build 11727.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+
+- Résout un problème qui a entraîné un sous-ensemble d’utilisateurs de POP3 de voir tous leurs messages électroniques au format texte brut, quels que soient les paramètres.  Ce correctif permet de restaurer l’affichage des messages au format HTML.
+
+## <a name="version-1906-june-26"></a>Version 1906 : 26 juin
+*Version 1906 (build 11727.20224)*
+
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+
+- Nous avons résolu un problème dans Excel dans lequel les macros affectées à des formes ou des contrôles de formulaire peuvent afficher un message d’erreur incorrect, ou peuvent fonctionner sur des plages cibles incorrectes.
+- Résolution d’un problème qui entraînait l’échec des opérations de couper-coller en regard d’un tableau lors de la co-édition avec d’autres personnes.
+
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+
+- Résout un problème qui a provoqué l’ambiguïté pour les gestionnaires de la présence d’un délégué qui a déjà répondu à une demande de réunion donnée.
 
 ## <a name="version-1906-june-24"></a>Version 1906 : 24 juin
 *Version 1906 (build 11727.20210)*
