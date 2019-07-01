@@ -30,11 +30,11 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 > [!NOTE]
 > - La taille de téléchargement approximative indiquée dans les tableaux s’applique uniquement à la version x64 en-us d’Office 365 ProPlus. (Toutes les versions publiées avant le 13 mars 2019 affichent des tailles x86.)
 > - Les tailles de téléchargement indiquées sont approximatives. Les tailles de téléchargement réelles peuvent varier d’environ 50 Mo. 
-> - Seules les publications sorties au cours des quatre derniers mois sont indiquées.
+> - Seules les publications des quatre derniers mois sont indiquées.
 > - Seules les versions antérieures les plus récentes sont indiquées dans les tableaux. Si vous mettez à jour votre canal à partir d’une version antérieure, votre téléchargement sera plus volumineux.
 > - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
 
-## <a name="jun-5-2019"></a>5 juin 2019
+## <a name="jun-5-2019"></a>5 juin 2019
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
 
 La publication prévue est la version 1808 (build 10730.20348).
@@ -42,7 +42,7 @@ La publication prévue est la version 1808 (build 10730.20348).
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 1808 (build 10730.20344) <br/> |14 mai 2019  <br/> |74<br/> |
-|Version 1808 (build 10730.20334) <br/> |9 avril 2019  <br/> |77<br/> |
+|Version 1808 (build 10730.20334) <br/> |9 avril 2019  <br/> |77<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
@@ -51,7 +51,7 @@ La publication prévue est la version 1902 (build 11328.20318).
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 1902 (build 11328.20286)  <br/> |14 mai 2019  <br/> |68 <br/> |
-|Version 1902 (build 11328.20230)  <br/> |9 avril 2019  <br/> |72 <br/> |
+|Version 1902 (build 11328.20230)  <br/> |9 avril 2019  <br/> |72 <br/> |
 
 ## <a name="june-3-2019"></a>3 juin 2019
 *Version 1905 (build 11629.20214)*
