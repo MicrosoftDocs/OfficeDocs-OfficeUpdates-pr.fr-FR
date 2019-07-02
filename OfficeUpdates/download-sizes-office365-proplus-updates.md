@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 5112dbbe6587b2301207d59a9f485f792dd3421a
-ms.sourcegitcommit: 2223813cb55c65a6bec9a6afce3eb1d8c6ddc2f3
+ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34737946"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345561"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -34,21 +34,81 @@ Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et
 > - Seules les versions antérieures les plus récentes sont indiquées dans les tableaux. Si vous mettez à jour votre canal à partir d’une version antérieure, votre téléchargement sera plus volumineux.
 > - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
 
-## <a name="jun-5-2019"></a>5 juin 2019
+[//]: # (NE PAS SUPPRIMER)
+
+## <a name="june-27-2019"></a>27 juin 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU27 juin 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1906 (build 11727.20230).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1906 (build 11727.20224) <br/> |26 juin 2019 <br/> |187<br/> |
+|Version 1906 (build 11727.20210) <br/> |24 juin 2019 <br/> |287<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU27 juin 2019)
+
+## <a name="june-26-2019"></a>26 juin 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU26 juin 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1906 (build 11727.20224).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1906 (build 11727.20210) <br/> |24 juin 2019 <br/> |60<br/> |
+|Version 1905 (build 11629.20246) <br/> |11 juin 2019 <br/> |170<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU26 juin 2019)
+
+## <a name="june-24-2019"></a>24 juin 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU24 juin 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1906 (build 11727.20210).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1905 (build 11629.20246) <br/> |11 juin 2019 <br/> |171<br/> |
+|Version 1905 (build 11629.20214) <br/> |3 juin 2019 <br/> |175<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU24 juin 2019)
+
+## <a name="jun-11-2019"></a>11 juin 2019
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1905 (Build 11629.20246).
+  
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1905 (build 111629.20214)  <br/> |3 juin 2019  <br/> |72<br/> |
+|Version 1904 (build 11629.20196)  <br/> |29 mai 2019  <br/> |71<br/> |
+|
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
 
-La publication prévue est la version 1808 (build 10730.20348).
+La version la plus actuelle est la version 1808 (build 10730.20348).
 
-|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 1808 (build 10730.20344) <br/> |14 mai 2019  <br/> |74<br/> |
 |Version 1808 (build 10730.20334) <br/> |9 avril 2019  <br/> |77<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
 
-La publication prévue est la version 1902 (build 11328.20318).
+La version la plus récente est la version 1902 (build 11328.20318).
   
-|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 1902 (build 11328.20286)  <br/> |14 mai 2019  <br/> |68 <br/> |
 |Version 1902 (build 11328.20230)  <br/> |9 avril 2019  <br/> |72 <br/> |
