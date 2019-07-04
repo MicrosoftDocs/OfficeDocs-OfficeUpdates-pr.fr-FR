@@ -26,69 +26,69 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
 
  > [!NOTE]
-> - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, voir [déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+> - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Si vous voulez en savoir plus, veuillez consulter la page [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
 ## <a name="june-21-2019"></a>21 juin 2019
-Version 1907 (build 11815.20002)
+Version 1907 (build 11815.20002)
 
 ## <a name="whats-new"></a>Nouveautés :
 
 ### <a name="outlook"></a>Outlook
 
-#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Mode foncé dans le thème noir dans la version de bureau d’Outlook
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Mode sombre pour le thème noir de la version de bureau d’Outlook
 
-Avec le mode Foncé, les utilisateurs du thème noir voient le volet de lecture avec un arrière-plan sombre lors de la lecture des messages électroniques, ainsi que l’expérience de composition avec un arrière-plan sombre lorsqu’ils rédigent des messages électroniques. Utilisez le bouton Soleil/Lune dans le volet de lecture ou dans le ruban pour afficher un aperçu du message avec un arrière-plan clair à la place.
-
-#### <a name="getting-started"></a>Mise en route :
-
-1. Activer le thème noir et le mode foncé par défaut.
-2. Utilisez le bouton bascule Moon/soleil (dans le volet de lecture et dans le ruban) pour afficher un aperçu du message pour les utilisateurs qui ne sont pas en mode foncé
-
-#### <a name="scenarios-to-try"></a>Scénarios à tester
-
-1. Lire les messages électroniques en mode foncé. Si vous ne parvenez pas à lire quelque chose, utilisez le bouton bascule Soleil dans le volet de lecture pour passer à un arrière-plan clair. 
-2. Rédiger des messages électroniques en mode foncé. Affichez un aperçu de l’apparence de votre message avec un arrière-plan clair à l’aide du bouton bascule Soleil dans le ruban. 
-
-Si vous rencontrez des messages électroniques qui ne sont pas affichés correctement, envoyez-les (en tant que pièces jointes) à OutlookDarkModeFail
-
-#### <a name="get-location-suggestions"></a>Recevez des suggestions d’emplacement
-
-Commencez à taper et Outlook recherchera des emplacements correspondants.
-
-Cela s’applique au champ Emplacement lors de la création de rendez-vous et de réunions.
+Le mode sombre permet aux utilisateurs du thème noir de profiter d’un arrière-plan sombre lorsqu’ils lisent et rédigent des e-mails. Utilisez le bouton Soleil/Lune dans le volet de lecture ou dans le ruban pour afficher un aperçu du message avec un arrière-plan clair à la place.
 
 #### <a name="getting-started"></a>Mise en route :
 
-- Créez un rendez-vous ou une réunion dans un calendrier Office 365 ou Outlook.com dans Outlook. 
-- Cliquez dans le champ emplacement et commencez à taper...
+1. Activez le thème noir et le mode sombre sera activé par défaut.
+2. Utilisez le bouton bascule Lune/Soleil (dans le volet de lecture et dans le ruban) pour afficher un aperçu du message tel que le verront les utilisateurs qui n’appliquent pas le mode sombre
 
-#### <a name="scenarios-to-try"></a>Scénarios à tester
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
 
-Lorsque vous ajoutez une salle de conférence à une réunion, cliquez sur le champ Emplacement, plutôt que d’utiliser le complément recherche de salles ou le carnet d’adresses.
-Pour les rendez-vous à un emplacement physique avec un lieu public, tel qu’un restaurant, un café ou même le cabinet de votre dentiste, essayez de trouver l’emplacement exact à l’aide du nouveau sélecteur. Ainsi, vous serez averti sur Outlook Mobile quand vous devez partir.
+1. Lisez vos e-mails en mode sombre. S’ils sont illisibles, utilisez le bouton bascule Soleil situé dans le volet de lecture pour passer à un arrière-plan clair. 
+2. Rédigez des e-mails en mode sombre. Cliquez sur le à l’aide du bouton bascule Soleil situé dans le ruban pour afficher un aperçu de votre message tel que le verront les utilisateurs qui n’appliquent pas le mode sombre. 
+
+Si certains messages électroniques ne s’affichent pas correctement, envoyez-les (en tant que pièces jointes) à OutlookDarkModeFail,
+
+#### <a name="get-location-suggestions"></a>Recevoir des suggestions de lieu
+
+Commencez à taper et Outlook recherchera des lieux correspondants.
+
+Cette nouveauté s’applique au champ Lieu lors de la création de rendez-vous et de réunions.
+
+#### <a name="getting-started"></a>Mise en route :
+
+- Créez un rendez-vous ou une réunion dans un calendrier Office 365 ou Outlook.com dans Outlook. 
+- Cliquez dans le champ Lieu et commencez à taper...
+
+#### <a name="scenarios-to-try"></a>Scénarios à tester :
+
+Lorsque vous ajoutez une salle de conférence à une réunion, cliquez sur le champ Lieu, plutôt que d’utiliser le complément Recherche de salles ou Carnet d’adresses.
+Utilisez cette nouvelle méthode de sélection pour trouver le lieu exact d’un rendez-vous prévu dans un lieu physique et public, tel qu’un restaurant, un café ou même le cabinet de votre dentiste. Ainsi, vous recevrez une notification sur Outlook Mobile à l’approche de l’heure du rendez-vous.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
 ### <a name="all"></a>Tous
-- Nous avons résolu un problème qui conserverait la zone de recherche activée en mode hors connexion.
+- Nous avons résolu un problème qui maintenait l’activation de la zone de recherche malgré une déconnexion
 
 ### <a name="word"></a>Word 
-- Nous avons résolu un problème où le focus du clavier pouvait être difficile à voir
-- Nous avons résolu un problème dans lequel l’alignement du texte copié dans un nouveau document pouvait être erroné
-- Nous avons résolu un problème qui empêchait certains utilisateurs d’enregistrer des modifications après suspension de leur ordinateur
-- Nous avons résolu un problème dans lequel, dans certains cas, l’intégralité d’un document était imprimée au lieu de la page sélectionnée
-- Nous avons résolu un problème qui pouvait rendre les commentaires difficiles à lire sur les petits écrans
-- Nous avons résolu un problème pouvant provoquer un blocage lors de la capture sur un appareil
+- Nous avons résolu un problème susceptible de nuire à la qualité de l’affichage de la zone de saisie à l’écran
+- Nous avons résolu un problème susceptible d’entraîner un alignement incorrect du texte copié dans un nouveau document
+- Nous avons résolu un problème qui empêchait certains utilisateurs d’enregistrer des modifications après la mise en veille de leur ordinateur
+- Nous avons résolu un problème entraînant l’impression de la totalité d’un document alors que l’utilisateur avait défini une étendue de pages à imprimer
+- Nous avons résolu un problème susceptible de nuire à la qualité de l’affichage des commentaires sur des petits écrans
+- Nous avons résolu un problème pouvant susceptible de bloquer un appareil lors d’une capture sur celui-ci
 
 ### <a name="excel"></a>Excel
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="powerpoint"></a>PowerPoint
-- Nous avons résolu un problème où le focus du clavier pouvait être difficile à voir
+- Nous avons résolu un problème susceptible de nuire à la qualité de l’affichage de la zone de saisie à l’écran
 
 ### <a name="outlook"></a>Outlook
-- Nous avons résolu un problème qui pouvait afficher de façon incorrecte un complément comme étant activé lorsque ce n’est pas le cas.
-- Nous avons résolu un problème qui empêche un client de voir toutes les stratégies de rétention si leur nombre était élevé
+- Nous avons résolu un problème susceptible d’afficher un complément comme étant activé alors que ce n’est pas le cas.
+- Nous avons résolu un problème qui empêchait un client de voir toutes les stratégies de rétention si leur nombre était élevé
 
 ### <a name="access"></a>Access
 - Divers correctifs en lien avec les performances et la stabilité
