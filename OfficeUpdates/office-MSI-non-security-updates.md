@@ -3,19 +3,19 @@ title: Dernières mises à jour non liées à la sécurité pour les versions d�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 05/08/2019
+ms.date: 07/03/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: eeb5d5141eb2626c83b39134c63aaf2362d06ef2
-ms.sourcegitcommit: 3851db1b0d239bf34187d1e7c98f5d5c3a567367
+ms.openlocfilehash: 7dd49883aa369c02b2a41972a48a8f256403b497
+ms.sourcegitcommit: 74ea0d0bc86d111be5cbe93a8f02aa69dbb40c90
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663318"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35430177"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -27,6 +27,39 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
 
+## <a name="july-2-2019"></a>2 juillet 2019
+
+**Office 2016**<br/>
+Mise à jour pour Microsoft Access 2016 ([KB4462237](https://support.microsoft.com/help/4462237))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4032236](https://support.microsoft.com/help/4032236))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4464582](https://support.microsoft.com/help/4464582))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4464595](https://support.microsoft.com/help/4464595))<br/>
+Mise à jour pour le Pack linguistique LIP (Language Interface Pack) de Microsoft Office 2016 ([KB4475515](https://support.microsoft.com/help/4475515))<br/>
+Mise à jour pour Microsoft Project 2016 ([KB4475518](https://support.microsoft.com/help/4475518))<br/>
+Mise à jour pour Microsoft Word 2016 ([KB4475521](https://support.microsoft.com/help/4475521))<br/>
+
+
+**Office 2013**<br/>
+Mise à jour pour Microsoft Word 2013 ([KB4475525](https://support.microsoft.com/help/4475525))<br/>
+
+
+**Office 2010**<br/>
+Mise à jour pour Microsoft Filter Pack 2.0 ([KB3114879](https://support.microsoft.com/help/3114879))<br/>Mise à jour pour Microsoft Office 2010 ([KB3114397](https://support.microsoft.com/help/3114397))<br/><br/>
+
+## <a name="june-4-2019"></a>4 juin 2019
+
+**Office 2016**<br/>
+Mise à jour pour Microsoft Excel 2016 ([KB4464578](https://support.microsoft.com/help/4464578))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4464539](https://support.microsoft.com/help/4464539))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4464579](https://support.microsoft.com/help/4464579))<br/>
+Mise à jour pour le Pack linguistique LIP (Language Interface Pack) de Microsoft Office 2016 ([KB4464581](https://support.microsoft.com/help/4464581))<br/>
+Mise à jour pour Microsoft Outlook 2016 ([KB4464585](https://support.microsoft.com/help/4464585))<br/>
+Mise à jour pour Microsoft Project 2016 ([KB4464589](https://support.microsoft.com/help/4464589))<br/>
+Mise à jour pour Skype Entreprise 2016 ([KB4464576](https://support.microsoft.com/help/4464576))<br/>
+
+**Office 2013**<br/>
+Mise à jour pour Skype Entreprise 2015 ([KB4464593](https://support.microsoft.com/help/4464593))<br/>
+<br/>
 ## <a name="may-7-2019"></a>7 mai 2019
 
 **Office 2016**<br/>
