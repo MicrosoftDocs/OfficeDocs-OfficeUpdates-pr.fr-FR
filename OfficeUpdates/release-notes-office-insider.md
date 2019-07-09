@@ -3,19 +3,19 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/21/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
-ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
+ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130643"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587895"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -27,6 +27,95 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
  > [!NOTE]
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Si vous voulez en savoir plus, veuillez consulter la page [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+## <a name="july-5-2019"></a>5 juillet 2019
+Version 1908 (build 11901.20002)
+
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="sketchy-shapes"></a>Formes de croquis !
+
+En train de rédiger une présentation ? Appliquez le style de croquis pour indiquer que vous êtes en train de travailler dessus. Ce style donne une touche personnelle à vos objets sans les transformer en formes libres, dessinées à main levée.
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="all"></a>Tous
+- Nous avons considérablement amélioré les performances des touches d’accès du ruban
+- Nous avons résolu un problème qui empêchait l’affichage correct de la boîte de dialogue « Découvrez les nouveautés à venir »
+- Nous avons résolu un problème qui pouvait entraîner un mauvais alignement de Photos dans le menu volant Co-auth Gallery
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème qui pouvait parfois empêcher l’ajout de nouveaux commentaires
+- Nous avons résolu un problème dans lequel les tables pouvaient parfois provoquer un blocage
+- Nous avons résolu un problème provoquant parfois l’ajout de données non valides à la fin d’un publipostage
+- Nous avons résolu un problème qui pouvait entraîner le rendu incorrect de certaines équations LaTeX
+
+### <a name="excel"></a>Excel
+- Nous avons résolu un problème dans lequel la modification des types de graphiques pouvait parfois provoquer une exception d’exécution
+- Nous avons résolu un problème qui pouvait provoquer l’affichage incorrect du ruban en cas d’ouverture de plusieurs fenêtres
+- Nous avons résolu un problème pouvant être à l’origine d’une erreur lorsqu’une macro ouvrait une deuxième instance d’un classeur
+- Nous avons résolu un problème pouvant provoquer un blocage lors de l’ouverture ou de la création d’un classeur, ou lors du basculement entre des classeurs
+- Nous avons résolu un problème qui empêche les utilisateurs d’ouvrir dans Teams un fichier PDF créé à partir de Word
+
+### <a name="powerpoint"></a>PowerPoint
+- Nous avons résolu un problème susceptible de nuire à la qualité d’un graphique exporté au format pdf
+- Nous avons résolu un problème qui empêchait l’affichage d’une info-bulle indiquant la distance par rapport au centre
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème qui pouvait parfois empêcher l’affichage d’une erreur de disque plein
+- Nous avons résolu un problème qui pouvait provoquer la duplication de pièces jointes lors de la mise à jour d’une demande de réunion
+
+### <a name="access"></a>Accès
+- Nous avons résolu un problème empêchant certaines requêtes de renvoyer de grandes valeurs d’entiers
+- Nous avons résolu un problème qui pouvait rendre la zone de texte sql non modifiable.
+- Nous avons résolu un problème dans lequel les info-bulles pouvaient être difficiles à voir sur certains affichages haute résolution
+
+### <a name="project"></a>Project
+- Nous avons résolu un problème qui pouvait empêcher la modification des valeurs d’indicateur dans les nouvelles tâches
+- Nous avons résolu un problème qui pouvait entraîner la définition incorrecte de la date de début réelle des affectations et tâches dans une mise à jour de statut
+- Nous avons résolu un problème qui pouvait entraîner l’affichage incorrect de certaines ressources sous forme de surutilisations
+- Nous avons résolu un problème à l’origine de l’échec de la méthode d’ajout de dépendances de tâches en cas d’ajout d’un décalage, lorsque le séparateur décimal est une virgule et en cas de connexion à un serveur
+- Nous avons résolu un problème dans lequel la mise à jour des valeurs des tables de recherche de champs personnalisés locaux via CSOM pouvait bloquer PCS
+- Nous avons résolu un problème où les valeurs de travail totales peuvent sembler incorrectes si elles contiennent un nombre décimal
+
+</BR></BR>
+
+## <a name="june-28-2019"></a>28 juin 2019
+Version 1907 (build 11819.20002)
+
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint, et Visio
+
+#### <a name="recommended-documents"></a>Documents recommandés
+
+Trouvez les documents avec l’activité appropriée qui vous sont recommandés.
+
+## <a name="notable-fixes"></a>Correctifs remarquables :
+
+### <a name="word"></a>Word 
+- Nous avons résolu un problème qui empêchait certains documents .DOC d’être ouverts
+- Nous avons résolu un problème qui aurait pu empêcher le chargement correct des commentaires
+
+### <a name="excel"></a>Excel
+- Nous avons amélioré les performances des Power Queries
+
+### <a name="powerpoint"></a>PowerPoint
+- Nous avons résolu un problème lié à l’utilisation d’un stylet sur un appareil surface, ce qui peut entraîner le scintillement de l’écran
+
+### <a name="outlook"></a>Outlook
+- Nous avons résolu un problème qui pouvait modifier l’état de disponibilité d’un rendez-vous lors de sa conversion en réunion
+- Nous avons résolu un problème dans lequel un modèle et une description incorrects seraient affichés lorsqu’un courrier électronique était protégé par un modèle ad hoc
+
+### <a name="access"></a>Accès
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="project"></a>Project
+- Divers correctifs en lien avec les performances et la stabilité
+
+</BR></BR>
 
 ## <a name="june-21-2019"></a>21 juin 2019
 Version 1907 (build 11815.20002)
@@ -47,11 +136,11 @@ Le mode sombre permet aux utilisateurs du thème noir de profiter d’un arrièr
 #### <a name="scenarios-to-try"></a>Scénarios à tester :
 
 1. Lisez vos e-mails en mode sombre. S’ils sont illisibles, utilisez le bouton bascule Soleil situé dans le volet de lecture pour passer à un arrière-plan clair. 
-2. Rédigez des e-mails en mode sombre. Cliquez sur le à l’aide du bouton bascule Soleil situé dans le ruban pour afficher un aperçu de votre message tel que le verront les utilisateurs qui n’appliquent pas le mode sombre. 
+2. Rédigez des e-mails en mode sombre. Affichez un aperçu de l’apparence de votre message avec un arrière-plan clair à l’aide du bouton bascule Soleil dans le ruban. 
 
-Si certains messages électroniques ne s’affichent pas correctement, envoyez-les (en tant que pièces jointes) à OutlookDarkModeFail,
+Si certains messages électroniques ne s’affichent pas correctement, envoyez-les (en tant que pièces jointes) à OutlookDarkModeFail@service.microsoft.com
 
-#### <a name="get-location-suggestions"></a>Recevoir des suggestions de lieu
+#### <a name="get-location-suggestions"></a>Recevez des suggestions d’emplacement
 
 Commencez à taper et Outlook recherchera des lieux correspondants.
 
