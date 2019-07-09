@@ -3,21 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>Semaine du 27 mai, 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 5/27/2019 | [Historique des mises à jour pour le canal mensuel Office (ciblé)](/OfficeUpdates/update-history-monthly-channel-targeted) | modifié |
-| 5/29/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | modifié |
-| 5/29/2019 | [Notes de mise à jour pour Office pour Mac](/OfficeUpdates/release-notes-office-for-mac) | modifié |
-| 5/29/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
-| 5/29/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
-| 5/29/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
-| 5/31/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
-| 5/31/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
-
-
 ## <a name="week-of-june-03-2019"></a>Semaine du 03 juin, 2019
 
 
@@ -100,3 +85,12 @@
 | 6/27/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | modifié |
 | 6/28/2019 | [Notes de mise à jour pour Office pour Mac](/OfficeUpdates/release-notes-office-for-mac) | modifié |
 | 6/28/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
+
+
+## <a name="week-of-july-01-2019"></a>Semaine du 1er juillet 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 7/2/2019 | [Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modifié |
+| 7/5/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
