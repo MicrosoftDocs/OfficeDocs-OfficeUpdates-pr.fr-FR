@@ -3,19 +3,19 @@ title: Historique des mises à jour pour les produits « Démarrer en un clic 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 07/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2010 qui utilisent la technologie « Démarrer en un clic »
-ms.openlocfilehash: 3f2e2ebdf24184d3452682a5116787ba5bd0f2ae
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: d393785c16090e6925ee6735b51ce290d1ff5a1c
+ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745526"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594559"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historique des mises à jour pour les produits « Démarrer en un clic » Office 2010
 
@@ -30,7 +30,7 @@ Les produits Office 2010 suivants sont tenus à jour automatiquement à l’aid
 Si vous utilisez l’un de ces produits, et que vous souhaitez vérifier que vous êtes à jour, cherchez votre numéro de version Office et mettez manuellement à jour Office si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d'Office 2010 est **14.0.7232.5000**, publiée le 9 avril 2019. 
+> La version la plus récente d’Office 2010 est **14.0.7235.5000**, publiée le 9 juillet 2019.
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -52,9 +52,12 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
 > Les articles de la base de connaissances indiqués ci-dessous sont uniquement fournis pour référence. Les mises à jour Démarrer en un clic incluent tous les correctifs indiqués dans les articles de la base de connaissances. Vous n’avez pas besoin de télécharger les mises à jour individuelles fournies dans les articles de la base de connaissances.
 
   
-|**Année de publication**|**Date de sortie**|**Numéro de version**|**Plus d’informations**|
+|**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2019|9 avril  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
+|2019|9 juillet  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
+||11 juin  <br/> |14.0.7234.5000  <br/> |[KB 4505743](https://support.microsoft.com/en-us/help/4505743) <br/> |
+||14 mai  <br/> |14.0.7233.5000  <br/> |[KB 4501270](https://support.microsoft.com/en-us/help/4501270) <br/> |
+||9 avril  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
 ||12 mars  <br/> |14.0.7230.5000  <br/> |[Article 4491754 de la Base de connaissances](https://support.microsoft.com/en-us/help/4491754) <br/> |
 ||15 février  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
 ||8 janvier  <br/> |14.0.7228.5000  <br/> |[Article 4484800 de la base de connaissances](https://support.microsoft.com/en-us/help/4484800) <br/> |
