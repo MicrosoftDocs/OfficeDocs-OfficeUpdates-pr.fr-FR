@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910394"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607358"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -27,6 +27,49 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  
 > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+
+## <a name="version-1902-july-09"></a>Version 1902 : 9 juillet
+*Version 1902 (build 11328.20368)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+- Résolution d’un problème de lenteur extrême lors de la suppression de lignes Excel filtrées.
+- Résolution du défilement à deux doigts provoquant l’apparition de rectangles gris au-dessus de la feuille de calcul et le blocage d’Excel.
+
+
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+- Résolution d’un problème dans lequel Outlook insérait parfois des lettres pinyin en anglais au lieu de laisser la fenêtre du candidat IME ouverte pour permettre la sélection des mots chinois.
+- Résolution d’un problème empêchant les utilisateurs de voir les salles suggérées pour les réunions qui ont été planifiées en dehors de la disponibilité de cette salle.
+- Résolution d’un problème provoquant l’ouverture de la série principale lorsque les utilisateurs tentaient d’ouvrir une exception dans une série de réunions.
+- Résolution d’un problème dans lequel les dates d’expiration étaient calculées de façon incorrecte pour les éléments dans le dossier Éléments supprimés.
+
+
+### <a name="teams-non-security-updates"></a>Teams : Mises à jour non relatives à la sécurité
+
+- Le programme d’installation Teams dispose désormais d’une stratégie pour désactiver le lancement automatique une fois l’installation terminée.
+
+
+### <a name="visio-non-security-updates"></a>Visio : Mises à jour non relatives à la sécurité
+
+- Résolution d’un problème lié aux solutions ActiveX pour Visio ne fonctionnant pas avec Office 365. L’erreur fait apparaître un message d’erreur indiquant que riched20.dll est introuvable.
+
+
+### <a name="word--non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+
+- Résolution du paramètre GPO pour la désactivation de la barre de recherche de modèle
+- Résolution d’un problème dans lequel les utilisateurs pouvaient perdre certaines de leurs modifications lorsqu’ils passaient en mode hors ligne et lorsqu’ils modifiaient un document réservé uniquement aux serveurs.
+- Performances améliorées lors de l’activation des composants Quick Parts pour les propriétés de document
+- Résolution d’un problème dans lequel la révision du premier téléchargement à partir du serveur pouvait échouer
+
+
+### <a name="office-suite--non-security-updates"></a>Suite Office : Mises à jour non liées à la sécurité
+
+- Résolution d’un problème dans lequel les appareils utilisant l’activation d’ordinateurs partagés pouvaient revenir de façon inattendue à l’activation basée sur les utilisateurs lors de l’installation de produits Office ou de modules linguistiques supplémentaires.
+- Résolution d’un problème qui empêchait les mises à jour d’Office lorsque l’authentification proxy était exécutée en tant que SYSTÈME.
+- Correctifs pour la résolution de problèmes liés à la disparitions de compléments Office lors du changement de profil utilisateur.
+
 
 ## <a name="version-1902-june-11"></a>Version 1902 : 11 juin
 *Version 1902 (Build 11328.20318)*

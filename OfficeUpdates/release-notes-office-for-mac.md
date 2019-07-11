@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
+ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060296"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390972"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -26,31 +26,46 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
   
 > [!NOTE]
-> - Pour obtenir la liste de toutes les versions d’Office pour Mac et les liens de téléchargement supplémentaires, reportez-vous à l’article relatif à l’[historique des mises à jour pour Office pour Mac](update-history-office-for-mac.md). 
+> - Pour obtenir la liste de toutes les versions d’Office pour Mac, les packages de mise à jour et les liens de téléchargement supplémentaires, consultez l’article [Historique des mises à jour pour Office pour Mac](update-history-office-for-mac.md). 
 > - Si vous êtes abonné à Office Insider, consultez les [notes de publication pour les builds Insider Fast d’Office 2016 pour Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - À compter de la version 16.17 en septembre 2018, ces notes de publications s’appliquent également à Office 2019 pour Mac, qui est la version d’Office pour Mac disponible sous la forme d’un achat définitif dans un point de vente ou via un contrat de licence en volume. Toutefois, certaines fonctionnalités répertoriées dans les notes de publication ne sont disponibles que si vous disposez d’un abonnement Office 365.
 > - Les notes du publication de la version 16.16 et des versions antérieures s’appliquent également à Office 2016 pour Mac qui est également une version d’Office pour Mac disponible sous la forme d’un achat unique. Les versions antérieures à la version 16.16 (incluse) peuvent être activées avec une licence en volume Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou une version ultérieure avec une licence en volume Office 2016 pour Mac. Pour plus d’informations sur les versions Office 2016 pour Mac à partir de septembre, consultez les [Notes de publication pour Office 2016 pour Mac](release-notes-office-2016-mac.md).
-> - Les liens de téléchargement sont fournis uniquement pour les versions les plus récentes.
-> - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
+> 
+> 
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
-  **Remarque:** les informations de publication de Microsoft AutoUpdate (MAU) sont déplacées vers la page [historique des publications Mau](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
+  **Remarque:** les informations de publication de la mise a jour automatique Microsoft (AutoUpdate) sont déplacées vers la page [Historique des publications de la mise a jour automatique Microsoft (AutoUpdate)](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
 
-## <a name="june-2019-release"></a>Version de juin 2019
-
-**Date de publication :** 11 juin 2019
-
+## <a name="june-11-2019-release"></a>Version du 11 juin 2019
 *Version 16.26 (Build 19060901)*
 
- Cette version inclut les mises à jour suivantes :
 
-|**Application**|**Mise à jour**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/><br/>|Attirez leur attention avec @Mentions : utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention. |[CVE-2019-1034 :](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034) vulnérabilité d’exécution de code à distance Microsoft Word<br/><br/>[CVE-2019-1035 :](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035) vulnérabilité d’exécution de code à distance Microsoft Word<br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|Attirez leur attention avec @Mentions : utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.<br/><br/>**Regrouper ou non :** il n’est pas nécessaire de regrouper les dates d’un tableau croisé dynamique. Désactivez le regroupement automatique en accédant à : Excel > Préférences > Tableaux et filtres.<br/><br/>**Coup d’œil sur les formats Indice et Exposant :** si les formats Indice, Exposant et Barré sont des formats que vous privilégiez, ajoutez-les à votre ruban et à la barre d’outils Accès rapide pour qu’ils soient faciles d’accès.| |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
-|PowerPoint<br/>|Attirez leur attention avec @Mentions : utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.<br/><br/>**Vidéos Online ont un nouvel emplacement:** enregistrez une vidéo sur Microsoft Stream afin que tous les membres de votre organisation puissent la voir. Insérer le lien de la vidéo et profitez d’une présentation multimédia pour une fraction de la taille du fichier .<br/><br/>**Légendes et sous-titres en direct :** les mots du présentateur sont automatiquement affichés à l’écran sous forme de sous-titres ou convertis en sous-titres dans la langue de votre choix. Pour de meilleurs résultats, utilisez un microphone sur casque.||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
-|Outlook|**D’Outlook vers OneNote en un seul clic:** en cliquant sur un bouton, vous pouvez enregistrer vos messages Outlook et notes de réunion dans un bloc-notes OneNote. Vous pouvez l’utiliser en tant qu’archive ou en tant qu’emplacement pratique pour conserver vos sélections. <br/> | |[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+
+- **Attirez leur attention avec \@Mentions :** Utilisez les @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.
+
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+
+- [CVE-2019-1034 :](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034) vulnérabilité d’exécution de code à distance Microsoft Word
+- [CVE-2019-1035 :](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035) vulnérabilité d’exécution de code à distance Microsoft Word
+
+### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
+
+- **Attirez leur attention avec \@Mentions :** Utilisez les @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.
+- **Regrouper ou ne pas regrouper :** il n’est pas nécessaire de regrouper les dates d’un tableau croisé dynamique. Désactivez le regroupement automatique en accédant à : Excel > Préférences > Tableaux et filtres.
+- **Indice et Exposant en un coup d’œil :** si les formats Indice, Exposant et Barré sont des formats que vous privilégiez, ajoutez-les à votre ruban et à la barre d’outils Accès rapide pour qu’ils soient faciles d’accès.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
+
+- **Attirez leur attention avec \@Mentions :** Utilisez les @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.
+- **Les vidéos Online ont un nouvel emplacement :** enregistrez une vidéo sur Microsoft Stream afin que tous les membres de votre organisation puissent la voir. Insérer le lien de la vidéo et profitez d’une présentation multimédia pour une fraction de la taille du fichier .
+- **Légendes et sous-titres en direct :** les mots du présentateur sont automatiquement affichés à l’écran sous forme de sous-titres ou convertis en sous-titres dans la langue de votre choix. Pour de meilleurs résultats, utilisez un casque-micro.
+
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+
+- **Passer d’Outlook à OneNote en un seul clic :** en cliquant sur un bouton, vous pouvez enregistrer vos messages Outlook et notes de réunion dans un bloc-notes OneNote. Vous pouvez l’utiliser en tant qu’archive ou en tant qu’emplacement pratique pour conserver vos sélections.<br/><br/>
+
 
 ## <a name="may-2019-release"></a>Publication de mai 2019      
 
