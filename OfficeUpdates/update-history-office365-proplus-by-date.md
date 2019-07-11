@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par date, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: 2502e16e8ba6ed10617b2df0042ce1f8e7977bbe
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: ce692869d1e03aa375e19db34cec57a6c13d4be3
+ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345571"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35605573"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -31,10 +31,11 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Tous les mois<br/>|1906<br/>|11727.20230<br/>|27 juin 2019<br/>|Publication de la version 1907<br/>|
-|Semi-annuel (ciblé)<br/>|1902<br/>|11328.20318<br/>|11 juin 2019<br/>|10 septembre 2019<br/>|
-|Semi-annuel<br/>|1808<br/>|10730.20348<br/>|11 juin 2019<br/>|10 mars 2020<br/>|
-|Semi-annuel<br/>|1803<br/>|9126.2388<br/>|11 juin 2019<br/>|10 septembre 2019<br/>|
+|Tous les mois<br/>|1906<br/>|11727.20244<br/>|9 juillet 2019<br/>|Publication de la version 1907<br/>|
+|Semi-annuel (ciblé)<br/>|1902<br/>|11328,20368<br/>|9 juillet 2019<br/>|10 septembre 2019<br/>|
+|Semi-annuel<br/>|1902<br/>|11328,20368<br/>|9 juillet 2019<br/>|8 septembre 2020<br/>|
+|Semi-annuel<br/>|1808<br/>|10730,20360<br/>|9 juillet 2019<br/>|10 mars 2020<br/>|
+|Semi-annuel<br/>|1803<br/>|9126,2428<br/>|9 juillet 2019<br/>|10 septembre 2019<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -47,6 +48,7 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 
 |**Année**|**Date de sortie**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|9 juillet|[Version 1906 (build 11727.20244)](monthly-channel-2019.md#version-1906-july-9)|[Version 1902 (build 11328.20368)](semi-annual-channel-targeted-2019.md#version-1902-july-9)|[Version 1902 (build 11328.20368)](semi-annual-channel-2019.md#version-1902-july-9)<br/>[Version 1808 (build 10730.20360)](semi-annual-channel-2019.md#version-1902-july-9)<br/>[Version 1803 (build 9126.2428)](semi-annual-channel-2019.md#version-1902-july-9)|
 |2019|27 juin|[Version 1906 (build 11727.20230)](monthly-channel-2019.md#version-1906-june-27)| | |
 |2019|26 juin|[Version 1906 (build 11727.20224)](monthly-channel-2019.md#version-1906-june-26)| | |
 |2019|24 juin|[Version 1906 (build 11727.20210)](monthly-channel-2019.md#version-1906-june-24)| | |
