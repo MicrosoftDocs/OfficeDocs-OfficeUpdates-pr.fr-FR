@@ -3,21 +3,6 @@
 
 
 
-## <a name="week-of-june-03-2019"></a>Semaine du 03 juin, 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 6/3/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
-| 6/3/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
-| 6/3/2019 | [Historique des mises à jour pour le canal mensuel Office (ciblé)](/OfficeUpdates/update-history-monthly-channel-targeted) | modifié |
-| 6/3/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | modifié |
-| 6/4/2019 | [Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modifié |
-| 6/4/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
-| 6/5/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
-| 6/7/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
-
-
 ## <a name="week-of-june-10-2019"></a>Semaine du 10 juin 2019
 
 
@@ -94,3 +79,34 @@
 |------|------------|--------|
 | 7/2/2019 | [Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modifié |
 | 7/5/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
+
+
+## <a name="week-of-july-08-2019"></a>Semaine du 08 juillet 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 7/8/2019 | [Notes de publication pour les mises à jour de sécurité Office 365 ProPlus](/OfficeUpdates/office365-proplus-security-updates) | modifié |
+| 7/8/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
+| 7/8/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
+| 7/8/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
+| 7/9/2019 | [Liste des fichiers. msp les plus récents pour les produits Office 2013](/OfficeUpdates/msp-files-office-2013) | modifié |
+| 7/9/2019 | [Liste des fichiers. msp les plus récents pour les produits Office 2016](/OfficeUpdates/msp-files-office-2016) | modifié |
+| 7/9/2019 | [Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)](/OfficeUpdates/office-updates-msi) | modifié |
+| 7/9/2019 | [Notes de publication pour les mises à jour de sécurité Office 365 ProPlus](/OfficeUpdates/office365-proplus-security-updates) | modifié |
+| 7/9/2019 | [Dernières mises à jour pour les versions d’Outlook qui utilisent Windows Installer (MSI)](/OfficeUpdates/outlook-updates-msi) | modifié |
+| 7/9/2019 | [Mises à jour de Project Server](/OfficeUpdates/project-server-updates) | modifié |
+| 7/9/2019 | [Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modifié |
+| 7/9/2019 | [Mises à jour de SharePoint](/OfficeUpdates/sharepoint-updates) | modifié |
+| 7/9/2019 | [Historique des mises à jour pour les produits « Démarrer en un clic » Office 2010](/OfficeUpdates/update-history-office-2010-click-to-run) | modifié |
+| 7/9/2019 | [Historique des mises à jour pour Office 2013](/OfficeUpdates/update-history-office-2013) | modifié |
+| 7/9/2019 | [Historique des mises à jour pour Office 2016 C2R et Office 2019](/OfficeUpdates/update-history-office-2019) | modifié |
+| 7/9/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | modifié |
+| 7/9/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
+| 7/9/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
+| 7/9/2019 | [Notes de publication pour les publications du Canal semi-annuel en 2019](/OfficeUpdates/semi-annual-channel-2019) | modifié |
+| 7/9/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
+| 7/10/2019 | [Notes de publication pour les publications du Canal semi-annuel en 2019](/OfficeUpdates/semi-annual-channel-2019) | modifié |
+| 7/11/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
+| 7/11/2019 | [Historique des mises à jour pour le canal mensuel Office (ciblé)](/OfficeUpdates/update-history-monthly-channel-targeted) | modifié |
+| 7/12/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
