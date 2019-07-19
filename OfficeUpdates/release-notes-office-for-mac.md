@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
-ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
+ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390972"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759454"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -35,8 +35,40 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
-  **Remarque:** les informations de publication de la mise a jour automatique Microsoft (AutoUpdate) sont déplacées vers la page [Historique des publications de la mise a jour automatique Microsoft (AutoUpdate)](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
+  **Remarque:** les informations relatives à la publication de la mise à jour automatique Microsoft (AutoUpdate) ont été déplacées vers la page [Historique des publications sur la mise à jour automatique Microsoft (AutoUpdate)](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
 
+## <a name="july-16-2019-release"></a>Version du 16 juillet 2019
+*Version 16.27 (build 19071500)*
+
+
+### <a name="word-feature-updates"></a>Word : Mises à jour des fonctionnalités
+
+- Résolution de divers problèmes de performances.
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel : Mises à jour des fonctionnalités
+
+- Résolution de divers problèmes de performances.
+
+
+### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+
+- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110) : Vulnérabilité d’exécution de code à distance Microsoft Excel
+- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111) : Vulnérabilité d’exécution de code à distance Microsoft Excel
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour des fonctionnalités
+
+- Résolution de divers problèmes de performances.
+
+
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour des fonctionnalités
+
+- **Partagez des pièces jointes à partir de vos fichiers cloud :**  Joignez facilement des fichiers cloud à vos e-mails pour une collaboration améliorée.<br/>
+
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084) : Vulnérabilité de divulgation d’informations Microsoft Excel<br/><br/>
 ## <a name="june-11-2019-release"></a>Version du 11 juin 2019
 *Version 16.26 (Build 19060901)*
 

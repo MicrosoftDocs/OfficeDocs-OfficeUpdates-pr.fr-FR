@@ -3,19 +3,19 @@ title: Historique des versions pour la mise à jour automatique Microsoft (AutoU
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 77894c5325931fc3978f8113175de2a72623d8c8
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: e5905b289963cb91a61f2a29f3c97bd9df895610
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060306"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759394"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -29,31 +29,32 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - Les liens de téléchargement sont uniquement fournis pour la version la plus récente de la mise à jour automatique Microsoft (AutoUpdate)
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
   
-## <a name="june-2019-release"></a>Version de juin 2019
+## <a name="july-2019-release"></a>Version de juillet 2019
 
-**Date de publication :** 11 juin 2019
+**Date de publication :** 16 juillet 2019
 
-*Microsoft Auto Update 4.12*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.13*
 
- **Mises à jour de fonctionnalité :**
+ **Mises à jour des fonctionnalités :**
 
-- Mises à jour delta binaires : pour les dispositifs SSD, déploiement de plus petites mises à jour, réduisant ainsi la consommation de bande passante due aux mises à jour.
-- Prise en charge d’applications accessoires : MAU prend désormais en charge les applications accessoire, telles que Microsoft OneDrive.
-- Améliorations de l’installation sur des clones : la mise à jour des clones est désormais plus robuste et infaillible.
+- Modifications de la confidentialité pour AutoUpdate : un avis de collecte de données requises sera présenté aux utilisateurs finaux dans le cadre de la politique de conformité.
+- Date d’échéance de la mise à jour d’AutoUpdate : les administrateurs Mac peuvent désormais fixer une date d’échéance dans AutoUpdate afin d’encourager les mises à jour auprès des utilisateurs Mac.
+- Diverses correctifs de bogues et de performances.
 
-**Lien de mise à jour MAU :**
+**Lien de la mise à jour d’AutoUpdate :**
 
-[Télécharger le package Microsoft Auto Update 4.12](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+[Télécharger le package Microsoft AutoUpdate 4.13](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071500_Updater.pkg)<br/>
 <br/>
 **Code de hachage SHA-1/ SHA-256 :**
 
-ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+2f86ed6bba92bb57ac1189ba561de8b5e36c90003c178d50d7c71960050ea667
 <br/><br/>
 
 ## <a name="release-history"></a>Historique des versions
 
 |**Date de sortie**|**Version**|**Plus d’informations**||
 |:-----|:-----|:-----|:-----|
+|16 juillet 2019 <br/>|4.13 <br/> |  [Notes de publication](release-notes-office-for-mac.md) <br/> ||
 |11 juin 2019 <br/>|4.12 <br/> |  <br/> ||
 |14 mai 2019 <br/>|4.11 <br/> | [Notes de publication](release-notes-office-for-mac.md#May-2019-release) <br/> | <br/> |
 |16 avril 2019 <br/>|4.10 <br/> | [Notes de publication](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
