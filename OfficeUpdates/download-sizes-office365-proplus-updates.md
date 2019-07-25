@@ -9,30 +9,27 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 39c60b6d84ffff836a1f89735e357cbcd1901793
-ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
+ms.openlocfilehash: 618ba47e894e43df22fced1370f24c05421d0a19
+ms.sourcegitcommit: 75261a0a6da741286e89750a6035e398c041972c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601463"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "35834254"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
-Les tableaux suivants montrent, par date de publication et par canal de mise à jour, la taille de téléchargement approximative lors de la mise à jour d’une version d’Office 365 ProPlus vers la version la plus récente.
-  
-Ces informations aideront les entreprises à planifier l’utilisation de la bande passante de leur réseau lors des prochaines mises à jour. Dans la mesure où ces informations sont fournies à l’avance, certaines d’entre elles peuvent être amenées à changer au moment de la publication de la nouvelle version.
-  
-Notre objectif est de fournir des informations sur la taille des mises à jour une semaine avant leur sortie, mais ces renseignements ne sont parfois pas disponibles si tôt. Les publications effectuées sur le canal semi-annuel et le canal semi-annuel (ciblé) sont prévues le deuxième mardi de chaque mois. Les publications effectuées sur le canal mensuel ne suivent pas un calendrier prédéfini.
 
-Pour en savoir plus sur les fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité incluses dans une version donnée, consultez la page [Informations sur les versions pour les mises à jour vers Office 365 ProPlus](release-notes-office365-proplus.md).
+Dans la mesure du possible, notre objectif est de fournir à l’avance des informations sur la taille des mises à jour afin d’aider les entreprises à planifier l’utilisation de la bande passante du réseau. 
+
+Les tableaux suivants montrent la taille de téléchargement approximative lors de la mise à jour de la version précédente d’Office 365 ProPlus vers la version la plus récente. Les tailles de téléchargement réelles peuvent varier d’environ 50 Mo. Si vous effectuez la mise à jour d’une version antérieure à la version actuelle, votre téléchargement est susceptible d’être plus volumineux. 
+
+Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour pourrait être beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
 
  
 > [!NOTE]
 > - La taille de téléchargement approximative indiquée dans les tableaux s’applique uniquement à la version x64 en-us d’Office 365 ProPlus. (Toutes les versions publiées avant le 13 mars 2019 affichent des tailles x86.)
-> - Les tailles de téléchargement indiquées sont approximatives. Les tailles de téléchargement réelles peuvent varier d’environ 50 Mo. 
-> - Seules les publications des quatre derniers mois sont indiquées.
-> - Seules les versions antérieures les plus récentes sont indiquées dans les tableaux. Si vous mettez à jour votre canal à partir d’une version antérieure, votre téléchargement sera plus volumineux.
-> - Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
+> - Les versions publiées au cours des quatre derniers mois sont répertoriées.
+
 
 [//]: # (NE PAS SUPPRIMER)
 
@@ -346,43 +343,16 @@ La version la plus récente est la version 1902 (build 11328.20146).
 |Version 1901 (build 11231.20130)  <br/> |31 janvier 2019  <br/> |180<br/> |
 |Version 1901 (build 11231.20174)  <br/> |12 février 2019  <br/> |178<br/> |
 
-## <a name="february-12-2019"></a>12 février 2019
 
-### <a name="monthly-channel"></a>Canal mensuel
-
-La version la plus actuelle est la version 1901 (build 11231.20174). 
-  
-|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
-|:-----|:-----|:-----|
-|Version 1901 (build 11231.20130)  <br/> |31 janvier 2019  <br/> |66<br/> |
-|Version 1812 (build 11126.20266)  <br/> |14 janvier 2019  <br/> |158<br/> |
-
-
-### <a name="semi-annual-channel"></a>Canal semi-annuel
-
-La version la plus actuelle est la version 1808 (build 10730.20280).
-
-|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
-|:-----|:-----|:-----|
-|Version 1808 (build 10730.20264)  <br/> |8 janvier 2019  <br/> |79<br/> |
-|Version 1803 (build 9126.2336) <br/> |11 décembre 2018  <br/> |280<br/> |
-
-  
-### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
-
-La version la plus actuelle est la version 1808 (build 10730.20280).
-  
-|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
-|:-----|:-----|:-----|
-|Version 1808 (build 10730.20264)  <br/> |8 janvier 2019  <br/> |79 <br/> |
-|Version 1808 (Build 10730.20262)  <br/> |11 décembre 2018  <br/> |280 <br/> |
-
-
-    
 ## <a name="related-topics"></a>Voir aussi
 
+
 - [Présentation des canaux de mise à jour pour Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+
+
+
 - [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](update-history-office365-proplus-by-date.md)
+
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
