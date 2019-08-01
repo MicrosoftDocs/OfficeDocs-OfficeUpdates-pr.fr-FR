@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759454"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937622"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -64,8 +64,8 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour des fonctionnalités
 
-- **Partagez des pièces jointes à partir de vos fichiers cloud :**  Joignez facilement des fichiers cloud à vos e-mails pour une collaboration améliorée.<br/>
-
+- **Partagez des pièces jointes à partir de vos fichiers cloud :** Joignez facilement des fichiers cloud à vos e-mails pour une collaboration améliorée.<br/>
+- **Prise en charge du mode foncé dans le volet de lecture :** les e-mails que vous recevez ont désormais un arrière-plan sombre qui en facilite la consultation dans les environnements faiblement éclairés. Nécessite macOS Mojave. 
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084) : Vulnérabilité de divulgation d’informations Microsoft Excel<br/><br/>
