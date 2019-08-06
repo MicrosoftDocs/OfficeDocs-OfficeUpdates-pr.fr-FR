@@ -3,24 +3,6 @@
 
 
 
-## <a name="week-of-june-24-2019"></a>Semaine du 24 juin, 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 6/24/2019 | [Historique des mises à jour pour le canal mensuel Office (ciblé)](/OfficeUpdates/update-history-monthly-channel-targeted) | modifié |
-| 6/24/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
-| 6/24/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
-| 6/24/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
-| 6/24/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | modifié |
-| 6/25/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
-| 6/27/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
-| 6/27/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
-| 6/27/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | modifié |
-| 6/28/2019 | [Notes de mise à jour pour Office pour Mac](/OfficeUpdates/release-notes-office-for-mac) | modifié |
-| 6/28/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
-
-
 ## <a name="week-of-july-01-2019"></a>Semaine du 1er juillet 2019
 
 
@@ -89,3 +71,22 @@
 | 7/23/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
 | 7/25/2019 | [Historique des mises à jour pour le canal mensuel Office (ciblé)](/OfficeUpdates/update-history-monthly-channel-targeted) | modifié |
 | 7/26/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
+
+
+## <a name="week-of-july-29-2019"></a>Semaine du 29 juillet 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 7/29/2019 | [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](/OfficeUpdates/update-history-office365-proplus-by-date) | modifié |
+| 7/29/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
+| 7/29/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
+| 7/30/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
+| 7/30/2019 | [Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)](/OfficeUpdates/release-history-microsoft-autoupdate) | modifié |
+| 7/30/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
+| 7/30/2019 | [Notes de mise à jour pour Office pour Mac](/OfficeUpdates/release-notes-office-for-mac) | modifié |
+| 7/31/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
+| 7/31/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
+| 8/1/2019 | [Notes de publication pour les publications du Canal semi-annuel en 2019](/OfficeUpdates/semi-annual-channel-2019) | modifié |
+| 8/1/2019 | [Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modifié |
+| 8/2/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
