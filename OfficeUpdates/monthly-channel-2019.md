@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
-ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
+ms.openlocfilehash: b9e3c357eb120e488249f5688b2bdd72876d9508
+ms.sourcegitcommit: 953b8e82778004b820cb31152ff52fe3c8781f96
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35931164"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36204336"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -36,8 +36,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Finies les ouvertures systématiques dans le navigateur :** vous choisissez où ouvrir les liens des documents Office : dans le navigateur ou dans l’application.
 
-- **Codez rapidement avec les améliorations de Power Query** : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Vous découvrirez également facilement les fonctions, les colonnes et les paramètres. 
-  [En savoir plus](https://support.office.com/fr-FR/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+- **Codez rapidement avec les améliorations de Power Query** : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Vous découvrirez également facilement les fonctions, les colonnes et les paramètres.
 
 - **Créer un graphique de carte :** cette fonctionnalité est une amélioration du produit pour les utilisateurs qui tracent des graphiques de cartes renseignés à l’aide des types de données géographiques d’Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone. 
   [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
@@ -261,11 +260,13 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
-- **Exporter des diagrammes de processus vers Word :** ajouter automatiquement du contenu diagramme, comme des formes et des métadonnées, à un document Word. Puis personnalisez le document pour créer des instructions de processus et des manuels d’opération. [En savoir plus](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
-
 - **Couleurs pour le suivi des modifications, les commentaires et la collaboration en temps réel de façon synchronisée :** les correctifs introduits dans notre produit garantissent désormais que les commentaires, le suivi des modifications et le curseur d'un même collaborateur apparaissent dans la même couleur.
 
 - **Trouvez rapidement ce fichier :** Vous recherchez un fichier sur lequel vous avez travaillé récemment ? Renseignez simplement la zone de recherche dans Fichier > Page d’accueil pour trouver le fichier que vous recherchez.
+
+### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalités
+
+- **Exporter des diagrammes de processus vers Word :** ajouter automatiquement du contenu diagramme, comme des formes et des métadonnées, à un document Word. Puis personnalisez le document pour créer des instructions de processus et des manuels d’opération. [En savoir plus](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
 
