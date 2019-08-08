@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: b9e3c357eb120e488249f5688b2bdd72876d9508
-ms.sourcegitcommit: 953b8e82778004b820cb31152ff52fe3c8781f96
+ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
+ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204336"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36222962"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -274,10 +274,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 - **Contrôles de confidentialité :** Des contrôles nouveaux, mis à jour et améliorés pour les données de diagnostic et les expériences connectées. [En savoir plus](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Nouvelles icônes d’applications Office :** Icônes d’applications repensées à l’image des expériences utilisateur simples, performantes et intelligentes d’Office.
+### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non liées à la sécurité
-Résolution d’un problème d’identification incorrecte du nom de la nouvelle ère « Reiwa » dans les alphabets Hiragana et Kanji qui apparaît comme une expression incorrecte du point de vue orthographique ou grammatical.
+- Nous avons résolu un problème qui entrainait un affichage extrêmement petit du sujet.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+- Résolution d’un problème d’identification incorrecte du nom de la nouvelle ère « Reiwa » dans les alphabets Hiragana et Kanji qui apparaît comme une expression incorrecte du point de vue orthographique ou grammatical.
 
 ## <a name="version-1903-april-23"></a>Version 1903 : 23 avril
 *Version 1903 (Build 11425.20244)*
