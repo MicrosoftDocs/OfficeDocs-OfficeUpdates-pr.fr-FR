@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Semaine du 1er juillet 2019
-
-
-| Publié le |Titre de la rubrique | Modification |
-|------|------------|--------|
-| 7/2/2019 | [Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modifié |
-| 7/5/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
-
-
 ## <a name="week-of-july-08-2019"></a>Semaine du 08 juillet 2019
 
 
@@ -90,3 +81,17 @@
 | 8/1/2019 | [Notes de publication pour les publications du Canal semi-annuel en 2019](/OfficeUpdates/semi-annual-channel-2019) | modifié |
 | 8/1/2019 | [Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modifié |
 | 8/2/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
+
+
+## <a name="week-of-august-05-2019"></a>Semaine du 05 août, 2019
+
+
+| Publié le |Titre de la rubrique | Modification |
+|------|------------|--------|
+| 8/5/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
+| 8/6/2019 | [Historique des mises à jour pour le canal Office Insider](/OfficeUpdates/update-history-office-insider) | modifié |
+| 8/6/2019 | [Tailles des téléchargements des mises à jour pour Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modifié |
+| 8/6/2019 | [Notes de publication pour les publications du canal mensuel en 2019](/OfficeUpdates/monthly-channel-2019) | modifié |
+| 8/6/2019 | [Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modifié |
+| 8/7/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
+| 8/9/2019 | [Notes de publication pour Office Insiders](/OfficeUpdates/release-notes-office-insider) | modifié |
