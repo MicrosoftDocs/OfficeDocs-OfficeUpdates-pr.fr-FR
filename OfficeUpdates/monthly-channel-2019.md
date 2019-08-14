@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222962"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302473"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -59,7 +59,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Créer un graphique de carte :** cette fonctionnalité est une amélioration du produit pour les utilisateurs qui tracent des graphiques de cartes renseignés à l’aide des types de données géographiques d’Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone. 
   [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+- **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour un accès plus aisé :** vous le trouverez dans Imprimer > menu déroulant Mode Page lorsqu’une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. 
+
+### <a name="word-feature-updates"></a>Word : mises à jour de fonctionnalité
 
 - **Restez concentré :** l’une des fonctionnalités les plus appréciées des ordinateurs Mac arrive sur Windows. Passez en mode Focus via le menu Affichage afin de supprimer toute distraction et pouvoir vous concentrer sur votre travail. 
   [En savoir plus](https://support.office.com/fr-FR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
@@ -311,6 +313,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 - **Analyses dans Excel :** les Analyses sont précieuses pour certains utilisateurs. Elles leur permettent d’accéder aisément à une analyse de données, tandis qu’elles présentent à d’autres utilisateurs une aux perspective sur leurs données. [En savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **Augmenter la portée de votre contenu :** Vous devez rendre vos feuilles de calcul accessibles ? Laissez le vérificateur d’accessibilité s’en charger sans interférer dans votre travail. Pour l’essayer, cliquez sur Révision > Vérification de l’accessibilité. Les éléments détectés devant faire l’objet d’un examen apparaissent dans la barre d’état.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
@@ -320,6 +323,10 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 - **Augmenter la portée de votre contenu :** Vous devez rendre vos présentations accessibles ? Laissez le vérificateur d’accessibilité s’en charger sans interférer dans votre travail. Pour l’essayer, cliquez sur Révision > Vérification de l’accessibilité. Les éléments détectés devant faire l’objet d’un examen apparaissent dans la barre d’état.
 
 - **Pourquoi réinventer la roue si vous pouvez réutiliser du support existant ?**  Gagnez du temps en réutilisant les diapositives que vous avez créées ou que d’autres personnes ont partagées avec vous.
+
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+
+- Nous avons corrigé un problème de conflit de fusion dans Excel qui amenait les utilisateurs à être invité à rouvrir le classeur pour récupérer les modifications.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 
