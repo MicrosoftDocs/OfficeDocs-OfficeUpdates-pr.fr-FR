@@ -3,19 +3,18 @@ title: Notes de publication pour les publications du canal mensuel en 2019
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302473"
+ms.locfileid: "36393209"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -27,6 +26,18 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
  > [!NOTE]
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de début juillet, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+## <a name="version-1907-august-13"></a>Version 1907 :13 août
+*Version 1907 (Build 11901.20218)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+
+ - Résolution d’un problème qui pouvait se déclencher lors de la modification du tri d’un tableau croisé dynamique et de son rafraîchissement pendant une session de co-création avec d’autres utilisateurs.
+
+### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+  - Résolution d’un problème qui amenait les utilisateurs dont la boîte aux lettres de base avait été mise à niveau vers l’authentification moderne à voir le mauvais compte associé à leur profil Outlook.
 
 ## <a name="version-1907-july-29"></a>Version 1907 : juillet 29
 *Version 1907 (build 11901.20176)*
@@ -60,8 +71,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
   [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour un accès plus aisé :** vous le trouverez dans Imprimer > menu déroulant Mode Page lorsqu’une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. 
+  [En savoir plus](https://support.office.com/fr-FR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
-### <a name="word-feature-updates"></a>Word : mises à jour de fonctionnalité
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
 - **Restez concentré :** l’une des fonctionnalités les plus appréciées des ordinateurs Mac arrive sur Windows. Passez en mode Focus via le menu Affichage afin de supprimer toute distraction et pouvoir vous concentrer sur votre travail. 
   [En savoir plus](https://support.office.com/fr-FR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
