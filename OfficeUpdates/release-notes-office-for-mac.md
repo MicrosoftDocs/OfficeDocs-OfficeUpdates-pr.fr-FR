@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
-ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
+ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937622"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396598"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -37,7 +37,56 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
   **Remarque:** les informations relatives à la publication de la mise à jour automatique Microsoft (AutoUpdate) ont été déplacées vers la page [Historique des publications sur la mise à jour automatique Microsoft (AutoUpdate)](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
 
-## <a name="july-16-2019-release"></a>Version du 16 juillet 2019
+## <a name="august-13-2019-release"></a>Version du 13 août 2019
+*Version 16.28 (build 19081202)*
+
+
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+
+- **Faites-en un croquis :** donnez un aspect informel et manuscrit aux formes Office de votre présentation. [En savoir plus](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Effacez avec précision :** faites votre choix parmi deux tailles de gomme pour résoudre les petites imperfections de l’entrée manuscrite. [En savoir plus](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
+- **Graphiques de carte améliorés :** nous avons amélioré les graphiques de carte en les intégrant aux types de données géographiques d’Excel, ce qui peut révéler de riches informations sur vos emplacements mappés. [En savoir plus](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201) : Vulnérabilité d’exécution de code à distance Microsoft Word
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205) : Vulnérabilité d’exécution de code à distance Microsoft Word
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
+
+- **Faites-en un croquis :** donnez un aspect informel et manuscrit aux formes Office de votre présentation. [En savoir plus](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Concentrez-vous sur ce qui reste à faire :** sélectionnez Résoudre pour réduire les commentaires et faire ressortir les éléments ouverts.
+- **Graphiques de carte améliorés :** nous avons amélioré les graphiques de carte en les intégrant aux types de données géographiques d’Excel, ce qui peut révéler de riches informations sur vos emplacements mappés. [En savoir plus](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
+
+- **Faites-en un croquis :** donnez un aspect informel et manuscrit aux formes Office de votre présentation. [En savoir plus](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Entrées manuscrites persistantes pendant le diaporama :** dessinez sur vos diapositives pendant une présentation et votre stylet reste actif jusqu’à la fin. Enregistrez également les annotations. [En savoir plus](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **Graphiques de carte améliorés :** nous avons amélioré les graphiques de carte en les intégrant aux types de données géographiques d’Excel, ce qui peut révéler de riches informations sur vos emplacements mappés. [En savoir plus](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+
+- **Partagez des pièces jointes à partir de vos fichiers cloud :** joignez facilement des fichiers cloud à vos e-mails pour une collaboration améliorée. [En savoir plus](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148) : Vulnérabilité de divulgation d’informations du composant Graphics Microsoft
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149) : Vulnérabilité d’exécution de code à distance Graphics Microsoft
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151) : Vulnérabilité d’exécution de code à distance Graphics Microsoft
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153) : Vulnérabilité de divulgation d’informations du composant Graphics Microsoft
+
+
+## <a name="july-16-2019-release"></a>Version du 16 juillet 2019
 *Version 16.27 (build 19071500)*
 
 
