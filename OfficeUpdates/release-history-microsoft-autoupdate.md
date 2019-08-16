@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 6f9c5e78135b3311077445c6de6fb593b5796875
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
+ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396588"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36429938"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -45,7 +45,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 **Lien vers la mise à jour d’AutoUpdate :**
 
-[Télécharger le package Microsoft AutoUpdate 4.14](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.14.19081202_Updater.pkg)<br/>
+[Télécharger le package Microsoft AutoUpdate 4.14](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
 **Code de hachage SHA-256 :**
 
