@@ -3,19 +3,18 @@ title: Notes de publication pour Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916967"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36393219"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -27,6 +26,151 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
  > [!NOTE]
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+[//]: # (NE PAS SUPPRIMER)
+
+
+## <a name="august-09-2019br"></a>**9 août 2019**<br/>
+Version 1909 (Build 12001.20000)<br/>
+
+### <a name="excel-feature-updates"></a>Mises à jour de fonctionnalités d’Excel :
+
+- **Collaboration simplifiée:** grâce aux améliorations apportées à la co-création, lorsque vous travaillez avec une mise en forme conditionnelle, des styles de cellules, etc., vos modifications sont fusionnées de manière fluide avec celles de vos collaborateurs.
+
+
+- **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Quand vous sélectionnez, le bouton Insérer vous indique le nombre d’éléments que vous en avez choisis.
+
+
+### <a name="office-suite-feature-updates"></a>Mises à jour de fonctionnalités de la suite Office : 
+
+- **Nouvelles icônes d’application Office :** modification des icônes d’application pour refléter les expériences utilisateur simples, performantes et intelligentes d’Office.
+
+
+### <a name="outlook-feature-updates"></a>Mises à jour de fonctionnalités d’Outlook :
+
+- **Protection avancée contre les attaques :** avec Office 365 - Protection avancée contre les menaces, vous êtes protégé contre les attaques via des liens hypertexte dans des objets de courrier, des messages joints, des messages signés, des chemins d’accès réseau, etc.
+
+
+- **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Quand vous sélectionnez, le bouton Insérer vous indique le nombre d’éléments que vous en avez choisis.
+
+
+### <a name="powerpoint-feature-updates"></a>Mises à jour de fonctionnalités de PowerPoint :
+
+- **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Quand vous sélectionnez, le bouton Insérer vous indique le nombre d’éléments que vous en avez choisis.
+
+
+### <a name="word-feature-updates"></a>Mises à jour de fonctionnalités de Word :
+
+- **Les autres utilisateurs voient rapidement vos modifications :** la co-création permet à vos collaborateurs de voir vos modifications plus rapidement que jamais.
+
+
+- **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Quand vous sélectionnez, le bouton Insérer vous indique le nombre d’éléments que vous en avez choisis.
+
+
+
+
+## <a name="non-security-updates"></a>Mises à jour non liées à la sécurité :
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Nous avons résolu un problème qui entraînait la réception de deux notifications par les participants à une réunion suite à l’annulation de celle-ci</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Nous avons résolu un problème qui pouvait entraîner un blocage lorsque l’utilisateur sélectionnait l’option Sans contour ou Aucun remplissage pour les formes et les icônes</span></div>
+
+
+
+
+
+## <a name="august-02-2019br"></a>**2 août 2019**<br/>
+Version 1908 (build 11929.20002)<br/>
+
+### <a name="excel-feature-updates"></a>Mises à jour de fonctionnalités d’Excel :
+
+- **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.
+
+
+- **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos fichiers et e-mails pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation.
+
+
+### <a name="outlook-feature-updates"></a>Mises à jour de fonctionnalités d’Outlook :
+
+- **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos fichiers et e-mails pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation.
+
+
+### <a name="powerpoint-feature-updates"></a>Mises à jour de fonctionnalités de PowerPoint :
+
+- **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.
+
+
+- **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos fichiers et e-mails pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation.
+
+
+### <a name="word-feature-updates"></a>Mises à jour de fonctionnalités de Word :
+
+- **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.
+
+
+- **Dites-le autrement :** la fonction Réécrire est là pour vous aider lorsque vous cherchez à vous exprimer autrement. La fonction Réécrire vous propose des solutions pour peaufiner vos phrases.
+
+
+- **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos fichiers et e-mails pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation.
+
+
+
+
+## <a name="non-security-updates"></a>Mises à jour non liées à la sécurité :
+
+### <a name="access"></a>Access
+- Divers correctifs en lien avec les performances et la stabilité
+
+### <a name="excel"></a>Excel
+
+- <div><span>Nous avons résolu un problème qui faisait apparaître l’impression dans un fichier PDF comme si l’option &quot;Répéter toutes les étiquettes&quot; avait été appliquée</span></div>
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher les utilisateurs d’ouvrir un document à partir du bureau</span></div>
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher l’application d’une mise à niveau en affichant le message d’erreur incorrect &quot;Une autre installation est déjà en cours&quot;</span></div>
+
+- <div><span>Nous avons résolu un problème qui entraînait l’affichage de messages d’erreur lors de l’installation des mises à jour de sécurité</span></div>
+
+- <div><span>Nous avons résolu un problème qui pouvait faire disparaître le curseur</span></div>
+
+- <div><span>Nous avons résolu un problème qui avait pour effet qu’un utilisateur pouvait se retrouver par défaut sous l’onglet Dessin plutôt que sous l’onglet Accueil</span></div>
+
+- <div><span>Nous avons résolu un problème qui pouvait entraîner un blocage en lien avec les grandes arborescences</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Nous avons résolu un problème qui pouvait entraîner l’affichage d’invites de mot de passe répétées</span>
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher la requête d’une adresse de courrier</span></div>
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher les utilisateurs d’ouvrir des éléments de calendrier créés par des versions héritées d’Outlook</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher le démarrage de certaines animations</span></div>
+
+### <a name="project"></a>Project
+- Divers correctifs liés aux performances et à la stabilité
+
+### <a name="word"></a>Word
+
+- <div><span>Nous avons résolu un problème qui avait pour effet que les réponses aux commentaires pouvaient s’afficher dans un ordre incorrect</span></div>
+
+- <div><span>Nous avons résolu un problème qui pouvait entraîner l’affichage de conseils à la place des commentaires dans certaines situations</span></div>
+
+- <div><span>Nous avons résolu un problème qui entraînait parfois l’affichage du volet Révisions quand l’utilisateur essayait d’ajouter un commentaire</span></div>
+
+- <div><span>Nous avons résolu un problème qui empêchait parfois l’affichage de la liste déroulante Annuler</span></div>
+
+- <div><span>Nous avons résolu un problème qui empêchait parfois l’ajout de commentaires</span></div>
+
 
 ## <a name="july-26-2019"></a>26 juillet 2019
 Version 1908 (build 11916.20000)
@@ -75,11 +219,8 @@ Version 1908 (build 11911.20000)
 
 #### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>Découvrir ce que les Acronymes signifient lorsque vous lisez dans Word Online
 
-Lorsque vous rencontrez un acronyme, nous allons essayer de le définir à l’aide de données au sein de votre organisation.
+Lorsque vous rencontrez un acronyme, nous essayons de le définir à l’aide de données disponibles au sein de votre organisation.
 
-#### <a name="coauthoring-improvements"></a>Améliorations de la co-création
-
-Amélioration de l’expérience de co-édition en rendant plus probable la réception en temps réel par d’autres des modifications de contenu.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
@@ -152,7 +293,12 @@ Version 1907 (build 11901.20018)
 
 #### <a name="sketchy-shapes"></a>Formes de croquis !
 
-En train de rédiger une présentation ? Appliquez le style de croquis pour indiquer que vous êtes en train de travailler dessus. Ce style donne une touche personnelle à vos objets sans les transformer en formes libres, dessinées à main levée.
+En train de rédiger une présentation ? Appliquez le style de croquis pour indiquer que vous êtes en train de travailler dessus. Ce style donne une touche personnelle à vos objets sans les transformer en formes libres dessinées à main levée.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour en faciliter l’accès :** vous le trouverez dans Imprimer > menu déroulant Mode Page quand une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. 
+  [En savoir plus](https://support.office.com/fr-FR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
@@ -202,7 +348,13 @@ Version 1907 (build 11819.20002)
 
 ## <a name="whats-new"></a>Nouveautés :
 
-### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint, et Visio
+### <a name="excel"></a>Excel
+
+- **Codez rapidement avec les améliorations de Power Query** : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Découvrez également facilement les fonctions, les colonnes et les paramètres
+
+- **Joignez des tables sur des colonnes similaires :** la fonctionnalité Récupérer et transformer (Power Query) utilise désormais une logique de correspondance de texte approximative (également appelée correspondance approximative) lorsque vous comparez des colonnes pour fusionner des tables.
+ 
+### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint et Visio
 
 #### <a name="recommended-documents"></a>Documents recommandés
 
@@ -680,6 +832,18 @@ Version 1906 (build 11629.20008)
 ## <a name="april-26-2019"></a>26 avril 2019
 Version 1905 (Build 11617.20002)
 
+## <a name="new-features"></a>Nouvelles fonctionnalités
+
+### <a name="excel"></a>Excel
+
+#### <a name="coauthoring-improvements"></a>Améliorations de la co-création
+
+Amélioration de l’expérience de co-création en rendant plus probable la réception en temps réel par d’autres des modifications de contenu.
+
+### <a name="visio"></a>Visio
+
+- **Exportez des visuels Visio à partir de Power BI :** les visuels Visio pour Power BI s’affichent désormais correctement lorsque vous exportez des rapports Power BI sous la forme de fichiers PDF, PowerPoint, etc.
+
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
 ### <a name="word"></a>Word 
@@ -878,6 +1042,12 @@ Office prend désormais en charge les modèles animés, ce qui vous permet de li
 
 ## <a name="march-22-2019"></a>22 mars 2019
 Version 1904 (build 11514.20004)
+
+## <a name="new-features"></a>Nouvelles fonctionnalités
+
+- **Contrôles de confidentialité :** contrôles nouveaux, mis à jour et améliorés pour les données de diagnostic et les expériences connectées. En savoir plus <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Nouvelle apparence des icônes Office** : nous avons modernisé les icônes Office pour mieux refléter la simplicité, l’efficacité et l’intelligence de l’expérience utilisateur.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
