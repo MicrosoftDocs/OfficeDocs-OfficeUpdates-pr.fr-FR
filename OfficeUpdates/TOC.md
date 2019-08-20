@@ -30,6 +30,8 @@
 ### [Historique des mises à jour - Canal mensuel (ciblé)](update-history-monthly-channel-targeted.md)
 ###[Canal de publication Notes Insider](release-notes-office-insider.md)
 
+## [Historique des versions de l’outil ODT](ODT-release-history.md)
+
 # Office pour Mac
 ## [Historique des mises à jour (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Notes de publication (Office 365, 2019)](release-notes-office-for-mac.md)
