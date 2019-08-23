@@ -9,23 +9,61 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 65c4e73c6696d1d7056a1b15397b7256c448660a
-ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
+ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
+ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054816"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36488506"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal semi-annuel vers Office 365 ProPlus en 2019, dont Visio Pro pour Office 365 et le Client de bureau Project Online.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal semi-annuel vers Office 365 ProPlus en 2019, Visio Pro pour Office 365 et le Client de bureau Project Online et Office 365 Business.
 
 > [!NOTE]
-> - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
-
-> [!NOTE]
-> - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+> - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. 
+  [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
+
+## <a name="version-1902-august-13"></a>Version 1902 :13 août
+*Version 1902 (Build 11328.20392)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+- Résolution d’un problème dans lequel l’icône effacer le filtre était affichée pour les segments filtrés et non filtrés dans les tableaux.
+
+### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+- Résolution d’un problème qui amenait les utilisateurs dont la boîte aux lettres de base avait été mise à niveau vers l’authentification moderne à voir le mauvais compte associé.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+- Résolution d’un problème de fermeture inattendue de l’application lors de la collaboration sur un document avec d’autres utilisateurs.
+
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
+- Correction d’un problème dans lequel les champs de mise à jour de VBA étaient lents.
+- Résolution d’un problème lors de l’ouverture d’un fichier .doc, indiquant qu’il est endommagé.
+- Résolution d’un problème de fermeture inattendue de l’application lors de la collaboration sur un document avec d’autres utilisateurs.
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+- Résolution d’un problème dans lequel la configuration de l’API ne fonctionne pas dans la bibliothèque JavaScript Office dans certains scénarios [En savoir plus](https://support.microsoft.com/fr-FR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
+## <a name="version-1808-august-13"></a>Version 1808 :13 août
+*Version 1808 (Build 10730.20370)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+- Résolution d’un problème dans lequel la configuration de l’API ne fonctionne pas dans la bibliothèque JavaScript Office dans certains scénarios [En savoir plus](https://support.microsoft.com/fr-FR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
+
+## <a name="version-1803-august-13"></a>Version 1803 :13 août
+*Version 1803 (Build 9126.2432)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+- Résolution d’un problème dans lequel la configuration de l’API ne fonctionne pas dans la bibliothèque JavaScript Office dans certains scénarios [En savoir plus](https://support.microsoft.com/fr-FR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+
 
 ## <a name="version-1902-july-09"></a>Version 1902 : 9 juillet
 *Version 1902 (build 11328.20368)*
