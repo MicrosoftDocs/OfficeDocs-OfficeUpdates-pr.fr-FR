@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
+ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396598"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36567204"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -30,8 +30,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Si vous êtes abonné à Office Insider, consultez les [notes de publication pour les builds Insider Fast d’Office 2016 pour Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - À compter de la version 16.17 en septembre 2018, ces notes de publications s’appliquent également à Office 2019 pour Mac, qui est la version d’Office pour Mac disponible sous la forme d’un achat définitif dans un point de vente ou via un contrat de licence en volume. Toutefois, certaines fonctionnalités répertoriées dans les notes de publication ne sont disponibles que si vous disposez d’un abonnement Office 365.
 > - Les notes du publication de la version 16.16 et des versions antérieures s’appliquent également à Office 2016 pour Mac qui est également une version d’Office pour Mac disponible sous la forme d’un achat unique. Les versions antérieures à la version 16.16 (incluse) peuvent être activées avec une licence en volume Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou une version ultérieure avec une licence en volume Office 2016 pour Mac. Pour plus d’informations sur les versions Office 2016 pour Mac à partir de septembre, consultez les [Notes de publication pour Office 2016 pour Mac](release-notes-office-2016-mac.md).
-> 
-> 
+> > 
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
@@ -39,7 +38,6 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 ## <a name="august-13-2019-release"></a>Version du 13 août 2019
 *Version 16.28 (build 19081202)*
-
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
@@ -52,18 +50,11 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 - [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201) : Vulnérabilité d’exécution de code à distance Microsoft Word
 - [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205) : Vulnérabilité d’exécution de code à distance Microsoft Word
 
-
-
-
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
 
 - **Faites-en un croquis :** donnez un aspect informel et manuscrit aux formes Office de votre présentation. [En savoir plus](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **Concentrez-vous sur ce qui reste à faire :** sélectionnez Résoudre pour réduire les commentaires et faire ressortir les éléments ouverts.
 - **Graphiques de carte améliorés :** nous avons amélioré les graphiques de carte en les intégrant aux types de données géographiques d’Excel, ce qui peut révéler de riches informations sur vos emplacements mappés. [En savoir plus](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-
-
-
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 
@@ -71,12 +62,12 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 - **Entrées manuscrites persistantes pendant le diaporama :** dessinez sur vos diapositives pendant une présentation et votre stylet reste actif jusqu’à la fin. Enregistrez également les annotations. [En savoir plus](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
 - **Graphiques de carte améliorés :** nous avons amélioré les graphiques de carte en les intégrant aux types de données géographiques d’Excel, ce qui peut révéler de riches informations sur vos emplacements mappés. [En savoir plus](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-
-
-
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 
 - **Partagez des pièces jointes à partir de vos fichiers cloud :** joignez facilement des fichiers cloud à vos e-mails pour une collaboration améliorée. [En savoir plus](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
+- **Contrôles de confidentialité :** Des contrôles nouveaux, mis à jour et améliorés pour les données de diagnostic et les expériences connectées. [En savoir plus](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 
