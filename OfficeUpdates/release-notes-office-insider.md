@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393219"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620523"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -28,6 +28,122 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
 [//]: # (NE PAS SUPPRIMER)
+
+
+## <a name="august-23-2019br"></a>**23 août 2019**<br/>
+Version 1909 (Build 12015.20004)<br/>
+
+
+
+## <a name="non-security-updates"></a>Mises à jour non liées à la sécurité :
+
+### <a name="excel"></a>Excel
+
+- <div><span>Nous avons considérablement amélioré les performances de la suppression des colonnes avec des cellules fusionnées</span></div>
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span>Nous avons résolu un problème qui pourrait empêcher l’affichage de certains caractères Unicode lorsqu’ils sont affichés dans un navigateur</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Nous avons résolu un problème qui aurait pu empêcher l’enregistrement des fichiers dans un emplacement WebDAV</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Nous avons résolu un problème pour lequel un utilisateur cliquait sur un commentaire, mais un autre commentaire était sélectionné</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**16 août 2019**<br/>
+Version 1909 (build 12013.20000)<br/>
+
+### <a name="powerpoint-feature-updates"></a>Mises à jour de fonctionnalités de PowerPoint :
+
+- **Imprimer des numéros de diapositives sur des documents :** les numéros de diapositive sont automatiquement inclus dans vos documents. Laissez-les activés, désactivez-les, c’est vous qui décidez.
+
+
+
+
+## <a name="non-security-updates"></a>Mises à jour non liées à la sécurité :
+
+### <a name="excel"></a>Excel
+
+- <div><span>Nous avons résolu un problème qui pouvait entraîner l’activation de l’enregistrement automatique</span></div>
+
+
+- <div>Nous avons résolu un problème qui pouvait entraîner une mesure des hauteurs de cellule de façon incorrecte</div>
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span>Nous avons résolu un problème qui améliore sensiblement les performances de la fonctionnalité commentaires</span></div>
+
+
+- <div><span>Nous avons résolu un problème pouvant provoquer un blocage lors de l’utilisation des touches de direction dans la recherche</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher une mention @ si le symbole @ était placé après certains caractères</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui pouvait parfois provoquer un blocage lors de la suppression de mentions @</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui empêchait les Emoji de s’afficher correctement dans les cartes de commentaires</span></div>
+
+
+- <div><span>Nous avons résolu un problème avec le Presse-papiers actif, qui pouvait parfois provoquer un blocage</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher le fonctionnement des boutons de la barre d’outils accès rapide.</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher l’aperçu de la mise en forme du document de passer à l’arrière-plan</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- Nous avons corrigé un problème dans lequel les noms des sections sont vides dans la liste déroulante des sections lorsque le thème Office est réglé sur Noir.
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Nous avons résolu un problème lié à l’envoi d’événements, qui pouvait entraîner l’augmentation et la perte répétée de focus d’Outlook</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui empêchait le raccourci Publier la réponse au dossier de fonctionner</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Nous avons résolu un problème lié au mode protégé, qui pouvait parfois causer des problèmes lors de la collaboration</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui pouvait empêcher l’affichage correct des tâches dans les volets de commentaires</span></div>
+
+
+- <div><span>Nous avons résolu un problème pouvant provoquer un blocage lors de l’insertion de nouvelles diapositives</span></div>
+
+
+### <a name="user-lifecycle"></a>Cycle de vie de l’utilisateur 
+
+- <div><span>Nous avons résolu un problème qui pouvait se traduire par la disparition de l’affichage de fonctionnalités d’abonnement</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Nous avons résolu un problème dans lequel les liens hypertexte pouvaient être rompus si le lien hypertexte contenait certains caractères</span></div>
+
+
+- <div><span>Nous avons résolu un problème de taille incorrecte des images lors de l’affichage d’un commentaire pour cette image</span></div>
+
+
+- <div><span>Nous avons résolu un problème avec le menu déroulant liste à puces, qui pouvait parfois provoquer un blocage</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**9 août 2019**<br/>
