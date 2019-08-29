@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473444"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631233"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -23,10 +23,52 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  > [!NOTE]
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. 
   [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+>- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez la page [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
 
-## <a name="version-1907-august-13"></a>Version 1907 :13 août
+## <a name="version-1908-august-26"></a>Version 1908 : 26 août
+*Version 1908 (build 11929.20254)*
+* Divers correctifs de bogues et de performances.
+
+### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalités
+
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. 
+  [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. 
+  [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **Identifiez ce qu’il reste à faire :** sélectionnez Résoudre pour masquer les commentaires et faire ressortir les éléments en cours.
+
+### <a name="office-suite-feature-updates"></a>Suite Office : mises à jour de fonctionnalités
+
+- **Les icônes Office font peau neuve :** nous avons modernisé les icônes Office pour mieux refléter la simplicité, l’efficacité et l’intelligence de l’expérience utilisateur.
+
+### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalités
+
+- **Obtenez des suggestions d’emplacements :** commencez à taper dans le champ Emplacement lors de la planification de rendez-vous et de réunions, Outlook suggère des salles, des adresses et d’autres emplacements récents. 
+  [En savoir plus](https://support.office.com/fr-FR/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. 
+  [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
+
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. 
+  [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. 
+  [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre document. 
+  [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. 
+  [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+## <a name="version-1907-august-13"></a>Version 1907 : 13 août
 *Version 1907 (Build 11901.20218)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
