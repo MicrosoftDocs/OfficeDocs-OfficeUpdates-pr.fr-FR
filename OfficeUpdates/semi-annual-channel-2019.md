@@ -9,42 +9,42 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488506"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672904"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal semi-annuel vers Office 365 ProPlus en 2019, Visio Pro pour Office 365 et le Client de bureau Project Online et Office 365 Business.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal semi-annuel vers Office 365 ProPlus en 2019, Visio Pro pour Office 365 et le client de bureau Microsoft Project Online et Office 365 Business.
 
 > [!NOTE]
-> - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. 
+> - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. 
   [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
 
 ## <a name="version-1902-august-13"></a>Version 1902 :13 août
-*Version 1902 (Build 11328.20392)*
+*Version 1902 (build 11328.20392)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
-- Résolution d’un problème dans lequel l’icône effacer le filtre était affichée pour les segments filtrés et non filtrés dans les tableaux.
+- Résolution d’un problème pour lequel l’icône permettant d’effacer le filtre était affichée pour les segments filtrés et non filtrés dans les tableaux.
 
 ### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
-- Résolution d’un problème qui amenait les utilisateurs dont la boîte aux lettres de base avait été mise à niveau vers l’authentification moderne à voir le mauvais compte associé.
+- Résolution d’un problème pour lequel certains utilisateurs dont l’authentification de base de la boîte aux lettres avait été mise à niveau vers l’authentification moderne avaient un compte associé erroné.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
 - Résolution d’un problème de fermeture inattendue de l’application lors de la collaboration sur un document avec d’autres utilisateurs.
 
 ### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
-- Correction d’un problème dans lequel les champs de mise à jour de VBA étaient lents.
+- Résolution d’un problème pour lequel les champs de mise à jour de VBA étaient lents.
 - Résolution d’un problème lors de l’ouverture d’un fichier .doc, indiquant qu’il est endommagé.
 - Résolution d’un problème de fermeture inattendue de l’application lors de la collaboration sur un document avec d’autres utilisateurs.
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+### <a name="office-suite-non-security-updates"></a>Suite Office : mises à jour non relatives à la sécurité
 - Résolution d’un problème dans lequel la configuration de l’API ne fonctionne pas dans la bibliothèque JavaScript Office dans certains scénarios [En savoir plus](https://support.microsoft.com/fr-FR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1808-august-13"></a>Version 1808 :13 août
@@ -62,7 +62,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
-- Résolution d’un problème dans lequel la configuration de l’API ne fonctionne pas dans la bibliothèque JavaScript Office dans certains scénarios [En savoir plus](https://support.microsoft.com/fr-FR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Résolution d’un problème pour lequel la configuration de l’API ne fonctionnait pas dans la bibliothèque JavaScript Office dans certains scénarios [En savoir plus](https://support.microsoft.com/fr-FR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1902-july-09"></a>Version 1902 : 9 juillet
@@ -96,7 +96,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 - **Désactivez le transfert pour une réunion :** empêchez les participants de transférer votre réunion à d’autres personnes. Il vous suffit d’accéder au ruban et de cliquer sur Options de réponse. [En savoir plus](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
 - **Suggestions de personnes dans l’Assistant Planification :** lisez les recommandations pour les participants à ajouter lorsque vous planifiez une réunion.Il n’est plus nécessaire de passer sans cesse de l’Assistant Planification à la ligne À. [En savoir plus](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
 - **Réserver une salle est encore plus facile :** recherchez une salle de conférence dans plusieurs listes de salles, et changez de liste sans perdre les salles que vous avez sélectionnées.
-- **Nouvelle forme par défaut pour la plage de périodicité :** pour la boîte de dialogue Récurrence, la plage de récurrence utilisée par défaut était « Aucune date de fin ». Cela facilitait la création de séries récurrentes de longue durée, qui peuvent se corrompre avec le temps. Nous mettons à jour la valeur par défaut de la boîte de dialogue Récurrence sur « Terminer avant », afin que notre valeur par défaut corresponde aux meilleures pratiques recommandées pour l'établissement de calendrier.
+- **Nouvelle forme par défaut pour la plage de périodicité :** pour la boîte de dialogue Récurrence, la plage de récurrence utilisée par défaut était « Aucune date de fin ». Cela facilitait la création de séries récurrentes de longue durée, qui peuvent se corrompre avec le temps. Nous mettons à jour la valeur par défaut de la boîte de dialogue Récurrence sur « Terminer avant », afin que notre valeur par défaut corresponde aux meilleures pratiques recommandées pour l’établissement de calendrier.
 - **Participer à des réunions d’équipes à partir de la boîte de dialogue Rappels d’Outlook :** lorsque Outlook rappelle une réunion à venir aux utilisateurs, un bouton Participer en ligne apparaît si la réunion à venir est une réunion d’équipes en ligne. Le processus est le même que pour rejoindre une réunion Skype Entreprise à partir de la boîte de dialogue Rappels d’Outlook.
 - **Masquez les rappels relatifs à des événements passés :** vous pouvez définir votre calendrier pour qu’il efface automatiquement les rappels relatifs aux événements terminés. [En savoir plus](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **Affichez l’URL qui se cache derrière la fonction Liens fiables :** la fonction Liens fiables vous protège contre les URL malveillantes reçues dans un e-mail, mais elle masque l’URL d’origine. Pour afficher le fichier d’origine, pointez votre souris sur l’URL. Nécessite une licence Advanced Threat Protection. 
@@ -186,8 +186,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 - Résolution d’un problème qui empêchait les clients de modifier certains champs sur des éléments migrés. 
 - Résolution d’un problème : les fenêtres n'apparaissaient pas au bon emplacement lorsque la barre des tâches système était située à gauche ou en haut de l'écran.
 - Résout un problème qui provoquait un blocage des clients lors du chargement des images sur la carte de visite.
-- Résout un problème qui provoquait un blocage de certains clients lors du démarrage d'applications Office.
-- Résolution d’un problème : les fenêtres n'apparaissaient pas au bon emplacement lorsque la barre des tâches système était située à gauche ou en haut de l'écran.
+- Résout un problème qui provoquait un blocage de certains clients lors du démarrage d’applications Office.
+- Résolution d’un problème : les fenêtres n’apparaissaient pas au bon emplacement lorsque la barre des tâches système était située à gauche ou en haut de l’écran.
 - Résolution d’un problème qui empêchait les clients de modifier certains champs sur des éléments migrés.
 
 
