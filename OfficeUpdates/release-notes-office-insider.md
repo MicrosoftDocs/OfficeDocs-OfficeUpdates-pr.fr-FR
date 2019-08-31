@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
-ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
+ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
+ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620523"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "36693881"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -29,6 +29,102 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+## <a name="version-1909-august-30"></a>Version 1909 : 30 août
+*Version 1909 (Build 12026.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="powerpoint"></a>PowerPoint
+
+- **Enregistrer une illustration au format SVG** : enregistrez un graphique, une forme ou une autre illustration sous la forme d’un graphique vectoriel évolutif, qui peut être redimensionné sans perte de qualité d’image. 
+  [En savoir plus](https://support.office.com/fr-FR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="excel"></a>Excel
+
+- <div><span>Nous avons résolu un problème pour lequel la touche &nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> Sensitivity </span>était&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">en conflit avec une autre touche d’accès.</span></span></div>
+
+- <div><span>Nous avons résolu un problème qui se produisait lors de l’enregistrement d’un classeur partagé lorsque vous essayiez de l’enregistrer.</span></div>
+
+- <div><span>Nous avons résolu un problème lorsqu’Excel ne répertorie que les 16 premiers compléments situés dans les valeurs de Registre «\Excel\Add-in Manager».<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></div>
+
+
+- <div><span>Nous avons résolu un problème pour lequel la fonction fréquence() renvoie des résultats incorrects.</span></div>
+
+
+- <div><span>Nous avons considérablement amélioré les performances des filtres par couleur.</span></div>
+
+
+- <div><span>Nous avons résolu un problème pour les utilisateurs de Surface où le déplacement de la souris peut être interprété comme un clic de souris.</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui empêchait la navigation au clavier dans la boîte de dialogue Rechercher/Remplacer.</span></div>
+
+
+- <div><span>Nous avons résolu un problème dans lequel le nom de certaines polices ne s’affiche pas correctement.</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui empêchait le format CSV d’apparaître comme un type de fichier pris en charge</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>Nous avons résolu un problème dans lequel les utilisateurs pouvaient recevoir un message d’erreur &quot;état incohérent&quot; lors de l’utilisation d’une base de données partagée.</div>
+
+
+- <div><span>Nous avons résolu un problème qui pouvait entraîner l’affichage du sélecteur de dates lorsque celui-ci ne devrait pas s’afficher.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Nous avons résolu un problème qui empêchait l’affichage du contenu HTML pour certains utilisateurs POP3.</span></div>
+
+
+- <div><span>Nous avons résolu un problème de suppression du lien «planificateur» non fonctionnels à partir du menu dépassement de capacité dans la carte de visite lorsque vous travaillez dans des environnements où celui-ci n’est pas disponible.</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- <div><span>Nous avons résolu un problème&nbsp;où l’activation de la synchronisation d’arrière-plan de OneNote prenait tout le focus.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Nous avons résolu un problème qui affectait l’orientation de rotation d’un plateau tournant 3D.</span></div>
+
+- <div><span>Nous avons résolu un problème qui empêchait l’ouverture de liens hypertextes si leurs noms contenaient des caractères spéciaux.</span></div>
+
+- <div><span>Nous avons résolu un problème qui a entraîné l’ouverture de plusieurs volets de commentaires en même temps.</span></div>
+
+### <a name="project"></a>Project
+
+- <div><span>Nous avons résolu un problème qui pouvait parfois provoquer un blocage lors de l’impression de l’affichage d’un planning Team.</span></div>
+
+### <a name="word"></a>Word
+
+- <div>Nous avons<span> résolu un problème dans lequel les caractères multi-octets dans la zone de texte verticale apparaissent superposés en mode lecture.<br></span></div>
+
+- <div><span>Nous&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);"> avons résolu un problème dans lequel les ressources de compléments relatifs aux cartes postales et de cartes de vœux japonaises n’étaient pas trouvées lorsque l’utilisateur exécutait une action dans l’Assistant complément.</span></span></div>
+
+- <div><span>Nous avons résolu un problème pouvant être à l’origine de problèmes avec l’interface utilisateur de la barre de titre en mode protégé</span></div>
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> Nous avons résolu un problème de fichier endommagé lorsque vous modifiez la forme sur une sélection qui contient à la fois une forme normale et une forme de connecteur.</span></span></div>
+
+- <div><span>Nous avons résolu un problème à <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">l’origine du problème dans les applications lors de l’utilisation de l’option ancrer/retirer de plusieurs écrans externes.</span></span></div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="august-23-2019br"></a>**23 août 2019**<br/>
 Version 1909 (Build 12015.20004)<br/>
@@ -1038,6 +1134,14 @@ Cette fonctionnalité est un amélioration du produit pour les utilisateurs qui 
 
 ## <a name="april-12-2019"></a>12 avril 2019
 Version 1905 (Build 11601.20042)
+
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="access"></a>Access
+
+#### <a name="get-smart-with-microsoft-graph"></a>Travailler malin avec Microsoft Graph
+
+Importez ou joignez des données intelligentes tout en réinventant votre base de données du bureau avec la Technologie Intelligente.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
