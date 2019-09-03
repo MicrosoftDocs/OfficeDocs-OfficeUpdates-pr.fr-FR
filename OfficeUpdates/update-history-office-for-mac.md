@@ -53,8 +53,7 @@ Version 16.28 (19081202)
 
 Le tableau suivant fournit des informations sur les packages les plus récents, y compris un lien de téléchargement, pour d’autres programmes Mac de Microsoft qui pourraient intéresser les professionnels de l’informatique. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version.
 
-
-  **Remarque :** les informations de publication de Microsoft AutoUpdate (MAU) ont été déplacées vers la page [Historique des publications MAU](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/><br/>
+**Remarque :** les informations de publication de Microsoft AutoUpdate (MAU) ont été déplacées vers la page [Historique des publications MAU](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/><br/>
 
   
 |**Programme**|**Version**|**Package**|**Plus d’informations**|**Code de hachage SHA-1/ SHA-256**|

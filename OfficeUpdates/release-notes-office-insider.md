@@ -39,8 +39,7 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Enregistrer une illustration au format SVG** : enregistrez un graphique, une forme ou une autre illustration sous la forme d’un graphique vectoriel évolutif, qui peut être redimensionné sans perte de qualité d’image. 
-  [En savoir plus](https://support.office.com/fr-FR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Enregistrer une illustration au format SVG** : enregistrez un graphique, une forme ou une autre illustration sous la forme d’un graphique vectoriel évolutif, qui peut être redimensionné sans perte de qualité d’image. [En savoir plus](https://support.office.com/fr-FR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -509,8 +508,7 @@ En train de rédiger une présentation ? Appliquez le style de croquis pour indi
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour en faciliter l’accès :** vous le trouverez dans Imprimer > menu déroulant Mode Page quand une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. 
-  [En savoir plus](https://support.office.com/fr-FR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour en faciliter l’accès :** vous le trouverez dans Imprimer > menu déroulant Mode Page quand une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. [En savoir plus](https://support.office.com/fr-FR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 

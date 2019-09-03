@@ -138,8 +138,7 @@ Version 1905 (build 11624.20000)<br/>
 **Office Insider sur Twitter**<br/> Sur @OfficeInsider, nous publions fréquemment des posts sur les versions Insider et hébergeons des événements spéciaux pour les participants au programme Insider.<br/> 
 [Suivez-nous sur Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![Image montrant l’icône Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/fr-FR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 

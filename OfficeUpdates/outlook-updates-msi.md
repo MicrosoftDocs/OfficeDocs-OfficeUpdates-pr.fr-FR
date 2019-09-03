@@ -56,7 +56,6 @@ La compatibilité d’Outlook avec Office 365 et votre environnement local dép
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |PU d’octobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  PU d’avril 2015 pour Office 2010 pour MAPI/HTTP <br/> 
-  [KB2956191](https://support.microsoft.com/fr-FR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Mise à jour publique de juillet 2019 <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |PU d’octobre 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  PU d’avril 2015 pour Office 2010 pour MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/fr-FR/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Mise à jour publique de juillet 2019 <br/>[KB4475509](https://support.microsoft.com/help/4475509) <br><br><br><br/>|
    
 

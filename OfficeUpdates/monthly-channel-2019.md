@@ -21,8 +21,7 @@ ms.locfileid: "36631233"
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal mensuel pour Office 365 ProPlus en 2019, Visio Pro pour Office 365, le Client de bureau Project Online et Office 365 Business.
  
  > [!NOTE]
->- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. 
-  [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez la page [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
 
@@ -32,11 +31,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="excel-feature-updates"></a>Excel : mises à jour de fonctionnalités
 
-- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. 
-  [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. 
-  [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **Identifiez ce qu’il reste à faire :** sélectionnez Résoudre pour masquer les commentaires et faire ressortir les éléments en cours.
 
@@ -46,27 +43,21 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="outlook-feature-updates"></a>Outlook : mises à jour de fonctionnalités
 
-- **Obtenez des suggestions d’emplacements :** commencez à taper dans le champ Emplacement lors de la planification de rendez-vous et de réunions, Outlook suggère des salles, des adresses et d’autres emplacements récents. 
-  [En savoir plus](https://support.office.com/fr-FR/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- **Obtenez des suggestions d’emplacements :** commencez à taper dans le champ Emplacement lors de la planification de rendez-vous et de réunions, Outlook suggère des salles, des adresses et d’autres emplacements récents. [En savoir plus](https://support.office.com/fr-FR/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. 
-  [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 
-- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. 
-  [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. 
-  [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
-- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre document. 
-  [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre document. [En savoir plus](https://support.office.com/fr-FR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. 
-  [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/fr-FR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>Version 1907 : 13 août
 *Version 1907 (Build 11901.20218)*
@@ -90,42 +81,33 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 - **Codez rapidement avec les améliorations de Power Query** : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Vous découvrirez également facilement les fonctions, les colonnes et les paramètres.
 
-- **Créer un graphique de carte :** cette fonctionnalité est une amélioration du produit pour les utilisateurs qui tracent des graphiques de cartes renseignés à l’aide des types de données géographiques d’Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone. 
-  [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Créer un graphique de carte :** cette fonctionnalité est une amélioration du produit pour les utilisateurs qui tracent des graphiques de cartes renseignés à l’aide des types de données géographiques d’Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone. [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Joindre des tables sur des colonnes similaires :** Récupérer et transformer (Power Query) présente désormais une logique de correspondance de texte approximative (également appelée correspondance approximative) lorsque vous comparez des colonnes pour fusionner des tables. 
-  [En savoir plus](https://support.office.com/fr-FR/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **Joindre des tables sur des colonnes similaires :** Récupérer et transformer (Power Query) présente désormais une logique de correspondance de texte approximative (également appelée correspondance approximative) lorsque vous comparez des colonnes pour fusionner des tables. [En savoir plus](https://support.office.com/fr-FR/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 
-- **Recevez des suggestions par email lorsque vous recherchez une personne :** lorsque vous tapez le nom d’une personne dans la zone de recherche, les e-mails les plus pertinents seront inclus avec vos suggestions de recherche. 
-  [En savoir plus](https://support.office.com/fr-FR/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **Recevez des suggestions par email lorsque vous recherchez une personne :** lorsque vous tapez le nom d’une personne dans la zone de recherche, les e-mails les plus pertinents seront inclus avec vos suggestions de recherche. [En savoir plus](https://support.office.com/fr-FR/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 
 - **Finies les ouvertures systématiques dans le navigateur :** vous choisissez où ouvrir les liens des documents Office : dans le navigateur ou dans l’application.
 
-- **Les vidéos en ligne ont un nouvel emplacement :** enregistrez une vidéo sur Microsoft Stream afin que tous les membres de votre organisation puissent la voir. Insérez le lien de la vidéo et profitez d’une présentation multimédia pour une fraction de la taille du fichier. 
-  [En savoir plus](https://support.office.com/fr-FR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Les vidéos en ligne ont un nouvel emplacement :** enregistrez une vidéo sur Microsoft Stream afin que tous les membres de votre organisation puissent la voir. Insérez le lien de la vidéo et profitez d’une présentation multimédia pour une fraction de la taille du fichier. [En savoir plus](https://support.office.com/fr-FR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **Créer un graphique de carte :** cette fonctionnalité est une amélioration du produit pour les utilisateurs qui tracent des graphiques de cartes renseignés à l’aide des types de données géographiques d’Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone. 
-  [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Créer un graphique de carte :** cette fonctionnalité est une amélioration du produit pour les utilisateurs qui tracent des graphiques de cartes renseignés à l’aide des types de données géographiques d’Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone. [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour un accès plus aisé :** vous le trouverez dans Imprimer > menu déroulant Mode Page lorsqu’une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. 
-  [En savoir plus](https://support.office.com/fr-FR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour un accès plus aisé :** vous le trouverez dans Imprimer > menu déroulant Mode Page lorsqu’une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. [En savoir plus](https://support.office.com/fr-FR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
-- **Restez concentré :** l’une des fonctionnalités les plus appréciées des ordinateurs Mac arrive sur Windows. Passez en mode Focus via le menu Affichage afin de supprimer toute distraction et pouvoir vous concentrer sur votre travail. 
-  [En savoir plus](https://support.office.com/fr-FR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **Restez concentré :** l’une des fonctionnalités les plus appréciées des ordinateurs Mac arrive sur Windows. Passez en mode Focus via le menu Affichage afin de supprimer toute distraction et pouvoir vous concentrer sur votre travail. [En savoir plus](https://support.office.com/fr-FR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **Finies les ouvertures systématiques dans le navigateur :** vous choisissez où ouvrir les liens des documents Office : dans le navigateur ou dans l’application.
 
-- **Créer un graphique de carte :** cette fonctionnalité est une amélioration du produit pour les utilisateurs qui tracent des graphiques de cartes renseignés à l’aide des types de données géographiques d’Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone. 
-  [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Créer un graphique de carte :** cette fonctionnalité est une amélioration du produit pour les utilisateurs qui tracent des graphiques de cartes renseignés à l’aide des types de données géographiques d’Excel. L’avantage aux utilisateurs finaux sera plus une intégration riche entre les fonctionnalités et plus précisément une localisation de la région que l’utilisateur final souhaite mapper. Les avantages supplémentaires sont les suivants : possibilité de mapper la ville polygone. [En savoir plus](https://support.office.com/fr-FR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Effacez avec précision :** faites votre choix parmi deux tailles de gomme pour résoudre les petites imperfections de l’entrée manuscrite. 
-  [En savoir plus](https://support.office.com/fr-FR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Effacez avec précision :** faites votre choix parmi deux tailles de gomme pour résoudre les petites imperfections de l’entrée manuscrite. [En savoir plus](https://support.office.com/fr-FR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>Version 1906 : 9 juillet
 *Version 1906 (build 11727.20244)*
@@ -161,28 +143,23 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
 
-- **Regardez vos feuilles de calcul s’animer :** insérez des graphiques 3D animés pour voir des battements de cœur, des planètes en orbite ou un tyrannosaure dans le classeur. 
-  [En savoir plus](https://support.office.com/fr-FR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **Regardez vos feuilles de calcul s’animer :** insérez des graphiques 3D animés pour voir des battements de cœur, des planètes en orbite ou un tyrannosaure dans le classeur. [En savoir plus](https://support.office.com/fr-FR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 
-- **Un ruban simplifié et personnalisable :** Profitez d’une seule ligne simplifiée avec les boutons les plus utilisés. Basculez aisément entre les affichages classique et simplifié et épinglez/désépinglez des commandes. 
-  [En savoir plus](https://support.office.com/fr-FR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **Un ruban simplifié et personnalisable :** Profitez d’une seule ligne simplifiée avec les boutons les plus utilisés. Basculez aisément entre les affichages classique et simplifié et épinglez/désépinglez des commandes. [En savoir plus](https://support.office.com/fr-FR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
 - **Sélectionnez votre action préférée:** ne pas utiliser indicateur et supprimer? Qu’en est-il d’Archiver ou Marquer comme lu ? Personnalisez le menu d’actions rapides avec les commandes que vous utilisez le plus.
 
 - **Amélioration de la synchronisation des dossiers partagés pour les boîtes aux lettres comportant de nombreux dossiers :** Pendant des années, Outlook a été limité à un maximum de 500 dossiers lors de la synchronisation de boîtes aux lettres partagées. Avec cette modification, la synchronisation d’Outlook a été améliorée de façon à s’affranchir de la limite de 500 dossiers.
 
-- **Les paramètres de la boîte de réception prioritaire restent sur plusieurs appareils :** vos préférences de boîte de réception prioritaire sont désormais stockées dans le Cloud. Profitez de la même expérience lorsque vous utilisez Outlook pour Windows sur n’importe quel ordinateur et Outlook sur le web. 
-  [En savoir plus](https://support.office.com/fr-FR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+- **Les paramètres de la boîte de réception prioritaire restent sur plusieurs appareils :** vos préférences de boîte de réception prioritaire sont désormais stockées dans le Cloud. Profitez de la même expérience lorsque vous utilisez Outlook pour Windows sur n’importe quel ordinateur et Outlook sur le web. [En savoir plus](https://support.office.com/fr-FR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **Mise en forme aérée ou plus ajustée ? Vous décidez :** Utiliser un espacement plus étroit vous permet de décider si vous souhaitez davantage d’espace entre les éléments ou une disposition plus étroite pour en voir plus.
 
-- **Nous avons mis à jour l’expérience utilisateur Outlook pour vous :** Une expérience simplifiée, auparavant disponible en préversion, conçue pour vous aider à vous concentrer sur l’essentiel. 
-  [En savoir plus](https://support.office.com/fr-FR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **Nous avons mis à jour l’expérience utilisateur Outlook pour vous :** Une expérience simplifiée, auparavant disponible en préversion, conçue pour vous aider à vous concentrer sur l’essentiel. [En savoir plus](https://support.office.com/fr-FR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **Un dessin pour le dire :** dessinez à main levée sur des images ou ajoutez une zone de dessin pour transmettre vos idées avec l’entrée manuscrite. 
-  [En savoir plus](https://support.office.com/fr-FR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **Un dessin pour le dire :** dessinez à main levée sur des images ou ajoutez une zone de dessin pour transmettre vos idées avec l’entrée manuscrite. [En savoir plus](https://support.office.com/fr-FR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
@@ -291,7 +268,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ## <a name="version-1904-may-14"></a>Version 1904 : 14 mai 
 *Version 1904 (Build 11601.20204)*
 
- - Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/OfficeUpdates/office365-proplus-security-updates)
+ - Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-8"></a>Version 1904 : 8 mai
 *Version 1904 (build 11601.20178)*
@@ -356,7 +333,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ## <a name="version-1903-april-9"></a>Version 1903 : 9 avril
 *Version 1903 (Build 11425.20204)* 
 
-- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/OfficeUpdates/office365-proplus-security-updates)
+- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : mises à jour non relatives à la sécurité
 - Résolution d’un problème dans Lync (Skype Entreprise) qui avait pour effet que, quand une réunion en ligne comptait plus de 7 participants, il pouvait arriver que la fenêtre de réunion disparaisse.
@@ -421,8 +398,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 
-- 
-  **Pause intégrée entre les réunions qui se suivent :** laissez les participants souffler ou se déplacer entre les sites en paramétrant les réunions pour qu’elles se terminent 5 à 10 minutes plus tôt par défaut. [En savoir plus](https://support.office.com/fr-FR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **Pause intégrée entre les réunions qui se suivent :** laissez les participants souffler ou se déplacer entre les sites en paramétrant les réunions pour qu’elles se terminent 5 à 10 minutes plus tôt par défaut. [En savoir plus](https://support.office.com/fr-FR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Utiliser la lecture à voix haute pour écouter vos e-mails :** Outlook peut lire vos e-mails à voix haute, en mettant le texte en surbrillance à mesure de la lecture.Pour activer la fonctionnalité Lecture à voix haute, accédez aux paramètres d’ergonomie. [En savoir plus](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -441,8 +417,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
  
 ### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
 
-- 
-  **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/DeployOffice/teams-install)
+- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Version 1901 : 12 février
 *Version 1901 (build 11231.20174)* 

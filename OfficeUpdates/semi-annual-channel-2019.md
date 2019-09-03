@@ -21,8 +21,7 @@ ms.locfileid: "36672904"
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal semi-annuel vers Office 365 ProPlus en 2019, Visio Pro pour Office 365 et le client de bureau Microsoft Project Online et Office 365 Business.
 
 > [!NOTE]
-> - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. 
-  [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
 
 ## <a name="version-1902-august-13"></a>Version 1902 :13 août
@@ -99,8 +98,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 - **Nouvelle forme par défaut pour la plage de périodicité :** pour la boîte de dialogue Récurrence, la plage de récurrence utilisée par défaut était « Aucune date de fin ». Cela facilitait la création de séries récurrentes de longue durée, qui peuvent se corrompre avec le temps. Nous mettons à jour la valeur par défaut de la boîte de dialogue Récurrence sur « Terminer avant », afin que notre valeur par défaut corresponde aux meilleures pratiques recommandées pour l’établissement de calendrier.
 - **Participer à des réunions d’équipes à partir de la boîte de dialogue Rappels d’Outlook :** lorsque Outlook rappelle une réunion à venir aux utilisateurs, un bouton Participer en ligne apparaît si la réunion à venir est une réunion d’équipes en ligne. Le processus est le même que pour rejoindre une réunion Skype Entreprise à partir de la boîte de dialogue Rappels d’Outlook.
 - **Masquez les rappels relatifs à des événements passés :** vous pouvez définir votre calendrier pour qu’il efface automatiquement les rappels relatifs aux événements terminés. [En savoir plus](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **Affichez l’URL qui se cache derrière la fonction Liens fiables :** la fonction Liens fiables vous protège contre les URL malveillantes reçues dans un e-mail, mais elle masque l’URL d’origine. Pour afficher le fichier d’origine, pointez votre souris sur l’URL. Nécessite une licence Advanced Threat Protection. 
-  [En savoir plus](https://products.office.com/fr-FR/exchange/advance-threat-protection)
+- **Affichez l’URL qui se cache derrière la fonction Liens fiables :** la fonction Liens fiables vous protège contre les URL malveillantes reçues dans un e-mail, mais elle masque l’URL d’origine. Pour afficher le fichier d’origine, pointez votre souris sur l’URL. Nécessite une licence Advanced Threat Protection. [En savoir plus](https://products.office.com/fr-FR/exchange/advance-threat-protection)
 - **Ajuster le zoom et le conserver :** au lieu d’ajuster le zoom chaque fois que vous lisez un message, choisissez la valeur par défaut à utiliser pour tous vos messages. [En savoir plus](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Chiffrement des messages : stratégie IRM Chiffrer uniquement :** la nouvelle option Chiffrer uniquement apparaît dans le menu Options > Autorisations pour les utilisateurs du chiffrement des messages Office 365. Cette option vous permet de chiffrer un message et de l’envoyer aux personnes internes ou externes à votre organisation.
 - **Avertissement lorsque vous avez été mis en copie carbone invisible :** avant que vous ne répondiez accidentellement à tous à un e-mail, l’info-bulle Cci vous avertit que vous avez été mis en copie carbone invisible.
@@ -119,7 +117,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 - **Vous esquissez, nous perfectionnons :** nous modifions le texte dessiné à la main et l’insérons dans des diagrammes optimisés. Il vous suffit de sélectionner vos traits pour commencer. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Affichez ce qui se trouve derrière une image :** placez une image dans une feuille de calcul, sélectionnez votre préréglage et observez le changement de transparence. Et voilà ! [En savoir plus](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Créer de superbes diapositives à l’aide des entrées manuscrites :** convertissez vos entrées manuscrites en texte, puis consultez les idées de conception intelligentes générées par le Concepteur PowerPoint. [En savoir plus](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
-- **Publier sur Microsoft Stream :** partagez une présentation sous forme de vidéo en toute sécurité au sein de votre organisation à l’aide de Microsoft Stream. [En savoir plus](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
+- **Publier sur Microsoft Stream :** partagez une présentation sous forme de vidéo en toute sécurité au sein de votre organisation à l’aide de Microsoft Stream. [En savoir plus](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Exportez au format 4K :** lorsque vous exportez une présentation au format vidéo, vous pouvez désormais utiliser la résolution 4K.  [En savoir plus](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -151,8 +149,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
 
 - **Les applications tierces d’Office prennent désormais en charge l’insertion des SVG à l’aide de l’API office.js :** les applications tierces (également appelées compléments dans Office) ont désormais la possibilité d’insérer des SVG. Les utilisateurs peuvent maintenant connecter leur collection personnelle de SVG à Office. Les développeurs peuvent utiliser cette fonctionnalité à l’aide de l’API Office.js.
-- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. 
-  [En savoir plus](https://docs.microsoft.com/fr-FR/DeployOffice/teams-install)
+- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Entreprise : Mises à jour de fonctionnalité
 
@@ -227,8 +224,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
  - Résolution d’un problème qui avait pour effet que la liste des fichiers récents semblait avoir été effacée pour de nombreux utilisateurs sous Windows 10.
  - Résolution d’un problème qui avait pour effet que l’utilisateur final voyait s’afficher une barre Office Update, même si une mise à jour déclenchée par l’administrateur était en cours.
  - Résolution de problèmes liés aux invites de connexion vides intermittentes.
- - Résolution d’un problème qui avait pour effet que des parties d’une mise à jour Office n’utilisaient pas la mise en cache partagé entre systèmes homologues pour l’optimisation de la distribution. 
-  [En savoir plus]("https://docs.microsoft.com/fr-FR/windows/deployment/update/waas-delivery-optimization)
+ - Résolution d’un problème qui avait pour effet que des parties d’une mise à jour Office n’utilisaient pas la mise en cache partagé entre systèmes homologues pour l’optimisation de la distribution. [En savoir plus]("https://docs.microsoft.com/fr-FR/windows/deployment/update/waas-delivery-optimization)
 - Résolution d’un bogue qui pouvait entraîner la suppression ou la non-activation de produits si Office était installé à l’aide de l’outil de déploiement Office en cas d’incompatibilité de casse.
 - Résolution d’un problème qui entraînait des invites de connexion excessives sur les appareils Windows 10 (version 1803 ou ultérieure).
 - Résolution du problème qui provoquait des blocages lors du téléchargement d’images liées.
@@ -528,8 +524,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 ### <a name="office-suite-security-update"></a>Suite Office : mise à jour de sécurité
 
-- 
-  **Activation des contrôles Flash, Silverlight et Shockwave bloquée dans Office pour des raisons de sécurité :** pour des raisons de sécurité, les nouvelles versions build de Microsoft Office pour Office 365 sur Windows bloquent l’activation des contrôles Flash, Silverlight et Shockwave. Apprenez-en davantage [ici](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) et [ici](https://support.office.com/fr-FR/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+- **Activation des contrôles Flash, Silverlight et Shockwave bloquée dans Office pour des raisons de sécurité :** pour des raisons de sécurité, les nouvelles versions build de Microsoft Office pour Office 365 sur Windows bloquent l’activation des contrôles Flash, Silverlight et Shockwave. Apprenez-en davantage [ici](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) et [ici](https://support.office.com/fr-FR/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
  
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 - Résolution d’un problème : l’installation de la mise à jour était plus longue dans certains scénarios.
