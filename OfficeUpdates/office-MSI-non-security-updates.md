@@ -3,19 +3,19 @@ title: Dernières mises à jour non liées à la sécurité pour les versions d�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 08/07/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: 8e9dbe270b0cd2104f73f363b865f6c3d8b498df
+ms.sourcegitcommit: bd6e681bdde320ee6d55f7d4e4434d4f0cde7a81
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231589"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36713537"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -26,6 +26,23 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 > - Les informations contenues dans cet article ne s’appliquent pas aux versions d’Office 365, telles qu’Office 365 ProPlus.
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="september-3-2019"></a>3 septembre 2019
+
+**Office 2016**<br/>
+Mise à jour pour Microsoft Office 2016 ([KB3114852](https://support.microsoft.com/help/3114852))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4011629](https://support.microsoft.com/help/4011629))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4464531](https://support.microsoft.com/help/4464531))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4464584](https://support.microsoft.com/help/4464584))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4475580](https://support.microsoft.com/help/4475580))<br/>
+Mise à jour pour Microsoft Outlook 2016 ([KB4475593](https://support.microsoft.com/help/4475593))<br/>
+Mise à jour pour Microsoft Word 2016 ([KB4475592](https://support.microsoft.com/help/4475592))<br/>
+Mise à jour pour Skype Entreprise 2016 ([KB4475577](https://support.microsoft.com/help/4475577))<br/>
+
+**Office 2013**<br/>
+Mise à jour pour Microsoft Office 2013 ([KB4475562](https://support.microsoft.com/help/4475562))<br/><br/>
+
+
 
 ## <a name="august-6-2019"></a>6 août 2019
 
