@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693881"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785411"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -29,6 +29,60 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+## <a name="version-1910-september-06"></a>Version 1910 : 06 septembre
+*Version 1910 (Build 12030.20004)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/fr-FR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/fr-FR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/fr-FR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="excel"></a>Excel
+
+- <div><span>Nous avons corrigé un problème qui pourrait faire en sorte que le nom de la police dans le ruban soit différent de celui de la police utilisée</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Nous avons corrigé un problème qui pourrait entraîner une consommation inappropriée de ressources par Outlook lorsque le mode protégé est désactivé pour les sites à accès restreint dans Internet Explorer</span></div>
+
+
+- <div><span>Nous avons corrigé un problème qui pourrait parfois provoquer l'apparition de caractères Unicode lors du collage de texte provenant d'une source ANSI</span></div>
+
+
+- <div><span>Nous avons corrigé un problème dans lequel certains utilisateurs apparaissaient par erreur en mode hors connexion dans une vue Planning de groupe</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Nous avons corrigé un problème où la mise en forme des tableaux pourrait être perdue</span></div>
+
+
+- <div><span>Nous avons corrigé un problème qui pourrait rompre le raccourci clavier Ctrl + V</span></div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1909-august-30"></a>Version 1909 : 30 août
 *Version 1909 (Build 12026.20000)*
