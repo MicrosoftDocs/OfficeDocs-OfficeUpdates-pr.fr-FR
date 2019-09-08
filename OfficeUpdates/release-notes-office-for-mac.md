@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
-ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
+ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
+ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36567204"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36758208"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -115,6 +115,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
 - **Attirez leur attention avec \@Mentions :** Utilisez les @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.
+- **Améliorations de la co-création** : Performances de Word améliorées lors de la co-création de documents.
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 
