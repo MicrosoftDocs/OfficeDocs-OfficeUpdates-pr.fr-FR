@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
-ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
+ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36758208"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838241"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -33,7 +33,32 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > > 
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-**Remarque:** les informations relatives à la publication de la mise à jour automatique Microsoft (AutoUpdate) ont été déplacées vers la page [Historique des publications sur la mise à jour automatique Microsoft (AutoUpdate)](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
+**Remarque :** les informations de publication de Microsoft AutoUpdate (MAU) ont été déplacées vers la page [Historique des publications MAU](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="september-10-2019-release"></a>Version du 10 septembre 2019
+*Version 16.29 (build 19090802)*
+
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalités
+
+- Résolution de divers problèmes de performances.
+### <a name="excel--feature-updates"></a>Excel : Mises à jour de fonctionnalités
+
+- **Onglets de la feuille de couleur complète :** lorsque vous choisissez une couleur d’onglet pour votre feuille de calcul, la couleur remplit à présent l’onglet en entier afin d’en faciliter la lecture.
+
+- **Actualiser les données des fichiers locaux sur Mac :** actualisez vos requêtes Power Query sur Mac à partir des fichiers texte, CSV, XLSX, XML et JSON. 
+
+ ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
+
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1263) : Vulnérabilité de divulgation d’informations Microsoft Excel
+- [CVE-2019-1297](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1297) : Vulnérabilité d’exécution de code à distance Microsoft Excel
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
+
+- Résolution de divers problèmes de performances.
+
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalités
+
+- Résolution de divers problèmes de performances.
 
 ## <a name="august-13-2019-release"></a>Version du 13 août 2019
 *Version 16.28 (build 19081202)*
