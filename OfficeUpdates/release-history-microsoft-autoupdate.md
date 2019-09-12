@@ -3,19 +3,19 @@ title: Historique des versions pour la mise à jour automatique Microsoft (AutoU
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429938"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838184"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -31,6 +31,26 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="september-2019-release"></a>Version de septembre 2019
+
+**Date de publication :** 10 septembre 2019
+
+*Mise à jour automatique Microsoft 4.15*
+
+ **Mises à jour des fonctionnalités :**
+
+- Les notifications d’échéance de mise à jour Microsoft Auto Update affichent désormais les heures d’échéance des utilisateurs finaux dans le format d’heure de leur appareil local.
+- Daemon Microsoft Auto Update AU se nomme désormais Assistant de mise à jour Microsoft.
+- Résolution d’un problème où le focus était retiré de l’application de premier plan lors de l’exécution de la commande « msupdate ».
+
+
+**Lien vers la mise à jour d’AutoUpdate :**
+
+[Télécharger le package Microsoft AutoUpdate 4.15](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Code de hachage SHA-256 :**
+
+E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 ## <a name="august-2019-release"></a>Version d’août 2019
 
 **Date de publication :** 13 août 2019
@@ -49,7 +69,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 <br/>
 **Code de hachage SHA-256 :**
 
-76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
 ## <a name="july-2019-release"></a>Version de juillet 2019
 
 **Date de publication :** 18 juillet 2019
@@ -154,6 +174,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 |**Date de sortie**|**Version**|**Plus d’informations**||
 |:-----|:-----|:-----|:-----|
+|10 septembre 2019 <br/>|4.15 <br/> |  <br/> ||
+|13 août 2019 <br/>|4.14 <br/> |  <br/> ||
 |18 juillet 2019 <br/>|4.13 <br/> |  <br/> ||
 |27 juin 2019 <br/>9 juin 2019|4.12 <br/> | <br/> ||
 |14 mai 2019 <br/>|4.11 <br/> |  <br/> | <br/> |

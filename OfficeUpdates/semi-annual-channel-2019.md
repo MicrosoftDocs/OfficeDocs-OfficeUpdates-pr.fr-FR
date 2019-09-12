@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
-ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
+ms.openlocfilehash: 9d7decd6b91045b9a7669428749c4fc3d7b3cc0d
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672904"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838295"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -24,7 +24,46 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
 
-## <a name="version-1902-august-13"></a>Version 1902 :13 août
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1902-september-10"></a>Version 1902 : 10 septembre
+*Version 1902 (Build 11328.20420)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="access"></a>Access
+
+- Résolution d’un problème qui entraînait une plus grande lenteur lors de l’exécution de certaines requêtes dans Microsoft Access que dans les versions précédentes.
+
+### <a name="outlook"></a>Outlook
+
+- Résolution d’un problème de service temporaire qui avait pour effet que les utilisateurs voyaient le message d’erreur « Impossible de trouver ce fichier. Vérifiez que le chemin d’accès et le nom du fichier sont corrects » lors de l’utilisation de pièces jointes Cloud. [En savoir plus](https://support.office.com/fr-FR/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+
+- Résolution d’un problème dans lequel les noms des fichiers chargés à partir d’Outlook vers OneDrive ou Sharepoint étaient modifiés : certains caractères étaient remplacés par des traits de soulignement.
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème dans lequel les utilisateurs recevaient des messages d’erreur lors de la collaboration avec d’autres personnes sur un document Word.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1808-september-10"></a>Version 1808 : 10 septembre
+*Version 1808 (Build 10730.20380)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="access"></a>Access
+
+- Résolution d’un problème qui entraînait une plus grande lenteur lors de l’exécution de certaines requêtes dans Microsoft Access que dans les versions précédentes.
+
+## <a name="version-1902-august-13"></a>Version 1902 : 13 août
 *Version 1902 (build 11328.20392)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
