@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office 2016 pour Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 08/14/2019
+ms.date: 09/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office 2016 pour Mac à partir de septembre 2018
-ms.openlocfilehash: 250eec3a35b6aff91fb2564e5a7260937419f52c
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: ffac7eb3ff3445aee3af050cb9c44e9a419f15bf
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396608"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838134"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Historique des mises à jour pour Office 2016 pour Mac
 
@@ -34,18 +34,34 @@ Les mises à jour d’Office 2016 pour Mac sont disponibles dans la fonctionnal
 
 Le tableau suivant répertorie les packages les plus récents pour Office 2016 pour Mac et les applications individuelles, telles que Word et Excel. Tous les packages sont uniquement en 64 bits. La date du build est mentionnée entre parenthèses, au format AAMMJJ, après le numéro de version. Le package d’installation est utilisé si l’application n’est pas déjà installée, tandis que le package de mise à jour est utilisé pour mettre à jour une installation existante.
 
-### <a name="august-13-2019"></a>13 août 2019
-Version 16.16.13 (19081100)
+### <a name="september-10-2019"></a>10 septembre 2019
+Version 16.16.14 (19090900)
 
 |**Application**|**Liens de téléchargement**|**Codes de hachage SHA256 pour le package d’installation**|
 |:-----|:-----|:-----|:-----|
-|Suite Office (toutes les applications)  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | B7C0C0F07ED96CF0B05DAC594B08935BB53A19DF5C973BB341573EB19DD62DA4 <br/> |
-|Word  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19081100_Updater.pkg) <br/> | 1E5C0F7D2665707FEB34D275E67A59E22B55DE5E9C433D095D95A55373C94061 <br/>|
-|Excel  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19081100_Updater.pkg) <br/> | 91642A3049EE45B436C0E71C635D149B60C7D2BD8A887EDEE9E3EACFACEE9498 <br/>  |
-|PowerPoint  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19081100_Updater.pkg) <br/> | DFC76E11AE3CDCB3BC4012609EE199DEFE69B322FA3AF6D9CE35A77ED4BB15E0 <br/> |
-|Outlook  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19081100_Updater.pkg) <br/> |  FC546182395BC191979476373452EF48646043DC4098C03A4A7D538A744B9552 <br/> |
-|OneNote  <br/> |[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19081100_Updater.pkg) <br/> | Non applicable <br/> |
+|Suite Office (toutes les applications)  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | EEB81C5AAA243ECDA25353F77EFE81E135A5A615805851274D850087A3FCAEB1 <br/> |
+|Word  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19090900_Updater.pkg) <br/> | 3E91A9B70A1DBFC29D2E1258D867018A99337BDD33E1DA0D9BC9A3E70B4BE7D1 <br/>|
+|Excel  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19090900_Updater.pkg) <br/> | 81625BED3B2813D3F54EDFF397BB0541B5FA3C28F6F719297BC5AB1AE2B89B99 <br/>  |
+|PowerPoint  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19090900_Updater.pkg) <br/> | 88B2C56F304EAC25874789F3BFAA8702CCBA8930C2E7BB43E434019653D63F07 <br/> |
+|Outlook  <br/> |[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19090900_Updater.pkg) <br/> |  35584E7C0BAA4EB550492D67FD2DFC858E32F2F13162ED5142E747B5AB76F1DC <br/> |
+|OneNote  <br/> |[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19090900_Updater.pkg) <br/> | Non applicable <br/> |
 
+## <a name="september-2019-release"></a>Version de septembre 2019
+
+ **Date de publication :** 10 septembre 2019 
+  
+ *Version 16.16.14 (Build 19090900)* 
+  
+Cette version inclut les mises à jour suivantes.
+  
+|**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
+|:-----|:-----|:-----|
+|Word  <br/> | |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19090900_Updater.pkg) <br/>|
+|Excel  <br/> | [CVE-2019-1263](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1263)<br/>[CVE-2019-1297](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1297) |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19090900_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19090900_Updater.pkg) <br/>|
+|Outlook  <br/> |<br/>|[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19090900_Updater.pkg) <br/>|
+|OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19090900_Updater.pkg)|
+|Suite Office  <br/> | <br/>||
 ## <a name="august-2019-release"></a>Version d’août 2019
 
  **Date de publication :** 13 août 2019 
@@ -56,7 +72,7 @@ Cette version inclut les mises à jour suivantes.
   
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
-|Word  <br/> | [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201)<br/>[CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205)|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19081100_Updater.pkg) <br/>|
+|Word  <br/> | [CVE-2019-1201](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1201)<br/>[CVE-2019-1205](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1205)|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19081100_Updater.pkg) <br/>|
 |Excel  <br/> |  |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19081100_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19081100_Updater.pkg) <br/>|
 |Outlook  <br/> |<br/>|[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19081100_Updater.pkg) <br/>|
@@ -73,9 +89,9 @@ Cette version inclut les mises à jour suivantes.
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
 |Word  <br/> | |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19071500_Updater.pkg) <br/>|
-|Excel  <br/> | [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110)<br/>[CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111) |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19071500_Updater.pkg) <br/>|
+|Excel  <br/> | [CVE-2019-1110](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1110)<br/>[CVE-2019-1111](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1111) |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19071500_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19071500_Updater.pkg) <br/>|
-|Outlook  <br/> |[CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)<br/>|[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19071500_Updater.pkg) <br/>|
+|Outlook  <br/> |[CVE-2019-1084](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1084)<br/>|[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19071500_Updater.pkg) <br/>|
 |OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19071500_Updater.pkg)|
 |Suite Office  <br/> | <br/>||
 ## <a name="june-2019-release"></a>Version de juin 2019
@@ -88,7 +104,7 @@ Cette version inclut les mises à jour suivantes.
   
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
-|Word  <br/> | [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)<br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19060902_Updater.pkg) <br/>|
+|Word  <br/> | [CVE-2019-1034](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1034)<br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1035)|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19060902_Updater.pkg) <br/>|
 |Excel  <br/> |  <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19060902_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19060902_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19060902_Updater.pkg) <br/>|
@@ -104,7 +120,7 @@ Cette version inclut les mises à jour suivantes.
   
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
-|Word  <br/> | [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)<br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19051200_Updater.pkg) <br/>|
+|Word  <br/> | [CVE-2019-0953](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0953)<br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19051200_Updater.pkg) <br/>|
 |Excel  <br/> |  <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19051200_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19051200_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19051200_Updater.pkg) <br/>|
@@ -121,11 +137,11 @@ Cette version inclut les mises à jour suivantes.
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
 |Word  <br/> | <br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19041201_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)  <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19041201_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2019-0828](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0828)  <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19041201_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19041201_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19041201_Updater.pkg) <br/>|
 |OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19041201_Updater.pkg)|
-|Suite Office  <br/> | [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)<br/>||
+|Suite Office  <br/> | [CVE-2019-0822](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0822)<br/>||
 ## <a name="march-2019-release"></a>Version de mars 2019
 
  **Date de publication :** 12 mars 2019 
@@ -155,7 +171,7 @@ Cette version inclut les mises à jour suivantes.
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
 |Word  <br/> | <br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19021001_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669) <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19021001_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2019-0669](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0669) <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19021001_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19021001_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19021001_Updater.pkg) <br/>|
 |OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19021001_Updater.pkg)|
@@ -172,7 +188,7 @@ Cette version inclut les mises à jour suivantes.
   
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
-|Word  <br/> |[CVE-2019-0561 :](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561) vulnérabilité de divulgation d’informations Microsoft Word  <br/><br/> [CVE-2019-0585 :](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585) vulnérabilité d’exécution de code à distance Microsoft Word <br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19011400_Updater.pkg) <br/>|
+|Word  <br/> |[CVE-2019-0561 :](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0561) vulnérabilité de divulgation d’informations Microsoft Word  <br/><br/> [CVE-2019-0585 :](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0585) vulnérabilité d’exécution de code à distance Microsoft Word <br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19011400_Updater.pkg) <br/>|
 |Excel  <br/> ||[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19011400_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19011400_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19011400_Updater.pkg) <br/>|
@@ -191,8 +207,8 @@ Cette version inclut les mises à jour suivantes.
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
 |Word  <br/> ||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.18120901_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel  <br/> <br/>[CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel|[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/>|
-|PowerPoint  <br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint  <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8597](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel  <br/> <br/>[CVE-2018-8627](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel|[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint  <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.18120901_Updater.pkg) <br/>|
 |OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.18120901_Updater.pkg)|
 |Suite Office  <br/> | <br/>||
@@ -209,7 +225,7 @@ Cette version inclut les mises à jour suivantes.
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
 |Word  <br/> ||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18111001_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8574](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8574) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8577) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18111001_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18111001_Updater.pkg) <br/>|
 |OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18111001_Updater.pkg)|
@@ -231,7 +247,7 @@ Cette version inclut les mises à jour suivantes.
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18101500_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18101500_Updater.pkg) <br/>|
 |OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18101500_Updater.pkg)|
-|Suite Office  <br/> |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432) Vulnérabilité d’exécution de code à distance des composants de graphique Microsoft <br/>||
+|Suite Office  <br/> |[CVE-2018-8432](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8432) Vulnérabilité d’exécution de code à distance des composants de graphique Microsoft <br/>||
 
 
 ## <a name="september-2018-release"></a>Version de septembre 2018
@@ -245,8 +261,8 @@ Cette version inclut les mises à jour suivantes.
 |**Application**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|
 |Word  <br/> ||[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18091001_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429) : Vulnérabilité de divulgation d’informations Microsoft Excel <br/> [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18091001_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8429](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8429) : Vulnérabilité de divulgation d’informations Microsoft Excel <br/> [CVE-2018-8331](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8331) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/> |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18091001_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18091001_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18091001_Updater.pkg) <br/>|
 |OneNote <br/> ||[Package de la mise à jour OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18091001_Updater.pkg)|
-|Suite Office  <br/> |[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332) : Vulnérabilité d’exécution de code à distance Graphics Microsoft <br/>||
+|Suite Office  <br/> |[CVE-2018-8332](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8332) : Vulnérabilité d’exécution de code à distance Graphics Microsoft <br/>||
