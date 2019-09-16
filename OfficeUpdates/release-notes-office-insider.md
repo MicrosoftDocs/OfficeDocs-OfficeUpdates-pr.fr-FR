@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
-ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
+ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "36785411"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972855"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -91,6 +91,11 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+
+### <a name="access"></a>Access
+
+- **Rechercher rapidement des tableaux liés :** notre nouvelle zone de recherche simplifie la recherche de tableaux liés.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Enregistrer une illustration au format SVG** : enregistrez un graphique, une forme ou une autre illustration sous la forme d’un graphique vectoriel évolutif, qui peut être redimensionné sans perte de qualité d’image. [En savoir plus](https://support.office.com/fr-FR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
@@ -560,9 +565,18 @@ Version 1907 (build 11901.20018)
 
 En train de rédiger une présentation ? Appliquez le style de croquis pour indiquer que vous êtes en train de travailler dessus. Ce style donne une touche personnelle à vos objets sans les transformer en formes libres dessinées à main levée.
 
+### <a name="excel"></a>Excel
+
+- **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour en faciliter l’accès :** vous le trouverez dans Imprimer > menu déroulant Mode Page quand une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. [En savoir plus](https://support.office.com/fr-FR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
+
+### <a name="word"></a>Word
+
+- **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
@@ -616,7 +630,11 @@ Version 1907 (build 11819.20002)
 
 - **Codez rapidement avec les améliorations de Power Query** : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Découvrez également facilement les fonctions, les colonnes et les paramètres
 
-- **Joignez des tables sur des colonnes similaires :** la fonctionnalité Récupérer et transformer (Power Query) utilise désormais une logique de correspondance de texte approximative (également appelée correspondance approximative) lorsque vous comparez des colonnes pour fusionner des tables.
+- **Joignez des tables sur des colonnes similaires :** la requête Récupérer et transformer (Power Query) présente désormais une logique de correspondance de texte approximative (également appelée correspondance approximative) lorsque vous comparez des colonnes pour fusionner des tableaux.
+
+### <a name="word"></a>Word
+
+- **Améliorations de la co-création :** fiabilité améliorée lors de la co-création.
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint et Visio
 
@@ -1036,6 +1054,12 @@ accédez à l’onglet Dessiner. Sélectionnez un stylet. Dessinez un trait d’
 ## <a name="may-10-2019"></a>10 mai 2019
 Version 1906 (build 11702.20000)
 
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="outlook"></a>Outlook
+
+**Afficher plus de messages à l’écran :** sélectionnez Afficher > Utiliser un espacement plus étroit pour ajuster l’espacement entre les messages.
+
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
 ### <a name="all"></a>Tous
@@ -1063,6 +1087,12 @@ Version 1906 (build 11702.20000)
 
 ## <a name="may-3-2019"></a>3 mai 2019
 Version 1906 (build 11629.20008)
+
+## <a name="whats-new"></a>Nouveautés :
+
+### <a name="outlook"></a>Outlook
+
+**Toutes vos options de chiffrement au même endroit :** accédez aux Options > Chiffrer pour choisir la sécurisation de votre courrier électronique.
 
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
@@ -1097,6 +1127,10 @@ Version 1906 (build 11629.20008)
 Version 1905 (Build 11617.20002)
 
 ## <a name="new-features"></a>Nouvelles fonctionnalités
+
+### <a name="outlook"></a>Outlook
+
+**Les mises à jour de calendrier partagé sont désormais plus rapides :** pour les calendriers partagés dans Office 365, Outlook peut mettre à jour ces calendriers à l’aide de l’API REST. Activez l’aperçu pour obtenir des mises à jour plus rapides et plus fiables sur les calendriers partagés.
 
 ### <a name="excel"></a>Excel
 
@@ -1135,6 +1169,10 @@ Amélioration de l’expérience de co-création en rendant plus probable la ré
 Version 1905 (Build 11609.20002)
 
 ## <a name="whats-new"></a>Nouveautés :
+
+### <a name="outlook"></a>Outlook
+
+**Recevez des suggestions par email lorsque vous recherchez une personne :** lorsque vous tapez le nom d’une personne dans la zone de recherche, les e-mails les plus pertinents seront inclus avec vos suggestions de recherche.
 
 ### <a name="excel"></a>Excel
 
