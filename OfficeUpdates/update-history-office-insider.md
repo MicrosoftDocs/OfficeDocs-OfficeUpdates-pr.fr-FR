@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider Fast pour ordinateur de bureau Windows
-ms.openlocfilehash: aa36eeaa6eb95cbbf0675f0f6852fc43bfedda87
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: f83de6b5c8a56e0bc7ff83c3c4ac039171839ebc
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631246"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998630"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historique des mises à jour pour le canal Office Insider
 
@@ -24,8 +24,6 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 > - L’historique de mise à jour ici répertorie toutes les builds publiées
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu'au numéro de build publié des notes de publication.
 
-
-
 ## <a name="office-insider-versions-and-builds"></a>Builds et versions Office Insider
 
 Si vous êtes inscrit au niveau Insider, vous recevez des mises à jour fréquentes avec de nouvelles fonctionnalités et des améliorations. La liste suivante affiche un historique des derniers builds et versions Insider, avec **le dernier build publié qui apparaît en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents. 
@@ -33,6 +31,18 @@ Si vous êtes inscrit au niveau Insider, vous recevez des mises à jour fréquen
 Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/fr-FR/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NE PAS SUPPRIMER)
+
+**16 septembre 2019**<br/>
+Version 1910 (build 12112.20000)<br/>
+
+**10 septembre 2019**<br/>
+Version 1910 (build 12105.20000)<br/>
+
+**04 septembre 2019**<br/>
+Version 1910 (build 12030.20004)<br/>
+
+**28 août 2019**<br/>
+Version 1909 (build 12026.20000)<br/>
 
 **26 août 2019**<br/>
 Version 1909 (build 12022.20000)<br/>
@@ -126,7 +136,6 @@ Version 1905 (build 11624.20000)<br/>
 **17 janvier 2019**<br/> Version 1902 (build 11231.20080)<br/>
 
 **10 janvier 2019**<br/> Version 1902 (build 11231.20066)<br/> 
-
 
 ## <a name="insider-community"></a>Communauté Insider
 
