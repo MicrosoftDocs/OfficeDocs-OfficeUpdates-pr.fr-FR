@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 9/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
+ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838241"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "37040692"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -34,6 +34,21 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Remarque :** les informations de publication de Microsoft AutoUpdate (MAU) ont été déplacées vers la page [Historique des publications MAU](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="september-18-2019-release"></a>Version du 18 septembre 2019
+*Version 16.29.1 (build 19091700)*
+
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalités
+
+- Nous avons résolu un problème avec la liste des documents ouverts récemment lorsque vous n’êtes pas connecté à Office.
+
+### <a name="excel--feature-updates"></a>Excel : Mises à jour de fonctionnalités
+
+- Nous avons résolu un problème avec la liste des documents ouverts récemment lorsque vous n’êtes pas connecté à Office.
+
+ ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
+
+- Nous avons résolu un problème avec la liste des documents ouverts récemment lorsque vous n’êtes pas connecté à Office.<br/><br/>
 
 ## <a name="september-10-2019-release"></a>Version du 10 septembre 2019
 *Version 16.29 (build 19090802)*
