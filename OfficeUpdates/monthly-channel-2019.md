@@ -9,20 +9,112 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
+ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011674"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37329252"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal mensuel pour Office 365 ProPlus en 2019, Visio Pro pour Office 365, le Client de bureau Project Online et Office 365 Business.
  
  > [!NOTE]
->- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/fr-FR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez la page [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+>- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+## <a name="version-1909-september-30"></a>Version 1909 : 30 septembre
+*Version 1909 (build 12026.20264)*
+* Diverses résolutions de bogues et de performances.
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="access"></a>Access
+
+- **Rechercher rapidement des tableaux liés :** notre nouvelle zone de recherche simplifie la recherche de tableaux liés. [En savoir plus](https://support.office.com/fr-FR/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
+
+### <a name="outlook"></a>Outlook
+
+- **Le menu Insérer un lien dans Outlook insère un lien avec l’autorisation définie par l’administrateur du client :** un lien à partir de l’élément utilisé récemment Insérer un lien dans Outlook insère un lien qui fonctionnait uniquement pour les utilisateurs qui disposaient déjà des autorisations pour y accéder. Cela provoquait souvent des va-et-vient de messages électroniques entre les utilisateurs qui demandaient l'autorisation d'accéder à un document. Nous avons mis à jour cette expérience. Le lien est désormais inséré avec l’autorisation par défaut définie par l’administrateur du client.
+
+- **Actualisation visuelle d’Outlook :** cet article fait partie de l’actualisation visuelle des expériences principales dans Outlook, mettant à jour la disposition des courriers électroniques dans le volet de lecture et dans l’inspecteur.
+
+- **Les mises à jour de calendrier partagé sont désormais plus rapides :** pour les calendriers partagés dans Office 365, Outlook peut mettre à jour ces calendriers à l’aide de l’API REST. Activez l’aperçu pour obtenir des mises à jour plus rapides et plus fiables sur les calendriers partagés.
+
+- **Voir les messages pertinents dans vos résultats de recherche :** Outlook analyse les termes de recherche et affiche les messages électroniques les plus pertinents en haut de vos résultats de recherche. Vous verrez également tous les résultats triés par date dans la section de résultats de la partie supérieure.
+
+- **Envoyer le message à la personne appropriée :** cliquez simplement sur la ligne À :, puis choisissez parmi les suggestions de contacts. Un indicateur d’image et de présence vous aide à choisir la personne appropriée.
+
+- **Protection avancée contre les attaques :** avec Office 365 - Protection avancée contre les menaces, vous êtes protégé contre les attaques via des liens hypertexte dans des objets de courrier, des messages joints, des messages signés, des chemins d’accès réseau, etc.
+
+- **Voir vos messages sous un autre jour :** utilisez le bouton soleil/lune pour basculer entre les arrière-plans clair et foncé dans le volet de lecture. [En savoir plus](https://support.office.com/fr-FR/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Enregistrer une illustration au format SVG** : enregistrez un graphique, une forme ou une autre illustration sous la forme d’un graphique vectoriel évolutif, qui peut être redimensionné sans perte de qualité d’image. [En savoir plus](https://support.office.com/fr-FR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Relecture manuscrite instantanée : ** animez un dessin manuscrit de sorte qu’il soit rejoué vers l’avant ou vers l’arrière lors de votre diaporama. [En savoir plus](https://support.office.com/fr-FR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
+
+### <a name="word"></a>Word
+
+- **Dites-le autrement :** la fonction Réécrire est là pour vous aider lorsque vous cherchez à vous exprimer autrement. La fonction Réécrire vous propose des solutions pour peaufiner vos phrases.
+
+- **Améliorations de la co-création :** fiabilité améliorée lors de la co-création.
+
+- **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
+
+- **Les autres utilisateurs voient rapidement vos modifications :** la co-création permet à vos collaborateurs de voir vos modifications plus rapidement que jamais.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">Nous avons résolu un problème qui empêchait de coller des liens hypertexte dans des feuilles protégées.</span><br></div>
+
+
+- <div>Nous avons activé plus de 16 compléments à afficher&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">lors de l’exploration dans le gestionnaire de compléments.</span></div>
+
+
+### <a name="insights-services"></a>Services d’informations
+
+- <div>Nous avons résolu un problème dans la fonctionnalité Idées d’Excel qui provoquait une erreur lors du chargement d’un complément en cliquant sur le bouton Idées dans le client Win32.&nbsp;</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Nous avons résolu un problème qui empêchait l'affichage des URL de certains liens sécurisés lors d’un simple survol de la souris.</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Nous avons mis à jour la logique de blocage de pièces jointes dans Outlook pour bloquer également les pièces jointes Python.</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Nous avons résolu un problème qui provoquait une fuite de mémoire dans le processus Outlook.</span>
+
+- Nous avons résolu un problème qui aurait pu empêcher l’enregistrement de fichiers à un emplacement WebDAV.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">Nous avons corrigé un problème que les utilisateurs rencontraient lors de l'ouverture d'un fichier.</p></div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-september-10"></a>Version 1908 : 10 septembre
 *Version 1908 (build 11929.20300)*
