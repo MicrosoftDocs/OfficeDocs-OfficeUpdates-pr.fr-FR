@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
-ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
+ms.openlocfilehash: 5c8a5e252be302622dab9f041bfd84b4b511f8f2
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "33568604"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350275"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -25,8 +25,6 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large.Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md). 
 
 ## <a name="version-1811-december-11"></a>Version 1811 : 11 décembre
@@ -60,7 +58,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Zoom et conserver :** au lieu d’ajuster le Zoom chaque fois que vous lisez un message, choisir la valeur par défaut à utiliser pour tous vos messages.  [En savoir plus](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Continuez à travailler tout en déplaçant les messages :** Outlook déplace désormais les messages en arrière-plan. Vous pouvez donc continuer à travailler, tout en déplaçant un grand nombre de messages entre des dossiers.
 - **Amélioration des expériences avec la boîte de réception Prioritaire activée ou non :** pour les clients qui n’utilisent pas la boîte de réception Prioritaire, nous avons remis en place l’onglet Non lu dans la liste des messages au sein de tous les dossiers. Nous avons également ajouté un tri par indicateur pour faciliter la recherche des éléments avec indicateur. Enfin, nous avons amélioré le modèle d’interaction de la boîte de réception Prioritaire avec la recherche : la boîte de réception Prioritaire reste en place jusqu'à ce qu’un utilisateur commence à effectuer une recherche et le texte « Résultats » apparaît une fois la recherche terminée.
-- **Bloquage du téléchargement de contenu externe par défaut dans les e-mails signés et chiffrés SMIME :** en raison d’une vulnérabilité dans le protocole SMIME, Outlook bloque le téléchargement de contenu externe dans les messages qui ont été chiffrés ou signés à l’aide de SMIME. Les utilisateurs ne pourront pas télécharger du contenu externe encliquant une seule fois dessus via l’interface utilisateur d’Outlook afin de réduire la vulnérabilité de sécurité. Il existe une nouvelle option dans la boîte de dialogue Options qui permet aux utilisateurs de revenir à l’ancien comportement. 
+- **Bloquage du téléchargement de contenu externe par défaut dans les e-mails signés et chiffrés SMIME :** en raison d’une vulnérabilité dans le protocole SMIME, Outlook bloque le téléchargement de contenu externe dans les messages qui ont été chiffrés ou signés à l’aide de SMIME. Les utilisateurs ne pourront pas télécharger du contenu externe encliquant une seule fois dessus via l’interface utilisateur d’Outlook afin de réduire la vulnérabilité de sécurité. Il existe une nouvelle option dans la boîte de dialogue Options qui permet aux utilisateurs de revenir à l’ancien comportement.
+- **Afficher les détails LinkedIn des personnes dans Outlook :** à présent, lorsque vous ouvrez la carte de visite d’un contact, vous pouvez en savoir plus à son sujet en consultant son profil LinkedIn.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 
@@ -180,6 +179,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Recherche rapide** Nous avons accéléré les calculs RECHERCHEV, RECHERCHEH et EQUIV pour que vous obteniez des réponses plus rapidement. [En savoir plus](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **Appel à tous les fans de la fonction Obtenir et transformer** Si vous utilisez beaucoup la fonction Obtenir et transformer, vous serez ravi d’apprendre que la fonction d’ajout d’une colonne à partir d’exemples a été améliorée. Et de nombreux connecteurs ont également été améliorés. [En savoir plus](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Les icônes de votre ruban ont une nouvelle apparence :** ne vous inquiétez pas, tout fonctionne de la même façon. De plus, elles s’adaptent parfaitement à toutes les tailles d’écran. [En savoir plus](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Prise en main rapide des fichiers Office : créez et ouvrez facilement des fichiers à l’aide de l’expérience de démarrage mise à jour** Les nouvelles pages de démarrage Office pour Word, PowerPoint et Excel vous aideront à démarrer plus facilement avec de nouveaux documents, à reprendre là où vous vous êtes arrêté avec les documents récemment utilisés et à trouver des documents partagés pour collaborer avec d’autres personnes.
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalités
 - **Découvrez les nouveautés :** essayez de nouvelles expériences utilisateur avant leur publication et faites-nous part de vos commentaires. [En savoir plus](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
@@ -190,13 +190,15 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
 - **Regardez vos diapositives s’animer :** insérez des graphiques 3D animés pour voir un battement de cœur, une orbite de planète et le déchaînement d’un T-Rex sur l’écran. [En savoir plus](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Les icônes de votre ruban ont une nouvelle apparence :** ne vous inquiétez pas, tout fonctionne de la même façon. De plus, elles s’adaptent parfaitement à toutes les tailles d’écran. [En savoir plus](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Proposez un questionnaire ou une enquête à votre public :** insérez un questionnaire ou une enquête sur une diapositive. Office collecte et stocke les réponses pour vous. [En savoir plus](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Demandez à votre auditoire de répondre à un questionnaire ou à un sondage** Placez un questionnaire ou une enquête sur une diapositive. Office recueille et stocke les réponses à votre place. [En savoir plus](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Prise en main rapide des fichiers Office : créez et ouvrez facilement des fichiers à l’aide de l’expérience de démarrage mise à jour** Les nouvelles pages de démarrage Office pour Word, PowerPoint et Excel vous aideront à démarrer plus facilement avec de nouveaux documents, à reprendre là où vous vous êtes arrêté avec les documents récemment utilisés et à trouver des documents partagés pour collaborer avec d’autres personnes.
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalités
 - **Attirez leur attention avec \@mentions** Utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention. [En savoir plus](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Les icônes de votre ruban ont une nouvelle apparence :** ne vous inquiétez pas, tout fonctionne de la même façon. De plus, elles s’adaptent parfaitement à toutes les tailles d’écran. [En savoir plus](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Convertisseur de l’Éditeur d’équations** Le convertisseur permet aux utilisateurs de convertir les équations créées à l’aide de l’éditeur d’équations de Microsoft au format Office Math ML pour activer la modification.
 - **De statique à époustouflant - Transformer votre document :** Transformer votre document en une page web interactive et facile à partager, qui s’affiche parfaitement sur n’importe quel appareil. [En savoir plus](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Prise en main rapide des fichiers Office : créez et ouvrez facilement des fichiers à l’aide de l’expérience de démarrage mise à jour** Les nouvelles pages de démarrage Office pour Word, PowerPoint et Excel vous aideront à démarrer plus facilement avec de nouveaux documents, à reprendre là où vous vous êtes arrêté avec les documents récemment utilisés et à trouver des documents partagés pour collaborer avec d’autres personnes.
 
 ## <a name="version-1808-september-11"></a>Version 1808 : 11 septembre
 *Version 1808 (build 10730.20102)*
@@ -265,8 +267,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalités
 - **Avertissements pour les compléments Outlook :** les compléments COM Outlook peuvent parfois rencontrer des problèmes qui ralentissent le reste d’Outlook. Ces problèmes peuvent être dus à la latence d’événements tels que le basculement entre les dossiers Outlook, la réception de nouveaux e-mails, l’ouverture d’éléments de calendrier, etc. Lorsque des problèmes semblables surviennent, Outlook affiche un avertissement dans la barre de notification.
 - **Participer à des réunions d’équipes à partir de la boîte de dialogue Rappels d’Outlook :** lorsque Outlook rappelle une réunion à venir aux utilisateurs, un bouton Participer en ligne apparaît si la réunion à venir est une réunion d’équipes en ligne. Le processus est le même que pour rejoindre une réunion Skype Entreprise à partir de la boîte de dialogue Rappels d’Outlook.
+- **Notifications de compléments améliorées** Notifications de compléments améliorées
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
  - **Couleurs des liens hypertexte :** le bleu n’est plus l’unique choix pour les liens hypertexte. Appliquez-leur la couleur de police de votre choix. [En savoir plus](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
 
 ### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalités
@@ -296,21 +299,22 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8281) : Vulnérabilité d’exécution de code à distance Microsoft Office
 
-
 ## <a name="version-1806-june-25"></a>Version 1806 : 25 juin
 *Version 1806 (build 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
- - **Modification des cellules et de la barre de formule améliorée :** Vous pouvez désormais utiliser CTRL+A pour sélectionner du texte dans une cellule ou la barre de formule. Les emojis et autres caractères complexes seront également mieux pris en charge. [En savoir plus](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Modification des cellules et de la barre de formule améliorée :** Vous pouvez désormais utiliser CTRL+A pour sélectionner du texte dans une cellule ou la barre de formule. Les emojis et autres caractères complexes seront également mieux pris en charge. [En savoir plus](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Prise en charge améliorée des SVG :** vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
- - **Périodicité par défaut :** dans la boîte de dialogue Périodicité du rendez-vous (sous « Plage de périodicité »), « Fin prévue le » est le paramètre par défaut (au lieu de « Aucune date de fin ») et le premier paramètre répertorié, et une date d’expiration par défaut est définie.
- - **Améliorations apportées au vérificateur d’accessibilité :** le vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos messages plus accessibles. [En savoir plus](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Périodicité par défaut :** dans la boîte de dialogue Périodicité du rendez-vous (sous « Plage de périodicité »), « Fin prévue le » est le paramètre par défaut (au lieu de « Aucune date de fin ») et le premier paramètre répertorié, et une date d’expiration par défaut est définie.
+- **Améliorations apportées au vérificateur d’accessibilité :** le vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos messages plus accessibles. [En savoir plus](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Amélioration des chaînes de « suivi » d’un groupe dans la version de bureau d’Outlook.** Nous modifions les chaînes pour les groupes dans Outlook afin de modifier la formulation « s’abonner/se désabonner » actuelle en « suivre/arrêter de suivre ».
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
- - **Prise en charge améliorée des SVG :** vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
- - **Donnez un titre à vos diapositives avec un stylet :** utilisez votre stylet pour écrire un titre, puis regardez PowerPoint le convertir en texte. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
+- **Prise en charge améliorée des SVG :** vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Donnez un titre à vos diapositives avec un stylet :** utilisez votre stylet pour écrire un titre, puis regardez PowerPoint le convertir en texte. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Ouvrir des fichiers volumineux de façon incrémentielle : ** la possibilité de télécharger, ouvrir et interagir avec des présentations PowerPoint de grande taille, même si des parties de la présentation (par exemple, une vidéo ou une image volumineuse) n’ont pas fini leur téléchargement.
 
 
 ### <a name="project-feature-updates"></a>Project : Mises à jour de fonctionnalité
@@ -432,6 +436,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Ne ratez aucun rappel :** configurez les rappels de sorte qu’ils s’affichent dans une fenêtre contextuelle par-dessus les fenêtres sur lesquelles vous travaillez. Sinon, Outlook clignotera dans la barre des tâches pour attirer votre attention. [En savoir plus](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marquez les éléments supprimés comme lus :** vous pouvez à présent définir les messages que vous supprimez comme lus. Pour ce faire, accédez à Fichier \> Options \> Courrier \> Autre.
 -   **Option de chiffrement :** les utilisateurs de chiffrement de messages Office 365 peuvent chiffrer un message et l’envoyer à n’importe quel destinataire, qu’il soit situé à l’intérieur ou à l’extérieur de leur organisation. L’option de chiffrement apparaît sous Options \> Autorisation lors de la création d’un message. [En savoir plus](https://aka.ms/omeoverview)
+- **Support pour afficher tous les groupes rejoints dans la vue Calendrier** Cette amélioration permet aux utilisateurs d’afficher tous les groupes modernes rejoints dans le volet de navigation gauche de la vue Calendrier, pour superposer facilement le calendrier d'un groupe à un calendrier personnel ou à celui d'un autre groupe. Auparavant, seuls les groupes de favoris figuraient dans cette liste.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 -   **Convertissez vos documents manuscrits :** prenez des notes et gribouillez des dessins, puis convertissez-les en texte lisible et en formes nettes afin de créer une présentation soignée. [En savoir plus](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)

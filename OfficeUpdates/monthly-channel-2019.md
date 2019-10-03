@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
-ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
+ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37329252"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350265"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -88,12 +88,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 - <div>Nous avons activé plus de 16 compléments à afficher&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">lors de l’exploration dans le gestionnaire de compléments.</span></div>
-
-
-### <a name="insights-services"></a>Services d’informations
-
 - <div>Nous avons résolu un problème dans la fonctionnalité Idées d’Excel qui provoquait une erreur lors du chargement d’un complément en cliquant sur le bouton Idées dans le client Win32.&nbsp;</div>
-
 
 ### <a name="outlook"></a>Outlook
 
