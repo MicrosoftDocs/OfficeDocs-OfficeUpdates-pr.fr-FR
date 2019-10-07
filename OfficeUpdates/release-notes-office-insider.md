@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300491"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400143"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -29,6 +29,78 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+## <a name="version-1910-october-04"></a>Version 1910 : octobre 04
+*Version 1910 (Build 12126.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Complément visualiseur de données : ** créer rapidement des organigrammes de programmation Visio à partir d’Excel. [En savoir plus](https://support.office.com/fr-FR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="excel"></a>Excel
+
+- <div><span>Nous avons résolu un problème dans lequel la zone d’impression en mode aperçu avant impression était incorrecte</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui aurait pu empêcher les tableaux croisés dynamiques d’être actualisés pendant une session de co-création</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>Nous avons résolu un problème dans lequel les utilisateurs pouvaient recevoir un message d’erreur &quot;état incohérent&quot; lors de l’utilisation d’une base de données partagée.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Nous avons résolu un problème qui aurait pu causer la duplication de dossiers de courrier</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui aurait pu provoquer un message d’erreur incorrect lors de la tentative d’envoi de courrier électronique chiffré s/MIME</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui pouvait parfois entraîner un plantage lorsqu'un utilisateur reçoit un message « conversation manquée » de Skype</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui aurait pu provoqué une fuite de mémoire</span></div>
+
+
+- <div><span>Nous avons résolu un problème qui aurait pu faire changer le nom des expéditeurs lorsqu'ils sont enregistrés en tant que brouillons</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>Nous avons résolu un problème qui pouvait provoquer la perte des TextRanges après avoir collé le texte dans les espaces réservés aux en-têtes/pieds/numéros de diapositives sur le diaporama maître et la disposition des diapositives.
+
+
+- <div><span></span></div>Nous avons résolu un problème qui empêchait la création d’un lien hypertexte lorsque vous collez du texte avec un lien hypertexte
+
+
+- <div>Nous avons résolu un problème qui empêchait les statistiques de fonctionner correctement</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Nous avons résolu un problème dans lequel les couleurs de police n’étaient pas validées</span></div>
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div>Nous avons résolu un problème qui pouvait offrir un historique des versions lorsque cette fonctionnalité était désactivée</div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1910-september-27"></a>Version 1910 : 27 septembre
 *Version 1910 (build 12119.20000)*
