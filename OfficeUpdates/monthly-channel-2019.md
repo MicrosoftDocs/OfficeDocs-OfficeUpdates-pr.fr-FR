@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350265"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391298"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -63,6 +63,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Relecture manuscrite instantanée : ** animez un dessin manuscrit de sorte qu’il soit rejoué vers l’avant ou vers l’arrière lors de votre diaporama. [En savoir plus](https://support.office.com/fr-FR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
+
+### <a name="visio"></a>Visio
+
+- **Créez et automatisez des flux de travail professionnels à l’aide de Microsoft Flow et Visio : ** utilisez Visio pour créer un diagramme de flux de travail et exporter celui-ci vers Microsoft Flow pour l’automatiser.
 
 ### <a name="word"></a>Word
 
@@ -528,8 +532,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 - **Vous calculez, nous nous occupons de la mise en forme :** nous modifions des expressions mathématiques dessinées à la main et les reproduisons en caractères standard. Sélectionnez simplement Entrée manuscrite en équation et sélectionnez vos notes manuscrites pour commencer. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Enregistrez les modifications au fur et à mesure :** chargez vos fichiers sur OneDrive pour vous assurer que vos mises à jour sont enregistrées automatiquement.
 - **Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Les fichiers volumineux s’ouvrent désormais plus rapidement : ** images, vidéos et autres éléments volumineux sont désormais téléchargés en arrière-plan lorsque vous ouvrez des fichiers stockés sur OneDrive ou SharePoint.
 
-### <a name="word-feature-updates"></a>Word : mises à jour de fonctionnalité
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
 - **Enregistrez les modifications au fur et à mesure :** chargez vos fichiers sur OneDrive pour vous assurer que vos mises à jour sont enregistrées automatiquement.
 - **Découvrez pourquoi l’enregistrement automatique n’est pas activé ! ** Cliquer sur le bouton bascule d’enregistrement automatique lorsqu’il est désactivé permet à présent d’afficher un commentaire utile avec les raisons pour lesquelles l’enregistrement automatique est peut-être désactivé. Dans le cas où la seule raison qui empêche l’enregistrement automatique est le fait que le document n’est pas sur SkyDrive ou SharePoint, nous proposerons de déplacer le document aisément avec un clic !
