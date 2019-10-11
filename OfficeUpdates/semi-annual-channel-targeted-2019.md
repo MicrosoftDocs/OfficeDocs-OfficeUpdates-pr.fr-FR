@@ -9,24 +9,59 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391268"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427694"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité qui sont incluses dans les mises à jour du canal semi-annuel (ciblé) d’Office 365 ProPlus (version 2019), de Visio Pro pour Office 365, du client de bureau Microsoft Project Online et d’Office 365 Business.
- 
+
 > [!NOTE]
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) via le canal semi-annuel (ciblé) durant une période de temps plus ou moins longue. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - Microsoft Teams est inclus dans les nouvelles installations de canal semi-annuel (ciblé), à partir de la version 1902. Teams sera ajouté aux installations existantes de canal semi-annuel (ciblé) lorsque celles-ci seront mises à jour vers la version 1908 ou ultérieure. Pour plus d’informations, reportez-vous à la rubrique [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
- 
+## <a name="version-1908-october-08"></a>Version 1908 : 8 octobre
+*Version 1908 (build 11929.20388)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui empêchait de coller des liens hypertexte dans des feuilles protégées.
+
+- Nous avons résolu un problème d’activation de plus de 16 compléments à afficher lors de l’exploration dans le gestionnaire de compléments.
+
+- Nous avons résolu un problème dans la fonctionnalité Idées d’Excel qui provoquait une erreur lors du chargement d’un complément en cliquant sur le bouton Idées dans le client Win32.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui empêchait l'affichage des URL de certains liens sécurisés lors d’un simple survol de la souris.
+
+- Nous avons mis à jour la logique de blocage de pièces jointes dans Outlook pour bloquer également les pièces jointes Python.
+
+- Nous avons résolu un problème qui provoquait une fuite de mémoire dans le processus Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons détecté un problème qui pouvait provoquer une perte de données dans les sessions qui impliquaient la modification de la co-création et de l’édition en mode hors connexion dans PowerPoint.
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème de blocage que les utilisateurs pouvaient rencontrer lors de l'ouverture d'un fichier.
+
+- Nous avons résolu un problème empêchant l’affichage des informations sur l’accessibilité dans le panneau Emplacement des informations de l’arrière-plan.
+
+- Nous avons amélioré la fiabilité lors du téléchargement des mises à jour d’Office en reprenant les téléchargements qui ont été interrompus précédemment.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
 ## <a name="version-1908-september-10"></a>Version 1908 : 10 septembre
 *Version 1908 (build 11929.20300)*
 

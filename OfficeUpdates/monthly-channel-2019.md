@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391298"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427684"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -24,10 +24,31 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
+## <a name="version-1909-october-08"></a>Version 1909 : 8 octobre
+*Version 1909 (build 12026.20320)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons corrigé un problème de la logique de blocage de pièces jointes dans Outlook pour bloquer également les pièces jointes Python.
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’ouvrir certaines instances d’éléments de calendrier périodiques.
+
+- Nous avons résolu un problème qui provoquait une fuite de mémoire dans le processus Outlook.
+
+- Nous avons résolu un problème qui confrontait les utilisateurs à un blocage pendant la création d’un profil.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
 ## <a name="version-1909-september-30"></a>Version 1909 : 30 septembre
 *Version 1909 (build 12026.20264)*
 * Diverses résolutions de bogues et de performances.
-
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -240,7 +261,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 
- - Résolution d’un problème qui a entraîne par intermittence l’échec de la recherche dans le dossier actif.
+- Résolution d’un problème qui a entraîne par intermittence l’échec de la recherche dans le dossier actif.
 
 ## <a name="version-1906-june-27"></a>Version 1906 : 27 juin
 *Version 1906 (build 11727.20230)*
@@ -612,7 +633,9 @@ Mises à jour non relatives à la sécurité uniquement, résolvant les problèm
 
 - **Dites au revoir aux liens rompus Excel :** Vous ne trouvez pas le classeur Excel lié à votre diagramme du visualiseur de données ? Recréez un lien vers celui-ci et c’est reparti. [En savoir plus](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
+### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
 
+- **Volet Nouveautés :** l’expérience Nouveautés a atteint le volet Aide pour vous permettre d’accéder plus aisément à nous dernières mises à jour et rester à jour.
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
