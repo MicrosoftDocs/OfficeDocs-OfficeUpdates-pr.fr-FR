@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
+ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427694"
+ms.locfileid: "37437666"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -59,6 +59,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 - Nous avons résolu un problème empêchant l’affichage des informations sur l’accessibilité dans le panneau Emplacement des informations de l’arrière-plan.
 
 - Nous avons amélioré la fiabilité lors du téléchargement des mises à jour d’Office en reprenant les téléchargements qui ont été interrompus précédemment.
+
+- Pour protéger la sécurité du client Office, les mises à jour Microsoft Office sont désormais exclusivement signées à l’aide de l’algorithme SHA-2.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
