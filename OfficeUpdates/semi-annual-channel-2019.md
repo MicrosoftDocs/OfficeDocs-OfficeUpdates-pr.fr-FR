@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
+ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391318"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453584"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -25,6 +25,39 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1902-october-08"></a>Version 1902 : 8 octobre
+*Version 1902 (Build 11328.20438)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui empêchait de coller des liens hypertexte dans des feuilles protégées.
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème qui avait pour effet que le fichier PDF ou XPS n’était pas créé dans le scénario suivant :</div><ul><li>Vous ouvrez un projet.</li><li>Cliquez sur le menu Fichier, sur Exporter, puis sur le bouton <b>Créer PDF/XPS</b>.</li><li>Dans la boîte de dialogue Parcourir, entrez un nom de fichier, puis cliquez sur OK.</li></ul>
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème qui avait pour effet que JAWS sur les builds actuelles de Windows n’annonçait pas les mots lors de l’utilisation de la combinaison de touches Maj + Flèche droite.
+
+### <a name="office-suite"></a>Suite Office
+
+- Les utilisateurs peuvent désormais enregistrer des fichiers Office synchronisés par le client de synchronisation OneDrive avec des propriétés requises manquantes. Les propriétés du document restent disponibles pour affichage et modification via le mode Backstage de document en accédant à Fichier > Info. Cette modification entraîne des améliorations des performances.
+
+- Résolution d’un problème qui avait pour effet que la notification &quot;Corriger mon compte&quot; ne disparaissait pas après une connexion réussie.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1808-october-08"></a>Version 1808 : 8 octobre
+*Version 1808 (Build 10730.20386)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1902-september-10"></a>Version 1902 : 10 septembre
 *Version 1902 (Build 11328.20420)*
