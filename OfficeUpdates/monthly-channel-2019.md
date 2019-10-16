@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: 42f7f28eb5b37681cdc5a39259230c4928e2e99b
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427684"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508859"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -23,6 +23,16 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  > [!NOTE]
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+## <a name="version-1909-october-14"></a>Version 1909 : 14 octobre
+*Version 1909 (build 12026.20334)*
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu le problème pour lequel les utilisateurs étaient incapables d’enregistrer des documents Word, Excel et PowerPoint.  Le problème affectait les utilisateurs qui créaient un fichier et utilisaient l’option « Boîte de dialogue Enregistrer en tant que modèle » après avoir cliqué sur l’icône Enregistrer ou appuyé sur Ctrl+S.
+
 
 ## <a name="version-1909-october-08"></a>Version 1909 : 8 octobre
 *Version 1909 (build 12026.20320)*

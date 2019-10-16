@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: a992b6c832e82aac563b22354cb18a1c9176632d
-ms.sourcegitcommit: 29f758e10f808e181cc1fbe487023103353672a8
+ms.openlocfilehash: 3a89ea83f16fe302326b963d712f08f4f1573a32
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/08/2019
-ms.locfileid: "37423889"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508839"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="october-14-2019"></a>14 octobre 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU14 octobre 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 1909 (build 12026.20334).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1909 (build 12026.20320) <br/> |8 octobre 2019 <br/> |57<br/> |
+|Version 1909 (build 12026.20264) <br/> |30 septembre 2019 <br/> |67<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+La version la plus récente est la version 1908 (build 11929.20396).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (build 11929.20388) <br/> |8 octobre 2019 <br/> |59<br/> |
+|Version 1908 (build 11929.20300) <br/> |10 septembre 2019 <br/> |71<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU14 octobre 2019)
 
 ## <a name="october-8-2019"></a>8 octobre 2019
 
