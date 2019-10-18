@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
+ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523140"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37564755"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -43,7 +43,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 - **Modifier votre PDF dans Word :** ouvrez un fichier PDF, convertissez en document Word et commencez à le modifier.
 ### <a name="excel--feature-updates"></a>Excel : mises à jour de fonctionnalités
 
-- **Complément Excel Visualiseur de données Visio : ** permet de visualiser rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- Divers problèmes de performances résolus.
 
 
 
