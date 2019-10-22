@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions d’Office 365 ProPlus pour chaque canal de mise à jour et des liens vers des notes de publication et l’historique des mises à jour
-ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
-ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
+ms.openlocfilehash: 4743df1d8d437972d0ec8800e2a2e232d7eda7b1
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35823953"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36444567"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informations sur les versions pour les mises à jour vers Office 365 ProPlus
 
@@ -44,6 +44,10 @@ Pour obtenir la liste complète des notes de publication par canal de mise à jo
  - Semi-annuel (ciblé) : [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - Semi-annuel : [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
+ ## <a name="release-history-for-office-deployment-tool"></a>Historique des versions de l’outil Déploiement d’Office
+ Pour consulter la liste complète des versions de l’outil Déploiement d’Office, reportez-vous à l’article suivant :
+ - [Historique des versions de l’outil Déploiement d’Office](ODT-release-history.md)
+
 ## <a name="office-for-mac-release-information"></a>Informations sur les versions Office pour Mac
 
 Pour plus d’informations sur les mises à jour vers Office pour Mac, qui est inclus avec toutes les offres d’abonnement Office 365 comprenant Office 365 ProPlus, consultez les articles suivants :
@@ -54,7 +58,7 @@ Pour plus d’informations sur les mises à jour vers Office pour Mac, qui est
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour pour Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Présentation des canaux de mise à jour pour Office 365 ProPlus](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Déploiement Office](https://docs.microsoft.com/deployoffice/)
 - [Nouveautés d’Office 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Feuille de route Office 365](https://products.office.com/business/office-365-roadmap)

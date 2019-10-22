@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
-ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
+ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37471329"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595322"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -29,6 +29,92 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+## <a name="version-1911-october-18"></a>Version 1911 : 18 octobre
+*Version 1911 (build 12209.20010)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Envoyez des e-mails accessibles aux destinataires qui en ont besoin :** Outlook affiche un conseil de messagerie pour vous aider à vous assurer que votre contenu est accessible lors de l’envoi à un utilisateur préférant utiliser du contenu accessible
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Optimisez votre présentation pour tout :** le vérificateur d’accessibilité vous permet d’organiser les objets sur vos diapositives avec les lecteurs d’écran à l’esprit.
+
+### <a name="office-suite"></a>Suite Office
+
+- **Le centre de téléchargement est remplacé par l’expérience de fichiers ayant besoin d’attention :** le centre de téléchargement est remplacé par l’expérience de fichiers ayant besoin d’attention qui apparaîtront dans les applications Office sous Fichier > Ouvrir. Cette nouvelle expérience est plus moderne, intégrée et moins intrusive par rapport au centre de téléchargement.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
+### <a name="excel"></a>Excel
+
+- <div><span>Résolution d’un problème lié à la réduction des contrôles de case à cocher lors de l’utilisation de l’ajustement automatique pour ajuster la hauteur de ligne</span></div>
+
+
+- <div><span>Résolution d’un problème lié à la sélection d’une cellule inappropriée lorsque la sélection a lieu après un défilement</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Identification d’un problème lié à la rupture des signatures numériques lors de la signature d’un e-mail avec une pièce jointe signée numériquement</span></div>
+
+
+- <div><span>Identification d’un problème lié à la troncation des noms de fichiers longs après un glisser-déplacer dans le corps du message</span></div>
+
+
+- <div>Identification d’un problème lié à la disparition de la zone de recherche lorsque le ruban est masqué automatiquement</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Identification d’un problème dans lequel les proportions de l’aperçu de diapositive n’étaient pas correctement verrouillés/déverrouillés</span>
+
+
+### <a name="security"></a>Sécurité
+
+- <div><span>Identification d’un problème où un message de bienvenue contient un lien non valide</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div>Identification d’un problème lié à l’impossibilité de conserver des notes si elles ont été entrées lors de l’exécution de tâches de mise à jour<br></div>
+
+
+- <div>Identification d’un problème lié à l’absence de nom d’utilisateur dans le message d’erreur lors du verrouillage d’un fichier par un utilisateur</div>
+
+
+- <div><span>Identification d’un problème lié à l’affichage de plusieurs messages lors de l’ouverture d’un projet en lecture seule</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Identification d’un problème lié à l’affichage des commentaires lors de l’utilisation d’un lecteur d’écran</span></div>
+
+
+- <div><span>Identification d’un problème lié au signalement erroné de certaines critiques comme étant des critiques de grammaire ou d’orthographe</span></div>
+
+
+- <div><span>Identification d’un problème lié à l’impossibilité occasionnelle de placer le focus sur une boîte de dialogue de nouveau commentaire</span></div>
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span>Résolution d’un problème qui pouvait empêcher l’application d’une mise à niveau en affichant le message d’erreur incorrect &quot;Une autre installation est déjà en cours&quot;</span></div>
+
+- <div><span>Identification d’un problème qui pouvait affecter la synchronisation d’une ressource locale vers une ressource cloud</span></div>
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1910-october-11"></a>Version 1910 : 11 octobre
 *Version 1910 (Build 12130.20112)*
