@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 1416d7cfba623a37b0f206790e445b11d4be87e7
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: b7d3805f0305556362573c43606dcdc6f6755247
+ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523128"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "37553811"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -24,13 +24,12 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) via le canal semi-annuel (ciblé) durant une période de temps plus ou moins longue. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams est inclus dans les nouvelles installations de canal semi-annuel (ciblé), à partir de la version 1902. Teams sera ajouté aux installations existantes de canal semi-annuel (ciblé) lorsque celles-ci seront mises à jour vers la version 1908 ou ultérieure. Pour plus d’informations, reportez-vous à la rubrique [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
 
-## <a name="version-1909-october-15"></a>Version 1909 : 15 octobre
-*Version 1908 (Build 11929.20396)*
+## <a name="october-15"></a>15 octobre
 
 ### <a name="non-security-updates"></a>Mises à jour non relatives à la sécurité
 
 ### <a name="office-suite"></a>Suite Office
-- Nous avons temporairement désactivé la boîte de dialogue Enregistrer dans le Cloud pour résoudre le problème d’enregistrement publié le 14 octobre 2019. Cette fonctionnalité sera réactivée une fois la période de cache de 7 jours écoulée.
+- Nous avons temporairement désactivé la boîte de dialogue Enregistrer dans le Cloud pour résoudre le problème d’enregistrement publié le 14 octobre 2019 pour les builds antérieures à la 16.0.11929.20396. Cette fonctionnalité sera réactivée prochainement.
 
 ## <a name="version-1908-october-14"></a>Version 1908 : 14 octobre
 *Version 1908 (build 11929.20396)*
@@ -45,7 +44,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons résolu le problème pour lequel les utilisateurs étaient incapables d’enregistrer des documents Word, Excel et PowerPoint.  Le problème affecte les utilisateurs qui créent un fichier et utilisent l’option « Enregistrer en tant que boîte de dialogue » après avoir cliqué sur l’icône Enregistrer ou appuyé sur Ctrl + S.
+- Nous avons résolu un problème où les utilisateurs risquaient d’être incapables d’enregistrer des documents Word, Excel et PowerPoint 2019 pour les builds antérieures à 16.0.11929.20396.  Le problème affecte les utilisateurs qui créent un fichier et affiche la boîte de dialogue « Enregistrer sous » après avoir cliqué sur l’icône Enregistrer ou appuyé sur Ctrl + S.
 
 - Nous avons résolu un problème qui, dans certaines circonstances, entraînait la disparition des raccourcis Office après une mise à jour.  Cette mise à jour améliore la fiabilité lors de la publication de raccourcis Office.
 
