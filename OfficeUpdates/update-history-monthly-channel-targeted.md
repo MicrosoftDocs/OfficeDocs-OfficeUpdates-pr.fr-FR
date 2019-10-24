@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: cddcd92805a9abeeb0ab31fe2822a251335ef87f
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508879"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644135"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
@@ -34,13 +34,16 @@ Si vous êtes inscrit au niveau Canal mensuel (Ciblé), anciennement appelé Ins
 
 [//]: # (NE PAS SUPPRIMER)
 
-**14 octobre 2019**<br/>
+**22 octobre 2019**<br/>
+Version 1910 (Build 12130,20210)<br/>
+
+**14 octobre 2019**<br/>
 Version 1910 (Build 12130,20184)<br/>
 
-**14 octobre 2019**<br/>
+**14 octobre 2019**<br/>
 Version 1910 (Build 12130,20178)<br/>
 
-**08 octobre 2019**<br/>
+**8 octobre 2019**<br/>
 Version 1909 (build 12026.20320)<br/>
 
 **28 septembre 2019**<br/>
@@ -49,10 +52,10 @@ Version 1909 (build 12026.20264)<br/>
 **23 septembre 2019**<br/>
 Version 1909 (Build 12026,20248)<br/>
 
-**16 septembre 2019**<br/>
+**16 septembre 2019**<br/>
 Version 1909 (Build 12026,20190)<br/>
 
-**10 septembre 2019**<br/>
+**10 septembre 2019**<br/>
 Version 1909 (Build 12026,20108)<br/>
 
 **25 août 2019**<br/>
@@ -70,16 +73,16 @@ Version 1907 (build 11901.20176)<br/>
 **25 juillet 2019**<br/>
 Version 1907 (Build 11901,20156)<br/>
 
-**22 juillet 2019**<br/>
+**22 juillet 2019**<br/>
 Version 1907 (Build 11901,20120)<br/>
 
-**15 juillet 2019**<br/>
+**15 juillet 2019**<br/>
 Version 1907 (Build 11901,20080)<br/>
 
 **9 juillet 2019**<br/>
 Version 1906 (build 11727.20244)<br/>
 
-**27 juin 2019**<br/>
+**27 juin 2019**<br/>
 Version 1906 (Build 11727.20230)<br/>
 
 **26 juin 2019**<br/>
@@ -105,7 +108,7 @@ Version 1905 (build 11629.20196)<br/>
 **16 mai 2019**<br/>
 Version 1905 (Build 11629,20136)<br/>
 
-**14 mai 2019**<br/>
+**14 mai 2019**<br/>
 Version 1904 (build 11601.20204)<br/>
 
 **08 mai 2019**<br/>
@@ -174,8 +177,7 @@ Version 1903 (Build 11425.20204)<br/>
 **Office Insider sur Twitter**<br/> Sur @OfficeInsider, nous publions fréquemment des posts sur les versions Insider et hébergeons des événements spéciaux pour les participants au programme Insider.<br/> 
 [Suivez-nous sur Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![Image montrant l’icône Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
