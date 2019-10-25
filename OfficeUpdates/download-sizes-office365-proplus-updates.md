@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 3a89ea83f16fe302326b963d712f08f4f1573a32
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: fb4ebbf2fcad1b01b204601d09aec2b69dccd085
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508839"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644115"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -29,6 +29,21 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="october-22-2019"></a>22 octobre 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU22 octobre 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1909 (build 12026.20344).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1909 (build 12026.20334) <br/> |14 octobre 2019 <br/> |58<br/> |
+|Version 1909 (build 12026.20320) <br/> |8 octobre 2019 <br/> |58<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU22 octobre 2019)
 
 ## <a name="october-14-2019"></a>14 octobre 2019
 
