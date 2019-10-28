@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit des informations sur les problèmes connus d’Office 365 ProPlus
-ms.openlocfilehash: 80cc2a4fa618b2e14e09797da9e5f7bd4fe51d5d
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: 11a85638b39592486804ea989ba6df582e5f64a7
+ms.sourcegitcommit: a49f78bb35491a3117a58c57862cdc673226e6db
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644125"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37697869"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problèmes connus d’Office 365 ProPlus
 
@@ -28,17 +28,23 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 
 <br>
 
-### <a name="last-updated-october-22-2019"></a>Dernière mise à jour le 22 octobre 2019
+### <a name="last-updated-october-24-2019"></a>Dernière mise à jour le 24 octobre 2019
 
-|Résumé||
+|Résumé|
 :-------------------------------------------------------------------------------------|:---------------------|
-|
-Un problème a été identifié avec l’option Rechercher et remplacer, l’emplacement du focus changeant dans la boîte de dialogue une fois le premier élément trouvé. <br><br> **Résolu** : <br> Version SACT 1908 (16.0.11929.20396)|Excel<br><br>
-|Identification d’un problème lié aux performances de filtrage par couleur. <br><br> **Version résolue** : <br>Version mensuelle 1909 (16.0.12026.20264)|Excel<br><br> <br>|<br><br>
-|Identification d’un problème qui entraînait l’affichage d’une erreur d’autorisation lors de la copie d’éléments d’un calendrier principal vers un calendrier de groupe.<br><br> **État** : Examen en cours|Outlook<br><br>
-|Identification d’un problème de performance sur Win7 où la galerie Insérer des formes du ruban dans toutes les applications prenait environ 4 secondes pour s’afficher.<br><br> **Version résolue** : <br>Version mensuelle 1909 (16.0.12026.20264) <br> Version SACT 1908 (16.0.11929.20396)|PowerPoint<br><br>
-|Un problème a été identifié qui, dans certaines circonstances, entraînait la disparition des raccourcis Office après une mise à jour.  <br><br> **Examen en cours** : mensuel ?|Suite Office<br><br>
-|Nous avons identifié le problème pour lequel les utilisateurs étaient incapables d’enregistrer des documents Word, Excel et PowerPoint.  Le problème affecte les utilisateurs qui créent un fichier et utilisaient l’option « Enregistrer en tant que dialogue de modèle » après avoir cliqué sur l’icône Enregistrer icône ou appuyé sur Ctrl+S.<br><br> **Version résolue** : <br>Version mensuelle 1909 (16.0.12026.20334) <br> Version SACT 1908 (16.0.11929.20396)|Suite Office<br><br>
+|**Excel**
+|Un problème a été identifié avec l’option Rechercher et remplacer, l’emplacement du focus changeant dans la boîte de dialogue une fois le premier élément trouvé. <br><br> **Examen en cours** : <br>Tous les mois<br> <br>**Résolu** : <br> Version SACT 1908 (16.0.11929.20396)|
+|Identification d’un problème lié aux performances de filtrage par couleur. <br><br> **Examen en cours** : <br>SACT<br> <br>**Résolu** : <br> Version mensuelle 1909 (16.0.12026.20264)
+|<br>
+|**Outlook**
+|Identification d’un problème qui entraînait l’affichage d’une erreur d’autorisation lors de la copie d’éléments d’un calendrier principal vers un calendrier de groupe. <br><br> **Examen en cours** : <br>Mensuelle et SACT
+|<br>
+|**PowerPoint**
+|Identification d’un problème de performance sur Win7 où la galerie Insérer des formes du ruban dans toutes les applications prenait environ 4 secondes pour s’afficher.<br><br> **Résolu** : <br>Version mensuelle 1909 (16.0.12026.20264) <br> Version SACT 1908 (16.0.11929.20396)
+|<br>
+|**Suite Office**
+|Un problème a été identifié qui, dans certaines circonstances, entraînait la disparition des raccourcis Office après une mise à jour.  <br><br> **Examen en cours** : <br> SACT<br><br> **Résolu** : <br>Version mensuelle 1909 (16.0.12026.20334) <br> Version SACT 1908 (16.0.11929.20396)
+|Nous avons identifié le problème pour lequel les utilisateurs étaient incapables d’enregistrer des documents Word, Excel et PowerPoint.  Le problème affecte les utilisateurs qui créent un fichier et utilisaient l’option « Enregistrer en tant que dialogue de modèle » après avoir cliqué sur l’icône Enregistrer icône ou appuyé sur Ctrl+S.<br><br> **Résolu** : <br>Version mensuelle 1909 (16.0.12026.20334) <br> Version SACT 1908 (16.0.11929.20396)<br><br>
 |
 
 

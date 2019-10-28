@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595322"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653437"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -78,13 +78,7 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Identification d’un problème dans lequel les proportions de l’aperçu de diapositive n’étaient pas correctement verrouillés/déverrouillés</span>
-
-
-### <a name="security"></a>Sécurité
-
-- <div><span>Identification d’un problème où un message de bienvenue contient un lien non valide</span></div>
-
+- <div><span>Identification d’un problème dans lequel les proportions de l’aperçu de diapositive n’étaient pas correctement verrouillés/déverrouillés</span></div>
 
 ### <a name="project"></a>Project
 
@@ -113,6 +107,9 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 - <div><span>Résolution d’un problème qui pouvait empêcher l’application d’une mise à niveau en affichant le message d’erreur incorrect &quot;Une autre installation est déjà en cours&quot;</span></div>
 
 - <div><span>Identification d’un problème qui pouvait affecter la synchronisation d’une ressource locale vers une ressource cloud</span></div>
+
+- <div><span>Identification d’un problème où un message de bienvenue contient un lien non valide</span></div>
+
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
@@ -1807,7 +1804,7 @@ Créez un fichier docm dans OneDrive Entreprise, partagez-le avec vos collègues
 - Nous avons résolu un problème dans lequel Outlook n’effaçait pas une salle sur site une fois que les utilisateurs avaient sélectionné une salle disponible dans la recherche de salles
 
 ### <a name="access"></a>Access
-- Nous avons résolu la boîte de dialogue Importation/exportation enregistrée avec du texte blanc sur fond blanc dans le thème Foncé
+- Nous avons corrigé la boîte de dialogue Importation/exportation enregistrée avec du texte blanc sur fond blanc dans le thème Foncé
 - Nous avons résolu un problème où les utilisateurs ne pouvaient pas définir comme zone de texte la propriété Afficher le contrôle pour un champ Oui/non en mode Création de table
 
 ### <a name="project"></a>Project
