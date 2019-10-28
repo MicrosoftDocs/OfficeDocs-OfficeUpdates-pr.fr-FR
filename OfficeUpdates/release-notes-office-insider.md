@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653437"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733008"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -29,6 +29,97 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+## <a name="version-1911-october-25"></a>Version 1911 : 25 octobre
+*Version 1911 (build 12215.20006)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="visio"></a>Visio
+
+- **Créez des diagrammes Visio sophistiqués dans Excel :** visualisez rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/fr-FR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Amélioration de la co-création :** amélioration de l’expérience de co-création en rendant plus probable la réception en temps réel par d’autres des modifications de contenu.
+
+- **Les autres utilisateurs voient rapidement vos modifications :** la co-création permet à vos collaborateurs de voir vos modifications plus rapidement que jamais.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- <div><span>Le nombre d’enregistrements pouvait être incorrect</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>Nous avons considérablement amélioré les performances de la suppression des colonnes avec des cellules fusionnées</span></div>
+
+
+- <div><span>Les utilisateurs ne pouvaient pas enregistrer dans le format classeur Excel Office 365</span></div>
+
+
+- <div><span>Le rendu des cases à cocher pouvait ne pas s’effectuer correctement</span></div>
+
+
+- <div><span>Impossibilité d’enregistrer les modifications apportées à la taille d’un graphique</span></div>
+
+
+- <div><span>Certaines fonctions VBA renvoyaient une erreur sur les nouveaux types de graphiques</span></div>
+
+
+- <div><span>Les boîtes de dialogue Sélectionner une source de données ne respectaient pas la casse pour certains champs</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Impossibilité d’enregistrer les modifications apportées à la taille d’un graphique</span></div>
+
+
+### <a name="publisher"></a>Publisher
+
+- <div><span>Les formes pouvaient apparaître en dehors de la bordure de graphisme</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Les formes pouvaient apparaître en dehors de la bordure de graphisme</span></div>
+
+
+- <div><span>La mise en surbrillance du texte pouvait être difficile</span></div>
+
+
+- <div><span>Un utilisateur pouvait être empêché d’accéder à un élément individuel dans l’éditeur</span></div>
+
+
+- <div><span>Les fautes de grammaire ou d’orthographe pouvaient ne pas être mises en surbrillance</span></div>
+
+
+- <div><span>Impossibilité d’enregistrer les modifications apportées à la taille d’un graphique</span></div>
+
+
+- <div><span>Une carte de visite pouvait ne pas s’ouvrir après avoir appliqué une mise en forme à une mention @</span></div>
+
+
+- <div><span>Résolution d’un problème qui pouvait empêcher les utilisateurs d’enregistrer les documents Word, Excel et PowerPoint.&nbsp; Le problème affectait les utilisateurs qui créaient un fichier et utilisaient l’option &quot;Boîte de dialogue Enregistrer en tant que modèle&quot; après avoir cliqué sur l’icône Enregistrer ou appuyé sur Ctrl+S.</span></div>
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span>Problème de performances lors de l’utilisation de formes sur Windows 7</span></div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1911-october-18"></a>Version 1911 : 18 octobre
 *Version 1911 (build 12209.20010)*
