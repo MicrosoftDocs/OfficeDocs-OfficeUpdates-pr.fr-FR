@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit des informations sur les problèmes connus d’Office 365 ProPlus
-ms.openlocfilehash: 3d954a29489a8b6a0bb4b1f6d15ab1ac81589cdc
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 0e21cd3065f7ba253f168904c49c7ab4eb1a2f4a
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37732991"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37889993"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problèmes connus d’Office 365 ProPlus
 
@@ -29,21 +29,62 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 
 <br>
 
-### <a name="last-updated-october-25-2019"></a>Dernière mise à jour le 25 octobre 2019
+### <a name="last-updated-october-30-2019"></a>Dernière mise à jour le 30 octobre 2019
 
-|
-:----------------------------------------------------------------------------------------------------------|
-|**Excel**
-|Un problème a été identifié avec l’option Rechercher et remplacer, l’emplacement du focus changeant dans la boîte de dialogue une fois le premier élément trouvé. <br><br> **Examen en cours** : mensuel <br>**Résolu** : version SACT 1908 (16.0.11929.20396)|
-|Identification d’un problème lié aux performances de filtrage par couleur. <br><br> **Examen en cours** : SACT <br>**Résolu** : version mensuelle 1909 (16.0.12026.20264)
-|**Outlook**
-|Identification d’un problème qui entraînait l’affichage d’une erreur d’autorisation lors de la copie d’éléments d’un calendrier principal vers un calendrier de groupe. <br><br> **Examen en cours** : mensuel et SACT
-|**PowerPoint**
-|Identification d’un problème de performance sur Win7 où la galerie Insérer des formes du ruban dans toutes les applications prenait environ 4 secondes pour s’afficher.<br><br> **Résolu** : version mensuelle 1909 (16.0.12026.20264) et version SACT 1908 (16.0.11929.20396)
-|**Suite Office**
-|Un problème a été identifié qui, dans certaines circonstances, entraînait la disparition des raccourcis Office après une mise à jour.<br><br> **Examen en cours** : SAC<br> **Résolu** : version mensuelle 1909 (16.0.12026.20334) et version SACT 1908 (16.0.11929.20396)
-|Nous avons identifié le problème pour lequel les utilisateurs étaient incapables d’enregistrer des documents Word, Excel et PowerPoint.  Le problème affecte les utilisateurs qui créent un fichier et utilisaient l’option « Enregistrer en tant que dialogue de modèle » après avoir cliqué sur l’icône Enregistrer icône ou appuyé sur Ctrl+S.<br><br> **Résolu** : version mensuelle 1909 (16.0.12026.20334) et version SACT 1908 (16.0.11929.20396)
-|
+### <a name="excel"></a>Excel
+
+- Nous avons identifié un problème lié à l’insertion de fichiers en tant qu’objets à partir de OneDrive.<br><br> **Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème dans lequel les classeurs créés dans les versions antérieures d’Office pouvaient bloquer Excel lors de leur ouverture dans les versions actuelles d’Office.<br><br>
+**Examen en cours** : SACT <br>**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème à l’origine de retards d’affichage de valeurs tapées après la suppression d’une plage.<br><br>
+**Examen en cours** : SAC
+
+- Nous avons identifié un problème lié à la sélection d’une cellule inappropriée lorsque la sélection a lieu après un défilement.<br><br>
+**Examen en cours** : SACT <br>**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème qui aurait pu provoquer une restitution incorrecte d’un nuage de points d’un graphique en courbes lors de la modification de la collection de séries.<br><br>
+**Résolu** : version mensuelle 1910 (12130.20272) et version SACT 1908 (11929.20300)
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons identifié un problème qui entraînait la création pour certains utilisateurs de dossiers spéciaux dupliqués lors de l’ajout d’un compte Exchange secondaire.<br><br>**Examen en cours** : SACT <br>**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème qui aurait pu provoquer une fuite de mémoire. <br><br>
+**Examen en cours** : SAC <br>**Résolu** : version mensuelle 1910 (12130.20272) et version SACT 1908 (11929.20388)
+
+- Nous avons identifié un problème qui aurait pu causer la duplication de dossiers de courrier.<br><br>
+**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème qui pouvait parfois entraîner un plantage lorsqu'un utilisateur reçoit un message « conversation manquée » de Skype.<br><br>
+**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème qui entraînait l’affichage d’une erreur générique « échec de l’opération » à de l’ouverture d’une pièce jointe sur un ordinateur sur lequel DisableBGSave est activé.<br><br>
+**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème avec les liens de CID : les images (images d’e-mail Outlook) ne pouvaient pas être séparées.<br><br>
+**Examen en cours** : SACT
+
+- Nous avons identifié un problème qui aurait pu provoquer un message d’erreur incorrect lors de la tentative d’envoi d’e-mails chiffrés s/MIME.<br><br>**Résolu** : version mensuelle 1910 (12130.20272)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons identifié un problème qui empêchait la création d’un lien hypertexte lorsque vous collez du texte avec un lien hypertexte. <br><br>**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème qui pouvait provoquer la perte des TextRanges après avoir collé le texte dans les espaces réservés aux en-têtes/pieds/numéros de diapositives sur le diaporama maître et la disposition des diapositives. <br><br>**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Nous avons identifié un problème de performance sur Win7 où la galerie Insérer des formes du ruban dans toutes les applications prenait environ 4 secondes pour s’afficher.<br><br>
+**Examen en cours** : mensuel, SAC
+<br>**Résolu** : version SACT 1908 (11929.20396)
+
+### <a name="project"></a>Project
+
+- Nous avons identifié un problème lié à l’affichage de plusieurs messages lors de l’ouverture d’un projet en lecture seule.<br><br>
+**Examen en cours** : mensuel, SACT
+
+### <a name="word"></a>Word
+- Nous avons identifié un problème lié à l’insertion de fichiers en tant qu’objets à partir de OneDrive.<br><br> **Résolu** : version mensuelle 1910 (12130.20272)
 
 
 
