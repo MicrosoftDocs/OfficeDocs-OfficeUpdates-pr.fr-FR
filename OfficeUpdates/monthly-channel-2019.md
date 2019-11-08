@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 12534eb79781d02ff630097794273fd27fcc51dc
+ms.sourcegitcommit: 22e6c32930facc482cd61e5d2dcf00728e112806
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890023"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37929641"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -40,13 +40,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.
 
-- **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos fichiers et e-mails pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation.
+- **Appliquez des étiquettes de confidentialité à vos documents et e-mails :** appliquez des étiquettes de confidentialité à vos fichiers et e-mails pour garantir leur conformité aux stratégies de protection des informations de votre organisation. [En savoir plus](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
 
 - **Recevoir une invitation à mettre à jour Outlook après une erreur :** quand Outlook rencontre une erreur résolue dans une version ultérieure, Outlook invite les clients à effectuer la mise à jour et à recevoir le correctif
 
-- **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos fichiers et e-mails pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation.
+- **Appliquez des étiquettes de confidentialité à vos documents et e-mails :** appliquez des étiquettes de confidentialité à vos fichiers et e-mails pour garantir leur conformité aux stratégies de protection des informations de votre organisation. [En savoir plus](https://aka.ms/officemipdocs)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -54,7 +54,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.
 
-- **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos fichiers et e-mails pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation.
+- **Appliquez des étiquettes de confidentialité à vos documents et e-mails :** appliquez des étiquettes de confidentialité à vos fichiers et e-mails pour garantir leur conformité aux stratégies de protection des informations de votre organisation. [En savoir plus](https://aka.ms/officemipdocs)
 
 ### <a name="word"></a>Word
 
@@ -66,7 +66,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Résolution d’un problème d’endommagement de documents dû à la fusion d’objets 3D :** résolution d’un problème d’endommagement de documente dû à la fusion d’objets 3D.
 
-- **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos fichiers et e-mails pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation.
+- **Appliquez des étiquettes de confidentialité à vos documents et e-mails :** appliquez des étiquettes de confidentialité à vos fichiers et e-mails pour garantir leur conformité aux stratégies de protection des informations de votre organisation. [En savoir plus](https://aka.ms/officemipdocs)
+
 ### <a name="office-suite"></a>Suite Office
 
 - **Installer Microsoft Teams sur des installations existantes d’Office 365 ProPlus :** à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez Déployer Microsoft Teams avec Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install)
