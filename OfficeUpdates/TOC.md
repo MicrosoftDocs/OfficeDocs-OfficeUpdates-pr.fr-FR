@@ -29,6 +29,7 @@
 ### [Historique des mises à jour - Canal Insider](update-history-office-insider.md)
 ### [Historique des mises à jour - Canal mensuel (ciblé)](update-history-monthly-channel-targeted.md)
 ###[Canal de publication Notes Insider](release-notes-office-insider.md)
+### [Notes de publication Canal mensuel (ciblé)](release-notes-monthly-channel-targeted.md)
 
 ## [Historique des versions de l’outil ODT](ODT-release-history.md)
 
