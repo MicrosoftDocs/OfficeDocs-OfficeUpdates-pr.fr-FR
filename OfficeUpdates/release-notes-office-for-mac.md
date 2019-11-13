@@ -3,19 +3,19 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
-ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
+ms.openlocfilehash: 952eef49a27824b361b0defba618e4f64d877ef6
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37564755"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289702"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -34,6 +34,33 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Remarque :** les informations de publication de Microsoft AutoUpdate (MAU) ont été déplacées vers la page [Historique des publications MAU](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="november-12-2019-release"></a>Version du 12 novembre 2019
+*Version 16.31 (build 19111002)*
+
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+
+- Résolution de divers problèmes de performances.
+### <a name="excel--feature-updates"></a>Excel : mises à jour de fonctionnalités
+
+- Divers problèmes de performances résolus.
+
+
+
+ ### <a name="excel-security-updates"></a>Excel : mises à jour de sécurité
+
+- [CVE-2019-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1446) : Vulnérabilité de divulgation d’informations Microsoft Excel
+- [CVE-2019-1448](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1448) : Vulnérabilité d’exécution de code à distance Microsoft Excel
+- [CVE-2019-1457](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1457) : Contournement de la fonctionnalité de sécurité Microsoft Office Excel
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
+
+- Résolution de divers problèmes de performances.
+
+
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalités
+
+- Divers problèmes de performances résolus.<br/><br/>
 
 ## <a name="october-15-2019-release"></a>Version du 15 octobre 2019
 *Version 16.30 (build 19101301)*

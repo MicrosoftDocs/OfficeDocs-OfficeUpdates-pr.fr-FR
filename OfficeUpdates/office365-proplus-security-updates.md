@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité Office 365 ProPlus
-ms.openlocfilehash: 3aba613d5ecbe9bf2b9c2de29e4356248980db89
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424059"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289662"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notes de publication pour les mises à jour de sécurité Office 365 ProPlus
 
@@ -25,6 +25,22 @@ Ces notes de publication fournissent des informations sur les correctifs de séc
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.  
 
 [//]: # (NE SUPPRIMEZ PAS LA LIGNE CI-DESSUS, elle est utilisée pour l’espacement)  
+
+## <a name="november-12-2019"></a>12 novembre 2019
+Canal mensuel : version 1910 (build 12130.20344)  
+Canal semi-annuel (ciblé) : version 1908 (build 11929.20436)  
+Canal semi-annuel : version 1902 (build 11328.20468)  
+Canal semi-annuel : version 1808 (build 10730.20416)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1448](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1448)
+-   [CVE-2019-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1446)
+
+### <a name="office-suite"></a>Suite Office
+
+-   [CVE-2019-1449](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1449)
+-   [CVE-2019-1402](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1402)
 
 ## <a name="october-08-2019"></a>08 octobre 2019
 Canal mensuel : version 1909 (build 12026.20320)  

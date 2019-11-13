@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office 2016 C2R et Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: ad5f3a3177bd7d51dfc041460a1383e3657571cf
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: c35ff76b7ac742c7a8bb14361413c311dda0a593
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424099"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282262"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -39,12 +39,13 @@ Les informations suivantes s’appliquent aux versions d’Office 2019 sous lic
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|12 novembre 2019   |Version 1808 (build 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8 octobre 2019   |Version 1808 (build 10351.20054)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1331) <br/> |
 |10 septembre 2019   |Version 1808 (build 10350.20019)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1297) <br/>  |
 |13 août 2019   |Version 1808 (build 10349.20017)  |[CVE-2019-1155](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1205) <br/>  |
 |9 juillet 2019   |Version 1808 (build 10348.20020)  |[CVE-2019-1084](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1112) <br/>|
 |11 juin 2019   |Version 1808 (build 10346.20002)  |[CVE-2019-1034](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1034) <br/> [CVE-2019-1035](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1035) <br/> |
-|14 mai 2019   |Version 1808 (build 10344.20008)  |[CVE-2019-0945](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0945) <br/> [CVE-2019-0946](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0946) <br/> [CVE-2019-0953](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0953) <br/>|
+
 
 
 
@@ -56,12 +57,12 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|12 novembre 2019   |Version 1910 (build 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8 octobre 2019   |Version 1909 (build 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1331) <br/> |
 |10 septembre 2019   |Version 1908 (build 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1297) <br/>  |
 |13 août 2019   |Version 1907 (build 11901.20218)  |[CVE-2019-1155](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1205) <br/>  |
 |9 juillet 2019   |Version 1906 (build 11727.20244)  |[CVE-2019-1084](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1084) <br/> [CVE-2019-1109](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1109) <br/> [CVE-2019-1110](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1110) <br/> [CVE-2019-1111](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1111) <br/> [CVE-2019-1112](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1112) <br/>|
 |11 juin 2019   |Version 1905 (build 11629.20246)  |[CVE-2019-1034](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1034) <br/> [CVE-2019-1035](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1035) <br/> |
-|14 mai 2019   |Version 1904 (build 11601.20204)  |[CVE-2019-0945](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0945) <br/> [CVE-2019-0946](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0946) <br/> [CVE-2019-0953](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0953) <br/>|
 
 
 
