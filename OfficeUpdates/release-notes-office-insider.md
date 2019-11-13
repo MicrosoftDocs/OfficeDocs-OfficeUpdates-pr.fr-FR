@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
+ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733008"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076418"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -29,6 +29,168 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+## <a name="version-1912-november-08"></a>Version 1912 : 8 novembre
+*Version 1912 (build 12231.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="user-lifecycle"></a>Cycle de vie de l’utilisateur
+
+- **Améliorations apportées à l’activation d’AFO :** les clients voient les mises à jour disponibles lors de l’activation d’Office inclus sur leur nouvel ordinateur
+
+### <a name="word"></a>Word
+
+- **Expérience vidéo en ligne inédite et améliorée dans Word :** nouvelle expérience vidéo en ligne mieux sécurisée traitant de l’insertion de nouvelles vidéos et de la lecture de vidéos existantes dans Word
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- <div><span>Blocage intermittent impliquant du contenu de dossier croisé</span></div>
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span>Coller un graphique d’Excel vers PowerPoint peut réduire la taille de celui-ci</span></div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1911-november-01"></a>Version 1911 : 1er novembre
+*Version 1911 (build 12228.20020)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Intégrez le contexte à vos objets SVG :** vous pouvez désormais conserver le texte dans les cartes, graphiques et autres vecteurs SVG lors de la conversion de ces objets dans Office.
+
+- **Affichez les options du stylet lorsque vous sélectionnez votre Stylet Surface :** lorsque vous choisissez votre Stylet Surface dans Word, Excel ou PowerPoint pour la première fois, l’onglet Dessin est activé pour faciliter la sélection des couleurs de votre stylet.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Intégrez le contexte à vos objets SVG :** vous pouvez désormais conserver le texte dans les cartes, graphiques et autres vecteurs SVG lors de la conversion de ces objets dans Office.
+
+- **Affichez les options du stylet lorsque vous sélectionnez votre Stylet Surface :** lorsque vous choisissez votre Stylet Surface dans Word, Excel ou PowerPoint pour la première fois, l’onglet Dessin est activé pour faciliter la sélection des couleurs de votre stylet.
+
+### <a name="visio"></a>Visio
+
+- **Créez des diagrammes Visio sophistiqués dans Excel :** visualisez rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/fr-FR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Affichez les options du stylet lorsque vous sélectionnez votre Stylet Surface :** lorsque vous choisissez votre Stylet Surface dans Word, Excel ou PowerPoint pour la première fois, l’onglet Dessin est activé pour faciliter la sélection des couleurs de votre stylet.
+
+- **Amélioration de la co-création :** amélioration de l’expérience de co-création en rendant plus probable la réception en temps réel par d’autres des modifications de contenu.
+
+- **Les autres utilisateurs voient rapidement vos modifications :** la co-création permet à vos collaborateurs de voir vos modifications plus rapidement que jamais.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- <div><span>Nous avons résolu un problème dans lequel Excel peut se bloquer lors de la modification d’un fichier protégé à partir d’un partage réseau non approuvé</span></div>
+
+
+- <div>Résolution d’un problème dans lequel un fichier est marqué comme endommagé lors de sa tentative d’ouverture car des feuilles contenant des graphiques sparkline faisant référence à des données d’une autre feuille ont été supprimées de celui-ci précédemment.</div>
+
+
+- <div>Résolution d’un problème dans lequel vous risquez d’obtenir des résultats incorrects lors de la conversion de filtres de rapport avec le reste du tableau croisé dynamique pour les requêtes envoyées à des serveurs de tables SQL.</span></div>
+
+
+- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
+
+
+- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Il se peut qu’il manque des images incorporées dans un e-mail transféré.</div>
+
+
+- <div><span>L’outil Recherche de salles peut indiquer &quot;Aucune&quot; pour des salles disponibles</span></div>
+
+
+- <div><span>Il se peut que les utilisateurs ne puissent pas créer de profils Outlook avec une restriction de client stricte</div></span>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>L’utilisateur ne peut pas marquer une tâche comme étant terminée, car elle reste bloquée à 99 %</span></div>
+
+
+- <div>Les surutilisations ne sont pas résolues par le nivellement.</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
+
+
+- <div><span>L’ouverture de documents hérités et l’accès à l’onglet Informations peuvent provoquer un blocage</span></div>
+
+
+- <div><span>Les suggestions de vérification linguistique ne s’affichent pas dans les menus contextuels</span></div>
+
+
+- <div><span>Les stratégies de contenu sont appliquées de façon incorrecte aux commentaires</span></div>
+
+
+- <div><span>Les commentaires hérités rédigés en caractères foncés ne sont pas visibles dans le Mode foncé</span></div>
+
+
+- <div><span>Des caractères incorrects peuvent apparaître lorsque vous utilisez la correction automatique coréen/anglais</span></div>
+
+
+- <div><span>Des étiquettes de stratégie inférieure peuvent être appliquées quand une étiquette de stratégie supérieure aurait dû prévaloir</div></span>
+
+
+- <div><span>Les liens d’images cid: dans des messages Outlook&nbsp; peuvent maintenant être rompus à la demande.</div></span>
+
+
+- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
+
+
+- <div><span>La recherche à partir du volet de navigation peut échouer</span></div>
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span>Certains dessins peuvent ne pas s’afficher en mode aperçu ou dans les diaporamas</span></div>
+
+
+- <div><span>Certains katakanas peuvent s’afficher de manière incorrecte dans une zone de texte verticale</span></div>
+
+
+- <div>Une tentative d’enregistrement d’un fichier sur un partage réseau déconnecté peut entraîner un blocage</div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1911-october-25"></a>Version 1911 : 25 octobre
 *Version 1911 (build 12215.20006)*
