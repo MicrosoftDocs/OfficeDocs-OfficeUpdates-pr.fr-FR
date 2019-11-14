@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453584"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289814"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -23,6 +23,57 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1902-november-12"></a>Version 1902 : 12 novembre
+*Version 1902 (build 11328.20468)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème à l’origine de retards d’affichage de valeurs tapées après la suppression d’une plage.
+- Résolution d’un problème lié aux classeurs créés dans des versions antérieures d’Office qui pouvaient bloquer Excel pendant leur ouverture dans des versions actuelles d’Office.
+
+### <a name="outlook"></a>Outlook
+
+- Correction d’un problème, observé par les utilisateurs, à l’origine de fuites de mémoire durant l’activation des notifications.
+- Correction d’un problème, constaté par les clients, à l’origine d’une fuite de mémoire dans Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correctif de fiabilité : résolution d’un problème lors duquel un complément tiers pouvait provoquer l’échec de PowerPoint.
+
+### <a name="office-suite"></a>Suite Office
+
+- Identification d’un problème de performance sur Win7 où la galerie Insérer des formes du ruban dans toutes les applications prenait environ 4 secondes pour s’afficher.
+- Résolution d’un problème dans lequel les raccourcis du menu Démarrer et les extensions de fichier Office disparaissaient brusquement suite à une mise à jour.
+- Pour protéger la sécurité du client Office, les mises à jour Microsoft Office sont désormais exclusivement signées à l’aide de l’algorithme SHA-2.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1808-november-12"></a>Version 1808 du 12 novembre
+*Version 1808 (build 10730.20416)*
+
+Mises à jour de sécurité listées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+
+### <a name="outlook"></a>Outlook
+
+- Aborde le problème de perte de données par des utilisateurs lorsqu’ils déplacent des éléments en dehors de la fenêtre de synchronisation, d’un magasin local vers une boite aux lettres Exchange Online, dans un « Paramètre de courrier à conserver en mode hors connexion » autre que « Tout ».
+
+### <a name="office-suite"></a>Suite Office
+
+- Pour protéger la sécurité du client Office, les mises à jour Microsoft Office sont désormais exclusivement signées à l’aide de l’algorithme SHA-2.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
