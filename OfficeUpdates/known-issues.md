@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit des informations sur les problèmes connus d’Office 365 ProPlus
-ms.openlocfilehash: 0e21cd3065f7ba253f168904c49c7ab4eb1a2f4a
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: f863015cbf8680697509fdaf0bbd5c7000e4c142
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37889993"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282162"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problèmes connus d’Office 365 ProPlus
 
@@ -29,17 +29,17 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 
 <br>
 
-### <a name="last-updated-october-30-2019"></a>Dernière mise à jour le 30 octobre 2019
+### <a name="last-updated-november-12-2019"></a>Dernière mise à jour : 12 novembre 2019
 
 ### <a name="excel"></a>Excel
 
 - Nous avons identifié un problème lié à l’insertion de fichiers en tant qu’objets à partir de OneDrive.<br><br> **Résolu** : version mensuelle 1910 (12130.20272)
 
 - Nous avons identifié un problème dans lequel les classeurs créés dans les versions antérieures d’Office pouvaient bloquer Excel lors de leur ouverture dans les versions actuelles d’Office.<br><br>
-**Examen en cours** : SACT <br>**Résolu** : version mensuelle 1910 (12130.20272)
+**Résolu** : version mensuelle 1910 (12130.20272), version SACT 1908 (11929.20436) et version SAC 1902 (11328.20468)
 
 - Nous avons identifié un problème à l’origine de retards d’affichage de valeurs tapées après la suppression d’une plage.<br><br>
-**Examen en cours** : SAC
+**Résolu** : version SAC 1902 (11328.20468)
 
 - Nous avons identifié un problème lié à la sélection d’une cellule inappropriée lorsque la sélection a lieu après un défilement.<br><br>
 **Examen en cours** : SACT <br>**Résolu** : version mensuelle 1910 (12130.20272)
@@ -49,13 +49,14 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons identifié un problème qui entraînait la création pour certains utilisateurs de dossiers spéciaux dupliqués lors de l’ajout d’un compte Exchange secondaire.<br><br>**Examen en cours** : SACT <br>**Résolu** : version mensuelle 1910 (12130.20272)
+- Nous avons identifié un problème qui entraînait la création pour certains utilisateurs de dossiers spéciaux dupliqués lors de l’ajout d’un compte Exchange secondaire.<br><br>
+**Résolu** : version mensuelle 1910 (12130.20272) et version SACT 1908 (11929.20436)
 
 - Nous avons identifié un problème qui aurait pu provoquer une fuite de mémoire. <br><br>
-**Examen en cours** : SAC <br>**Résolu** : version mensuelle 1910 (12130.20272) et version SACT 1908 (11929.20388)
+**Résolu**: version mensuelle 1910 (12130.20272), version SACT 1908 (11929.20388) et version SAC 1902 (11328.20468)
 
-- Nous avons identifié un problème qui aurait pu causer la duplication de dossiers de courrier.<br><br>
-**Résolu** : version mensuelle 1910 (12130.20272)
+- Concerne un problème qui entraînait la création, pour certains utilisateurs, de dossiers spéciaux dupliqués lors de l’ajout d’un compte Exchange secondaire.<br><br>
+**Résolu** : version mensuelle 1910 (12130.20272) et version SACT 1908 (11929.20436)
 
 - Nous avons identifié un problème qui pouvait parfois entraîner un plantage lorsqu'un utilisateur reçoit un message « conversation manquée » de Skype.<br><br>
 **Résolu** : version mensuelle 1910 (12130.20272)
@@ -64,7 +65,7 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 **Résolu** : version mensuelle 1910 (12130.20272)
 
 - Nous avons identifié un problème avec les liens de CID : les images (images d’e-mail Outlook) ne pouvaient pas être séparées.<br><br>
-**Examen en cours** : SACT
+**Résolu** : version SACT 1908 (11929.20436)
 
 - Nous avons identifié un problème qui aurait pu provoquer un message d’erreur incorrect lors de la tentative d’envoi d’e-mails chiffrés s/MIME.<br><br>**Résolu** : version mensuelle 1910 (12130.20272)
 
@@ -74,14 +75,13 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 
 - Nous avons identifié un problème qui pouvait provoquer la perte des TextRanges après avoir collé le texte dans les espaces réservés aux en-têtes/pieds/numéros de diapositives sur le diaporama maître et la disposition des diapositives. <br><br>**Résolu** : version mensuelle 1910 (12130.20272)
 
-- Nous avons identifié un problème de performance sur Win7 où la galerie Insérer des formes du ruban dans toutes les applications prenait environ 4 secondes pour s’afficher.<br><br>
-**Examen en cours** : mensuel, SAC
-<br>**Résolu** : version SACT 1908 (11929.20396)
+- Nous avons identifié un problème de performance sur Win7 où la galerie Insérer des formes du ruban dans toutes les applications prenait environ 4 secondes pour s’afficher.<br>
+<br>**Résolu**: version mensuelle 1910 (12130.20272), version SACT 1908 (11929.20396) et version SAC 1902 (11328.20468)
 
 ### <a name="project"></a>Project
 
 - Nous avons identifié un problème lié à l’affichage de plusieurs messages lors de l’ouverture d’un projet en lecture seule.<br><br>
-**Examen en cours** : mensuel, SACT
+**Résolu**: version mensuelle 1910 (12130.20344) et version SACT 1908 (11929.20436)
 
 ### <a name="word"></a>Word
 - Nous avons identifié un problème lié à l’insertion de fichiers en tant qu’objets à partir de OneDrive.<br><br> **Résolu** : version mensuelle 1910 (12130.20272)
