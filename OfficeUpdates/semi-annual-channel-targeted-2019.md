@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890033"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289834"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -23,6 +23,57 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) via le canal semi-annuel (ciblé) durant une période de temps plus ou moins longue. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams est inclus dans les nouvelles installations de canal semi-annuel (ciblé), à partir de la version 1902. Teams sera ajouté aux installations existantes de canal semi-annuel (ciblé) lorsque celles-ci seront mises à jour vers la version 1908 ou ultérieure. Pour plus d’informations, reportez-vous à la rubrique [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+
+## <a name="version-1908-november-12"></a>Version 1908 du 12 novembre
+*Version 1908 (build 11929.20436)*
+
+Mises à jour de sécurité listées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+
+### <a name="excel"></a>Excel
+
+- Correctif permettant de corriger les couleurs utilisées dans les aperçus lors de l’insertion de graphiques à l’aide de modèles.
+- Nous avons résolu un problème qui aurait pu provoquer la restitution incorrecte d’un nuage de points d’un graphique en courbes lors de la modification de la collection de séries.
+- Résolution d’un problème ayant provoqué des interruptions de co-édition lors de la modification de propriétés personnalisées avec des macros en cours d’exécution.
+- Nous avons résolu un problème de performance avec les fonctions asynchrones définies par l’utilisateur qui provoquaient leur exécution en mode synchrone.
+- Nous avons considérablement amélioré les performances des filtres par couleur.
+- Résolution d’un problème lié aux classeurs créés dans des versions antérieures d’Office qui pouvaient bloquer Excel pendant leur ouverture dans des versions actuelles d’Office.
+- Les liens d’images CID dans des messages Outlook peuvent maintenant être rompus à la demande.
+
+### <a name="outlook"></a>Outlook
+
+- Les liens d’images CID dans des messages Outlook peuvent maintenant être rompus à la demande.
+- Résolution d’un problème qui entraînait l’affichage d’une erreur d’autorisation lors de la copie d’éléments d’un calendrier principal vers un calendrier de groupe.
+- Résolution d’un problème à l’origine d’une fuite de mémoire pendant de très longues sessions Outlook.
+- Résolution d’un problème qui entraînait l’échec des utilisateurs dans Outlook lors de l’interaction avec certains liens sécurisés.
+- Résolution d’un problème qui a entrainé l’échec des utilisateurs lors du traitement de réponses de découverte automatique.
+- Résolution d’un problème qui entraînait la création, pour certains utilisateurs, de dossiers spéciaux dupliqués lors de l’ajout d’un compte Exchange secondaire.
+- Résolution d’un problème à l’origine d’une expérience de blocage des commentaires sur la recherche.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Les liens d’images CID dans des messages Outlook peuvent maintenant être rompus à la demande.</div>
+- Correctif de fiabilité : résolution d’un problème lors duquel un complément tiers pouvait provoquer l’échec de PowerPoint.
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème lors duquel la commande Tout niveler ne répondait pas correctement à une surutilisation de ressources.
+- Résolution d’un problème dans lequel l’affectation d’une tâche sans travail effectif pouvait ne pas être marquée comme achevée et continuait d’apparaitre à 99 %.
+- Nous avons identifié un problème lié à l’affichage de plusieurs messages lors de l’ouverture d’un projet en lecture seule.
+
+### <a name="word"></a>Word
+
+- Les liens d’images CID dans des messages Outlook peuvent maintenant être rompus à la demande.
+- Correction de différents problèmes lors desquels l’application pouvait rester ouverte à sa fermeture. Correction additionnelle de certains échecs liés aux compléments.
+
+### <a name="office-suite"></a>Suite Office
+
+- Résolution de problèmes liés à la propriété de Textbox/Shape Autofit dans le module d’extension d’un tiers.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="october-15"></a>15 octobre
 
