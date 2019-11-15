@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289834"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312134"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -256,8 +256,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ### <a name="office-suite"></a>Suite Office
 
 - **Installation de Microsoft Teams** : Teams est ajouté aux installations existantes d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install)
-
-- **Partager et télécharger vos documents avec les nouveaux boutons exposés dans la Zone Info :** auparavant, les boutons Partager, Copier chemin d’accès au Presse-papiers, et Ouvrir l’emplacement du fichier étaient uniquement accessibles derrière le chemin d’accès enregistrer document. Ils sont désormais clairement visibles dans la Zone Info ! Accédez au fichier > informations comme vous le faites normalement pour afficher ces nouveaux boutons.
 
 - **Enregistrez les modifications au fur et à mesure :** chargez vos fichiers sur OneDrive pour vous assurer que vos mises à jour sont enregistrées automatiquement.
 
