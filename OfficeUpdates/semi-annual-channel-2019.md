@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289814"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402440"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -43,7 +43,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ### <a name="outlook"></a>Outlook
 
 - Correction d’un problème, observé par les utilisateurs, à l’origine de fuites de mémoire durant l’activation des notifications.
-- Correction d’un problème, constaté par les clients, à l’origine d’une fuite de mémoire dans Outlook.
+- Résolution d’un problème, remarqué par les utilisateurs, à l’origine de fuites de mémoire dans Outlook.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -304,7 +304,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
 
 - Résolution d’un problème qui amenait les clients à voir les tâches disparaître lors de l’ajout d’une deuxième condition à « Regrouper par ».
-- Résolution d’un problème qui empêchait les clients de modifier certains champs sur des éléments migrés. 
+- Résolution d’un problème qui empêchait les clients de modifier certains champs sur des éléments migrés.
 - Résolution d’un problème : les fenêtres n'apparaissaient pas au bon emplacement lorsque la barre des tâches système était située à gauche ou en haut de l'écran.
 - Résout un problème qui provoquait un blocage des clients lors du chargement des images sur la carte de visite.
 - Résout un problème qui provoquait un blocage de certains clients lors du démarrage d’applications Office.
