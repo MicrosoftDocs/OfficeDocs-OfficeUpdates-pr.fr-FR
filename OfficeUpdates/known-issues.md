@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit des informations sur les problèmes connus d’Office 365 ProPlus
-ms.openlocfilehash: f863015cbf8680697509fdaf0bbd5c7000e4c142
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 721c9a600b079b3214fa798a39a8ed728c89de93
+ms.sourcegitcommit: 7c1759a0e733ade767da00175afc1c43e8d07e3a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282162"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640823"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problèmes connus d’Office 365 ProPlus
 
@@ -32,6 +32,22 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 ### <a name="last-updated-november-12-2019"></a>Dernière mise à jour : 12 novembre 2019
 
 ### <a name="excel"></a>Excel
+
+- Les contrôles de case à cocher peuvent être réduits lorsque vous utilisez l’ajustement automatique pour ajuster la hauteur de ligne<br><br>**Examen en cours** : mensuel, SACT
+
+- Problème de performance avec les fonctions asynchrones définies par l’utilisateur qui provoquaient leur exécution en mode synchrone.<br><br>**Résolu** : version SACT 1908 (11929.20436) 
+
+- Les utilisateurs ne pouvaient pas enregistrer dans le format classeur Excel Office 365<br><br>**Résolu** : version SACT 1908 (11929.20436)
+
+
+- Problème de ralentissement des performances suite à un clic sur le bouton Couleur de police lorsqu’un fichier possède une mise en forme conditionnelle importante.<br><br>**Résolu** : version SACT 1908 (11929.20436)
+
+- Améliorations significatives des performances de la suppression des colonnes avec des cellules fusionnées.<br><br>**Examen en cours** : SACT<br>**Résolu** : version mensuelle 1910 (12130.20272)
+
+- Résultats incorrects lors de la conversion de filtres de rapport avec le reste du tableau croisé dynamique pour les requêtes envoyées à des serveurs de tables SQL.<br><br>**Examen en cours** : mensuel
+
+- Correctif permettant de corriger les couleurs utilisées dans les aperçus lors de l’insertion de graphiques à l’aide de modèles<br><br>**Résolu**: version mensuelle 1910 (12130.20272) et version SACT 1908 (11929.20436)
+
 
 - Nous avons identifié un problème lié à l’insertion de fichiers en tant qu’objets à partir de OneDrive.<br><br> **Résolu** : version mensuelle 1910 (12130.20272)
 
@@ -71,6 +87,9 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 
 ### <a name="powerpoint"></a>PowerPoint
 
+- Certains katakanas peuvent s’afficher de manière incorrecte dans une zone de texte verticale.<br><br>
+**Examen en cours** : mensuel
+
 - Nous avons identifié un problème qui empêchait la création d’un lien hypertexte lorsque vous collez du texte avec un lien hypertexte. <br><br>**Résolu** : version mensuelle 1910 (12130.20272)
 
 - Nous avons identifié un problème qui pouvait provoquer la perte des TextRanges après avoir collé le texte dans les espaces réservés aux en-têtes/pieds/numéros de diapositives sur le diaporama maître et la disposition des diapositives. <br><br>**Résolu** : version mensuelle 1910 (12130.20272)
@@ -80,11 +99,25 @@ Ce tableau présente un résumé des problèmes actifs actuels et des problèmes
 
 ### <a name="project"></a>Project
 
+- Affectation d’une tâche sans travail effectif pouvait ne pas être marquée comme achevée et continuait d’apparaitre à 99 %.<br><br>
+**Examen en cours** : mensuel<br>
+**Résolu** : version SACT 1908 (11929.20436)
+
+- Les surutilisations ne sont pas résolues par le nivellement.<br><br>
+**Examen en cours** : mensuel
+
 - Nous avons identifié un problème lié à l’affichage de plusieurs messages lors de l’ouverture d’un projet en lecture seule.<br><br>
 **Résolu**: version mensuelle 1910 (12130.20344) et version SACT 1908 (11929.20436)
 
 ### <a name="word"></a>Word
+
+- La recherche à partir du volet de navigation peut échouer.<br><br>
+**Examen en cours** : mensuel
+
 - Nous avons identifié un problème lié à l’insertion de fichiers en tant qu’objets à partir de OneDrive.<br><br> **Résolu** : version mensuelle 1910 (12130.20272)
+
+### <a name="office-suite"></a>Suite Office
+- Une tentative d’enregistrement d’un fichier sur un partage réseau déconnecté peut entraîner un échec. **Examen en cours** : mensuel
 
 
 
