@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402440"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669823"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -48,6 +48,10 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ### <a name="powerpoint"></a>PowerPoint
 
 - Correctif de fiabilité : résolution d’un problème lors duquel un complément tiers pouvait provoquer l’échec de PowerPoint.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème de police remplacée par MS Mincho lors de la tentative de finalisation de certains caractères spéciaux.
 
 ### <a name="office-suite"></a>Suite Office
 
