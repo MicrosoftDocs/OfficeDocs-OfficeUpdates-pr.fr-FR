@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 70e61e0157e1fa50194801b5ba43fe54245fa1f7
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 9444d679ae3d84a8eab9746e5fcdf429a844e07e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289854"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704503"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
@@ -32,11 +32,14 @@ Si vous êtes inscrit au niveau Canal mensuel (Ciblé), anciennement appelé Ins
 
 [//]: # (NE PAS SUPPRIMER)
 
-**12 novembre 2019**<br/>
-Version 1911 (Build 12228,20120)<br/>
+**15 novembre 2019**<br/>
+Version 1911 (Build 12228,20206)<br/>
+
+**12 novembre 2019**<br/>
+Version 1911 (build 12228.20120)<br/>
 
 **28 octobre 2019**<br/>
-Version 1910 (build 12130.20272)<br/>
+Version 1910 (Build 12130.20272)<br/>
 
 **24 octobre 2019**<br/>
 Version 1910 (build 12130.20238)<br/>
