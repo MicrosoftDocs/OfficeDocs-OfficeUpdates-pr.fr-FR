@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 354a0b0310cfcc84bcadc9e5b4f34581026fbd6f
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
+ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704463"
+ms.locfileid: "38724052"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -22,7 +22,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
  
  > [!NOTE]
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+>- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
 
 ## <a name="version-1910-november-18"></a>Version 1910: 18 novembre
 *Version 1910 (build 12130.20390)*
@@ -44,7 +44,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1910-november-12"></a>Version 1910 : 12 novembre
 *Version 1910 (build 12130.20344)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -106,7 +106,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 ### <a name="office-suite"></a>Suite Office
 
-- **Installer Microsoft Teams sur des installations existantes d’Office 365 ProPlus :** à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez Déployer Microsoft Teams avec Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install)
+- **Installer Microsoft Teams sur des installations existantes d’Office 365 ProPlus :** à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez Déployer Microsoft Teams avec Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -149,7 +149,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ## <a name="version-1909-october-08"></a>Version 1909 : 8 octobre
 *Version 1909 (build 12026.20320)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -261,7 +261,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ## <a name="version-1908-september-10"></a>Version 1908 : 10 septembre
 *Version 1908 (build 11929.20300)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -327,16 +327,18 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ## <a name="version-1907-august-13"></a>Version 1907 : 13 août
 *Version 1907 (Build 11901.20218)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 
- - Résolution d’un problème qui pouvait se déclencher lors de la modification du tri d’un tableau croisé dynamique et de son rafraîchissement pendant une session de co-création avec d’autres utilisateurs.
+- Résolution d’un problème qui pouvait se déclencher lors de la modification du tri d’un tableau croisé dynamique et de son rafraîchissement pendant une session de co-création avec d’autres utilisateurs.
 
 ### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
-  - Résolution d’un problème qui amenait les utilisateurs dont la boîte aux lettres de base avait été mise à niveau vers l’authentification moderne à voir le mauvais compte associé à leur profil Outlook.
+
+- Résolution d’un problème qui amenait les utilisateurs dont la boîte aux lettres de base avait été mise à niveau vers l’authentification moderne à voir le mauvais compte associé à leur profil Outlook.
 
 ## <a name="version-1907-july-29"></a>Version 1907 : juillet 29
+
 *Version 1907 (build 11901.20176)*
 * Divers correctifs de bogues et de performances.
 
@@ -379,7 +381,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ## <a name="version-1906-july-09"></a>Version 1906 : 9 juillet
 *Version 1906 (build 11727.20244)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 
@@ -445,7 +447,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 ## <a name="version-1905-june-11"></a>Version 1905 : 11 juin
 *Version 1905 (Build 11629.20246)*
-<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 
@@ -535,7 +537,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ## <a name="version-1904-may-14"></a>Version 1904 : 14 mai 
 *Version 1904 (Build 11601.20204)*
 
- - Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-8"></a>Version 1904 : 8 mai
 *Version 1904 (build 11601.20178)*
@@ -600,7 +602,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 ## <a name="version-1903-april-9"></a>Version 1903 : 9 avril
 *Version 1903 (Build 11425.20204)* 
 
-- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : mises à jour non relatives à la sécurité
 - Résolution d’un problème dans Lync (Skype Entreprise) qui avait pour effet que, quand une réunion en ligne comptait plus de 7 participants, il pouvait arriver que la fenêtre de réunion disparaisse.
@@ -685,7 +687,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
  
 ### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
 
-- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install)
+- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Version 1901 : 12 février
 *Version 1901 (build 11231.20174)* 
