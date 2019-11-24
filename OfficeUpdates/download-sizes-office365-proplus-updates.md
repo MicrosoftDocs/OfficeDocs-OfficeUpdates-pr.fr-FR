@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 89181a939ed22a51a1958ecf395f3662361f1a03
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 272cf6e9cf743c164c8b0af0d5fb7e50a07bd865
+ms.sourcegitcommit: 82bdb4c2eaa7c6a14956b572111300dcba7fd9a8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704433"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39208977"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -29,6 +29,42 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="november-22-2019"></a>22 Novembre 2019
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1910 (Build 12130.20410).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1910 (Build 12130.20390) <br/> |18 novembre 2019 <br/> |50<br/> |
+|Version 1910 (build 12130.20344) <br/> |12 novembre 2019 <br/> |58<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU 22 novembre 2019)
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+La publication la plus récente est la version 1902 (Build 11328.20480).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20468) <br/> |12 novembre 2019 <br/> |61<br/> |
+|Version 1902 (build 11328.20438) <br/> |8 octobre 2019 <br/> |69<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+La version la plus récente est la version 1908 (Build 11929.20494).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20436) <br/> |12 novembre 2019 <br/> |57<br/> |
+|Version 1908 (build 11929.20396) <br/> |14 octobre 2019 <br/> |65<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU 22 novembre 2019)
 
 ## <a name="november-18-2019"></a>18 novembre 2019
 
