@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
-ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
+ms.openlocfilehash: dafc1001d61da1691fe60c7141045f74a8e24156
+ms.sourcegitcommit: d923a1840b7e9e9541568a3fcd9ffb439fb3cca6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38753791"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "38793842"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -35,12 +35,6 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - Résolution d’un problème qui renvoyait un message d’erreur : « La requête est endommagée » lors de l’exécution d’une requête de mise à jour.
 
-### <a name="outlook"></a>Outlook
-
-- Nous avons résolu un problème qui entraînait la modification inattendue du champ d’emplacement dans les réunions.
-
-- Nous avons résolu un problème qui entraînait la présence d’une boîte de message vide avec un bouton &quot;OK&quot; lorsque vous essayez de contacter le support technique à partir du contexte de création de compte.
-
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1910-november-12"></a>Version 1910 : 12 novembre
@@ -58,14 +52,15 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 
 - Nous avons résolu un problème qui entraînait la présence d’une boîte de message vide avec un bouton &quot;OK&quot; lorsque vous essayez de contacter le support technique à partir du contexte de création de compte.
 
-
-
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1910-october-30"></a>Version 1910 : 30 octobre
 *Version 1910 (build 12130.20272)*
-* Diverses résolutions de bogues et de performances.
 
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Résolution d’un problème à l’origine d’une expérience de blocage des commentaires sur la recherche.
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
