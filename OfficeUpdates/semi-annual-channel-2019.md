@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204323"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254363"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -35,7 +35,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="access"></a>Access
 
-- Cette mise à jour corrige un problème dans Microsoft Access qui peut être à l’origine de l’erreur &quot;Requête est endommagée&quot; lors de l’exécution d’une requête mise à jour ou si une instruction MISE À JOUR est utilisée dans SQL.
+- Résolution d’un problème qui renvoyait un message d’erreur : « La requête est endommagée » lors de l’exécution d’une requête de mise à jour.
 
 ### <a name="outlook"></a>Outlook
 
@@ -52,7 +52,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
-- Diverses résolutions de bogues et de performances.
+### <a name="access"></a>Access
+
+- Résolution d’un problème qui renvoyait un message d’erreur : « La requête est endommagée » lors de l’exécution d’une requête de mise à jour.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
