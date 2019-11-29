@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: c0c94dc4bfbc6e8e215b5c8d7b713e61abf3c651
-ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
+ms.openlocfilehash: 5abaa516f750daa60b0a2538f8d75f7a1b3fb71b
+ms.sourcegitcommit: d54d66f9c5f68a3a20ebb5f1004fb6c3ad9f62cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38753801"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39603688"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notes de publication pour Canal mensuel Office (ciblé)
 
@@ -27,6 +27,8 @@ Cet article contient les notes de publication relatives aux versions Canal mensu
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
 ## <a name="version-1911-november-20"></a>Version 1911 du 20 novembre
 *Version 1911 (build 12228.20250)*
