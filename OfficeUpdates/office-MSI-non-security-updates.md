@@ -3,19 +3,19 @@ title: Dernières mises à jour non liées à la sécurité pour les versions d�
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/06/2019
+ms.date: 12/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: dfb3e62d922774dce989bc6fadca93e1b80bc126
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 85c94bef062f0ed71bbdcbfd1f1fd0684ba206be
+ms.sourcegitcommit: 37fc7174310b0a4dc6a816d675b8e1b7d9302ffd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993699"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39678646"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -26,6 +26,13 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 > - Les informations contenues dans cet article ne s’appliquent pas aux versions d’Office 365, telles qu’Office 365 ProPlus.
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="december-3-2019"></a>3 décembre 2019
+
+**Office 2016**<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4484170](https://support.microsoft.com/help/4484170)) <br/>
+Mise à jour pour Microsoft Outlook 2016 ([KB4484172](https://support.microsoft.com/help/4484172)) <br/>
+Mise à jour pour Skype Entreprise 2016 ([KB4484133](https://support.microsoft.com/help/4484133)) <br/>
 
 ## <a name="november-5-2019"></a>5 novembre 2019
 
@@ -117,17 +124,3 @@ Mise à jour pour Microsoft Word 2013 ([KB4475525](https://support.microsoft.co
 **Office 2010**<br/>
 Mise à jour pour Microsoft Filter Pack 2.0 ([KB3114879](https://support.microsoft.com/help/3114879))<br/>Mise à jour pour Microsoft Office 2010 ([KB3114397](https://support.microsoft.com/help/3114397))<br/><br/>
 
-## <a name="june-4-2019"></a>4 juin 2019
-
-**Office 2016**<br/>
-Mise à jour pour Microsoft Excel 2016 ([KB4464578](https://support.microsoft.com/help/4464578))<br/>
-Mise à jour pour Microsoft Office 2016 ([KB4464539](https://support.microsoft.com/help/4464539))<br/>
-Mise à jour pour Microsoft Office 2016 ([KB4464579](https://support.microsoft.com/help/4464579))<br/>
-Mise à jour pour le Pack linguistique LIP (Language Interface Pack) de Microsoft Office 2016 ([KB4464581](https://support.microsoft.com/help/4464581))<br/>
-Mise à jour pour Microsoft Outlook 2016 ([KB4464585](https://support.microsoft.com/help/4464585))<br/>
-Mise à jour pour Microsoft Project 2016 ([KB4464589](https://support.microsoft.com/help/4464589))<br/>
-Mise à jour pour Skype Entreprise 2016 ([KB4464576](https://support.microsoft.com/help/4464576))<br/>
-
-**Office 2013**<br/>
-Mise à jour pour Skype Entreprise 2015 ([KB4464593](https://support.microsoft.com/help/4464593))<br/>
-<br/>

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 272cf6e9cf743c164c8b0af0d5fb7e50a07bd865
-ms.sourcegitcommit: 82bdb4c2eaa7c6a14956b572111300dcba7fd9a8
+ms.openlocfilehash: edf447e781009bd7fa137e12f754f657fbc36160
+ms.sourcegitcommit: 9651345dd5885fa89677b9043f435ad61cb1c15f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39208977"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810882"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -30,7 +30,32 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-## <a name="november-22-2019"></a>22 Novembre 2019
+## <a name="december-3-2019"></a>3 décembre 2019
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE DÉBUT DU CONTENU)
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+<i>La publication prévue est la version 1902 (build 11328.20488).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (build 11328.20480) <br/> |22 novembre 2019 <br/> |61<br/> |
+|Version 1902 (Build 11328.20468) <br/> |12 novembre 2019 <br/> |64<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+<i>La publication prévue est la version 1908 (build 11929.20510).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (build 11929.20494) <br/> |22 novembre 2019 <br/> |285<br/> |
+|Version 1908 (Build 11929.20436) <br/> |12 novembre 2019 <br/> |59<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE FIN DU CONTENU)
+
+## <a name="november-22-2019"></a>22 novembre 2019
 
 ### <a name="monthly-channel"></a>Canal mensuel
 
