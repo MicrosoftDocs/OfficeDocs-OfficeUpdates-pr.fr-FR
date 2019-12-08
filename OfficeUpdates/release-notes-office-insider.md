@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704493"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890458"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -29,6 +29,103 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+## <a name="version-1912-december-06"></a>Version 1912 : décembre 06
+*Version 1912 (build 12325.20012)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Paramètres de courrier de groupe avancés :** cette fonctionnalité permet aux utilisateurs de groupe de personnaliser les e-mails ou les événements qu’ils reçoivent/suivent dans leur boîte de réception.
+
+- **Stratégie de noms de groupes :** une stratégie de noms de groupes permet à l’administrateur informatique de standardiser et de gérer les noms des groupes créés par les utilisateurs de l’organisation. L’administrateur peut exiger qu’un préfixe et un suffixe en particulier soient ajoutés au nom pour un groupe lorsqu’il est créé, et il peut empêcher que des mots en particulier soient utilisés. Cela permet de minimiser l’utilisation de mots inappropriés dans les noms de groupe ainsi que de gérer la représentation des groupes dans leur annuaire. La stratégie de noms aide également les organisations qui déploient des sites d’équipe à les catégoriser en fonction du service.
+
+### <a name="office-suite"></a>Suite Office
+
+- **Volets à onglets :** vous pouvez désormais basculer entre plusieurs volets à l’aide d’une interface utilisateur d’onglet présente sur le côté droit de l’application. L’interface utilisateur n’est visible que lorsque vous avez ouvert au moins deux volets.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Les utilisateurs peuvent rencontrer une erreur lors de l’enregistrement des modifications à l’aide de jeux de caractères non anglais.
+
+- Les utilisateurs peuvent rencontrer une erreur lors de l’accès à une plage nommée masquée.
+
+- La désactivation de l’accélération graphique matérielle avec une résolution 4K peut entraîner un rendu différé des cellules lorsque vous faites défiler la page.
+
+- Il se peut que la suppression d’une formule longue qui chevauche une bordure de cellule continue d’apparaître sur la bordure de la cellule.
+
+- Résolution d’un problème qui empêchait le chargement de la personnalisation du ruban lors de l’ouverture d’un classeur incorporé.
+
+- Le menu déroulant Marge peut ne pas s’afficher correctement.
+
+### <a name="onenote"></a>OneNote
+
+- OneNote peut ne pas s’ouvrir à l’aide du complément Outlook « Notes de réunion ».
+
+### <a name="outlook"></a>Outlook
+
+- Les étiquettes de stratégie de rétention peuvent afficher la période de rétention entre parenthèses.
+
+- Des espaces vides peuvent apparaître dans les Cartes de visite comprenant un module linguistique japonais.
+
+- Les images insérées dans des courriers électroniques Outlook peuvent parfois être redimensionnées.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Si un utilisateur a deux (ou plusieurs) vidéos différentes sur une diapositive dans un fichier stocké dans le cloud, les images vidéo s’affichent correctement, mais lorsque l’utilisateur clique sur chacune d’elles pour les faire lire, le contenu vidéo est identique.
+
+- Dans certains cas, le défilement de l’écran sur les appareils tactiles ne fonctionne pas.
+
+- Le menu déroulant Marge peut ne pas s’afficher correctement.
+
+- D’une application Office à une autre, Safelinks peut ne pas lancer l’application liée.
+
+### <a name="project"></a>Project
+
+- Project peut se bloquer lorsque vous utilisez la fonctionnalité Comparer des projets.
+
+- Si vous êtes en mode Sombre, lorsque vous accédez au volet Inspecteur de tâches sur une tâche avec une ressource sur-allouée, vous ne pouvez pas lire le tableau.
+
+- L’effort de paramètre sur les tâches qui n’ont aucune affectation sont arrondies à 1 jour.
+
+### <a name="word"></a>Word
+
+- L’enregistrement d’un fichier après une opération de fusion et publipostage peut ne pas fonctionner dans certaines conditions.
+
+- L’organisateur de blocs de construction peut afficher une alerte non valide : &quot;vous avez modifié des styles, des blocs de construction&quot;.
+
+- Le volet Commentaires est parfois rechargé lorsque vous utilisez la fonctionnalité copier/coller.
+
+- Parfois, les commentaires ne sont pas collés dans le bon ordre.
+
+- L’application d’un modèle composé d’une liste à plusieurs niveaux avec des styles personnalisés aux documents existants peut ne pas conserver le style dans certaines conditions.
+
+- Le redimensionnement d’une bordure d’écran fractionné peut introduire l’apparition d’un écran fractionné supplémentaire.
+
+- Le menu déroulant Marge peut ne pas s’afficher correctement
+
+- JSON peut s’afficher lorsqu’un utilisateur est mentionné dans une carte Commentaire.
+
+- D’une application Office à une autre, Safelinks peut ne pas lancer l’application liée.
+
+### <a name="office-suite"></a>Suite Office
+
+- Pour les produits fondés sur le japonais, le prénom et le nom de l’utilisateur du compte peuvent apparaître dans un ordre incorrect.
+
+- Un contour de zone de texte peut s’afficher autour d’un commentaire en survolant ce dernier avec le pointeur de la souris.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1912-november-15"></a>Version 1912 du 15 novembre
 *Version 1912 (build 12307.20000)*
