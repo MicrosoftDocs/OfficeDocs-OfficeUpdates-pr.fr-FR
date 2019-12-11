@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890448"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961971"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -23,6 +23,58 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) via le canal semi-annuel (ciblé) durant une période de temps plus ou moins longue. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams est inclus dans les nouvelles installations de canal semi-annuel (ciblé), à partir de la version 1902. Teams sera ajouté aux installations existantes de canal semi-annuel (ciblé) lorsque celles-ci seront mises à jour vers la version 1908 ou ultérieure. Pour plus d’informations, reportez-vous à la rubrique [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+
+## <a name="version-1908-december-10"></a>Version 1908 : 10 décembre
+*Version 1908 (build 11929.20516)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Accès
+
+- Résolution d’un problème dans lequel une requête Union qui inclut des références à des tableaux distants (par exemple, des tableaux SQL Server) peut entraîner la fermeture et le redémarrage d’Access.
+
+- Résolution d’un problème dans lequel l’agrégat comme Sum peut tronquer le résultat à une valeur entière.
+
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème lié à la sélection d’une cellule inappropriée lorsque la sélection a lieu après un défilement.
+
+- Nous avons résolu un problème dans lequel le filtre d’un tableau croisé dynamique OLAP était défini sur une valeur qui a été supprimée du cube.
+
+- Cette modification contourne le problème de certains pilotes graphiques Intel en tirant parti du rendu logiciel.
+
+- Résolution d’un problème dans lequel la fonction recherche peut renvoyer une erreur.
+
+- Améliorations significatives des performances de la suppression des colonnes avec des cellules fusionnées.
+
+- Résolution d’un problème à l’origine d’une erreur d’exécution macro lors de l’activation de fenêtres réduites.
+
+### <a name="outlook"></a>Outlook
+
+- Correction d’un problème de sélection de l’algorithme SMIME.
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de voir l’invite &quot;Les règles de cet ordinateur ne correspondent pas à celles de Microsoft Exchange&quot; à l’ouverture de la boîte de dialogue Règles.
+
+- Nous avons résolu un problème qui entraînait l’ajout de compléments Web pour accéder aux messages gérés par des droits numériques alors que cela ne devrait pas avoir lieu.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans le suivi des modifications qui entraient parfois dans une boucle sans fin.
+
+### <a name="office-suite"></a>Suite Office
+
+- Résolution d’un problème de rotation incorrect des caractères katakana à demi-chasse dans les zones de texte verticales de PowerPoint.
+
+- Résolution d’un problème dans lequel les mises à jour d’Office peuvent avoir téléchargé des fichiers de manière inattendue à partir du réseau de distribution de contenu Office au lieu de la source prévue, par exemple un partage local ou réseau ou un emplacement fourni par le gestionnaire de configuration.
+
+- Pour protéger la sécurité des clients Office, les mises à jour Microsoft Office sont désormais exclusivement signées à l’aide de l’algorithme SHA-2.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-november-22"></a>Version 1908 : 22 novembre
 *Version 1908 (build 11929.20494)*

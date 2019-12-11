@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254363"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961981"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -26,9 +26,47 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
+
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1902-december-10"></a>Version 1902 : 10 décembre
+*Version 1902 (build 11328.20492)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Cette modification contourne le problème de certains pilotes graphiques Intel en tirant parti du rendu logiciel.
+
+### <a name="outlook"></a>Outlook
+
+- Les éléments de calendrier de l’année prochaine peuvent afficher une heure incorrecte dans Outlook. [En savoir plus](https://docs.microsoft.com/fr-FR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+- Résolution d’un problème qui entraînait un blocage des utilisateurs lors de la tentative de création d’une règle à partir d’un message de &quot;conversation manquée&quot;.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d’un problème lié à l’impression d’une page de notes présentant des problèmes de mise en page dans certains cas.
+
+## <a name="version-1808-december-10"></a>Version 1808 : 10 décembre
+*Version 1808 (build 10730.20426)*
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Les éléments de calendrier de l’année prochaine peuvent afficher une heure incorrecte dans Outlook. [En savoir plus](https://docs.microsoft.com/fr-FR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
 ## <a name="version-1902-november-22"></a>Version 1902 : 22 novembre
 *Version 1902 (build 11328.20480)*
-
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
