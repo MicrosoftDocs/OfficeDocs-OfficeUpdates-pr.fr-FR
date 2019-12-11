@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2019
-ms.openlocfilehash: ad38d452524ad3fd9ee90e435c55f6ffa6a009e3
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254343"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890448"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2019
 
@@ -42,6 +42,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - Nous avons résolu un problème qui avait pour effet de rendre incorrecte la zone d’impression en mode aperçu avant impression.
 
+- Excel peut rencontrer des problèmes lors de la modification d’un fichier protégé à partir d’un partage réseau non approuvé.
+
+- Résolution d’un problème qui pouvait causer un blocage lors de la recherche de fichiers récents alors qu’aucun classeur n’était ouvert.
+
 ### <a name="outlook"></a>Outlook
 
 - Nous avons résolu un problème qui entraînait la présence d’une boîte de message vide avec un bouton &quot;OK&quot; lorsque vous essayez de contacter le support technique à partir du contexte de création de compte.
@@ -51,6 +55,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - Nous avons résolu un problème qui entraînait pour les utilisateurs l’échec de la recherche contre les groupes modernes.
 
 - Nous avons résolu un problème qui entraînait l’arrêt d’un blocage des utilisateurs lors de la tentative de création d’une règle à partir d’un message de &quot;conversation manquée&quot;.
+
+- Nous avons résolu un problème qui entraînait pour les utilisateurs l’échec de la recherche contre les groupes modernes.
 
 ### <a name="word"></a>Word
 
