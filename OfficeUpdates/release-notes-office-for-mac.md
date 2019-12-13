@@ -3,19 +3,18 @@ title: Notes de publication pour Office pour Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 54362c5d734beabdbee0b2d96ce312dd1b861b6d
-ms.sourcegitcommit: 714d02a6b26aa81fdcf7d629ec5e9b3f306ba19b
+ms.openlocfilehash: d8e5e009a3a51bdeb4c013daf7494307fc81abfd
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38748680"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39962281"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -30,10 +29,56 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 > - Si vous êtes abonné à Office Insider, consultez les [notes de publication pour les builds Insider Fast d’Office 2016 pour Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - À compter de la version 16.17 en septembre 2018, ces notes de publications s’appliquent également à Office 2019 pour Mac, qui est la version d’Office pour Mac disponible sous la forme d’un achat définitif dans un point de vente ou via un contrat de licence en volume. Toutefois, certaines fonctionnalités répertoriées dans les notes de publication ne sont disponibles que si vous disposez d’un abonnement Office 365.
 > - Les notes du publication de la version 16.16 et des versions antérieures s’appliquent également à Office 2016 pour Mac qui est également une version d’Office pour Mac disponible sous la forme d’un achat unique. Les versions antérieures à la version 16.16 (incluse) peuvent être activées avec une licence en volume Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou une version ultérieure avec une licence en volume Office 2016 pour Mac. Pour plus d’informations sur les versions Office 2016 pour Mac à partir de septembre, consultez les [Notes de publication pour Office 2016 pour Mac](release-notes-office-2016-mac.md).
-> > 
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Nous publions parfois des mises à jour contenant des améliorations générales de qualité et de performances, sans nouvelles fonctionnalités. Si une application n’est pas spécifiquement mentionnée ci-dessous, la mise à jour de cette application comprend uniquement des améliorations de qualité et de performances.
 
-**Remarque :** les informations de publication de Microsoft AutoUpdate (MAU) ont été déplacées vers la page [Historique des publications MAU](https://docs.microsoft.com/fr-FR/officeupdates/release-history-microsoft-autoupdate).<br/>
+**Remarque :** les informations de publication de Microsoft AutoUpdate (MAU) ont été déplacées vers la page [Historique des publications MAU](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+
+
+## <a name="december-10-2019"></a>10 décembre 2019
+*Version 16.32 (build 19120802)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Accédez plus vite à vos fichiers :** les documents récemment consultés sont mis en évidence. Ouvrez les paramètres du compte ou les options directement à partir de la page de démarrage. [En savoir plus](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **Tapez une formule qui renvoie plusieurs valeurs :** vous pouvez désormais taper rapidement une formule renvoyant plusieurs valeurs qui se répandent automatiquement dans les cellules adjacentes. [En savoir plus](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Accédez plus vite à vos fichiers :** les documents récemment consultés sont mis en évidence. Ouvrez les paramètres du compte ou les options directement à partir de la page de démarrage. [En savoir plus](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **Griffonnez vos idées :** convertissez vos entrées manuscrites en formes, textes ou formules mathématiques de qualité professionnelle. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="word"></a>Word
+
+- **Accédez plus vite à vos fichiers :** les documents récemment consultés sont mis en évidence. Ouvrez les paramètres du compte ou les options directement à partir de la page de démarrage. [En savoir plus](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
+
+- **CoCréation :** Vous en avez assez de ne pas pouvoir travailler à votre guise dans vos documents contenant des macros ? Vos fichiers docm sur OneDrive entreprise autorisent désormais les modifications simultanées par plusieurs auteurs. [En savoir plus](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1464)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1462)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
 
 ## <a name="november-12-2019-release"></a>Version du 12 novembre 2019
 *Version 16.31 (build 19111002)*
@@ -402,7 +447,7 @@ Cette version inclut les mises à jour suivantes :
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Réduisez votre tension oculaire avec le mode Foncé :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Conservez l’apparence de votre texte :** incorporez des polices pour vous assurer que le texte de votre document a le même aspect, quel que soit l’ordinateur. Plus de surprise ! [En savoir plus](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Afficher les polices incorporées dans les documents : **permet d’afficher les polices incorporées dans un fichier dans Word Mac.<br/><br/>**Barre d’état invocable mode focus :** en mode focus, voir plus facilement le nombre de mots et accéder aux contrôles de zoom avec la barre d’état invocable.<br/><br/>**Gagnez en efficacité avec le mode focus :** nous avons tenu compte de vos commentaires ! Le mode Focus s’ouvre désormais au niveau de zoom que vous avez défini et affiche les numéros des pages que vous faites défiler.| |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Passez de l’iPhone à PowerPoint en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre diapositive depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Réduisez votre tension oculaire avec le mode Foncé :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Passez de l’iPhone à PowerPoint en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre diapositive depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Partagez votre calendrier :** partagez votre calendrier avec votre famille, vos amis et collègues. Ouvrez les calendriers partagés avec vous sur un Mac, un PC ou les versions cloud d’Outlook. [En savoir plus](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Désactivez le transfert pour une réunion :** empêchez les participants de transférer vos réunions à d’autres personnes. [En savoir plus](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Utilisez Teams pour vous connecter à vos réunions :** vous travaillez avec des équipes à distance ? Utilisez Teams dans Outlook pour planifier et participer à des réunions en ligne. [En savoir plus](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Affichez les participants aux réunion :** cliquez sur une réunion ou un événement dans votre calendrier pour afficher qui prévoit d’être présent.<br/><br/> **Affichez trois fuseaux horaires :** vous devez planifier une réunion sur plusieurs fuseaux horaires ? Ajoutez plusieurs fuseaux horaires à votre calendrier pour voir facilement la disponibilité des participants et choisissez un horaire qui convient à tout le monde. [En savoir plus](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Mise à jour automatique Microsoft 4.6 <br/>| Mise à jour des catalogues de sécurité pour qu’ils contiennent les codes de hachage SHA-256 au lieu de SHA-1 <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Suite Office  <br/>|**Nouvelle apparence des icônes de votre ruban :** ne vous inquiétez pas, tout fonctionne de la même façon. Qui plus est toutes les icônes s’affichent parfaitement sur les écrans de toutes tailles. [En savoir plus](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**Volet texte de remplacement mis à jour :** rendre votre contenu plus accessible en ajoutant des légendes utiles ou même marquer des éléments comme décoratifs. |<br/>||
@@ -780,7 +825,7 @@ Cette version inclut les mises à jour suivantes.
 |:-----|:-----|:-----|
 |Word  <br/> |**Arrière-plans modernes pour le mode Focus :** choisissez entre les arrière-plans Crépuscule ou Nuit polaire, lorsque vous êtes en mode Focus dans l’onglet d’**affichage**. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Excel  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Police Dubai :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Groupes :** affichez vos 10 groupes principaux, et lisez ou répondez aux conversations de groupe directement dans le dossier Groupes.  <br/> <br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Suite Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-0254) : Vulnérabilité de corruption de mémoire de Microsoft Office   |
 
@@ -871,7 +916,7 @@ Cette version inclut les mises à jour suivantes.
 |**Application**|**Mises à jour de fonctionnalité**|**Mises à jour non relatives à la sécurité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> | Préservez la fidélité de votre document avec des liens hypertexte qui fonctionnent lors de la conversion au format PDF. [En savoir plus](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> Amélioration de la prise en charge de la création de documents accessibles et de l’utilisation de VoiceOver, ainsi que d’autres technologies d’assistance pour lire et modifier des documents. [En savoir plus](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
-|Excel  <br/> | Amélioration de la prise en charge de la création de documents accessibles et de l’utilisation de VoiceOver, ainsi que d’autres technologies d’assistance pour lire et modifier des documents. [En savoir plus](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Résolution d’un problème : lors l’utilisation de la validation des données, Excel se bloquait si vous entriez du texte dans la zone de message d’erreur.  <br/> |Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)   |
+|Excel  <br/> | Prise en charge améliorée de la création de documents accessibles, et de l’utilisation de VoiceOver et des autres technologies d’assistance pour la lecture et la modification des documents. [En savoir plus](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Résolution d’un problème : lors l’utilisation de la validation des données, Excel se bloquait si vous entriez du texte dans la zone de message d’erreur.  <br/> |Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)   |
 |PowerPoint  <br/> | Amélioration de la prise en charge de la création de documents accessibles et de l’utilisation de VoiceOver, ainsi que d’autres technologies d’assistance pour lire et modifier des documents. [En savoir plus](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
 |Suite Office  <br/> | Prise en charge de trois langues supplémentaires : grec, hongrois et slovaque  <br/> ||Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)  |
 |Microsoft AutoUpdate  <br/> || - Numéro de version mis à jour : 3.8.2.  <br/> - Amélioration de la fiabilité et correction de bogues mineurs.  <br/> |Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)  |
