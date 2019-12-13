@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des version Office 365 ProPlus, organisées par date, avec des liens vers les notes de mise à jour.
-ms.openlocfilehash: bf422295f4b3b4234c135738cdea6a5f23728836
-ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
+ms.openlocfilehash: c029ad7f9eeac950a9d704a158075f4774f4b9c4
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39818784"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39962291"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Historique des mises à jour pour Office 365 ProPlus (classées par date)
 
@@ -31,10 +31,10 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Tous les mois<br/>|1911<br/>|12228.20332<br/>|3 décembre 2019<br/>|Publication de la version 1912<br/>|
-|Semi-annuel (ciblé)<br/>|1908<br/>|11929.20494<br/>|22 novembre 2019<br/>|10 mars 2020<br/>|
-|Semi-annuel<br/>|1902<br/>|11328.20480<br/>|22 novembre 2019<br/>|8 septembre 2020<br/>|
-|Semi-annuel<br/>|1808<br/>|10730.20422<br/>|22 novembre 2019<br/>|10 mars 2020<br/>|
+|Tous les mois<br/>|1911<br/>|12228.20364<br/>|10 décembre 2019<br/>|Publication de la version 1912<br/>|
+|Semi-annuel (ciblé)<br/>|1908<br/>|11929.20516<br/>|10 décembre 2019<br/>|10 mars 2020<br/>|
+|Semi-annuel<br/>|1902<br/>|11328.20492<br/>|10 décembre 2019<br/>|8 septembre 2020<br/>|
+|Semi-annuel<br/>|1808<br/>|10730.20426<br/>|10 décembre 2019<br/>|10 mars 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -46,6 +46,7 @@ Le tableau suivant fournit une liste des numéros de version et de build pour ch
 
 |**Année**|**Date de sortie**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|10 décembre|[Version 1911 (build 12228.20364)](monthly-channel-2019.md#version-1911-december-10)|[Version 1908 (Build 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[Version 1902 (Build 11328.20492)](semi-annual-channel-2019.md#version-1902-december-10)<br/>[Version 1808 (Build 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|3 décembre|[Version 1911 (build 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | |
 |2019|22 novembre|[Version 1910 (build 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Version 1908 (build 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Version 1902 (build 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Version 1808 (build 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019|18 novembre|[Version 1910 (build 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |

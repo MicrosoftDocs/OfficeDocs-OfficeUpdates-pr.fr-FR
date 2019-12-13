@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 695e9f6a98c869bf3a8c8d4bb2e4a6239c507f04
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: f713c681387b0e1031d1d11093bba0a103fc0dec
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857852"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961719"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -29,6 +29,39 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="december-10-2019"></a>10 décembre 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU 10 décembre 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1911 (build 12228.20364).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1911 (build 12228.20332) <br/> |3 décembre 2019 <br/> |54<br/> |
+|Version 1910 (build 12130.20410) <br/> |22 novembre 2019 <br/> |386<br/> |
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+La publication la plus récente est la version 1902 (Build 11328.20492).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (build 11328.20480) <br/> |22 novembre 2019 <br/> |61<br/> |
+|Version 1902 (Build 11328.20468) <br/> |12 novembre 2019 <br/> |63<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+La version la plus récente est la version 1908 (Build 11929.20516).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (build 11929.20494) <br/> |22 novembre 2019 <br/> |61<br/> |
+|Version 1908 (Build 11929.20436) <br/> |12 novembre 2019 <br/> |63<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU 10 décembre 2019)
 
 ## <a name="december-3-2019"></a>3 décembre 2019
 
@@ -45,31 +78,6 @@ La version actuelle est la version 1911 (build 12228.20332).
 
 
 [//]: # (NE PAS SUPPRIMER FIN DU CONTENU 3 décembre 2019)
-
-## <a name="december-3-2019"></a>3 décembre 2019
-
-[//]: # (NE PAS SUPPRIMER PRÉVISION DE DÉBUT DU CONTENU)
-
-### <a name="semi-annual-channel"></a>Canal semi-annuel
-
-<i>La publication prévue est la version 1902 (build 11328.20488).</i>
-
-|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
-|:-----|:-----|:-----|
-|Version 1902 (build 11328.20480) <br/> |22 novembre 2019 <br/> |61<br/> |
-|Version 1902 (Build 11328.20468) <br/> |12 novembre 2019 <br/> |64<br/> |
-
-### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
-
-<i>La publication prévue est la version 1908 (build 11929.20510).</i>
-
-|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
-|:-----|:-----|:-----|
-|Version 1908 (build 11929.20494) <br/> |22 novembre 2019 <br/> |285<br/> |
-|Version 1908 (Build 11929.20436) <br/> |12 novembre 2019 <br/> |59<br/> |
-
-
-[//]: # (NE PAS SUPPRIMER PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="november-22-2019"></a>22 novembre 2019
 
@@ -158,6 +166,11 @@ La version la plus récente est la version 1908 (Build 11929.20436).
 
 
 [//]: # (NE PAS SUPPRIMER FIN DU CONTENU12 novembre 2019)
+
+## <a name="november-5-2019"></a>5 novembre 2019
+
+
+
 
 ## <a name="october-30-2019"></a>30 octobre 2019
 
@@ -263,7 +276,13 @@ La version la plus récente est la version 1908 (build 11929.20388).
 |Version 1908 (build 11929.20300) <br/> |10 septembre 2019 <br/> |69<br/> |
 |Version 1902 (build 11328.20392) <br/> |13 août 2019 <br/> |340<br/> |
 
+
 [//]: # (NE PAS SUPPRIMER FIN DU CONTENU8 octobre 82019)
+
+## <a name="october-1-2019"></a>1er octobre 2019
+
+
+
 
 ## <a name="september-30-2019"></a>30 septembre 2019
 
@@ -315,7 +334,240 @@ La version la plus récente est la version 1908 (build 11929.20300).
 
 [//]: # (NE PAS SUPPRIMER FIN DU CONTENU 10 septembre 2019)
 
+## <a name="september-3-2019"></a>3 septembre 2019
 
+
+
+
+## <a name="august-26-2019"></a>26 août 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU 26 août 262019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 1908 (build 11929.20254).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1907 (build 11901.20218) <br/> |13 août 2019 <br/> |169<br/> |
+|Version 1907 (build 11901.20176) <br/> |29 juillet 2019 <br/> |174<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU 26 août 262019)
+
+## <a name="august-13-2019"></a>13 août 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU13 août 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1907 (build 11901.20218).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1907 (build 11901.20176) <br/> |29 juillet 2019 <br/> |65<br/> |
+|Version 1906 (build 11727.20244) <br/> |9 juillet 2019 <br/> |197<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+La version actuelle est la version 1902 (build 11328.20392).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (build 11328.20368) <br/> |9 juillet 2019 <br/> |65<br/> |
+|Version 1902 (Build 11328.20318) <br/> |11 juin 2019 <br/> |73<br/> |
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+La version actuelle est la version 1902 (build 11328.20392).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (build 11328.20368) <br/> |9 juillet 2019 <br/> |65<br/> |
+|Version 1808 (Build 10730.20348) <br/> |11 juin 2019 <br/> |306<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU13 août 2019)
+
+## <a name="july-29-2019"></a>29 juillet 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU29 juillet 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1907 (build 11901.20176).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1906 (build 11727.20244) <br/> |9 juillet 2019 <br/> |195<br/> |
+|Version 1906 (build 11727.20230) <br/> |27 juin 2019 <br/> |200<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU29 juillet 2019)
+
+## <a name="july-9-2019"></a>9 juillet 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU9 JUILLET 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 1906 (build 11727.20244).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1906 (Build 11727.20230) <br/> |27 juin 2019 <br/> |202<br/> |
+|Version 1906 (Build 11727.20224) <br/> |26 juin 2019 <br/> |51<br/> |
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+La version la plus récente est la version 1902 (build 11328.20368).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1808 (Build 10730.20348) <br/> |11 juin 2019 <br/> |307<br/> |
+|Version 1808 (Build 10730.20344) <br/> |14 mai 2019 <br/> |307<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
+
+La version la plus récente est la version 1902 (build 11328.20368).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20318) <br/> |11 juin 2019 <br/> |71<br/> |
+|Version 1902 (Build 11328.20286) <br/> |14 mai 2019 <br/> |74<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU9 JUILLET 2019)
+
+## <a name="june-27-2019"></a>27 juin 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU27 juin 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1906 (build 11727.20230).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1906 (build 11727.20224) <br/> |26 juin 2019 <br/> |187<br/> |
+|Version 1906 (build 11727.20210) <br/> |24 juin 2019 <br/> |287<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU27 juin 2019)
+
+## <a name="june-26-2019"></a>26 juin 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU26 juin 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1906 (build 11727.20224).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1906 (build 11727.20210) <br/> |24 juin 2019 <br/> |60<br/> |
+|Version 1905 (build 11629.20246) <br/> |11 juin 2019 <br/> |170<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU26 juin 2019)
+
+## <a name="june-24-2019"></a>24 juin 2019
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU24 juin 2019)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1906 (build 11727.20210).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1905 (build 11629.20246) <br/> |11 juin 2019 <br/> |171<br/> |
+|Version 1905 (build 11629.20214) <br/> |3 juin 2019 <br/> |175<br/> |
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU24 juin 2019)
+
+## <a name="jun-11-2019"></a>11 juin 2019
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1905 (Build 11629.20246).
+  
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1905 (build 111629.20214)  <br/> |3 juin 2019  <br/> |72<br/> |
+|Version 1904 (build 11629.20196)  <br/> |29 mai 2019  <br/> |71<br/> |
+|
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+La version la plus actuelle est la version 1808 (build 10730.20348).
+
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1808 (build 10730.20344) <br/> |14 mai 2019  <br/> |74<br/> |
+|Version 1808 (build 10730.20334) <br/> |9 avril 2019  <br/> |77<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
+
+La version la plus récente est la version 1902 (build 11328.20318).
+  
+|**Version mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (build 11328.20286)  <br/> |14 mai 2019  <br/> |68 <br/> |
+|Version 1902 (build 11328.20230)  <br/> |9 avril 2019  <br/> |72 <br/> |
+
+## <a name="june-3-2019"></a>3 juin 2019
+*Version 1905 (build 11629.20214)*
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1905 (build 11629.20214).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1905 (build 11629.20196)  <br/> |29 mai 2019  <br/> |291<br/> |
+|Version 1904 (build 11601.20230)  <br/> |22 mai 2019  <br/> |190<br/> |
+
+## <a name="may-29-2019"></a>29 mai 2019
+*Version 1905 (build 11629.20196)*
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1905 (Build 11629.20196).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1904 (build 11601.20230)  <br/> |22 mai 2019  <br/> |188<br/> |
+|Version 1904 (build 11601.20204)  <br/> |14 mai 2019  <br/> |193<br/> |
+
+## <a name="may-22-2019"></a>22 mai 2019
+*Version 1904 (build 11601.20230)*
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version actuelle est la version 1904 (build 11601.20230).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1904 (build 11601.20204)  <br/> |14 mai 2019  <br/> |193<br/> |
+|Version 1904 (build 11601.20178)  <br/> |8 mai 2019  <br/> |62<br/> |
+
+## <a name="may-14-2019"></a>14 mai 2019
+### <a name="monthly-channel"></a>Canal mensuel
+
+La publication la plus récente est la version 1904 (build 11601.20204).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1904 (build 11601.20178)  <br/> |8 mai 2019  <br/> |60<br/> |
+|Version 1904 (build 11601.20144)  <br/> |29 avril 2019  <br/> |71<br/> |
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+La publication la plus récente est la version 1808 (build 10730.20344).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1808 (build 10730.20334) <br/> |9 avril 2019  <br/> |72<br/> |
+|Version 1808 (build 10730.20304)  <br/> |12 mars 2019  <br/> |82<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal semi-annuel (ciblé)
+
+La publication la plus récente est la version 1902 (build 11328.20286).
+  
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (build 11328.20230)  <br/> |9 avril 2019  <br/> |72 <br/> |
+|Version 1902 (build 11328.20158)  <br/> |12 mars 2019  <br/> |76 <br/> |
 
 ## <a name="related-topics"></a>Sujets associés
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité Office 365 ProPlus
-ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289662"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961779"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notes de publication pour les mises à jour de sécurité Office 365 ProPlus
 
@@ -25,6 +25,29 @@ Ces notes de publication fournissent des informations sur les correctifs de séc
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.  
 
 [//]: # (NE SUPPRIMEZ PAS LA LIGNE CI-DESSUS, elle est utilisée pour l’espacement)  
+
+## <a name="december-10-2019"></a>10 décembre 2019
+Canal mensuel : version 1911 (build 12228.20364)  
+Canal semi-annuel (ciblé) : version 1908 (build 11929.20516)  
+Canal semi-annuel : version 1902 (build 11328.20492)  
+Canal semi-annuel : version 1808 (build 10730.20426)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1464)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1462)
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-1461](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1461)
+
+### <a name="office-suite"></a>Suite Office
+
+-   [CVE-2019-1400](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1400)
+-   [CVE-2019-1463](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1463)
 
 ## <a name="november-12-2019"></a>12 novembre 2019
 Canal mensuel : version 1910 (build 12130.20344)  

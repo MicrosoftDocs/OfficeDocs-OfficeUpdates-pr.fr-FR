@@ -3,19 +3,19 @@ title: Historique des versions pour la mise à jour automatique Microsoft (AutoU
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c4fa1fa339d50ea94a95af16174f1e00c4f280ee
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289652"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961799"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -30,6 +30,25 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="december-2019-release"></a>Version de décembre 2019
+
+**Date de publication :** 10 décembre 2019
+
+*Mise à jour automatique Microsoft 4.18*
+
+ **Mises à jour des fonctionnalités :**
+
+- Canaux par application : Les administrateurs Mac peuvent maintenant s'abonner à différents canaux ou anneaux de validation par application. 
+
+
+**Lien vers la mise à jour MAU :**
+
+[Télécharger le package Microsoft Auto Update 4.18](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Code de hachage SHA-256 :**
+
+3AC34987AE344C6B097081DE15350DC9126FF7B5A00E24105AACD80E6F4DFCAF<br/><br/>
 
 ## <a name="november-2019-release"></a>Version de novembre 2019
 

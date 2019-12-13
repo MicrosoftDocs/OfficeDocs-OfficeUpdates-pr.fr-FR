@@ -3,19 +3,19 @@ title: Dernières mises à jour pour les versions d’Office qui utilisent Windo
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: b1bbaa3669cfa78bafc6d1131931aa34f1c51e15
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c274cef54692cdb8f793edc78292cca275be8001
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289642"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961759"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -32,23 +32,25 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |Mise à jour publique de novembre 2019  <br/> [KB4527848](https://support.microsoft.com/help/4527848) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |PU de décembre 2019  <br/> [KB4532624](https://support.microsoft.com/help/4532624 ) <br/> |
    
 ## <a name="office-2013-updates"></a>Mises à jour d’Office 2013
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Mise à jour publique de novembre 2019  <br/> [KB4527848 ](https://support.microsoft.com/help/4527848 ) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |PU de décembre 2019  <br/> [KB4532624](https://support.microsoft.com/help/4532624  ) <br/> |
    
 ## <a name="office-2010-updates"></a>Mises à jour d’Office 2010
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Suites Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Serveurs Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produits SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Mise à jour publique de novembre 2019  <br/> [KB4527848 ](https://support.microsoft.com/help/4527848 ) <br/>|
+|**2010** <br/> Suites Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Serveurs Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produits SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |PU de décembre 2019  <br/> [KB4532624](https://support.microsoft.com/help/4532624  ) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Mises à jour publiées au cours des douze derniers mois
+
+[Mises à jour de sécurité et non relatives à la sécurité pour décembre 2019 : KB4532624](https://support.microsoft.com/help/4532624)
 
 [Mises à jour de sécurité et non relatives à la sécurité pour novembre 2019 : KB4527848](https://support.microsoft.com/help/4527848)
 
@@ -72,7 +74,7 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 
 [Mises à jour de sécurité et non relatives à la sécurité pour janvier 2019 : KB4484800](https://support.microsoft.com/help/4484800)
 
-[Mises à jour de sécurité et non relatives à la sécurité pour décembre 2018 : KB4477615](https://support.microsoft.com/help/4477615)
+
 
 
 
