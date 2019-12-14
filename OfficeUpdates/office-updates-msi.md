@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: c274cef54692cdb8f793edc78292cca275be8001
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 12389950564e67e2fe79efa1243695cc4e60c57f
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961759"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023559"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -64,11 +64,11 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 
 [Mises à jour de sécurité et non relatives à la sécurité pour juin 2019 : KB4505743](https://support.microsoft.com/help/4505743)
 
-[Mises à jour de sécurité et non relatives à la sécurité pour mai 2019 : KB4501270 ](https://support.microsoft.com/fr-FR/help/4501270)
+[Mises à jour de sécurité et non relatives à la sécurité pour mai 2019 : KB4501270 ](https://support.microsoft.com/help/4501270)
 
-[Mises à jour de sécurité et non relatives à la sécurité pour avril 2019 : KB4495300](https://support.microsoft.com/fr-FR/help/4495300)
+[Mises à jour de sécurité et non relatives à la sécurité pour avril 2019 : KB4495300](https://support.microsoft.com/help/4495300)
 
-[Mises à jour de sécurité et non relatives à la sécurité pour mars 2019 : article 4491754 de la Base de connaissances](https://support.microsoft.com/fr-FR/help/4491754) 
+[Mises à jour de sécurité et non relatives à la sécurité pour mars 2019 : article 4491754 de la Base de connaissances](https://support.microsoft.com/help/4491754) 
 
 [Mises à jour de Sécurité and Non-Sécurité pour Février 2019: KB4488446](https://support.microsoft.com/help/4488446)
 
