@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: d8e5e009a3a51bdeb4c013daf7494307fc81abfd
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
+ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962281"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39982264"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -25,14 +25,12 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
   
 > [!NOTE]
-> - Pour obtenir la liste de toutes les versions d’Office pour Mac, les packages de mise à jour et les liens de téléchargement supplémentaires, consultez l’article [Historique des mises à jour pour Office pour Mac](update-history-office-for-mac.md). 
 > - Si vous êtes abonné à Office Insider, consultez les [notes de publication pour les builds Insider Fast d’Office 2016 pour Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - À compter de la version 16.17 en septembre 2018, ces notes de publications s’appliquent également à Office 2019 pour Mac, qui est la version d’Office pour Mac disponible sous la forme d’un achat définitif dans un point de vente ou via un contrat de licence en volume. Toutefois, certaines fonctionnalités répertoriées dans les notes de publication ne sont disponibles que si vous disposez d’un abonnement Office 365.
-> - Les notes du publication de la version 16.16 et des versions antérieures s’appliquent également à Office 2016 pour Mac qui est également une version d’Office pour Mac disponible sous la forme d’un achat unique. Les versions antérieures à la version 16.16 (incluse) peuvent être activées avec une licence en volume Office 2016 pour Mac. Vous ne pouvez pas activer la version 16.17 ou une version ultérieure avec une licence en volume Office 2016 pour Mac. Pour plus d’informations sur les versions Office 2016 pour Mac à partir de septembre, consultez les [Notes de publication pour Office 2016 pour Mac](release-notes-office-2016-mac.md).
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - Nous publions parfois des mises à jour contenant des améliorations générales de qualité et de performances, sans nouvelles fonctionnalités. Si une application n’est pas spécifiquement mentionnée ci-dessous, la mise à jour de cette application comprend uniquement des améliorations de qualité et de performances.
+> - Nous publions parfois des mises à jour contenant des améliorations générales de qualité et de performances, sans nouvelles fonctionnalités. Si une application n’est pas spécifiquement mentionnée ci-dessous, sa mise à jour comprend uniquement des améliorations de qualité et de performances.
 
-**Remarque :** les informations de publication de Microsoft AutoUpdate (MAU) ont été déplacées vers la page [Historique des publications MAU](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate).<br/>
+
 
 
 
