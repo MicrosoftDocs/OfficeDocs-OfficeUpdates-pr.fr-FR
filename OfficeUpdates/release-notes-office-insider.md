@@ -9,30 +9,77 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
+ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890458"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40019850"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
 Cet article contient les notes de publication relatives aux builds Insider de Word, Excel, PowerPoint, Outlook, Access et Project sur ordinateur de bureau Windows. Chaque semaine, nous mettrons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Notez que certaines fonctionnalités (voire certains correctifs parfois) sont souvent proposées aux participants au programme Office Insider pour une durée délimitée. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
 
 > [!NOTE]
-> - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds
-> - La date de sortie des notes de publication peut ne pas correspondre à la date de publication correcte de la version
-
- > [!NOTE]
-> - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/fr-FR/deployoffice/teams-install).
+> - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds.
+> - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
+> - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NE PAS SUPPRIMER)
 
+## <a name="version-2001-december-13"></a>Version 2001 : 13 décembre
+*Version 2001 (build 12410.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Faites glisser le message vers un groupe dont vous êtes propriétaire :** déplacer et copier les messages et les conversations en les faisant glisser à partir de votre boîte de réception. Les messages que vous faites glisser sont partagés avec tous les membres du groupe.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+- Exécution d’une requête Union faisant référence à une ou plusieurs tables ODBC liées et qui contient un incident de clause Order By dans Access 64 bits.
+- Problème possible de troncation de données décimales lors de la totalisation de données provenant de requêtes Union dans Access (Office 365).
+- Les interfaces COM pour ACE ne sont pas exposées pour une utilisation en dehors des applications Office.
+
+### <a name="excel"></a>Excel
+- L’insertion d’un modèle 3D (animé ou statique) et l’utilisation d’ « Enregistrer en tant qu’image » ne fonctionnent pas.
+- La shortkey (ALT+CTRL+7/8) pour lancer les commentaires à partir de Backstage est en conflit avec les claviers AZERTY (ALT-GR+7/8). Impact : il est possible que les utilisateurs ne puissent pas utiliser certains caractères tels que : «\'.
+
+### <a name="outlook"></a>Outlook
+- Corrige un problème à l’origine de l’envoi de messages électroniques à une adresse de destinataire incorrecte.
+- Nous avons résolu un problème dans Outlook qui autorisait par erreur des utilisateurs ayant un accès &quot;lecture&quot; dans une boîte aux lettres de modifier l’État lu/non lu d’un message.
+- La révocation du certificat de sécurité sur le site Web n’est pas reproductible par le support technique du produit. La journalisation doit être ajoutée pour aider à trouver l’origine du problème.
+- Corrige un problème qui a entraîné des échecs de synchronisation de la part des utilisateurs.
+
+### <a name="powerpoint"></a>PowerPoint
+- L’insertion d’un modèle 3D (animé ou statique) et l’utilisation d’ « Enregistrer en tant qu’image » ne fonctionnent pas.
+
+### <a name="project"></a>Project
+- Le travail de la tâche n’est pas calculé dans la synthèse des tâches enfants planifiées manuellement.
+- Il se peut que le code VBA de projet appelé à partir d’un bouton du ruban ne fonctionne pas lorsque vous essayez d’enregistrer des projets basés sur le serveur.
+- Sauf si Project est déjà en cours d’exécution, l’ouverture de fichiers Project à partir d’une bibliothèque de documents SharePoint affiche une erreur et le fichier ne s’ouvre pas.
+
+### <a name="word"></a>Word
+- L’enregistrement de fichiers existants peut ne pas fonctionner.
+- L’utilisation des touches de direction dans la fenêtre du correcteur de grammaire et d’orthographe peut entraîner un scintillement intermittent.
+- Lors de la résolution d’un suivi, les commentaires associés qui ne peuvent ne pas être convertis en commentaires de point.
+- L’insertion d’un modèle 3D (animé ou statique) et l’utilisation d’ « Enregistrer en tant qu’image » ne fonctionnent pas.
+
+### <a name="office-suite"></a>Suite Office
+- Résolution d’un problème dans lequel les messages de mise à jour Office apparaissent dans une langue différente de celle prévue. Les messages Office Update sont désormais correctement mis en correspondance avec la langue d’affichage de Windows.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1912-december-06"></a>Version 1912 : décembre 06
 *Version 1912 (build 12325.20012)*
-
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -47,7 +94,6 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 - **Volets à onglets :** vous pouvez désormais basculer entre plusieurs volets à l’aide d’une interface utilisateur d’onglet présente sur le côté droit de l’application. L’interface utilisateur n’est visible que lorsque vous avez ouvert au moins deux volets.
 
-
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
 <br/>
@@ -56,73 +102,45 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
-
 - Les utilisateurs peuvent rencontrer une erreur lors de l’enregistrement des modifications à l’aide de jeux de caractères non anglais.
-
 - Les utilisateurs peuvent rencontrer une erreur lors de l’accès à une plage nommée masquée.
-
 - La désactivation de l’accélération graphique matérielle avec une résolution 4K peut entraîner un rendu différé des cellules lorsque vous faites défiler la page.
-
 - Il se peut que la suppression d’une formule longue qui chevauche une bordure de cellule continue d’apparaître sur la bordure de la cellule.
-
 - Résolution d’un problème qui empêchait le chargement de la personnalisation du ruban lors de l’ouverture d’un classeur incorporé.
-
 - Le menu déroulant Marge peut ne pas s’afficher correctement.
 
 ### <a name="onenote"></a>OneNote
-
 - OneNote peut ne pas s’ouvrir à l’aide du complément Outlook « Notes de réunion ».
 
 ### <a name="outlook"></a>Outlook
-
 - Les étiquettes de stratégie de rétention peuvent afficher la période de rétention entre parenthèses.
-
 - Des espaces vides peuvent apparaître dans les Cartes de visite comprenant un module linguistique japonais.
-
 - Les images insérées dans des courriers électroniques Outlook peuvent parfois être redimensionnées.
 
 ### <a name="powerpoint"></a>PowerPoint
-
 - Si un utilisateur a deux (ou plusieurs) vidéos différentes sur une diapositive dans un fichier stocké dans le cloud, les images vidéo s’affichent correctement, mais lorsque l’utilisateur clique sur chacune d’elles pour les faire lire, le contenu vidéo est identique.
-
 - Dans certains cas, le défilement de l’écran sur les appareils tactiles ne fonctionne pas.
-
 - Le menu déroulant Marge peut ne pas s’afficher correctement.
-
 - D’une application Office à une autre, Safelinks peut ne pas lancer l’application liée.
 
 ### <a name="project"></a>Project
-
 - Project peut se bloquer lorsque vous utilisez la fonctionnalité Comparer des projets.
-
 - Si vous êtes en mode Sombre, lorsque vous accédez au volet Inspecteur de tâches sur une tâche avec une ressource sur-allouée, vous ne pouvez pas lire le tableau.
-
 - L’effort de paramètre sur les tâches qui n’ont aucune affectation sont arrondies à 1 jour.
 
 ### <a name="word"></a>Word
-
 - L’enregistrement d’un fichier après une opération de fusion et publipostage peut ne pas fonctionner dans certaines conditions.
-
 - L’organisateur de blocs de construction peut afficher une alerte non valide : &quot;vous avez modifié des styles, des blocs de construction&quot;.
-
 - Le volet Commentaires est parfois rechargé lorsque vous utilisez la fonctionnalité copier/coller.
-
 - Parfois, les commentaires ne sont pas collés dans le bon ordre.
-
 - L’application d’un modèle composé d’une liste à plusieurs niveaux avec des styles personnalisés aux documents existants peut ne pas conserver le style dans certaines conditions.
-
 - Le redimensionnement d’une bordure d’écran fractionné peut introduire l’apparition d’un écran fractionné supplémentaire.
-
-- Le menu déroulant Marge peut ne pas s’afficher correctement
-
+- Le menu déroulant Marge peut ne pas s’afficher correctement.
 - JSON peut s’afficher lorsqu’un utilisateur est mentionné dans une carte Commentaire.
-
 - D’une application Office à une autre, Safelinks peut ne pas lancer l’application liée.
 
 ### <a name="office-suite"></a>Suite Office
-
 - Pour les produits fondés sur le japonais, le prénom et le nom de l’utilisateur du compte peuvent apparaître dans un ordre incorrect.
-
 - Un contour de zone de texte peut s’afficher autour d’un commentaire en survolant ce dernier avec le pointeur de la souris.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -130,14 +148,11 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 ## <a name="version-1912-november-15"></a>Version 1912 du 15 novembre
 *Version 1912 (build 12307.20000)*
 
-
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="insights-services"></a>Services d’informations
-
-- **Requêtes en langage naturel dans les Idées dans Excel :** nouvelle possibilité pour poser une question sur vos données en langage naturel
-
+- **Requêtes en langage naturel dans les Idées dans Excel :** nouvelle possibilité pour poser une question sur vos données en langage naturel.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -147,74 +162,43 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
-
-- <div><span>La fonctionnalité Texte en colonnes peut être à l’origine d’échecs pour certaines localisations</span></div>
-
-
-- <div>L’édition dans une cellule de formules de tableaux dynamiques peut entrainer un alignement de texte en dehors des limites de la cellule.</div>
-
+- La fonctionnalité Texte en colonnes peut être à l’origine d’échecs pour certaines localisations.
+- L’édition dans une cellule de formules de tableaux dynamiques peut entrainer un alignement de texte en dehors des limites de la cellule.
 
 ### <a name="outlook"></a>Outlook
-
-- <div>Ajout de l’option pour appliquer la configuration S/MIME via une stratégie de groupe</div>
-
-
-- <div><span>Des images incorporées peuvent avoir une taille inférieure à celle prévue</span></div>
-
+- Ajout de l’option pour appliquer la configuration S/MIME via une stratégie de groupe.
+- Des images incorporées peuvent avoir une taille inférieure à celle prévue.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>Le curseur peut disparaître lorsque le focus est déplacé du texte</span></div>
-
+- Le curseur peut disparaître lorsque le focus est déplacé du texte.
 
 ### <a name="project"></a>Project
-
-- <div><span>Les utilisateurs peuvent rencontrer des erreurs relatives à la gestion des licences</span></div>
-
-
-- <div><span>Le bouton Aujourd’hui du sélecteur de date peut parfois définir une date erronée</span></div>
-
+- Les utilisateurs peuvent rencontrer des erreurs relatives à la gestion des licences.
+- Le bouton Aujourd’hui du sélecteur de date peut parfois définir une date erronée.
 
 ### <a name="word"></a>Word
-
-- <div><span>Le clic droit avec la souris peut parfois ne pas avoir pour effet de sélectionner le mot entier</span></div>
-
-
-- <div>Le curseur peut rester actif à l’intérieur d’un objet après conversion au format suggéré</div>
-
-
-- <div>L’échelle des images des messages peut être incorrecte dans certains cas</div>
-
-
-- <div>Certains thèmes peuvent rendre difficile la détermination du commentaire sélectionné.</div>
-
-
-- <div><span>La sélection d’un indicateur de commentaires devrait désormais afficher le volet de commentaires actuel lorsqu'il est masqué dans le commutateur de panneau</span></div>
-
+- Le clic droit avec la souris peut parfois ne pas avoir pour effet de sélectionner le mot entier.
+- Le curseur peut rester actif à l’intérieur d’un objet après conversion au format suggéré.
+- L’échelle des images des messages peut être incorrecte dans certains cas.
+- Certains thèmes peuvent rendre difficile la détermination du commentaire sélectionné.
+- La sélection d’un indicateur de commentaires devrait désormais afficher le volet de commentaires actuel lorsqu'il est masqué dans le commutateur de panneau.
 
 ### <a name="office-suite"></a>Suite Office
-
-- <div><span>Répondre à un commentaire peut entrainer un développement vertical de la zone de texte au-delà des bords du panneau</span></div>
-
-
+- Répondre à un commentaire peut entrainer un développement vertical de la zone de texte au-delà des bords du panneau.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1912-november-08"></a>Version 1912 : 8 novembre
 *Version 1912 (build 12231.20000)*
 
-
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="user-lifecycle"></a>Cycle de vie de l’utilisateur
-
-- **Améliorations apportées à l’activation d’AFO :** les clients voient les mises à jour disponibles lors de l’activation d’Office inclus sur leur nouvel ordinateur
+### <a name="user-lifecycle"></a>Cycle de vie de l’utilisateur 
+- **Améliorations apportées à l’activation d’AFO :** les clients voient les mises à jour disponibles lors de l’activation d’Office inclus sur leur nouvel ordinateur.
 
 ### <a name="word"></a>Word
-
-- **Expérience vidéo en ligne inédite et améliorée dans Word :** nouvelle expérience vidéo en ligne mieux sécurisée traitant de l’insertion de nouvelles vidéos et de la lecture de vidéos existantes dans Word
-
+- **Expérience vidéo en ligne inédite et améliorée dans Word :** nouvelle expérience vidéo en ligne mieux sécurisée traitant de l’insertion de nouvelles vidéos et de la lecture de vidéos existantes dans Word.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -224,49 +208,38 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
-
-- <div><span>Blocage intermittent impliquant du contenu de dossier croisé</span></div>
-
+- Blocage intermittent impliquant du contenu de dossier croisé.
 
 ### <a name="office-suite"></a>Suite Office
-
-- <div><span>Coller un graphique d’Excel vers PowerPoint peut réduire la taille de celui-ci</span></div>
-
-
+- Coller un graphique d’Excel vers PowerPoint peut réduire la taille de celui-ci.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1911-november-01"></a>Version 1911 : 1er novembre
 *Version 1911 (build 12228.20020)*
 
-
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
-
 - **Intégrez le contexte à vos objets SVG :** vous pouvez désormais conserver le texte dans les cartes, graphiques et autres vecteurs SVG lors de la conversion de ces objets dans Office.
 
 - **Affichez les options du stylet lorsque vous sélectionnez votre Stylet Surface :** lorsque vous choisissez votre Stylet Surface dans Word, Excel ou PowerPoint pour la première fois, l’onglet Dessin est activé pour faciliter la sélection des couleurs de votre stylet.
 
 ### <a name="powerpoint"></a>PowerPoint
-
 - **Intégrez le contexte à vos objets SVG :** vous pouvez désormais conserver le texte dans les cartes, graphiques et autres vecteurs SVG lors de la conversion de ces objets dans Office.
 
 - **Affichez les options du stylet lorsque vous sélectionnez votre Stylet Surface :** lorsque vous choisissez votre Stylet Surface dans Word, Excel ou PowerPoint pour la première fois, l’onglet Dessin est activé pour faciliter la sélection des couleurs de votre stylet.
 
 ### <a name="visio"></a>Visio
-
-- **Créez des diagrammes Visio sophistiqués dans Excel :** visualisez rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/fr-FR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Créez des diagrammes Visio sophistiqués dans Excel :** visualisez rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/fr-FR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
 ### <a name="word"></a>Word
-
 - **Affichez les options du stylet lorsque vous sélectionnez votre Stylet Surface :** lorsque vous choisissez votre Stylet Surface dans Word, Excel ou PowerPoint pour la première fois, l’onglet Dessin est activé pour faciliter la sélection des couleurs de votre stylet.
 
 - **Amélioration de la co-création :** amélioration de l’expérience de co-création en rendant plus probable la réception en temps réel par d’autres des modifications de contenu.
 
 - **Les autres utilisateurs voient rapidement vos modifications :** la co-création permet à vos collaborateurs de voir vos modifications plus rapidement que jamais.
-
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -276,95 +249,45 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
-
-- <div><span>Nous avons résolu un problème dans lequel Excel peut se bloquer lors de la modification d’un fichier protégé à partir d’un partage réseau non approuvé</span></div>
-
-
-- <div>Résolution d’un problème dans lequel un fichier est marqué comme endommagé lors de sa tentative d’ouverture car des feuilles contenant des graphiques sparkline faisant référence à des données d’une autre feuille ont été supprimées de celui-ci précédemment.</div>
-
-
-- <div>Résolution d’un problème dans lequel vous risquez d’obtenir des résultats incorrects lors de la conversion de filtres de rapport avec le reste du tableau croisé dynamique pour les requêtes envoyées à des serveurs de tables SQL.</span></div>
-
-
-- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
-
-
-- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
-
+- Nous avons résolu un problème dans lequel Excel peut se bloquer lors de la modification d’un fichier protégé à partir d’un partage réseau non approuvé.
+- Résolution d’un problème dans lequel un fichier est marqué comme endommagé lors de sa tentative d’ouverture car des feuilles contenant des graphiques sparkline faisant référence à des données d’une autre feuille ont été supprimées de celui-ci précédemment.
+- Résolution d’un problème dans lequel vous risquez d’obtenir des résultats incorrects lors de la conversion de filtres de rapport avec le reste du tableau croisé dynamique pour les requêtes envoyées à des serveurs de tables SQL.
+- L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage.
+- L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage.
 
 ### <a name="outlook"></a>Outlook
-
-- <div>Il se peut qu’il manque des images incorporées dans un e-mail transféré.</div>
-
-
-- <div><span>L’outil Recherche de salles peut indiquer &quot;Aucune&quot; pour des salles disponibles</span></div>
-
-
-- <div><span>Il se peut que les utilisateurs ne puissent pas créer de profils Outlook avec une restriction de client stricte</div></span>
-
+- Il se peut qu’il manque des images incorporées dans un e-mail transféré.
+- L’outil Recherche de salles peut indiquer &quot;Aucune&quot; pour des salles disponibles.
+- Il se peut que les utilisateurs ne puissent pas créer de profils Outlook avec une restriction de client stricte.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
-
+- L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage.
 
 ### <a name="project"></a>Project
-
-- <div><span>L’utilisateur ne peut pas marquer une tâche comme étant terminée, car elle reste bloquée à 99 %</span></div>
-
-
-- <div>Les surutilisations ne sont pas résolues par le nivellement.</div>
-
+- L’utilisateur ne peut pas marquer une tâche comme étant terminée, car elle reste bloquée à 99 %.
+- Les sur-utilisations ne sont pas résolues par le nivellement.
 
 ### <a name="word"></a>Word
-
-- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
-
-
-- <div><span>L’ouverture de documents hérités et l’accès à l’onglet Informations peuvent provoquer un blocage</span></div>
-
-
-- <div><span>Les suggestions de vérification linguistique ne s’affichent pas dans les menus contextuels</span></div>
-
-
-- <div><span>Les stratégies de contenu sont appliquées de façon incorrecte aux commentaires</span></div>
-
-
-- <div><span>Les commentaires hérités rédigés en caractères foncés ne sont pas visibles dans le Mode foncé</span></div>
-
-
-- <div><span>Des caractères incorrects peuvent apparaître lorsque vous utilisez la correction automatique coréen/anglais</span></div>
-
-
-- <div><span>Des étiquettes de stratégie inférieure peuvent être appliquées quand une étiquette de stratégie supérieure aurait dû prévaloir</div></span>
-
-
-- <div><span>Les liens d’images cid: dans des messages Outlook&nbsp; peuvent maintenant être rompus à la demande.</div></span>
-
-
-- <div><span>L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage</span></div>
-
-
-- <div><span>La recherche à partir du volet de navigation peut échouer</span></div>
-
+- L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage.
+- L’ouverture de documents hérités et l’accès à l’onglet Informations peuvent provoquer un blocage.
+- Les suggestions de vérification linguistique ne s’affichent pas dans les menus contextuels.
+- Les stratégies de contenu sont appliquées de façon incorrecte aux commentaires.
+- Les commentaires hérités rédigés en caractères foncés ne sont pas visibles dans le Mode foncé.
+- Des caractères incorrects peuvent apparaître lorsque vous utilisez la correction automatique coréen/anglais.
+- Des étiquettes de stratégie inférieure peuvent être appliquées quand une étiquette de stratégie supérieure aurait dû prévaloir.
+- Les liens d’images cid: dans des &nbsp;messages Outlook peuvent maintenant être rompus à la demande.
+- L’utilisation simultanée du narrateur et de la loupe peut entraîner un blocage.
+- La recherche à partir du volet de navigation peut échouer.
 
 ### <a name="office-suite"></a>Suite Office
-
-- <div><span>Certains dessins peuvent ne pas s’afficher en mode aperçu ou dans les diaporamas</span></div>
-
-
-- <div><span>Certains katakanas peuvent s’afficher de manière incorrecte dans une zone de texte verticale</span></div>
-
-
-- <div>Une tentative d’enregistrement d’un fichier sur un partage réseau déconnecté peut entraîner un blocage</div>
-
-
+- Certains dessins peuvent ne pas s’afficher en mode aperçu ou dans les diaporamas.
+- Certains katakanas peuvent s’afficher de manière incorrecte dans une zone de texte verticale.
+- Une tentative d’enregistrement d’un fichier sur un partage réseau déconnecté peut entraîner un blocage.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1911-october-25"></a>Version 1911 : 25 octobre
 *Version 1911 (build 12215.20006)*
-
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
