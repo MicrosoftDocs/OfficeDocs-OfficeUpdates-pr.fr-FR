@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 589fbe7d9b156fbd42bfda2808e27ebd6185ed6a
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023725"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302963"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -422,7 +422,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
  - Résolution d’un problème qui avait pour effet que la liste des fichiers récents semblait avoir été effacée pour de nombreux utilisateurs sous Windows 10.
  - Résolution d’un problème qui avait pour effet que l’utilisateur final voyait s’afficher une barre Office Update, même si une mise à jour déclenchée par l’administrateur était en cours.
  - Résolution de problèmes liés aux invites de connexion vides intermittentes.
- - Résolution d’un problème qui avait pour effet que des parties d’une mise à jour Office n’utilisaient pas la mise en cache partagé entre systèmes homologues pour l’optimisation de la distribution. [En savoir plus]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
+ - Résolution d’un problème qui avait pour effet que des parties d’une mise à jour Office n’utilisaient pas la mise en cache partagé entre systèmes homologues pour l’optimisation de la distribution. [En savoir plus](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Résolution d’un bogue qui pouvait entraîner la suppression ou la non-activation de produits si Office était installé à l’aide de l’outil de déploiement Office en cas d’incompatibilité de casse.
 - Résolution d’un problème qui entraînait des invites de connexion excessives sur les appareils Windows 10 (version 1803 ou ultérieure).
 - Résolution du problème qui provoquait des blocages lors du téléchargement d’images liées.

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023599"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302973"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -154,8 +154,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 - **Appliquez des étiquettes de confidentialité à vos documents et e-mails :** appliquez des étiquettes de confidentialité à vos fichiers et e-mails pour garantir leur conformité aux stratégies de protection des informations de votre organisation. [En savoir plus](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **Recevoir une invitation à mettre à jour Outlook après une erreur :** quand Outlook rencontre une erreur résolue dans une version ultérieure, Outlook invite les clients à effectuer la mise à jour et à recevoir le correctif
 
 - **Appliquez des étiquettes de confidentialité à vos documents et e-mails :** appliquez des étiquettes de confidentialité à vos fichiers et e-mails pour garantir leur conformité aux stratégies de protection des informations de votre organisation. [En savoir plus](https://aka.ms/officemipdocs)
 
