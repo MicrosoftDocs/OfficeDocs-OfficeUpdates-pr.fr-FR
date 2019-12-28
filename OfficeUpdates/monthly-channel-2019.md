@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
-ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
+ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40302973"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889289"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal mensuel pour Office 365 ProPlus en 2019, Visio Pro pour Office 365, le Client de bureau Project Online et Office 365 Business.
 
  > [!NOTE]
->- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
 
 ## <a name="version-1911-december-10"></a>Version 1911 : 10 décembre
@@ -513,7 +513,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 
 - Rogner correctement la vidéo pendant une réunion sur un moniteur de 4 Ko lorsque le paramètre «rogner et centrer ma vidéo dans les réunions» est activé
 
-- Autoriser le transfert de fichiers vers des clients Office Communicator hérités à partir d’un ordinateur Windows 10 avec plusieurs cartes réseau. [En savoir plus](help/4508477)
+- Autoriser le transfert de fichiers vers des clients Office Communicator hérités à partir d’un ordinateur Windows 10 avec plusieurs cartes réseau.
 
 - Expérience améliorée pour la communication entre les participants Skype Entreprise et Microsoft Teams
 
