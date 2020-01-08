@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
-ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
+ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
+ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019850"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40951092"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -26,6 +26,41 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2001-january-03"></a>Version 2001 : 03 janvier
+*Version 2001 (build 12425.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+
+### <a name="excel"></a>Excel
+- Il se peut que certaines bordures ne s’impriment pas comme attendu sur du papier de format A4.
+- L’ajout d’une image à l’en-tête ou au pied de page d’un objet graphique sur une feuille en utilisant VBA peut générer une erreur.
+- Lors de la mise en forme d’un axe de graphique, l’intervalle entre les étiquettes se limitait à 255.
+- Résolution d’un problème dans lequel une erreur se produisait lors de l’actualisation d’une requête XML dans laquelle l’URL de la source de données était tronquée.
+- Les statistiques du classeur signalaient le nombre de macros de tous les classeurs ouverts, y compris le classeur de macros personnelles.
+
+### <a name="outlook"></a>Outlook
+- Le changement de dossier peut entraîner l’apparition d’un bref « flash » blanc dans la liste de courrier/l’aperçu de courrier. Ce comportement était plus notable en mode sombre.
+
+### <a name="powerpoint"></a>PowerPoint
+- Correction d’un problème de modèle d’objet où l’appel de la méthode Shape.Paste entraînait la réception du focus par la forme collée.&nbsp;
+- Amélioration du scénario copier-coller :&nbsp;Copier par programme une forme à partir d’une diapositive PowerPoint et la coller sur une autre diapositive dans une boucle pouvait échouer avec la présence d’une erreur d’exception.&nbsp;
+- Les animations dans les en-têtes de section des diapositives n’étaient pas restituées correctement après la réduction et le développement de ces en-têtes.
+
+### <a name="project"></a>Project
+- Résolution d’un problème dans lequel l’habillage de texte ne fonctionnait pas dans les vues d’utilisation de tâches et de ressources.
+- Résolution d’un problème dans lequel, si une ressource présentait plusieurs taux de coûts, la valeur de coût sur les affectations risquait d’être incorrecte.
+
+### <a name="word"></a>Word
+- L’insertion d’un contrôle (par exemple, un contrôle de contenu de texte) dans une équation, puis l’enregistrement et l’ouverture du fichier généraient une erreur de contenu non lisible.
+- Lors de la co-édition, l’ajout d’un commentaire à l’aide de Word Online risquait de ne pas s’afficher dans la version de bureau de Word.
+
+### <a name="office-suite"></a>Suite Office
+- Suppression d’un affichage de date d’expiration erronée d’une licence valide lorsque vous essayez de modifier une licence incluant une seule licence.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2001-december-13"></a>Version 2001 : 13 décembre
 *Version 2001 (build 12410.20000)*
@@ -232,7 +267,7 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 - **Affichez les options du stylet lorsque vous sélectionnez votre Stylet Surface :** lorsque vous choisissez votre Stylet Surface dans Word, Excel ou PowerPoint pour la première fois, l’onglet Dessin est activé pour faciliter la sélection des couleurs de votre stylet.
 
 ### <a name="visio"></a>Visio
-- **Créez des diagrammes Visio sophistiqués dans Excel :** visualisez rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/fr-FR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
+- **Créez des diagrammes Visio sophistiqués dans Excel :** visualisez rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
 ### <a name="word"></a>Word
 - **Affichez les options du stylet lorsque vous sélectionnez votre Stylet Surface :** lorsque vous choisissez votre Stylet Surface dans Word, Excel ou PowerPoint pour la première fois, l’onglet Dessin est activé pour faciliter la sélection des couleurs de votre stylet.
@@ -294,7 +329,7 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="visio"></a>Visio
 
-- **Créez des diagrammes Visio sophistiqués dans Excel :** visualisez rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/fr-FR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Créez des diagrammes Visio sophistiqués dans Excel :** visualisez rapidement et facilement vos données dans des diagrammes Visio soignés dans Excel. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -513,7 +548,7 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Complément visualiseur de données : ** créer rapidement des organigrammes de programmation Visio à partir d’Excel. [En savoir plus](https://support.office.com/fr-FR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Complément visualiseur de données : ** créer rapidement des organigrammes de programmation Visio à partir d’Excel. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -709,15 +744,15 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/fr-FR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/fr-FR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="word"></a>Word
 
-- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/fr-FR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **À vos marques, prêt, dessinez :** tenez votre Stylet Surface et commencez à dessiner. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -768,7 +803,7 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Enregistrer une illustration au format SVG** : enregistrez un graphique, une forme ou une autre illustration sous la forme d’un graphique vectoriel évolutif, qui peut être redimensionné sans perte de qualité d’image. [En savoir plus](https://support.office.com/fr-FR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Enregistrer une illustration au format SVG** : enregistrez un graphique, une forme ou une autre illustration sous la forme d’un graphique vectoriel évolutif, qui peut être redimensionné sans perte de qualité d’image. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -1240,7 +1275,7 @@ En train de rédiger une présentation ? Appliquez le style de croquis pour indi
 - **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour en faciliter l’accès :** vous le trouverez dans Imprimer > menu déroulant Mode Page quand une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. [En savoir plus](https://support.office.com/fr-FR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Le paramètre Imprimer les numéros de diapositive dans les documents a été déplacé dans le menu Imprimer pour en faciliter l’accès :** vous le trouverez dans Imprimer > menu déroulant Mode Page quand une disposition Document est sélectionnée. Cela permet également d’activer ou de désactiver facilement le paramètre pour chaque présentation. [En savoir plus](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
 
@@ -1488,7 +1523,7 @@ Vous pouvez désormais dessiner et annoter des images dans vos courriers électr
 
 #### <a name="open-document-links-in-word"></a>Ouvrir des liens de document dans Word
 
-Lorsque vous cliquez sur un lien de document dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application Word par défaut.  Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. En savoir plus : https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Lorsque vous cliquez sur un lien de document dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application Word par défaut.  Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. En savoir plus : https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Mise en route :
 
@@ -1509,7 +1544,7 @@ Pour déclencher l’expérience d’acceptation-ouvrir un lien définir un docu
 
 #### <a name="open-presentation-links-in-powerpoint"></a>Ouvrir les liens de présentation dans PowerPoint
 
-Lorsque vous cliquez sur un lien de présentation dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application PowerPoint par défaut. Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. En savoir plus : https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Lorsque vous cliquez sur un lien de présentation dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application PowerPoint par défaut. Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. En savoir plus : https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Mise en route :
 
@@ -1530,7 +1565,7 @@ Pour déclencher l’expérience d’adhésion – Ouvrir un lien vers une prés
 
 #### <a name="open-workbook-links-in-excel"></a>Ouvrir des liens de classeur dans Excel
 
-Lorsque vous cliquez sur un lien de classeur dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application Excel par défaut. Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. Plus d’infos : https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Lorsque vous cliquez sur un lien de classeur dans Office, vous pouvez mettre à jour votre préférence pour l’ouvrir dans l’application Excel par défaut. Pour mettre à jour votre préférence, accédez à Fichier -> Options -> Avancés -> Gestion des liens. Plus d’infos : https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Mise en route :
 
