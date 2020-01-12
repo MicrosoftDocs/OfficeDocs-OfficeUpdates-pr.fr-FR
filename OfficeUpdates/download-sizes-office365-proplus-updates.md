@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 230c17cabf76400452e337a9d5045c6d7be85f02
-ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
+ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
+ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995544"
+ms.locfileid: "41004322"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="january-9-2020"></a>09 janvier 2020
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE DÉBUT DU CONTENU)
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+<i>La publication prévue est la version 1908 (build 11929.20562).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20492) <br/> |10 décembre 2019 <br/> |338<br/> |
+|Version 1902 (build 11328.20480) <br/> |22 novembre 2019 <br/> |337<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+<i>La publication prévue est la version 1908 (build 11929.20562).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20516) <br/> |10 décembre 2019 <br/> |59<br/> |
+|Version 1908 (build 11929.20494) <br/> |22 novembre 2019 <br/> |64<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="january-8-2020"></a>08 janvier 2020
 
