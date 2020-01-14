@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions d’Office 365 ProPlus pour chaque canal de mise à jour et des liens vers des notes de publication et l’historique des mises à jour
-ms.openlocfilehash: 4743df1d8d437972d0ec8800e2a2e232d7eda7b1
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 1377ec56666c3a713b8e64500b45a140b19273c0
+ms.sourcegitcommit: 42d66d834fd4c1a062535e27fc7eb4e579527d2e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36444567"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41103815"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informations sur les versions pour les mises à jour vers Office 365 ProPlus
 
@@ -40,11 +40,11 @@ Pour obtenir la liste complète des tailles des mises à jour pour chaque versio
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Notes de publication pour les versions Office 365 ProPlus
 
 Pour obtenir la liste complète des notes de publication par canal de mise à jour et année, consultez les articles suivants :
- - Mensuel : [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
- - Semi-annuel (ciblé) : [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
- - Semi-annuel : [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Mensuel : [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - Semi-annuel (ciblé) : [2020](semi-annual-channel-targeted-2020.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
+ - Semi-annuel : [2020](semi-annual-channel-2020.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
- ## <a name="release-history-for-office-deployment-tool"></a>Historique des versions de l’outil Déploiement d’Office
+ ## <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
  Pour consulter la liste complète des versions de l’outil Déploiement d’Office, reportez-vous à l’article suivant :
  - [Historique des versions de l’outil Déploiement d’Office](ODT-release-history.md)
 
