@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
-ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
+ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
+ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40951092"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "41022049"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -26,6 +26,38 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2001-january-10"></a>Version 2001 : 10 janvier
+*Version 2001 (build 12430.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+- **Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+- **L’utilisateur peut dorénavant enregistrer des objets dans Word, Excel et Outlook en tant qu’image pour Windows. :** en complément de la fonction déjà rencontrée dans PowerPoint, les utilisateurs peuvent désormais enregistrer des objets dans Word, Excel et Outlook sous la forme d’une image. Les objets comprennent des formes, des icônes, des images et bien plus encore. Vous pouvez y accéder via le menu contextuel.
+
+### <a name="word"></a>Word
+- **Sélectionnez facilement des entrées manuscrites dans Word en dessinant une forme autour de celle-ci. :** l’outil lasso de l’onglet Dessin vous permet de choisir des objets dessinés avec une entrée manuscrite. Sélectionnez des traits individuels ou des mots entiers. Cela s'avère pratique lorsque vous avez beaucoup d’entrées manuscrites et que vous ne souhaitez utiliser qu’une partie d’entre elles. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="onenote"></a>OneNote
+- Les onglets de page peuvent paraître trop petits et se fermer ensemble avec une résolution de 100 %.
+
+### <a name="word"></a>Word
+- Dans un ensemble important de commentaires, la suppression de l'un d'entre eux un peu avant la fin de la liste de commentaires peut se traduire par un défilement jusqu'en haut du volet.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2001-january-03"></a>Version 2001 : 03 janvier
 *Version 2001 (build 12425.20000)*
