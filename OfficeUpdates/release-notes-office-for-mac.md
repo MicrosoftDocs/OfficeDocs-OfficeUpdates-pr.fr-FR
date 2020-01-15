@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
-ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
+ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39982264"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122293"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -33,6 +33,45 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 
 
+[//]: # (NE PAS SUPPRIMER)
+
+
+## <a name="january-14-2020"></a>14 janvier 2020
+*Version 16.33 (build 20011301)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Tapez une formule qui renvoie plusieurs valeurs :** vous pouvez désormais taper rapidement une formule renvoyant plusieurs valeurs qui se répandent automatiquement dans les cellules adjacentes. [En savoir plus](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **Créez et gérez des requêtes avec VBA sur Mac :** créer et gérer des requêtes Power Query pour les sources prises en charge sur Mac avec VBA.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **GIF en quelques secondes :** une diapositive, un cadre. Créez facilement des images GIF en boucle dans PowerPoint. [En savoir plus](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+### <a name="word"></a>Word
+
+- **Accessibilité intégrée : prise en charge de High Sierra :** nous avons ajouté la prise en charge de High Sierra, y compris la langue, les liens et les tableaux dans le rotor, et l’amélioration de la prise en charge des recherches.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0651)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
 
 ## <a name="december-10-2019"></a>10 décembre 2019
 *Version 16.32 (build 19120802)*

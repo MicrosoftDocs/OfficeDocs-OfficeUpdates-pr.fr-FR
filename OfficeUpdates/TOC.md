@@ -28,6 +28,8 @@
 ### [Canal de publication Notes Insider](release-notes-office-insider.md)
 ### [Notes de publication Canal mensuel (ciblé)](release-notes-monthly-channel-targeted.md)
 
+## [Historique des mises à jour Windows 7](update-history-office-Win7.md)
+
 ## [Historique des versions de l’outil ODT](ODT-release-history.md)
 
 # Office pour Mac
