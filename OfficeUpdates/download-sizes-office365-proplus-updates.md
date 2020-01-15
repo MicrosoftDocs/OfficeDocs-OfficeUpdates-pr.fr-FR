@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
-ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
+ms.openlocfilehash: 9499ba80668b7512888b27f32caef11454c0c1a3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41004322"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122123"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -30,13 +30,24 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-## <a name="january-9-2020"></a>09 janvier 2020
+## <a name="january-14-2020"></a>14 janvier 2020
 
-[//]: # (NE PAS SUPPRIMER PRÉVISION DE DÉBUT DU CONTENU)
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU 14 janvier 2020)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus actuelle est la version 1912 (build 12325.20298).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1912 (build 12325.20288) <br/> |08 janvier 2020 <br/> |46<br/> |
+|Version 1911 (build 12228.20364) <br/> |10 décembre 2019 <br/> |151<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>Canal semi-annuel
 
-<i>La publication prévue est la version 1908 (build 11929.20562).</i>
+La version la plus récente est la version 1908 (Build 11929.20562).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -46,7 +57,7 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 ### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
 
-<i>La publication prévue est la version 1908 (build 11929.20562).</i>
+La version la plus récente est la version 1908 (Build 11929.20562).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -54,7 +65,8 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 |Version 1908 (build 11929.20494) <br/> |22 novembre 2019 <br/> |64<br/> |
 
 
-[//]: # (NE PAS SUPPRIMER PRÉVISION DE FIN DU CONTENU)
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU 14 janvier 2020)
+
 
 ## <a name="january-8-2020"></a>08 janvier 2020
 
