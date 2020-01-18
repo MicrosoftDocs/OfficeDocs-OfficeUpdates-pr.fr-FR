@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: d91f3ed15a726c96891eee51e4b53de4db71928b
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 0b31c340e651f3a2862c7fa996c060ce86b5a724
+ms.sourcegitcommit: 8c07d6182c66a7ea9e44d0bb7550a7a1d44877eb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122263"
+ms.lasthandoff: 01/16/2020
+ms.locfileid: "41214538"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel en 2020
 
@@ -39,6 +39,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Garder un œil sur vos objets de base de données :** repérez plus facilement l’onglet actif, faites glisser les onglets pour les réorganiser facilement et fermez des objets de base de données d’un simple clic.
 
 - **Basculez facilement :** le nouveau gestionnaire de compte affiche tous vos comptes personnels et professionnels Office 365 dans un emplacement unique. Il n'a jamais été aussi facile de passer de l'un à l'autre. [En savoir plus](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Zoomez avec plus de place :** augmentez la taille de la zone de Zoom, modifiez la police et Zoom mémorise tout. [En savoir plus](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
 ### <a name="excel"></a>Excel
 
@@ -80,8 +82,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Améliorations de la transition Morphose :** obtenez la transition idéale. Les graphiques SmarArt et tableaux Morphose avec transitions plus fluides
-
 - **Amélioration des transitions de formes : ** nommez vos formes pour mieux contrôler leurs transitions. [En savoir plus](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **Trouvez rapidement ce fichier :** Vous recherchez un fichier sur lequel vous avez travaillé récemment ? Renseignez simplement la zone de recherche dans Fichier > Page d’accueil pour trouver le fichier que vous recherchez.
@@ -118,7 +118,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="word"></a>Word
 
-- **Ajoutez une couleur à votre page :** grâce aux nouvelles couleurs de page, si un arrière-plan tout blanc ou tout noir ne vous convient pas, vous pouvez le modifier en un clin d’œil.
+- **Le mode outils d’apprentissage a un support supplémentaire pour plus de couleurs de pages :** les outils d’apprentissage de Word prennent en charge d’autres couleurs de thème de page, ce qui permet de modifier la couleur d’arrière-plan de la page. De nombreux utilisateurs ont des difficultés à lire avec un arrière-plan tout blanc ou tout noir, nous avons donc développé le choix de couleurs dans Word sur PC et Mac.
 
 - **Modification naturelle avec la correction intégrée :** d’un seul trait, séparez ou unissez des mots, ajoutez une nouvelle ligne ou insérez des mots à l’aide de votre stylet. [En savoir plus](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
@@ -147,6 +147,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Contrôles de confidentialité :** Des contrôles nouveaux, mis à jour et améliorés pour les données de diagnostic et les expériences connectées. [En savoir plus](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 - **Les icônes Office font peau neuve :** nous avons modernisé les icônes Office pour mieux refléter la simplicité, l’efficacité et l’intelligence de l’expérience utilisateur.
+
+- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les nouvelles installations d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
