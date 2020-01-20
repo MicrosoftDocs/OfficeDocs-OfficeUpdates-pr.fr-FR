@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
+ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122003"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41231857"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notes de publication pour Canal mensuel Office (ciblé)
 
@@ -29,6 +29,24 @@ Cet article contient les notes de publication relatives aux versions Canal mensu
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2001-january-17"></a>Version 2001 : 17 janvier
+*Version 2001 (build 12430.20120)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="word"></a>Word
+
+- **Sélectionnez facilement des entrées manuscrites dans Word en dessinant une forme autour de celle-ci. :** l’outil lasso de l’onglet Dessin vous permet de choisir des objets dessinés avec une entrée manuscrite. Sélectionnez des traits individuels ou des mots entiers. Cela s'avère pratique lorsque vous avez beaucoup d’entrées manuscrites et que vous ne souhaitez utiliser qu’une partie d’entre elles. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Le client Excel est à l’origine de problèmes dans plusieurs scénarios (par exemple, l’impression, l’exécution d’une macro, le zoom, etc.) sur une version 2001 dans une langue autre que l’anglais pour les utilisateurs disposant de la build 12430.20050 et exécutant la version Excel 32 bits. 
 
 ## <a name="version-2001-january-14"></a>Version 2001 : 14 janvier
 *Version 2001 (build 12430.20050)*
