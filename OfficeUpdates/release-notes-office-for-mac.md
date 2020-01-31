@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea7f2bd55b0aa1088eec2219b562f28b83985a2f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122293"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629218"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -482,9 +482,9 @@ Cette version inclut les mises à jour suivantes :
 
 |**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **Réduisez votre tension oculaire avec le mode Foncé :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Conservez l’apparence de votre texte :** incorporez des polices pour vous assurer que le texte de votre document a le même aspect, quel que soit l’ordinateur. Plus de surprise ! [En savoir plus](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Afficher les polices incorporées dans les documents : **permet d’afficher les polices incorporées dans un fichier dans Word Mac.<br/><br/>**Barre d’état invocable mode focus :** en mode focus, voir plus facilement le nombre de mots et accéder aux contrôles de zoom avec la barre d’état invocable.<br/><br/>**Gagnez en efficacité avec le mode focus :** nous avons tenu compte de vos commentaires ! Le mode Focus s’ouvre désormais au niveau de zoom que vous avez défini et affiche les numéros des pages que vous faites défiler.| |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Word  <br/>| **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Conservez l’apparence de votre texte :** incorporez des polices pour vous assurer que le texte de votre document a le même aspect, quel que soit l’ordinateur. Plus de surprise ! [En savoir plus](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Afficher les polices incorporées dans les documents : **permet d’afficher les polices incorporées dans un fichier dans Word Mac.<br/><br/>**Barre d’état invocable mode focus :** en mode focus, voir plus facilement le nombre de mots et accéder aux contrôles de zoom avec la barre d’état invocable.<br/><br/>**Gagnez en efficacité avec le mode focus :** nous avons tenu compte de vos commentaires ! Le mode Focus s’ouvre désormais au niveau de zoom que vous avez défini et affiche les numéros des pages que vous faites défiler.| |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Réduisez votre tension oculaire avec le mode Foncé :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Passez de l’iPhone à PowerPoint en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre diapositive depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Passez de l’iPhone à PowerPoint en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre diapositive depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Partagez votre calendrier :** partagez votre calendrier avec votre famille, vos amis et collègues. Ouvrez les calendriers partagés avec vous sur un Mac, un PC ou les versions cloud d’Outlook. [En savoir plus](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Désactivez le transfert pour une réunion :** empêchez les participants de transférer vos réunions à d’autres personnes. [En savoir plus](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Utilisez Teams pour vous connecter à vos réunions :** vous travaillez avec des équipes à distance ? Utilisez Teams dans Outlook pour planifier et participer à des réunions en ligne. [En savoir plus](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Affichez les participants aux réunion :** cliquez sur une réunion ou un événement dans votre calendrier pour afficher qui prévoit d’être présent.<br/><br/> **Affichez trois fuseaux horaires :** vous devez planifier une réunion sur plusieurs fuseaux horaires ? Ajoutez plusieurs fuseaux horaires à votre calendrier pour voir facilement la disponibilité des participants et choisissez un horaire qui convient à tout le monde. [En savoir plus](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Mise à jour automatique Microsoft 4.6 <br/>| Mise à jour des catalogues de sécurité pour qu’ils contiennent les codes de hachage SHA-256 au lieu de SHA-1 <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Suite Office  <br/>|**Nouvelle apparence des icônes de votre ruban :** ne vous inquiétez pas, tout fonctionne de la même façon. Qui plus est toutes les icônes s’affichent parfaitement sur les écrans de toutes tailles. [En savoir plus](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**Volet texte de remplacement mis à jour :** rendre votre contenu plus accessible en ajoutant des légendes utiles ou même marquer des éléments comme décoratifs. |<br/>||
@@ -860,9 +860,9 @@ Cette version inclut les mises à jour suivantes.
   
 |**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Arrière-plans modernes pour le mode Focus :** choisissez entre les arrière-plans Crépuscule ou Nuit polaire, lorsque vous êtes en mode Focus dans l’onglet d’**affichage**. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Word  <br/> |**Arrière-plans modernes pour le mode Focus :** choisissez entre les arrière-plans Crépuscule ou Nuit polaire, lorsque vous êtes en mode Focus dans l’onglet d’**affichage**. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Excel  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Police Dubai :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Groupes :** affichez vos 10 groupes principaux, et lisez ou répondez aux conversations de groupe directement dans le dossier Groupes.  <br/> <br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Suite Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-0254) : Vulnérabilité de corruption de mémoire de Microsoft Office   |
 
@@ -933,66 +933,3 @@ Cette version inclut les mises à jour suivantes.
 |Word  <br/> |Choix possibles supplémentaires en mode Focus, notamment Chêne, Acajou et Graphite. Pour les abonnés à Office 365 uniquement. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx) <br/> |Résolution de plusieurs problèmes de performances. Par exemple, les délais d’attente de saisie ou de défilement, ou la baisse de performances lors de la modification d’un document volumineux.  |
 |Microsoft AutoUpdate  <br/> |Fonctionnalités supplémentaires de journalisation et de résolution des problèmes.  <br/> |Numéro de version mis à jour : 3.8.3.  |
    
-## <a name="december-2016-release"></a>Version de décembre 2016
-
-
- **Date de publication :** 15 décembre 2016 
-  
- *Version 15.29.1 (build 16121500)* 
-  
-Cette version corrige un problème d’ouverture ou d’enregistrement des fichiers dans Word, Excel ou PowerPoint lorsque la première partie du chemin de fichier contient des espaces ou certains caractères.
-
-<br/><br/>
-  
- **Date de publication :** 13 décembre 2016 
-  
- *Version 15.29.0 (build 16120900)* 
-  
-Cette version inclut les mises à jour suivantes.
-  
-|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour non relatives à la sécurité**|**Mises à jour de sécurité**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> | Préservez la fidélité de votre document avec des liens hypertexte qui fonctionnent lors de la conversion au format PDF. [En savoir plus](https://support.office.com/article/aa183751-1f09-4b8b-88a4-099a0c7528da) <br/>  <br/> Amélioration de la prise en charge de la création de documents accessibles et de l’utilisation de VoiceOver, ainsi que d’autres technologies d’assistance pour lire et modifier des documents. [En savoir plus](https://support.office.com/article/c681eb25-549e-4d1d-a970-e52450c701de) |
-|Excel  <br/> | Prise en charge améliorée de la création de documents accessibles, et de l’utilisation de VoiceOver et des autres technologies d’assistance pour la lecture et la modification des documents. [En savoir plus](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | Résolution d’un problème : lors l’utilisation de la validation des données, Excel se bloquait si vous entriez du texte dans la zone de message d’erreur.  <br/> |Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)   |
-|PowerPoint  <br/> | Amélioration de la prise en charge de la création de documents accessibles et de l’utilisation de VoiceOver, ainsi que d’autres technologies d’assistance pour lire et modifier des documents. [En savoir plus](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
-|Suite Office  <br/> | Prise en charge de trois langues supplémentaires : grec, hongrois et slovaque  <br/> ||Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)  |
-|Microsoft AutoUpdate  <br/> || - Numéro de version mis à jour : 3.8.2.  <br/> - Amélioration de la fiabilité et correction de bogues mineurs.  <br/> |Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/MS16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)  |
-   
-## <a name="november-2016-release"></a>Version de novembre 2016
-
-
- **Date de publication :** 17 novembre 2016 
-  
- *Version 15.28.0 (build 16111700)* 
-  
-Cette version corrige un problème avec Outlook et avec les dossiers publics sur Exchange Server 2010. 
-
-<br/><br/>
-  
- **Date de publication :** 15 novembre 2016 
-  
- *Version 15.28.0 (build 16111501)* 
-  
-Cette version corrige un problème avec les packages de mises à jour des applications individuelles.
-
-<br/><br/>
-  
-
- **Date de publication :** 15 novembre 2016 
-  
- *Version 15.28.0 (build 16111300)* 
-  
-Cette version inclut les mises à jour suivantes.
-  
-|**Application**|**Mises à jour de fonctionnalité**|**Mises à jour non relatives à la sécurité**|**Mises à jour de sécurité**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/> |Nouvelle prise en charge de grammaire pour le tchèque, le hongrois, le coréen, le norvégien, le polonais, le russe et le turc.  <br/> | Résolution d’un problème : Word ne parvenait pas à enregistrer les documents lorsque des feuilles de calcul Excel avec un certain contenu de bordure étaient incorporées dans le document.  <br/> |Bulletin de sécurité Microsoft [MS16-133](https://technet.microsoft.com/library/security/MS16-133) : Mise à jour de sécurité pour Microsoft Office (3199168) |
-|Excel  <br/> || Résolution d’un problème de longue durée : Excel ne parvenait pas à enregistrer les modifications sur certaines configurations de stockage d’entreprise, comme les unités NetApp FAS. Excel a adopté le même modèle d’enregistrement de fichier que Word.  <br/> |Bulletin de sécurité Microsoft [MS16-133](https://technet.microsoft.com/library/security/MS16-133) : Mise à jour de sécurité pour Microsoft Office (3199168)  <br/> |
-|PowerPoint  <br/> |Affichage des récapitulatifs interactifs et des liens de navigation automatique créés à l’aide de la commande Zoom dans PowerPoint 2016 pour Windows.  <br/> | Résolution d’un problème : les images ne pouvaient pas s’afficher et étaient remplacées par une erreur faisant référence au numéro de rID.  ||
-|Outlook  <br/> |Identification et résolution des problèmes d’accessibilité qui se produisaient lors de la rédaction de messages ou d’invitations à l’aide du vérificateur d’accessibilité. [En savoir plus](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | Résolution d’un problème avec la détection de langue automatique lors de la rédaction de messages électroniques. ||
-|Suite Office  <br/> || - Améliorations significatives pour les utilisateurs ayant des besoins d’accessibilité.  <br/><br/>  - Le service de rapports d’erreurs Microsoft peut être configuré pour enregistrer le dernier journal d’incident sur le disque (defaults write com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE). <br/> <br/>  - Amélioration du message d’activation pour les utilisateurs E1/K1. Les utilisateurs ne reçoivent plus de message indiquant qu’une erreur est survenue et sont invités à utiliser l’expérience de lecture seule.  <br/><br/> - Modification du format de nom de fichier du programme d’installation et du programme de mise à jour. Par exemple, Microsoft_Office_2016_15.28.16111300_Installer.pkg remplace Microsoft_Office_2016_15.28.0_161113_Installer.pkg.  ||
-|Microsoft AutoUpdate  <br/> |Inclut une nouvelle option pour détecter, télécharger et installer automatiquement les mises à jour.  <br/> | - Numéro de version mis à jour : 3.8.1.  <br/> <br/>- Résolution d’un problème : Microsoft AutoUpdate se bloquait lorsque des versions antérieures de Microsoft Silverlight étaient installées, notamment lorsque Silverlight était inscrit avec un LCID NULL.  <br/><br/>  - Résolution d’un problème : Microsoft AutoUpdate se bloquait lors de l’utilisation de la préférence ManifestServer.  <br/><br/> - Nom d’affichage du lot de démon Microsoft AutoUpdate remplacé par « Assistant Mise à jour Microsoft. »  <br/><br/> - Le flux XML de Microsoft AutoUpdate pour les applications 2016 n’inclut plus de dictionnaire de déclenchements et utilise une « version de mise à jour » pour la détection de version.  <br/><br/> - Microsoft AutoUpdate affiche désormais la chaîne de version complète dans la fenêtre de mise à jour de l’application. Par exemple, 15.28.16110300 au lieu de 15.28.  ||
-   
-
-   
-

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les publications de canaux mensuelles pour Office 365 ProPlus dans 2017
-ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
-ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
+ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37375820"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629251"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notes de publication pour les publications mensuelles de canaux dans 2017
 
@@ -72,7 +72,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Accès rapide à vos sites et groupes :** pour travailler avec des documents stockés dans les sites et les groupes que vous utilisez fréquemment, utilisez le menu Fichier.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
--   L’option Mettre à jour maintenant est masquée dans Fichier \> Compte \> Options de mise à jour lorsqu’un objet COM Office est activé de sorte que les mises à jour du client Office 365 sont gérées par System Center Configuration Manager.
+-   L’option mettre à jour maintenant est masquée \> dans options de mise à jour de compte de fichier \> lorsqu’un objet com Office est activé afin que les mises à jour du client Office 365 soient gérées par le gestionnaire de configuration.
 
 
 ## <a name="version-1710-november-27"></a>Version 1710:27 novembre
@@ -99,7 +99,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
 -   Résolution d’un problème : lors de la surveillance à l’aide de l’observateur d’événement accessible (AccEvent.exe), Outlook cessait de fonctionner lors du passage à un autre dossier.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
 -   Résolution d’un problème : des références à des codes incorporés de YouTube basés sur Flash Player entraînaient l’ouverture d’une nouvelle fenêtre pour lire la vidéo. D’anciens codes incorporés sont désormais mis à niveau pour référencer des vidéos YouTube basées sur HTML5 afin qu’elles soient lues correctement.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -264,10 +264,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : Outlook se bloquait lorsque l’utilisateur tentait de configurer un nouveau compte et fermait la fenêtre sans terminer la configuration du compte.
 -   Résolution d’un problème : Marquer comme lu et Marquer comme non lu apparaissaient sous forme d’options pour les messages de la boîte aux lettres partagée d’un groupe.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
 -   Résolution d’un problème : PowerPoint se bloquait lors de l’ouverture d’une présentation à partir d’un serveur SharePoint antérieur à SharePoint Server 2016.
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution d’un problème : Word se bloquait lorsque vous ouvriez le volet Activité d’un document ouvert à partir d’un serveur SharePoint antérieur à SharePoint Server 2016.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -379,7 +379,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1707-august-29"></a>Version 1707:29 août
 *Version 1707 (Build 8326.2096)*
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
 -   Résolution d’un problème où les caractères définis par l’utilisateur final (EUDC) liés aux polices ne s’affichaient pas.
 
 
@@ -786,7 +786,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [Plus d’informations](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Liens fiables :** quand un utilisateur clique sur un lien, la protection avancée contre les menaces d’Office 365 inspecte le lien pour déterminer s’il est malveillant. Si le lien est considéré comme malveillant, l’utilisateur est redirigé vers une page d’avertissement au lieu de l’URL cible d’origine. [Plus d’informations](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
 -   L’enregistrement d’un document au format PDF enregistre le document avec la version PDF 1.7.
 
 
@@ -963,7 +963,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 -   **Utiliser un stylet pour sélectionner et modifier des objets :** Prenez des objets par leur poignée avec un stylet numérique pour les redimensionner, les faire pivoter, les déplacer et bien plus encore.
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution d’un problème où l’affichage d’un document en mode lecture empêche la touche TAB de fonctionner dans un second document affiché en mode Page.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -1017,7 +1017,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Sous-titres :** Si une diapositive contient une vidéo comportant des sous-titres, ils peuvent être lus dans le diaporama.
 -   **Pistes audio multiples :** Si une diapositive contient une vidéo comportant plusieurs pistes audio, celles-ci peuvent être lues dans le diaporama.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
 -   Résolution d’un problème : en mode diaporama avec le Narrateur activé, PowerPoint se bloque lorsque l’utilisateur clique sur un lien hypertexte, ce qui ralentit le chargement.
 -   Résolution d’un problème : la saisie en temps réel ne fonctionne pas avec les tables en cas de co-création.
 

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les publications de canaux mensuelles pour Office 365 ProPlus dans 2016
-ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023589"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629241"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Notes de publication pour les publications mensuelles de canaux dans 2016
 
@@ -125,13 +125,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Améliorations en matière d’accessibilité :** prise en charge améliorée pour l’utilisation du clavier, du Narrateur et d’autres technologies d’assistance pour la lecture et la modification de documents. [Plus d’informations](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
 -   **Recommandations :** recherchez et réutilisez le contenu des documents pertinents de votre organisation. [Plus d’informations](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution du problème où les traits manuscrits disparaissent après deux ou trois traits.
 -   Résolution du problème de disparition des guillemets lors de l’utilisation de l’éditeur de méthode d’entrée (IME) Google.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Résolution du problème de formulaires VBA susceptibles de causer l’arrêt du fonctionnement ou l’affichage incorrect de l’ordre de plan des cadres.
--   Résolution d’un problème à cause duquel une mise à jour déclenchée par System Center Configuration Manager définit le paramètre UpdateChannel du Registre sur une valeur qui n’est pas un canal de mise à jour valide.
+-   Résolution d’un problème : une mise à jour déclenchée par le gestionnaire de configuration remplace le paramètre UpdateChannel dans le registre par une valeur qui n’est pas un canal de mise à jour valide.
 
 
 
@@ -233,7 +233,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="visio-non-security-updates"></a>Visio : Mises à jour non relatives à la sécurité
 -   Résolution du problème où Visio ne se ferme pas après la fermeture d’un fichier Visio enregistré.
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution du problème où le focus passe à une petite boîte de dialogue dans le coin supérieur droit lorsque vous tapez des caractères des langues de l’Asie de l’Est à l’aide d’un éditeur de méthode d’entrée (IME), puis que l’utilisateur ne peut pas continuer à modifier le document.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -454,7 +454,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution des problèmes avec la navigation au clavier et le texte narré d’un lecteur d’écran.
 -   Résolution du problème où un lecteur d’écran n’annonce pas que le partage d’écran a démarré et que les personnes peuvent voir l’écran.
 
-### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
+### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalités
 -   **Modèles UML :** Trois modèles ( [Composant](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074), [Communication](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)et [Déploiement](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)) qui sont compatibles avec le langage UML (Unified Modeling Language) 2.5 standard.
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
@@ -540,7 +540,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088) : Mise à jour de sécurité pour Microsoft Office (3170008)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution d’un problème où l’ouverture d’un document sur un serveur qui requiert l’authentification par formulaire provoque le blocage de Word.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -581,13 +581,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
 -   Amélioration de l’apparence des messages qui contiennent des tableaux en utilisant une haute résolution (DPI).
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
 -   Résolution d’un problème où l’enregistrement automatique d’une présentation qui contient un graphique entraîne le blocage de PowerPoint.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où le client Skype Entreprise se connecte à Skype Entreprise Server sur le réseau externe lorsque le réseau d’entreprise interne est disponible.
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution d’un problème où l’insertion d’un objet à l’aide de l’option « Créer à partir d’un fichier » et la sélection d’un fichier .jpg, .gif ou .png entraîne un message d’erreur indiquant htmlfile, au lieu d’insérer une icône pour représenter l’objet OLE.
 -   Résolution d’un problème où l’insertion d’une image dans un contrôle de contenu d’image entraîne un échec.
 -   Résolution d’un problème où Word ne répond pas lorsque vous utilisez des documents contenant des liens vers des diapositives PowerPoint.
@@ -620,7 +620,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-070](https://technet.microsoft.com/library/security/ms16-070) : Mise à jour de sécurité pour Microsoft Office (3163610)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution du problème de blocage de Word si l’utilisateur choisit l’option « Conserver la mise en forme source » lors du collage d’un graphique SmartArt.
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
@@ -686,13 +686,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution du problème de non-envoi par Outlook du contenu d’un message lors de l’envoi de courrier à l’aide d’un fichier .msg.
 -   Mise à jour du réparateur de boîte de réception (scanpst.exe) afin qu’il puisse détecter et corriger les problèmes d’altération de fichiers liés au mode d’indexation et de recherche de fichiers .pst. Ce type d’altération peut empêcher le chargement de fichiers .pst, provoquer le blocage d’Outlook ou entraîner une utilisation élevée de l’UC.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
 -   Résolution du problème de génération d’un message d’erreur après que PowerPoint a redémarré suite à un blocage et que vous utilisez le volet Office Récupération de document, lors de la tentative d’enregistrement du fichier récupéré ou de l’ouverture du fichier d’origine.
 -   Résolution du problème de blocage de PowerPoint lors de la tentative d’enregistrement d’un fichier de récupération créé à partir d’un blocage PowerPoint antérieur.
 -   Résolution d’un problème où l’enregistrement au format PDF d’une présentation contenant un tableau entraîne l’arrêt de PowerPoint.
 -   Résolution du problème de perte des chiffres et des espaces lors de l’enregistrement d’une présentation au format .rtf ou de la copie de texte dans un éditeur de texte enrichi, tel que WordPad.
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution du problème de blocage de Word ou du graphique SmartArt qui ne peut alors plus être sélectionné lorsque vous effectuez une action d’annulation après avoir déplacé un graphique SmartArt en le faisant glisser.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -823,7 +823,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Correction d’un problème : lorsque vous cliquez sur l’image d’aperçu de la barre des tâches d’une nouvelle fenêtre de conversation, Skype Entreprise se bloque.
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution d’un problème où le curseur n’est pas synchronisé avec la saisie de l’utilisateur.
 
 ### <a name="office-suite-feature-updates"></a>Suite Office : Mises à jour de fonctionnalité
@@ -897,7 +897,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 -   **Options du vérificateur de grammaire :** options supplémentaires ou actualisées pour les vérificateurs de grammaire français, norvégien et danois, qui souligneront des erreurs de grammaire supplémentaires.
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résolution d’un problème où, lorsque vous lancez un processus de fusion et publipostage pour vos contacts Outlook, un message d’erreur apparaît.
 -   Résolution d’un problème dû à l’utilisation de Word avec des bureaux virtuels dans Windows 10.
 
