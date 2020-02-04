@@ -3,19 +3,19 @@ title: Historique des mises à jour pour Office 2016 C2R et Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/23/2020
+ms.date: 1/31/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: 5b0dad68a65a5fce15e6fa363de8b20ac31e4bea
-ms.sourcegitcommit: d1eb4fe4ab2606a94e786011de3f77635ee3b987
+ms.openlocfilehash: 03b593cc62807efef4f4c902d32ba7dec2aadf89
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41519153"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650772"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -58,6 +58,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|30 janvier 2020   |Version 2001 (build 12430.20184)  |Diverses résolutions de bogues et de performances. <br/>  |
 |22 janvier 2020   |Version 1912 (Build 12325.20344)  |Diverses résolutions de bogues et de performances. <br/>  |
 |14 janvier 2020   |Version 1912 (build 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |08 janvier 2020   |Version 1912 (build 12325.20288)  |Diverses résolutions de bogues et de performances. <br/>  |
