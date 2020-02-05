@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: f16de46a5402e75b551898fc255eb5ff3ea5f1e5
-ms.sourcegitcommit: d13d7308e9454f121ea1a60a0f035d461e4016c3
+ms.openlocfilehash: 9bf11c4176ba72a31d1bd5ea1bfa46d6217a6805
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2020
-ms.locfileid: "41173390"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650802"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -30,7 +30,39 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-## <a name="january-14-2020"></a>14 janvier 2020
+## <a name="january-30-2020"></a>30 janvier 2020
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 30 janvier 2020)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 2001 (Build 12430.20184).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1912 (Build 12325.20344) <br/> |22 janvier 2020 <br/> |134<br/> |
+|Version 1912 (Build 12325.20298) <br/> |14 janvier 2020 <br/> |138<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU 30 janvier 2020)
+
+## <a name="january-22-2020"></a>22 janvier 2020
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 22 janvier 2020)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 1912 (Build 12325.20344).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1912 (Build 12325.20298) <br/> |14 janvier 2020 <br/> |53<br/> |
+|Version 1912 (build 12325.20288) <br/> |8 janvier 2020 <br/> |59<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU 22 janvier 2020)
+
+## <a name="january-14-2020"></a>14 janvier 2020
 
 [//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU 14 janvier 2020)
 
