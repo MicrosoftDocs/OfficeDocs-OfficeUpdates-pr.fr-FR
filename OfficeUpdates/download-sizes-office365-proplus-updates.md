@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 9bf11c4176ba72a31d1bd5ea1bfa46d6217a6805
-ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
+ms.openlocfilehash: d35878ad780bad5659b9e12d6b5efe6b921cab44
+ms.sourcegitcommit: 8175a89ddb651d8118d1c0a4823622dd1d05cb57
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "41650802"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41830768"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -29,6 +29,30 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="february-6-2020"></a>6 février 2020
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE DÉBUT DU CONTENU)
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+<i>La publication prévue est la version 1908 (build 11929.20592).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (build 11929.20562) <br/> |14 janvier 2020 <br/> |65<br/> |
+|Version 1902 (Build 11328.20492) <br/> |10 décembre 2019 <br/> |339<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+<i>La publication prévue est la version 1908 (build 11929.20606).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (build 11929.20562) <br/> |14 janvier 2020 <br/> |65<br/> |
+|Version 1908 (Build 11929.20516) <br/> |10 décembre 2019 <br/> |68<br/> |
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="january-30-2020"></a>30 janvier 2020
 
