@@ -3,26 +3,25 @@ title: Historique des mises à jour pour Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions définitives d’Office 2013 qui utilisent Démarrer en un clic
-ms.openlocfilehash: d4d3ca95f2bdca89936b047b407a3662eb75e619
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: cd64e687a638de8ae45c27407d04c7fe3198b6e5
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122063"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978782"
 ---
 # <a name="update-history-for-office-2013"></a>Historique des mises à jour pour Office 2013
 
 Certains produits Office 2013 sont tenus à jour automatiquement à l’aide d’une technologie nommée Démarrer en un clic. Si vous voulez vérifier que vous êtes à jour, vérifiez le numéro de votre version d’Office et mettez à jour Office manuellement si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2013 est la version **15.0.5207.1000**, qui a été publiée le 14 janvier 2020.
+> La version la plus récente d’Office 2013 est la version **15.0.5215.1000**, qui a été publiée le 11 juin 2020.
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -46,10 +45,11 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2020|14 janvier   |15.0.5207.1000   |[KB 4536554   ](https://support.microsoft.com/help/4536554)  |
-|2019|10 décembre   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/help/4532624)  |
-||12 novembre   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/help/4527848)  |
-||8 octobre   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/help/4522242)  |
+|2020|11 février   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
+||14 janvier   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |
+|2019|10 décembre   |15.0.5197.1000   |[KB 4532624](https://support.microsoft.com/help/4532624)  |
+||12 novembre   |15.0.5189.1000   |[KB 4527848](https://support.microsoft.com/help/4527848)  |
+||8 octobre   |15.0.5179.1000   |[KB 4522242](https://support.microsoft.com/help/4522242)  |
 ||10 septembre   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/help/4517986)  |
 ||13 août   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/help/4514418)  |
 ||9 juillet   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/help/4509295)  |
