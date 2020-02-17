@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: ea7f2bd55b0aa1088eec2219b562f28b83985a2f
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.openlocfilehash: 044a7df52545af6adcc57d58cb8299f17b5c7244
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629218"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978742"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -35,6 +35,38 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+
+
+## <a name="february-11-2020"></a>11 Février 2020
+*Version 16.34 (build 20020900)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Lisez et répondez immédiatement ** Répondez aux commentaires et mentions directement à partir du courrier électronique sans ouvrir le classeur.
+
+- **Où que vous regardiez, à gauche comme à droite... XLOOKUP est là ! :** ligne par ligne, trouvez tout ce dont vous avez besoin au sein d’un tableau ou d’une plage grâce à XLOOKUP. [En savoir plus](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+
+- **Actualiser les données des tables et des plages locales :** actualisez vos requêtes Power Query sur Mac à partir de tables et de plages locales.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0759](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0759)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
 
 ## <a name="january-14-2020"></a>14 janvier 2020
 *Version 16.33 (build 20011301)*
@@ -483,8 +515,8 @@ Cette version inclut les mises à jour suivantes :
 |**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Conservez l’apparence de votre texte :** incorporez des polices pour vous assurer que le texte de votre document a le même aspect, quel que soit l’ordinateur. Plus de surprise ! [En savoir plus](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Afficher les polices incorporées dans les documents : **permet d’afficher les polices incorporées dans un fichier dans Word Mac.<br/><br/>**Barre d’état invocable mode focus :** en mode focus, voir plus facilement le nombre de mots et accéder aux contrôles de zoom avec la barre d’état invocable.<br/><br/>**Gagnez en efficacité avec le mode focus :** nous avons tenu compte de vos commentaires ! Le mode Focus s’ouvre désormais au niveau de zoom que vous avez défini et affiche les numéros des pages que vous faites défiler.| |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Passez de l’iPhone à PowerPoint en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre diapositive depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **Réduisez votre tension oculaire avec le mode Foncé :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8597) : Vulnérabilité d’exécution de code à distance Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8627): Vulnérabilité de divulgation d’informations Microsoft Excel |[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Réduisez votre tension oculaire avec le mode Foncé :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Passez de l’iPhone à PowerPoint en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre diapositive depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-8628): Vulnérabilité d’exécution de code à distance Microsoft PowerPoint <br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Réduisez votre tension oculaire avec le mode Sombre :** un arrière-plan foncé fatigue moins les yeux dans les environnements peu lumineux. Nécessite macOS Mojave. <br/><br/>  **Partagez votre calendrier :** partagez votre calendrier avec votre famille, vos amis et collègues. Ouvrez les calendriers partagés avec vous sur un Mac, un PC ou les versions cloud d’Outlook. [En savoir plus](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Désactivez le transfert pour une réunion :** empêchez les participants de transférer vos réunions à d’autres personnes. [En savoir plus](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Utilisez Teams pour vous connecter à vos réunions :** vous travaillez avec des équipes à distance ? Utilisez Teams dans Outlook pour planifier et participer à des réunions en ligne. [En savoir plus](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Affichez les participants aux réunion :** cliquez sur une réunion ou un événement dans votre calendrier pour afficher qui prévoit d’être présent.<br/><br/> **Affichez trois fuseaux horaires :** vous devez planifier une réunion sur plusieurs fuseaux horaires ? Ajoutez plusieurs fuseaux horaires à votre calendrier pour voir facilement la disponibilité des participants et choisissez un horaire qui convient à tout le monde. [En savoir plus](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Mise à jour automatique Microsoft 4.6 <br/>| Mise à jour des catalogues de sécurité pour qu’ils contiennent les codes de hachage SHA-256 au lieu de SHA-1 <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Suite Office  <br/>|**Nouvelle apparence des icônes de votre ruban :** ne vous inquiétez pas, tout fonctionne de la même façon. Qui plus est toutes les icônes s’affichent parfaitement sur les écrans de toutes tailles. [En savoir plus](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**Volet texte de remplacement mis à jour :** rendre votre contenu plus accessible en ajoutant des légendes utiles ou même marquer des éléments comme décoratifs. |<br/>||
@@ -861,8 +893,8 @@ Cette version inclut les mises à jour suivantes.
 |**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Arrière-plans modernes pour le mode Focus :** choisissez entre les arrière-plans Crépuscule ou Nuit polaire, lorsque vous êtes en mode Focus dans l’onglet d’**affichage**. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Police Dubai :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Police Dubai :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Groupes :** affichez vos 10 groupes principaux, et lisez ou répondez aux conversations de groupe directement dans le dossier Groupes.  <br/> <br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Suite Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-0254) : Vulnérabilité de corruption de mémoire de Microsoft Office   |
 
