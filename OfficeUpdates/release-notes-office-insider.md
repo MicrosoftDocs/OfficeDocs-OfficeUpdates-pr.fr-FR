@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
-ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
+ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
+ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931960"
+ms.lasthandoff: 02/19/2020
+ms.locfileid: "42155443"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -26,6 +26,51 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2003-february-14"></a>Version 2003 : 14 février
+*Version 2003 (Build 12607.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.
+
+### <a name="word"></a>Word
+
+- **Recherchez l’Éditeur d’entrée manuscrite dans votre boîte à outils de dessin :** sélectionnez dessiner, puis sélectionnez le stylet Éditeur d’entrée manuscrite pour modifier votre document avec votre doigt ou un stylet numérique. [En savoir plus](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+### <a name="office-suite"></a>Suite Office
+
+- **Icônes de barre d’état plus claires :** les icônes de barre d’état sont désormais plus faciles à voir.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui amenait les utilisateurs à perdre l’accès à la boîte de dialogue autorisations de calendrier « Options de disponibilité ».
+
+- Nous avons résolu un problème susceptible d’entraîner l’alerte suivante : « Désolé, nous rencontrons des difficultés pour ouvrir cet élément » lorsque vous ouvrez des instances de réunion périodiques envoyées à partir d’un autre fuseau horaire.
+
+- Nous avons résolu un problème qui pouvait empêcher les utilisateurs de ré-ouvrir un fichier. MSG suite au glisser-déplacer d’une pièce jointe de ce message.
+
+- Nous avons résolu un problème dans lequel une fois le chargement d’un fichier joint à partir d’Outlook vers OneDrive, le nom du fichier est modifié si le nom de la pièce jointe contient une parenthèse.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème qui pouvait provoquer l’échec de l’enregistrement d’un document dans PowerPoint ou Word contenant un graphique Excel.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel les images dans les documents perdent leur transparence lors de leur exportation au format PDF.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2002-february-07"></a>Version 2002 : 07 février
 *Version 2002 (build 12527.20040)*
