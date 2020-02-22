@@ -58,7 +58,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
-|30 janvier 2020   |Version 2001 (build 12430.20184)  |Diverses résolutions de bogues et de performances. <br/>  |
+|30 janvier 2020   |Version 2001 (Build 12430.20184)  |Diverses résolutions de bogues et de performances. <br/>  |
 |22 janvier 2020   |Version 1912 (Build 12325.20344)  |Diverses résolutions de bogues et de performances. <br/>  |
 |14 janvier 2020   |Version 1912 (build 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |08 janvier 2020   |Version 1912 (build 12325.20288)  |Diverses résolutions de bogues et de performances. <br/>  |
