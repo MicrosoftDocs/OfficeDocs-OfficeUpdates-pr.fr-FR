@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: 9d848fcfeca988113987408e7f27f512e2475e24
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: dc67527537f3c8700854f7e1a68bf02976c1976d
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978792"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42282818"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -58,6 +58,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|25 février 2020   |Version 2002 (build 12527.20194)  |Diverses résolutions de bogues et de performances. <br/>  |
 |11 février 2020   |Version 2001 (build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |30 janvier 2020   |Version 2001 (Build 12430.20184)  |Diverses résolutions de bogues et de performances. <br/>  |
 |22 janvier 2020   |Version 1912 (Build 12325.20344)  |Diverses résolutions de bogues et de performances. <br/>  |
