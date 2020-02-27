@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal mensuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
+ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228363"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42278585"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal mensuel en 2020
 
@@ -24,6 +24,47 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 >
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2002-february-25"></a>Version 2002 : 25 février
+*Version 2002 (build 12527.20194)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Mises à jour apportées au volet dossiers d’Outlook :** la nouvelle liste de dossiers provenant de l’esthétique v1 aura une apparence de mise à jour & apparence et les groupes seront élevés dans la même hiérarchie que les dossiers et les favoris.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème dans lequel les fonctions VALEURCUBE renvoyaient parfois un résultat incorrect.
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problème qui transforme les virgules en point-virgules dans le champ d’emplacement d’une réunion.
+
+- Corrige un problème qui peut provoquer un blocage lors de l'affichage d'un élément dans plusieurs fenêtres.
+
+- Corrige un problème dans lequel l'option de désactivation de la mise en surbrillance d'un élément marqué n'était pas respectée dans certains cas.
+
+- Corrige un problème qui occasionne la synchronisation inopinée par Outlook de tous les messages, même lorsque le curseur de synchronisation est défini sur un plus petit paramètre.
+
+
+- Corrige un problème qui provoque l’affichage du texte en blanc sur un arrière-plan blanc pour la liste déroulante &quot;De&quot; chez les utilisateurs ayant un thème noir.
+
+
+- Cette modification rétablit la possibilité d’afficher des sujets de plusieurs lignes dans l’en-tête du message.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2001-february-19"></a>Version 2001 : 19 février
 *Version 2001 (build 12430.20288)*
