@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal mensuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278585"
+ms.locfileid: "42282828"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal mensuel en 2020
 
@@ -31,9 +31,22 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="outlook"></a>Outlook
+### <a name="excel"></a>Excel
 
-- **Mises à jour apportées au volet dossiers d’Outlook :** la nouvelle liste de dossiers provenant de l’esthétique v1 aura une apparence de mise à jour & apparence et les groupes seront élevés dans la même hiérarchie que les dossiers et les favoris.
+ - **Les utilisateurs peuvent désormais enregistrer les objets dans Word et Excel en tant que fichier SVG :** les utilisateurs peuvent enregistrer des objets tels que des graphiques, des formes, des entrées manuscrites, des icônes, des images, etc. en tant que fichier SVG [Pour plus d'informations](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Statistiques du classeur :** des cellules, formules, graphiques, des tableaux... Nous les comptons pour que vous n’ayez pas à le faire.
+
+- **Profilage des données dans l’éditeur de requêtes :** Obtenez en un clin d'œil l'analyse des données dans vos colonnes, identifiez les valeurs d’erreur et les valeurs vides, consultez les histogrammes de distribution, etc.
+
+### <a name="outlook"></a>Outlook
+- **Mises à jour apportées au volet Dossiers d’Outlook :**  la nouvelle liste de dossiers incluse avec Aesthetic v1 sera mise à jour en ce qui concerne son apparence et les groupes seront élevés dans le même niveau de hiérarchie que les Dossiers et les Favoris.
+
+### <a name="word"></a>Word
+
+- **Les utilisateurs peuvent désormais enregistrer les objets dans Word et Excel en tant que fichier SVG :** les utilisateurs peuvent enregistrer des objets tels que des graphiques, des formes, des entrées manuscrites, des icônes, des images, etc. en tant que fichier SVG [Pour plus d'informations](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
