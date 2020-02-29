@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal mensuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: 9c3fb7b64b95ee2a0d6f2ae831a2c028fb9e6ba0
+ms.sourcegitcommit: 9161b86498b6aadb2cdfbb951c5ea93439922ea2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282828"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322590"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal mensuel en 2020
 
@@ -33,18 +33,15 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
- - **Les utilisateurs peuvent désormais enregistrer les objets dans Word et Excel en tant que fichier SVG :** les utilisateurs peuvent enregistrer des objets tels que des graphiques, des formes, des entrées manuscrites, des icônes, des images, etc. en tant que fichier SVG [Pour plus d'informations](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Les utilisateurs peuvent désormais enregistrer des objets dans Word et Excel en tant que fichier SVG :** Les utilisateurs peuvent enregistrer des objets tels que des graphiques, des formes, des entrées manuscrites, des icônes, des images, etc. en tant que fichier SVG. [Pour plus d'informations](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Statistiques du classeur :** des cellules, formules, graphiques, des tableaux... Nous les comptons pour que vous n’ayez pas à le faire.
+- **Statistiques du classeur :** Cellules, formules, graphiques, tableaux... Nous les comptons pour que vous n’ayez pas à le faire.
 
 - **Profilage des données dans l’éditeur de requêtes :** Obtenez en un clin d'œil l'analyse des données dans vos colonnes, identifiez les valeurs d’erreur et les valeurs vides, consultez les histogrammes de distribution, etc.
 
-### <a name="outlook"></a>Outlook
-- **Mises à jour apportées au volet Dossiers d’Outlook :**  la nouvelle liste de dossiers incluse avec Aesthetic v1 sera mise à jour en ce qui concerne son apparence et les groupes seront élevés dans le même niveau de hiérarchie que les Dossiers et les Favoris.
-
 ### <a name="word"></a>Word
 
-- **Les utilisateurs peuvent désormais enregistrer les objets dans Word et Excel en tant que fichier SVG :** les utilisateurs peuvent enregistrer des objets tels que des graphiques, des formes, des entrées manuscrites, des icônes, des images, etc. en tant que fichier SVG [Pour plus d'informations](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Les utilisateurs peuvent désormais enregistrer des objets dans Word et Excel en tant que fichier SVG :** Les utilisateurs peuvent enregistrer des objets tels que des graphiques, des formes, des entrées manuscrites, des icônes, des images, etc. en tant que fichier SVG. [Pour plus d'informations](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -86,7 +83,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-2001-february-11"></a>Version 2001 : 11 février
 *Version 2001 (Build 12430.20264)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-FR/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
