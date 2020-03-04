@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: ea4c4a71c501be72e744e53b9ac3681a9ef9e5bc
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
+ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978722"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42403793"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -48,7 +48,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 <br/>
 **Code de hachage SHA-256 :**
 
-397EAABFC230E801C571917BEED548A988C716F121077ED43669FF012FE9D7CE<br/><br/>
+80DD0637AA60007310FB7B68C01926F6CA0F2771DBB42166C191626607D89B56<br/><br/>
 
 ## <a name="january-2020-release"></a>Version de janvier 2020
 

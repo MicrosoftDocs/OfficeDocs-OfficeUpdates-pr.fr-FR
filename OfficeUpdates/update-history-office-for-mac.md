@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les informations sur les dernières mises à jour pour Office pour Mac, notamment des liens de téléchargement des packages et un historique des mises à jour.
-ms.openlocfilehash: be339453ba93b747fbcfba3160a4acdd9e6d2f08
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 216645cddd13adfbf4985c03fb2e720b570a4208
+ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978632"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42403813"
 ---
 # <a name="update-history-for-office-for-mac"></a>Historique des mises à jour pour Office pour Mac
   
@@ -45,7 +45,7 @@ Version 16.34 (20020900)
 
 |**Application**|**Liens de téléchargement**|**Code de hachage SHA-256 pour le package d’installation**|
 |:-----|:-----|:-----|
-|Suite Office (avec Microsoft Teams)|[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=2009112)|34CDF2DBE1DB04D9ED38C9E118F02F04A5566590F0103BF13F5422E037C8598C|
+|Suite Office (avec Microsoft Teams)|[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=2009112)|A2B21E5EF197E03BB0CB57763EE836509F0E20416CABE34B742AB64C92783346|
 |Suite Office (sans Microsoft Teams)|[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525133)|BD6D81E731F4393022F3C1EBD0F9B8BE0B6278781F707D367970F573E0002EB1|
 |Word|[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.34.20020900_Updater.pkg)|35FEEC393E1995B6696CE99FDBAA64F3C5855D3A2A1DDE7FEC2113CBFBB34356|
 |Excel|[Package d’installation](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[Package de mise à jour](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.34.20020900_Updater.pkg)|5BA5C8D0A036AD7A53D023521B4656CEEFBD0FE7A4A55BA25EFEB4E0AAE388FB|
