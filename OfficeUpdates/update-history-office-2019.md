@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: dc67527537f3c8700854f7e1a68bf02976c1976d
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: d76beb68ed6a3e64b5ad8070566e2e864fd898e2
+ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282818"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42403803"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -58,7 +58,8 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
-|25 février 2020   |Version 2002 (build 12527.20194)  |Diverses résolutions de bogues et de performances. <br/>  |
+|1er mars 2020   |Version 2002 (Build 12527.20242)  |Corrige un problème qui empêchait les applications tierces d’envoyer des e-mails depuis Outlook. <br/>  |
+|25 février 2020   |Version 2002 (build 12527.20194)  |Diverses résolutions de bogues et de performances. <br/>  |
 |11 février 2020   |Version 2001 (build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |30 janvier 2020   |Version 2001 (Build 12430.20184)  |Diverses résolutions de bogues et de performances. <br/>  |
 |22 janvier 2020   |Version 1912 (Build 12325.20344)  |Diverses résolutions de bogues et de performances. <br/>  |
@@ -69,7 +70,6 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 |18 novembre 2019   |Version 1910 (Build 12130.20390)  |Diverses résolutions de bogues et de performances.<br/>  |
 |12 novembre 2019   |Version 1910 (build 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8 octobre 2019   |Version 1909 (build 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1331) <br/> |
-|10 septembre 2019   |Version 1908 (build 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1297) <br/>  |
 
 
 
