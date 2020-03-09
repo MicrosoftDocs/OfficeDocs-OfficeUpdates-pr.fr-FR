@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345133"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549175"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notes de publication pour Canal mensuel Office (ciblé)
 
@@ -29,6 +29,31 @@ Cet article contient les notes de publication relatives aux versions Canal mensu
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2002-march-05"></a>Version 2002 : 5 mars
+*Version 2002 (Build 12527.20278)*
+
+- Diverses résolutions de bogues et de performances.
+
+
+## <a name="version-2002-march-04"></a>Version 2002 : 4 mars
+*Version 2002 (Build 12527.20264)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+
+### <a name="project"></a>Project
+- <div>Résolution d’un problème en raison duquel les dates de tâches récapitulatives n’ont pas toujours été calculées correctement.</div>
+
+
+### <a name="office-suite"></a>Suite Office
+- <div>Corrige un problème qui survient lorsque plusieurs documents sont ouverts dans Word/Excel/PowerPoint à partir de la même bibliothèque SharePoint et dans lequel seul le premier document ouvert est analysé pour vérifier sa conformité à la stratégie.</div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2002-march-01"></a>Version 2002 :1er mars
 *Version 2002 (Build 12527.20242)*
