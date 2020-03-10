@@ -9,16 +9,16 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345143"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568860"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
-Cet article contient les notes de publication relatives aux builds Insider de Word, Excel, PowerPoint, Outlook, Access et Project sur ordinateur de bureau Windows. Chaque semaine, nous mettrons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Notez que certaines fonctionnalités (voire certains correctifs parfois) sont souvent proposées aux participants au programme Office Insider pour une durée délimitée. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
+Cet article contient les notes de publication relatives aux builds Insider de Word, Excel, PowerPoint, Outlook, Access et Project sur ordinateur de bureau Windows. Chaque semaine, nous mettons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Notez que certaines fonctionnalités (voire certains correctifs parfois) sont souvent proposées aux participants au programme Office Insider pour une durée délimitée. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
 
 > [!NOTE]
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds.
@@ -26,6 +26,36 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2003-march-06"></a>Version 2003 : 06 mars
+*Version 2003 (Build 12624.20086)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Résolution d’un problème dans lequel la création d’une règle avec Outlook Web Access n’était pas conservée sur le serveur Exchange et provoquait un conflit.
+- Résolution d'un problème d'affichage de la liste déroulante dans le champ « De : » lors de l'utilisation du mode sombre dans Outlook.
+- Corrige un problème empêchant des utilisateurs de joindre un fichier à leur message électronique via l’Explorateur de fichiers lorsque ce fichier est ouvert dans une autre application.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d’un problème de clignotement des miniatures recommandées lorsque la souris passait au-dessus de celles-ci. Cela pouvait entraîner le blocage de PowerPoint dans certains cas.
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème avec la fonctionnalité Comparer avec des documents protégés pour la modification.
+
+### <a name="office-suite"></a>Suite Office
+
+- Résolution d’un problème Word/Excel/PowerPoint dans lequel le Nom d’utilisateur principal (UPN) ne respectait plus la casse, ce qui donnait lieu à un nombre d'échecs diminué lors d'un travail avec des fichiers dans SharePoint.
+
+- Résolution d'un problème esthétique dans lequel le bouton « OK » de la boîte de dialogue Fichier \ Options était affiché de façon grisée, bien que les fonctionnalités n’étaient pas affectées.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ## <a name="version-2003-february-28"></a>Version 2003 du 28 février
 *Version 2003 (Build 12619.20002)*
@@ -2271,7 +2301,7 @@ Modifier la boîte de réception prioritaire sur l’ordinateur sur lequel la pr
 
 #### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>Le mode outils d’apprentissage offre une prise en charge supplémentaire pour d’autres couleurs de page
 
-Les outils d’apprentissage de Word prennent en charge d’autres couleurs de thème de page, ce qui permet de modifier la couleur d’arrière-plan de la page.  De nombreux utilisateurs ont des difficultés à lire avec un arrière-plan tout blanc ou tout noir, nous avons donc développé le choix de couleurs dans Word sur PC et Mac.
+Les outils d’apprentissage de Word prennent en charge d’autres couleurs de thème de page, ce qui permet de modifier la couleur d’arrière-plan de la page.  De nombreuses personnes ont des difficultés à lire avec un arrière-plan tout blanc ou tout noir, nous avons donc développé le choix de couleurs dans Word sur PC et Mac.
 
 #### <a name="getting-started"></a>Mise en route :
 
@@ -2451,7 +2481,7 @@ Créez un fichier docm dans OneDrive Entreprise, partagez-le avec vos collègues
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
 ### <a name="word"></a>Word 
-- Nous avons résolu un problème de blocage qui survient quand on appuie sur Échap quand vous vous trouvez dans Options
+- Nous avons résolu un problème de blocage qui survenait lors de l'utilisation d'Échap dans les Options
 - Nous avons résolu un problème de blocage survenant lors de la réponse à des commentaires
 - Nous avons résolu un problème avec le copier/coller de Word vers PowerPoint Online
 
@@ -2496,7 +2526,7 @@ Ouvrez un document SharePoint ou OneDrive ouvert par d’autres utilisateurs. V�
 ## <a name="notable-fixes"></a>Correctifs remarquables :
 
 ### <a name="word"></a>Word 
-- Nous avons résolu un problème de blocage qui survient quand on appuie sur Échap quand vous vous trouvez dans Options
+- Nous avons résolu un problème de blocage qui survenait lors de l'utilisation d'Échap dans les Options
 - Nous avons résolu un problème avec le copier/coller de Word vers PowerPoint Online
 
 ### <a name="excel"></a>Excel
@@ -2537,8 +2567,8 @@ Sélectionnez les formes auxquelles appliquer la transition Morphose
 #### <a name="getting-started"></a>Mise en route :
 
 - Pour que la transition Morphose traite deux objets comme le même objet, l’utilisateur peut renommer les formes à l’aide du volet Sélection.
-- Deux points d’exclamation (« !! ») doivent précéder le nom pour que la transition Morphose l’utilise pour substituer notre comportement de correspondance par défaut, par exemple « !!Nom »
-- Les utilisateurs peuvent continuer à renommer les formes avec n’importe quel nom qui ne commence pas par « !! » sans se soucier que cela change la manière dont fonctionne la transition Morphose
+- Le nom doit être précédé de deux points d’exclamation « !! » pour que la transition Morphose l’utilise pour substituer notre comportement de correspondance par défaut, par exemple « !!Nom »
+- Les utilisateurs peuvent continuer à renommer les formes avec n’importe quel nom ne commençant pas par « !! » sans se soucier que cela change la manière dont fonctionne la transition Morphose
 
 #### <a name="scenarios-to-try"></a>Scénarios à tester :
 
