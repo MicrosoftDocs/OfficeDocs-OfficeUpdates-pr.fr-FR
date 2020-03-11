@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les publications de canaux mensuelles pour Office 365 ProPlus dans 2017
 ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629251"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549265"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notes de publication pour les publications mensuelles de canaux dans 2017
 
@@ -72,13 +72,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Accès rapide à vos sites et groupes :** pour travailler avec des documents stockés dans les sites et les groupes que vous utilisez fréquemment, utilisez le menu Fichier.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
--   L’option mettre à jour maintenant est masquée \> dans options de mise à jour de compte de fichier \> lorsqu’un objet com Office est activé afin que les mises à jour du client Office 365 soient gérées par le gestionnaire de configuration.
+-   L’option Mettre à jour maintenant est masquée dans Fichier \> Compte \> Options de mise à jour lorsqu’un objet COM Office est activé de sorte que les mises à jour du client Office 365 sont gérées par Configuration Manager.
 
 
 ## <a name="version-1710-november-27"></a>Version 1710:27 novembre
 *Version 1710 (Build 8625.2139)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : l’utilisateur obtenait à tort un message d’erreur « Défaillance irrémédiable » lors de l’ouverture d’un classeur Office 2007 ou plus ancien (.xls ou .xla) avec macros.
 -   Résolution d’un problème : l’ouverture d’un menu contextuel pouvait entraîner le blocage d’Excel.
 
@@ -92,14 +92,14 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : l’ouverture d’une application d’exécution Access (fichier .accde) générait un message d’erreur de type « Le format de cette base de données est inconnu. » et l’application ne s’ouvrait pas.
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : lorsque l’utilisateur tentait d’insérer un objet dans un classeur existant, Excel se bloquait lorsque l’utilisateur cliquait sur Parcourir.
 -   Résolution d’un problème : lors de la protection d’une plage avec un mot de passe, la boîte de dialogue permettant de saisir le mot de passe pour déverrouiller la plage n’était pas visible.
 
-### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : lors de la surveillance à l’aide de l’observateur d’événement accessible (AccEvent.exe), Outlook cessait de fonctionner lors du passage à un autre dossier.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : des références à des codes incorporés de YouTube basés sur Flash Player entraînaient l’ouverture d’une nouvelle fenêtre pour lire la vidéo. D’anciens codes incorporés sont désormais mis à niveau pour référencer des vidéos YouTube basées sur HTML5 afin qu’elles soient lues correctement.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -117,10 +117,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Vulnérabilité de corruption de mémoire de Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : l’utilisateur ne pouvait pas fermer un classeur en mode protégé lorsque le nom du fichier contenait des crochets.
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   [Avis 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020) : Mise à jour de protection fiable pour Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
@@ -162,7 +162,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : les utilisateurs se trouvant dans la salle d’attente n’étaient pas avertis que leur accès à la réunion a été refusé.
 -   Résolution d’un problème : le contrôle de gain automatique augmentait de manière incontrôlable pendant les appels.
 
-### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
+### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
 -   **Créez un diagramme filaire pour un site web :** Créez rapidement le diagramme filaire d’un site web, y compris l’interface et la navigation, et leur fonctionnement conjoint. [Plus d’informations](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 -   **Créez une maquette de votre application mobile :** utilisez un modèle pour créer une maquette de votre application mobile. [Plus d’informations](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 
@@ -180,12 +180,12 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : la tentative de sélection de texte dans une zone de texte ou une zone de liste modifiable semblait sélectionner tout le texte plutôt que la sélection indiquée.
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : l’info-bulle est mal alignée lorsque vous faites glisser un élément ou que vous remplissez une zone par glisser.
 -   Résolution d’un problème : lorsque vous enregistrez un classeur en sélectionnant Fichier \> Enregistrer sous, un nom de fichier qui contient des points apparaît vide ou tronqué dans la boîte de dialogue d’enregistrement de fichiers.
 -   Résolution d’un problème : lors de l’enregistrement d’un fichier synchronisé, Office ne parvient pas à écrire sur un disque, mais continue le chargement du fichier sur OneDrive. Avec ce correctif, un message d’erreur s’affiche désormais et le chargement cesse.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : lors de l’enregistrement d’un fichier synchronisé, Office ne parvient pas à écrire sur un disque, mais continue le chargement du fichier sur OneDrive. Avec ce correctif, un message d’erreur s’affiche désormais et le chargement cesse.
 
 ### <a name="publisher-non-security-updates"></a>Publisher : Mises à jour non relatives à la sécurité
@@ -204,7 +204,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 -   **Exécutez un diaporama à l’aide de votre stylet numérique :** utilisez le stylet Surface ou un autre stylet avec un bouton Bluetooth pour faire défiler les diapositives. Windows 10 Fall Creators Update est requis. [Plus d’informations](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 
-### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
+### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
 -   Résolution du problème lié au blocage du projet lorsque vous accédez à des rapports qui contiennent plusieurs images.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
@@ -233,7 +233,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): Vulnérabilité de divulgation d’informations Microsoft Outlook
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) : Vulnérabilité de corruption de mémoire de Microsoft Office
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825) : Vulnérabilité d’exécution de code à distance Microsoft Office
@@ -244,37 +244,37 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1708 (Build 8431.2094)*
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : une requête n’était pas exécutée si elle comprenait une jointure avec une clé primaire issue d’une table liée Microsoft Dynamics.
--   Résolution d’un problème : les décimales n’étaient pas affichées pour les valeurs de devise dans une table Microsoft Dynamics.
+-   Résolution d’un problème : une requête n’était pas exécutée si elle comprenait une jointure avec une clé primaire issue d’une table liée Microsoft Dynamics.
+-   Résolution d’un problème : les décimales n’étaient pas affichées pour les valeurs de devise dans une table Microsoft Dynamics.
 
 ### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : Excel se bloquait lors de l’ouverture d’un fichier .XLL.
 -   Résolution d’un problème : la bascule d’enregistrement automatique n’était pas visible.
 -   Résolution d’un problème : lors de l’ouverture d’un fichier enregistré dans OneDrive, OneDrive Entreprise ou SharePoint synchronisé à l’aide d’un client de synchronisation, l’enregistrement automatique était incorrectement désactivé ou grisé.
--   Résolution d’un problème : le style de motif d’une cellule ne s’affichait pas correctement après l’ajout d’un en-tête ou d’un pied de page en mode Page.
--   Résolution d’un problème : le collage d’une copie d’un tableau croisé dynamique dans un autre classeur pouvait provoquer un blocage.
--   Résolution d’un problème : lorsque vous choisissiez la commande Remplacer et que la boîte de dialogue Rechercher et remplacer s’ouvrait, le focus de la boîte de dialogue était sur l’onglet Rechercher au lieu de l’onglet Remplacer.
--   Résolution d’un problème : Excel se bloquait lorsque vous ouvriez le volet Activité d’un classeur ouvert à partir d’un serveur SharePoint antérieur à SharePoint Server 2016.
--   Résolution d’un problème : Excel s’ouvrait et affichait une fenêtre vide lorsqu’un ou plusieurs compléments XLL étaient activés.
--   Résolution d’un problème : Excel se bloquait après utilisation du bouton Formulaires dans un classeur déjà fermé.
--   Résolution d’un problème : lors de l’utilisation de l’événement SheetBeforeRightClick, l’insertion d’une colonne qui coupait les cellules fusionnées ne développait pas ces dernières.
+-   Résolution d’un problème : le style de motif d’une cellule ne s’affichait pas correctement après l’ajout d’un en-tête ou d’un pied de page en mode Page.
+-   Résolution d’un problème : le collage d’une copie d’un tableau croisé dynamique dans un autre classeur pouvait provoquer un blocage.
+-   Résolution d’un problème : lorsque vous choisissiez la commande Remplacer et que la boîte de dialogue Rechercher et remplacer s’ouvrait, le focus de la boîte de dialogue était sur l’onglet Rechercher au lieu de l’onglet Remplacer.
+-   Résolution d’un problème : Excel se bloquait lorsque vous ouvriez le volet Activité d’un classeur ouvert à partir d’un serveur SharePoint antérieur à SharePoint Server 2016.
+-   Résolution d’un problème : Excel s’ouvrait et affichait une fenêtre vide lorsqu’un ou plusieurs compléments XLL étaient activés.
+-   Résolution d’un problème : Excel se bloquait après utilisation du bouton Formulaires dans un classeur déjà fermé.
+-   Résolution d’un problème : lors de l’utilisation de l’événement SheetBeforeRightClick, l’insertion d’une colonne qui coupait les cellules fusionnées ne développait pas ces dernières.
 
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : le lien « En savoir plus » dans les conseils de stratégie n’était pas visible lors de l’utilisation du thème gris foncé.
--   Résolution d’un problème : Outlook se bloquait lorsque l’utilisateur tentait de configurer un nouveau compte et fermait la fenêtre sans terminer la configuration du compte.
--   Résolution d’un problème : Marquer comme lu et Marquer comme non lu apparaissaient sous forme d’options pour les messages de la boîte aux lettres partagée d’un groupe.
+-   Résolution d’un problème : le lien « En savoir plus » dans les conseils de stratégie n’était pas visible lors de l’utilisation du thème gris foncé.
+-   Résolution d’un problème : Outlook se bloquait lorsque l’utilisateur tentait de configurer un nouveau compte et fermait la fenêtre sans terminer la configuration du compte.
+-   Résolution d’un problème : Marquer comme lu et Marquer comme non lu apparaissaient sous forme d’options pour les messages de la boîte aux lettres partagée d’un groupe.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : PowerPoint se bloquait lors de l’ouverture d’une présentation à partir d’un serveur SharePoint antérieur à SharePoint Server 2016.
 
-### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
--   Résolution d’un problème : Word se bloquait lorsque vous ouvriez le volet Activité d’un document ouvert à partir d’un serveur SharePoint antérieur à SharePoint Server 2016.
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+-   Résolution d’un problème : Word se bloquait lorsque vous ouvriez le volet Activité d’un document ouvert à partir d’un serveur SharePoint antérieur à SharePoint Server 2016.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : la progression de la réparation en ligne n’était pas affichée pour l’utilisateur.
--   Résolution d’un problème : les propriétés de fichier Office n’étaient pas affichées dans l’Explorateur de fichiers.
--   Résolution d’un problème : les boutons de complément Office disparaissaient du ruban lorsqu’un second document était ouvert.
--   Résolution d’un problème : certains modules VBA dont le nom contenaient des caractères codés sur deux octets ne pouvaient pas être ouverts.
+-   Résolution d’un problème : la progression de la réparation en ligne n’était pas affichée pour l’utilisateur.
+-   Résolution d’un problème : les propriétés de fichier Office n’étaient pas affichées dans l’Explorateur de fichiers.
+-   Résolution d’un problème : les boutons de complément Office disparaissaient du ruban lorsqu’un second document était ouvert.
+-   Résolution d’un problème : certains modules VBA dont le nom contenaient des caractères codés sur deux octets ne pouvaient pas être ouverts.
 
 
 
@@ -282,27 +282,27 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1708 (Build 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
--   **Connecteur Dynamics :** importez des données associées à des données stockées dans Microsoft Dynamics ou à partir de celles-ci. [Plus d’informations](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Connecteur Salesforce :** importez des données associées à des données stockées dans Salesforce ou à partir de celles-ci.[Plus d’informations](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Connecteur Dynamics :** importez des données associées à des données stockées dans Microsoft Dynamics ou à partir de celles-ci. [Plus d’informations](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Connecteur Salesforce :** importez des données associées à des données stockées dans Salesforce ou à partir de celles-ci. [Plus d’informations](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
 -   **Modèles 3D :** utilisez la 3D pour améliorer l’impact visuel et créatif de vos classeurs.Insérez facilement un modèle 3D, puis faites-le pivoter à 360°. [Plus d’informations](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nouveaux effets d’entrée manuscrite :** exprimez-vous avec style grâce aux stylos effet métallique et aux effets d’entrée manuscrite tels que l’arc-en-ciel, la galaxie, la lave, l’océan, le doré, l’argenté, etc.
--   **Améliorations apportées à l’option « Ajouter une colonne à partir d’exemples » :** prise en charge d’un plus grand nombre de transformations de date/d’heure, mathématiques et de colonne d’index.
+-   **Améliorations apportées à l’option « Ajouter une colonne à partir d’exemples » :** prise en charge d’un plus grand nombre de transformations de date/d’heure, mathématiques et de colonne d’index.
 -   **Améliorations en matière de performances :** Excel ouvre plus rapidement des classeurs complexes composés de plusieurs feuilles. Vous pouvez ainsi traiter des formules avec des plages importantes, filtrer de nombreuses lignes ou effectuer un copier-coller plus rapidement. 
 -   **Interface utilisateur de partage de fichiers :** pour les fichiers OneDrive Entreprise ou SharePoint, cliquez sur le bouton Partager dans le coin supérieur droit du ruban ou accédez à Fichier \> Partager pour lancer une boîte de dialogue Partager simplifiée et améliorée. Pour les nouveaux fichiers ou les fichiers enregistrés localement, l’interface utilisateur permet aux utilisateurs de charger facilement leurs fichiers dans OneDrive pour commencer à collaborer.
 -   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : des onglets ne sont pas pris en compte lors de la copie et du collage de texte séparé par des tabulations à partir de Word, empêchant la décomposition du texte en colonnes.
 
-### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 -   **Modèles 3D :** utilisez la 3D pour améliorer l’impact visuel et créatif de vos courriers électroniques.Insérez facilement un modèle 3D, puis faites-le pivoter à 360°. [Plus d’informations](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Carte de visite :** affiche les détails les plus pertinents concernant des contacts et des groupes, que vous utilisiez la version de bureau, la version web ou l’application mobile.
 -   **Améliorations en matière d’accessibilité :** nous avons facilité la lecture et la modification de textes, tableaux, listes et images dans les courriers électroniques lorsque vous utilisez un lecteur d’écran.
 -   **Ajoutez un rendez-vous à un calendrier de groupe :** désormais, tous les membres de votre groupe peuvent connaître vos disponibilités sans avoir à envoyer une demande de réunion par courrier électronique.
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 -   **Modèles 3D :** utilisez la 3D pour améliorer l’impact visuel et créatif de vos présentations. Donnez vie à vos modèles 3D dans vos présentations grâce aux transitions, telles que Morphose qui permet de créer des animations cinématographiques entre les diapositives. [Plus d’informations](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Nouveaux effets d’entrée manuscrite :** exprimez-vous avec style grâce aux stylos effet métallique et aux effets d’entrée manuscrite tels que l’arc-en-ciel, la galaxie, la lave, l’océan, le doré, l’argenté, etc.
 -   **Interface utilisateur de partage de fichiers :** pour les fichiers OneDrive Entreprise ou SharePoint, cliquez sur le bouton Partager dans le coin supérieur droit du ruban ou accédez à Fichier \> Partager pour lancer une boîte de dialogue Partager simplifiée et améliorée. Pour les nouveaux fichiers ou les fichiers enregistrés localement, l’interface utilisateur permet aux utilisateurs de charger facilement leurs fichiers dans OneDrive pour commencer à collaborer.
@@ -312,26 +312,26 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Gérez une tâche dans le Planificateur :** associez une tâche de projet au Planificateur et créez un plan qui lui est propre. Divisez la tâche en sous-tâches, ajoutez une équipe, attribuez des tâches et gérez le travail dans un tableau des tâches.
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : le début réel pouvait être effacé à tort lors de la définition du travail restant.
--   Résolution d’un problème : la date de début réelle de l’affectation peut être différente de celle indiquée par la ressource au moyen de la définition d’états dans Project Web App.
--   Résolution d’un problème : le travail réel peut être replanifié si la date de fin de la tâche est modifiée.
--   Résolution d’un problème : lors de la copie et du collage de champs relatifs aux coûts, les valeurs collées ne correspondent pas exactement aux valeurs copiées en raison d’un problème d’arrondi.
--   Résolution d’un problème : les données chronologiques pour les ressources budgétaires ne sont pas copiées lorsque vous enregistrez à partir d’une ligne de base dans une autre.
--   Résolution d’un problème : le champ d’état n’effectue pas toujours un calcul exact pour les tâches récapitulatives.
+-   Résolution d’un problème : le début réel pouvait être effacé à tort lors de la définition du travail restant.
+-   Résolution d’un problème : la date de début réelle de l’affectation peut être différente de celle indiquée par la ressource au moyen de la définition d’états dans Project Web App.
+-   Résolution d’un problème : le travail réel peut être replanifié si la date de fin de la tâche est modifiée.
+-   Résolution d’un problème : lors de la copie et du collage de champs relatifs aux coûts, les valeurs collées ne correspondent pas exactement aux valeurs copiées en raison d’un problème d’arrondi.
+-   Résolution d’un problème : les données chronologiques pour les ressources budgétaires ne sont pas copiées lorsque vous enregistrez à partir d’une ligne de base dans une autre.
+-   Résolution d’un problème : le champ d’état n’effectue pas toujours un calcul exact pour les tâches récapitulatives.
 
 ### <a name="publisher-feature-updates"></a>Publisher : Mises à jour de fonctionnalités
 -   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Ajout d’une boîte de dialogue expliquant pourquoi un utilisateur ne parvient pas à participer à une réunion lorsque certains ports sont bloqués ou que certaines adresses IP ne sont pas mises sur liste verte.
--   Résolution d’un problème : les messages non lus des salles de conversation permanente étaient marqués comme lus lorsque vous cliquiez sur les onglets de conversation par messagerie instantanée.
--   Résolution d’un problème : les toasts de messagerie instantanée entrante présentaient un retard de plusieurs secondes.
--   Résolution d’un problème : dans AD, le numéro de téléphone était affiché au lieu du nom du contact lorsque la synchronisation avec Exchange était désactivée.
--   Résolution d’un problème : les utilisateurs anonymes ne pouvaient pas rejoindre une conversation lorsque la fédération était désactivée et alors que la participation anonyme n’était pas explicitement bloquée par l’organisateur de la réunion.
--   Résolution d’un problème : le nombre de participants ne s’affichait pas correctement pour l’organisateur des réunions lorsque celles-ci dépassent la limite.
--   Résolution d’un problème : le numéro de téléphone n’était pas affiché dans le toast pour les appels RTC entrants.
--   Résolution d’un problème : lorsque vous utilisiez la touche Suppr lorsque vous renommiez un groupe de la liste de contacts, le groupe entier était supprimé.
--   Résolution d’un problème : la notification de partage dans une conversation par messagerie instantanée était fermée avant l’arrêt du partage.
+-   Résolution d’un problème : les messages non lus des salles de conversation permanente étaient marqués comme lus lorsque vous cliquiez sur les onglets de conversation par messagerie instantanée.
+-   Résolution d’un problème : les toasts de messagerie instantanée entrante présentaient un retard de plusieurs secondes.
+-   Résolution d’un problème : dans AD, le numéro de téléphone était affiché au lieu du nom du contact lorsque la synchronisation avec Exchange était désactivée.
+-   Résolution d’un problème : les utilisateurs anonymes ne pouvaient pas rejoindre une conversation lorsque la fédération était désactivée et alors que la participation anonyme n’était pas explicitement bloquée par l’organisateur de la réunion.
+-   Résolution d’un problème : le nombre de participants ne s’affichait pas correctement pour l’organisateur des réunions lorsque celles-ci dépassent la limite.
+-   Résolution d’un problème : le numéro de téléphone n’était pas affiché dans le toast pour les appels RTC entrants.
+-   Résolution d’un problème : lorsque vous utilisiez la touche Suppr lorsque vous renommiez un groupe de la liste de contacts, le groupe entier était supprimé.
+-   Résolution d’un problème : la notification de partage dans une conversation par messagerie instantanée était fermée avant l’arrêt du partage.
 
 ### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
 -   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
@@ -358,19 +358,19 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : Excel se bloquait temporairement lorsque vous développiez ou réduisiez un tableau croisé dynamique et les en-têtes de tableau croisé dynamique sortaient de l’écran.
 -   Résolution d’un problème : Excel se bloquait lors de l’ouverture de la boîte de dialogue Publier en tant que page web.
 
-### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
+### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742) : Vulnérabilité d’exécution de code à distance PowerPoint
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): Vulnérabilité d’exécution de code à distance PowerPoint
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : l’ouverture de certains fichiers à partir de Project Online provoquait le blocage de Project.
 
-### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
+### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676) : Vulnérabilité de divulgation d’informations Windows GDI+
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): Vulnérabilité de divulgation d’informations du composant Graphics
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Exécution de code à distance du composant Graphics Microsoft
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
@@ -379,7 +379,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1707-august-29"></a>Version 1707:29 août
 *Version 1707 (Build 8326.2096)*
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où les caractères définis par l’utilisateur final (EUDC) liés aux polices ne s’affichaient pas.
 
 
@@ -388,33 +388,33 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1707 (Build 8326.2087)*
 
 ### <a name="visio-non-security-updates"></a>Visio : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : les compléments COM ne recevaient pas les événements d’un document ouvert lorsqu’un fichier Visio est ouvert en double-cliquant sur une icône de fichier ou un nom de fichier.
+-   Résolution d’un problème : les compléments COM ne recevaient pas les événements d’un document ouvert lorsqu’un fichier Visio est ouvert en double-cliquant sur une icône de fichier ou un nom de fichier.
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : le fait de cliquer sur l’onglet Dessiner bloquait l’application pour certains utilisateurs.
--   Résolution d’un problème : le fait de placer le curseur de la souris sur un contrôle commun qui comportait une info-bulle bloquait l’application.
--   Résolution d’un problème : un message d’erreur lié à la gestion des licences s’affichait lors de l’utilisation de contrôles communs.
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+-   Résolution d’un problème : le fait de cliquer sur l’onglet Dessiner bloquait l’application pour certains utilisateurs.
+-   Résolution d’un problème : le fait de placer le curseur de la souris sur un contrôle commun qui comportait une info-bulle bloquait l’application.
+-   Résolution d’un problème : un message d’erreur lié à la gestion des licences s’affichait lors de l’utilisation de contrôles communs.
 
 
 
 ## <a name="version-1707-august-18"></a>Version 1707:18 août
 *Version 1707 (Build 8326.2076)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
--   Résolution d’un problème : il était impossible de configurer un compte IMAP dans Outlook.
--   Résolution d’un problème : il se produisait un blocage intermittent lors de l’ouverture d’Outlook.
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+-   Résolution d’un problème : il était impossible de configurer un compte IMAP dans Outlook.
+-   Résolution d’un problème : il se produisait un blocage intermittent lors de l’ouverture d’Outlook.
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : Word se fermait inopinément lors du chargement du complément Grammarly.
--   Résolution d’un problème : dans certaines conditions, Word se bloquait lorsqu’il tentait de récupérer des fichiers issus du cloud.
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+-   Résolution d’un problème : Word se fermait inopinément lors du chargement du complément Grammarly.
+-   Résolution d’un problème : dans certaines conditions, Word se bloquait lorsqu’il tentait de récupérer des fichiers issus du cloud.
 
 
 
 ## <a name="version-1707-august-11"></a>Version 1707:11 août
 *Version 1707 (Build 8326.2073)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
--   Résolution d’un problème : l’actualisation des données ne fonctionnait pas ou Excel se bloquait lors de l’utilisation de données issues d’un serveur SQL Server Analysis Services si les paramètres régionaux d’Excel et du serveur SQL Server Analysis Services étaient différents.
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+-   Résolution d’un problème : l’actualisation des données ne fonctionnait pas ou Excel se bloquait lors de l’utilisation de données issues d’un serveur SQL Server Analysis Services si les paramètres régionaux d’Excel et du serveur SQL Server Analysis Services étaient différents.
 
 
 
@@ -422,7 +422,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1707 (Build 8326.2070)*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : l’écran de connexion restait vide pour certaines langues (autres que l’anglais).
+-   Résolution d’un problème : l’écran de connexion restait vide pour certaines langues (autres que l’anglais).
 
 
 
@@ -430,7 +430,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1707 (Build 8326.2062)*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : les caractères non anglais dans une conversation et un historique de conversations étaient mélangés.
+-   Résolution d’un problème : les caractères non anglais dans une conversation et un historique de conversations étaient mélangés.
 
 
 
@@ -438,7 +438,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1707 (Build 8326.2059)*
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
--   Résoudre un problème avec le mode de signature de certains fichiers de programme engendrant le marquage de ces derniers par des programmes antivirus, ainsi que des problèmes de protection ou d’accès à des données dans le cadre de la protection des informations Windows (WIP).
+-   Résolution d’un problème : le mode de signature de certains fichiers de programme était incorrect, ce qui engendrait le signalement de ces derniers par des programmes antivirus, ainsi que des problèmes de protection ou d’accès à des données dans le cadre de la protection des informations Windows (WIP).
 
 
 
@@ -459,7 +459,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Téléchargement de pièces jointes dans le cloud :** lorsque vous enregistrez des pièces jointes OneDrive ou effectuez un glisser-déplacer de ces dernières sur votre ordinateur, nous téléchargeons le fichier pour vous.
 -   **Sons utiles améliorant l’accessibilité :** activez un indicateur sonore pour vous guider lors de votre tâche. Accédez à Fichier \> Options \> Options d’ergonomie. Aucun complément n’est nécessaire. [Plus d’informations](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571) : Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office Outlook
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Vulnérabilité de divulgation d’informations Microsoft Office Outlook
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Vulnérabilité de corruption de mémoire de Microsoft Office Outlook
@@ -473,16 +473,16 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Emplacements des fichiers par compte :** lors de l’ouverture ou de l’enregistrement d’un fichier, la liste des emplacements est organisée selon le compte qui lui est associé.
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : le travail réel était incorrectement transféré vers une ressource d’entreprise lorsqu’il remplaçait une ressource locale et que le travail protégé était activé.
--   Résolution d’un problème : le projet se bloque si la première colonne d’un de vos tableaux correspond au nom de la tâche ; la colonne est verrouillée et vous cliquez sur une tâche.
--   Résolution d’un problème : la même ressource peut être attribuée plusieurs fois à la même tâche via l’affichage Utilisation des tâches.
--   Résolution d’un problème : les valeurs dans les champs personnalisés de nombre peuvent disparaître lors de l’ouverture de fichiers XML.
--   Résolution d’un problème : la mise en retrait d’une tâche de niveau supérieur ne se synchronise pas correctement d’un projet vers la liste des tâches SharePoint.
--   Résolution d’un problème : si vous importez une tâche, une ressource ou des informations d’affectation à partir d’un classeur Excel, les valeurs dans le champ de travail peuvent être ignorées.
+-   Résolution d’un problème : le travail réel était incorrectement transféré vers une ressource d’entreprise lorsqu’il remplaçait une ressource locale et que le travail protégé était activé.
+-   Résolution d’un problème : le projet se bloque si la première colonne d’un de vos tableaux correspond au nom de la tâche ; la colonne est verrouillée et vous cliquez sur une tâche.
+-   Résolution d’un problème : la même ressource peut être attribuée plusieurs fois à la même tâche via l’affichage Utilisation des tâches.
+-   Résolution d’un problème : les valeurs dans les champs personnalisés de nombre peuvent disparaître lors de l’ouverture de fichiers XML.
+-   Résolution d’un problème : la mise en retrait d’une tâche de niveau supérieur ne se synchronise pas correctement d’un projet vers la liste des tâches SharePoint.
+-   Résolution d’un problème : si vous importez une tâche, une ressource ou des informations d’affectation à partir d’un classeur Excel, les valeurs dans le champ de travail peuvent être ignorées.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Affichage du numéro de téléphone de l’appelant pour un appel entrant géré par le standard automatique de l’organisation si le nom de l’utilisateur n’est pas connu.
--   Ajout d’un paramètre intrabande autorisant la restriction « Tout le monde (aucune restriction) » en tant qu’option pour « les personnes ne doivent pas attendre dans la salle d’attente. »
+-   Ajout d’un paramètre intrabande autorisant la restriction « Tout le monde (aucune restriction) » en tant qu’option pour « les personnes ne doivent pas attendre dans la salle d’attente. »
 -   Ajout de la possibilité d’activer ou désactiver la vidéo automatique pour les appels vidéo P2P dans VDIv2.
 -   Résolution d’un problème concernant l’apparition de nombres en double pour des contacts dans le menu déroulant d’appel.
 -   Résolution d’un problème concernant la suppression des délégués pour les utilisateurs qui passe de Skype Entreprise à Skype pour Entreprise Basic.
@@ -503,19 +503,19 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1706-july-19"></a>Version 1706:19 juillet
 *Version 1706 (Build 8229.2103)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
--   Résolution d’un problème : des erreurs apparaissaient lors de la tentative d’enregistrement de modifications apportées à des documents synchronisés avec le client OneDrive.
--   Résolution d’un problème : impossibilité d’apporter des modifications à une feuille de calcul lorsque celle-ci comporte un tableau croisé dynamique avec des champs dans la zone de filtre, mais aucun autre champ ailleurs.
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+-   Résolution d’un problème : des erreurs apparaissaient lors de la tentative d’enregistrement de modifications apportées à des documents synchronisés avec le client OneDrive.
+-   Résolution d’un problème : impossibilité d’apporter des modifications à une feuille de calcul lorsque celle-ci comporte un tableau croisé dynamique avec des champs dans la zone de filtre, mais aucun autre champ ailleurs.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Agrandissement du bouton de participation à une réunion pour corriger la troncation du texte dans certaines langues localisées.
 
 ### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : il était impossible de faire pivoter les formes dans la zone de dessin.
--   Résolution d’un problème : lors de la saisie d’un texte en coréen, les consonnes et les voyelles ne sont pas correctement séparées.
+-   Résolution d’un problème : il était impossible de faire pivoter les formes dans la zone de dessin.
+-   Résolution d’un problème : lors de la saisie d’un texte en coréen, les consonnes et les voyelles ne sont pas correctement séparées.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : des commandes étaient manquantes dans le ruban ou les boîtes de dialogue de personnalisation de la barre d’outils Accès rapide.
+-   Résolution d’un problème : des commandes étaient manquantes dans le ruban ou les boîtes de dialogue de personnalisation de la barre d’outils Accès rapide.
 
 
 
@@ -548,9 +548,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Insérer des images en ligne :** la nouvelle page d’accueil pour la sélection d’images et d’informations d’attribution est automatiquement insérée avec l’image.
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : les valeurs de planification chronologiques ne correspondaient pas aux valeurs initiales lorsque vous enregistriez un projet au format de fichier XML.
--   Résolution d’un problème où le client Project n’ouvrira pas un projet car il pense que le projet est extrait, alors qu’il ne l’est pas en réalité.
--   Résolution d’un problème afin que l’ouverture de fichiers Project à partir d’un serveur de fichiers avec une latence élevée soit plus rapide.
+-   Résolution d’un problème : les valeurs de planification chronologiques ne correspondaient pas aux valeurs initiales lorsque vous enregistriez un projet au format de fichier XML.
+-   Résolution d’un problème où le client Project n’ouvrira pas un projet car il pense que le projet est extrait, alors qu’il ne l’est pas en réalité.
+-   Résolution d’un problème afin que l’ouverture de fichiers Project à partir d’un serveur de fichiers avec une latence élevée soit plus rapide.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Augmentation de la visibilité des messages d’une importance haute dans une conversation instantanée.
@@ -569,10 +569,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1705-june-13"></a>Version 1705:13 juin
 *Version 1705 (Build 8201.2102)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où Excel ne définit pas le mot de passe de protection de la feuille lorsqu’elle est appliquée par programme pour les classeurs créés dans Excel 2010 ou version antérieure.
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): Exécution de code à distance Microsoft Office
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office
@@ -603,7 +603,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Obtenir et transformer des améliorations :** dans l’éditeur de requête, créez une colonne en fournissant des exemples de valeurs. Lors de la saisie, Excel détecte les transformations requises et affiche un aperçu de la nouvelle colonne.
 -   **Prise en charge de la protection des informations Windows (WIP) :**    Excel est désormais une application d’aide à la décision, qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution du problème où l’option Fusionner et centrer ne fonctionne pas dans les feuilles de calcul regroupées.
 
 ### <a name="onenote-feature-updates"></a>OneNote : Mises à jour de fonctionnalité
@@ -628,7 +628,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution du problème où, si vous lancez le processus d’approbation de statut à partir du client Project, il peut ne jamais prendre fin, ce qui implique que le projet reste dans un état inutilisable.
 -   Résolution du problème où l’aperçu avant impression n’affiche pas correctement les noms des tâches si certains mots sont en chinois ou en anglais.
 
-### <a name="skype-for-business-feature-updates"></a>Skype Entreprise : Mises à jour de fonctionnalité
+### <a name="skype-for-business-feature-updates"></a>Skype Entreprise : Mises à jour de fonctionnalité
 -   **Insérer un lien :** ajoutez un lien dans les messages instantanés et les conversations de groupe, et entrez un texte convivial pour le lien plutôt que l’URL complète.
 -   **Notification de partage d’écran :** une notification s’affiche dans la fenêtre de conversation lorsque vous partagez un écran dans une conversation par messagerie instantanée ou lorsque le partage d’écran continue lorsque vous quittez une réunion. La notification vous rappelle que vous partagez toujours votre écran et facilite l’arrêt du partage à l’aide du bouton « Arrêter le partage ».
 -   **Prise en charge de la protection des informations Windows :** Skype Entreprise est désormais pris en charge sous la forme d’une application « WIP uniquement ».Le fait d’ajouter Skype à votre liste d’applications autorisées indique à Windows que Skype ne traite pas de données personnelles.Windows protège les données de la part de Skype entreprise.   [Informations supplémentaires](https://aka.ms/wiptechnet)
@@ -654,7 +654,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="onenote-non-security-updates"></a>OneNote : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où la zone de dessin OneNote masque du contenu ou des mises à jour lorsque de nombreux paragraphes sont affichés.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où le rendu du volet de navigation Outlook s’arrête lorsque la mémoire de l’ordinateur est insuffisante.
 
 
@@ -697,7 +697,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème où Project peut se bloquer lors de l’ouverture d’un projet à partir d’une liste des tâches SharePoint lorsque Project lance le processus de synchronisation de tâches.
 -   Résolution d’un problème où Project se bloque parfois lorsque vous accédez à Créer une équipe.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Afficher les salles ouvertes en plus des salles suivies dans les listes de sélection de salle.
 -   Ajout de la possibilité de désactiver la fonctionnalité VoIP lorsque l’application RCC personnalisée est activée.
 -   Utilisation du message « Essayez l’application mobile Skype Entreprise » pour le slogan de messagerie instantanée.
@@ -768,7 +768,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-feature-updates"></a>Skype Entreprise : Mises à jour de fonctionnalité
 -   **Option de réinitialisation de mot de passe :** un lien de réinitialisation apparaît dans la fenêtre de connexion lorsqu’un utilisateur ne parvient pas à se connecter au moins une fois.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où les utilisateurs ne parviennent pas à se connecter lors du basculement entre les réseaux d’entreprise interne et externe.
 -   Résolution d’un problème à cause duquel la zone de conversation ne se ferme pas lorsque l’utilisateur passe du mode MI au mode Audio dans le transfert consultatif.
 -   Résolution d’un problème à cause duquel les noms sont tronqués dans les notifications toast lorsque la sonnerie simultanée de deux points de terminaison est utilisée.
@@ -786,8 +786,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [Plus d’informations](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Liens fiables :** quand un utilisateur clique sur un lien, la protection avancée contre les menaces d’Office 365 inspecte le lien pour déterminer s’il est malveillant. Si le lien est considéré comme malveillant, l’utilisateur est redirigé vers une page d’avertissement au lieu de l’URL cible d’origine. [Plus d’informations](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
--   L’enregistrement d’un document au format PDF enregistre le document avec la version PDF 1.7.
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+-   L’enregistrement d’un document au format PDF enregistre le document avec la version PDF 1.7.
 
 
 
@@ -806,12 +806,12 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1702-march-27"></a>Version 1702:27 mars
 *Version 1702 (Build 7870.2031)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème dans lequel Excel se bloque lorsque l’utilisateur essaie d’appliquer des autorisations au niveau de la cellule.
 -   Résolution d’un problème dans lequel l’enregistrement d’un fichier volumineux dans OneDrive Entreprise entraîne le verrouillage du fichier. L’utilisateur ne peut donc pas modifier le fichier avant de fermer, puis de rouvrir Excel.
 -   Résolution d’un problème dans lequel une nouvelle fenêtre apparaît grisée lorsqu’un classeur .xls est ouvert.
 
-### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème dans lequel l’utilisateur ne peut pas effectuer une recherche dans des fichiers PST.
 -   Résolution d’un problème dans lequel l’utilisateur constate un nouveau type de magasin « Microsoft Exchange » dans la boîte de dialogue « Nouveau fichier de données Outlook », et la sélection de ce nouveau type de données rend le profil utilisateur inutilisable.
 
@@ -848,12 +848,12 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème où Excel se bloque parfois lors de la manipulation de feuilles DLL via VBA.
 -   Résolution d’un problème où Excel se bloque lorsque vous sélectionnez une zone de liste modifiable de contrôle de formulaire dans une feuille de graphique.
 
-### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 -   **Suppression d’arrière-plan :** supprimez une image d’arrière-plan avec un outil de dessin au format libre.
 -   **Vérification de l’accès aux fichiers partagés :** Outlook indique à l’utilisateur à l’avance si les destinataires peuvent ne pas être en mesure d’accéder à un fichier OneDrive ou SharePoint joint, et indique comment résoudre le problème.
 -   **Définition d’autorisations sur les pièces jointes :** pour les pièces jointes OneDrive ou SharePoint, l’utilisateur peut déterminer si les destinataires, dans l’organisation ou en externe, disposent d’autorisations de lecture ou de modification sur la pièce jointe.
 
-### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution du problème où une image dans un message est noircie en cas d’envoi à partir d’un ordinateur en haute résolution.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
@@ -861,7 +861,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Suppression d’arrière-plan :** supprimez une image d’arrière-plan avec un outil de dessin au format libre.
 -   **Améliorations du concepteur :** recommandation d’idées de conception professionnelles pour les listes orientées vers les actions.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : PowerPoint se bloquait lorsque l’utilisateur était dans le volet Idées de conception si le fichier mfplat.dll n’était pas installé sur l’ordinateur.
 -   Résolution du problème où le bouton de commande pour un complément ne fonctionne pas après la mise à niveau du complément ou après la suppression et le retéléchargement du complément sur l’Office Store.
 
@@ -916,13 +916,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
 -   **Améliorations de connectivité et de transformation de données :** Développement d’une liste dans une nouvelle colonne de texte avec le séparateur entre les valeurs, et spécification d’une option de basculement lors de la connexion à SQL.
 
-### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 -   **Collaborer sur des pièces jointes en temps réel :** Téléchargement de pièces jointes sur OneDrive Entreprise afin que tout le monde puisse travailler sur la version la plus récente. Utilisation du menu déroulant figurant sur la pièce jointe pour la télécharger ou l’enregistrer.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où, lorsque vous rognez une image, la partie rognée de l’image est foncée.
 
-### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
+### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où aucun lien n’est affiché lorsque vous créez une liaison inter-projets entre un projet maître et un sous-projet.
 -   Résolution d’un problème où les valeurs chronologiques de référence ne sont pas toujours enregistrées correctement au format XML, en particulier les valeurs relatives au coût et au travail qui incluent des durées partielles.
 -   Résolution d’un problème où, lors de l’application des mises à jour de statut, le travail réel est ajouté à l’affectation que le membre de l’équipe n’a pas signalé.
@@ -957,13 +957,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème où les informations de notification, notamment la durée de l’appel, ne sont pas affichées correctement dans les langues qui se lisent de droite à gauche.
 -   Résolution d’un problème où, lorsque vous créez un flux de sujets, l’effacement des résultats de recherche ne réinitialise pas les résultats avec une liste de salles suivies.
 
-### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
+### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
 -   **Complément de base de données de modélisation :** Utilisez le complément pour créer un modèle de base de données d’une base de données existante pour vous aider à planifier une nouvelle base de données ou à comprendre une base de données existante. [Plus d’informations](https://support.office.com/article/fb034862-acfc-45bc-88b2-f33d1e1f8614), [Télécharger un complément](https://go.microsoft.com/fwlink/p/?linkid=835953)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 -   **Utiliser un stylet pour sélectionner et modifier des objets :** Prenez des objets par leur poignée avec un stylet numérique pour les redimensionner, les faire pivoter, les déplacer et bien plus encore.
 
-### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où l’affichage d’un document en mode lecture empêche la touche TAB de fonctionner dans un second document affiché en mode Page.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -1017,7 +1017,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Sous-titres :** Si une diapositive contient une vidéo comportant des sous-titres, ils peuvent être lus dans le diaporama.
 -   **Pistes audio multiples :** Si une diapositive contient une vidéo comportant plusieurs pistes audio, celles-ci peuvent être lues dans le diaporama.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint : mises à jour non relatives à la sécurité
+### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : en mode diaporama avec le Narrateur activé, PowerPoint se bloque lorsque l’utilisateur clique sur un lien hypertexte, ce qui ralentit le chargement.
 -   Résolution d’un problème : la saisie en temps réel ne fonctionne pas avec les tables en cas de co-création.
 
@@ -1049,7 +1049,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
 -   **Améliorations en matière d’accessibilité :** Prise en charge améliorée pour l’utilisation du clavier, du Narrateur et d’autres technologies d’assistance pour travailler avec des formes, des modifications avec d’autres utilisateurs et bien plus encore.
 
-### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 -   **Modifications des fichiers partagés** Affichez l’auteur des modifications dans les documents partagés et restaurez des versions antérieures. [Plus d’informations](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
@@ -1067,7 +1067,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 Remarque : les mises à jour de sécurité décrites dans le bulletin de sécurité Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) ne s’appliquent pas à la version de Word dans cette version de canal.
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où des valeurs de cellule contenant du texte et des guillemets ne sont pas exportées correctement lorsque vous enregistrez le fichier au format CSV ou CSV UTF-8.
 -   Résolution d’un problème dans lequel Excel se bloque lors de la fermeture.
 
