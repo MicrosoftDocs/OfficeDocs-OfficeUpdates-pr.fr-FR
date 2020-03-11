@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: f9520e4be3f349c9bb2333d551e6b6c149822155
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 90560ad20c016ad985a3382c2030a1c1d792e507
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345104"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568840"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="march-6-2020"></a>6 mars 2020
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE DÉBUT DU CONTENU)
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+<i>La publication prévue est la version 1908 (build 11929.20648).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20606) <br/> |11 Février 2020 <br/> |64<br/> |
+|Version 1908 (build 11929.20562) <br/> |14 janvier 2020 <br/> |73<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+<i>La publication prévue est la version 2002 (build 12527.20278).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20606) <br/> |11 Février 2020 <br/> |291<br/> |
+|Version 1908 (build 11929.20562) <br/> |14 janvier 2020 <br/> |292<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="march-1-2020"></a>1er mars 2020
 
