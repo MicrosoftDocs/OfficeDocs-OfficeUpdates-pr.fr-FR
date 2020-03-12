@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403793"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586491"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -29,6 +29,26 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2020-release"></a>Version de mars 2020
+
+**Date de publication :** 10 mars 2020
+
+*Mise à jour automatique Microsoft 4.21*
+
+ **Mises à jour des fonctionnalités :**
+
+- Restauration de l’état activé pour Word, Excel et PowerPoint, exécutée sans fenêtre ouverte, ou en exécutant l’état Docstage, en mode de mise à jour automatique de la Mise à jour automatique Microsoft. Les mises à jour seront désormais encore plus silencieuses pour les utilisateurs finaux en mode de Mise à jour automatique, car ils n’ont pas besoin de quitter leurs applications qui sont éligibles pour la mise à jour via la Restauration de l’état.
+
+
+**Lien vers la mise à jour d’AutoUpdate :**
+
+[Télécharger le package Microsoft AutoUpdate 4.21](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Code de hachage SHA-256 :**
+
+46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+<br/><br/>
 
 ## <a name="february-2020-release"></a>Publication en février 2020
 

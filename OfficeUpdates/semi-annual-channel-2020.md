@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978582"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586665"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel en 2020
 
@@ -25,6 +25,49 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- OneNote 2016 ne sera pas inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel télécharge et installe Office 365 sur Windows 10 à partir du portail Office.
 
+
+
+
+## <a name="version-1908-march-10"></a>Version 1908 : 10 mars
+*Version 1908 (Build 11929.20648)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- <div><span>Résolution d’un problème dans lequel certains utilisateurs peuvent avoir rencontré plusieurs fenêtres contextuelles lorsque des liens externes étaient présents dans le classeur.&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">La fonctionnalité Texte en colonnes peut être à l’origine d’échecs pour certains paramètres régionaux.</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Les utilisateurs peuvent rencontrer une erreur lors de l’accès à une plage nommée masquée.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>Nous avons résolu un problème lié à la méthode Shape.Paste : lorsque l’utilisateur copie et colle la forme à l’aide de la méthode &nbsp;Shape.Paste. il&nbsp;<span style="font-size:13.3333px;display:inline !important;"> modifie la sélection pour la forme collée.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div>Nous avons résolu un problème dans lequel, dans certains cas, l’enregistrement d’un fichier existant a toujours pour effet de ne jamais enregistrer le fichier par le biais de la boîte de dialogue Enregistrer sous<br></div>
+
+
+### <a name="office-suite"></a>Suite Office
+
+- <div><span>Cette modification résout le problème de rendu lent de certains graphiques en nuages de points avec des marqueurs.</span></div>
+
+## <a name="version-1902-march-10"></a>Version 1902 : 10 mars
+*Version 1902 (Build 11328.20554)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-february-11"></a>Version 1908 : 11 février
 *Version 1908 (Build 11929.20606)*
@@ -41,7 +84,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/fr-F
 
 - Résolution d’un problème d'absence d'affichage de la bordure d’un contrôle de zone de groupe en mode aperçu avant l'impression ou en cours d'impression.
 
-- Les utilisateurs peuvent rencontrer une erreur lors de l’enregistrement de modifications à l’aide de jeux de caractères non anglais.
+- Les utilisateurs peuvent rencontrer une erreur lors de l’enregistrement des modifications à l’aide de jeux de caractères non anglais.
 
 - Résolution d’un problème d’augmentation de taille de fichier des images dans les en-têtes de graphiques lors de l’enregistrement du classeur contenant le graphique.
 
