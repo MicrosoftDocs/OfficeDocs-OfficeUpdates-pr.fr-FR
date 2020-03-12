@@ -1,7 +1,7 @@
 ---
 title: Notes de publication pour les mises à jour de sécurité Office 365 ProPlus
 ms.author: andrewmo
-author: ''
+author: TimDavenport
 manager: andrewmo
 ms.audience: ITPro
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité Office 365 ProPlus
-ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978622"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586649"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notes de publication pour les mises à jour de sécurité Office 365 ProPlus
 
@@ -26,7 +26,29 @@ Ces notes de publication fournissent des informations sur les correctifs de séc
 
 [//]: # (NE SUPPRIMEZ PAS LA LIGNE CI-DESSUS, elle est utilisée pour l’espacement)  
 
-## <a name="february-11-2020"></a>11 février 2020
+## <a name="march-10-2020"></a>10 mars 2020
+Canal mensuel : version 2002 (build 12527.20278)  
+Canal semi-annuel (ciblé) : version 2002 (build 12527.20278)  
+Canal semi-annuel : version 1908 (build 11929.20648)  
+Canal semi-annuel : version 1902 (build 11328.20554)  
+Office 365 ProPlus sur Windows 7 : (version 2002 build 12527.20278)  
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0851)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
+
+
+
+## <a name="february-11-2020"></a>Février 11, 2020
 Canal mensuel : version 2001 (build 12430.20264)  
 Canal semi-annuel (ciblé) : version 1908 (build 11929.20606)  
 Canal semi-annuel : version 1908 (build 11929.20606)  
