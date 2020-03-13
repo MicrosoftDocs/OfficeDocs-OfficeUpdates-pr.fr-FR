@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549175"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586571"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notes de publication pour Canal mensuel Office (ciblé)
 
@@ -29,6 +29,114 @@ Cet article contient les notes de publication relatives aux versions Canal mensu
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2003-march-10"></a>Version 2003 : 10 mars
+*Version 2003 (Build 12624.20176)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
+
+- Résolution d’un problème que des utilisateurs rencontraient parfois lors de la modification du nom des mesures de tableau croisé dynamique.
+
+- Résolution d’un problème de mise à l’échelle incorrecte du texte d’un segment en mode Aperçu avant impression.
+
+- Résolution d'un problème de performances lorsque des utilisateurs utilisaient une macro VBA pour effacer le contenu d’une plage.
+
+- Résolution d’un problème qui entraînait le clignotement de l'interface utilisateur lorsque des utilisateurs exécutaient une macro qui communiquait avec le ruban.
+
+- Résolution d’un problème lors duquel des fichiers CSV étaient chargés de manière incorrecte lorsque le premier mot du fichier était TABLE.
+
+- Résolution d’un problème lors duquel les utilisateurs pouvaient expérimenter des blocages lors du basculement entre deux classeurs ayant des niveaux de zoom différents.
+
+- Résolution d’un problème lié aux fonctions VALEURCUBE qui renvoyaient parfois un résultat incorrect.
+
+- Cette modification corrige une erreur d’exécution dans le modèle d’objet et un blocage potentiel de l’application (Excel, Word) lorsque les compléments demandent des éléments hôtes sur des documents/feuilles de calcul qui contiennent des formes avec verrous noSelect.
+
+- Résolution d’un problème de blocage que rencontraient les utilisateurs d’Outlook lors de la synchronisation des paramètres.
+
+### <a name="outlook"></a>Outlook
+
+- Résolution d’un problème dans lequel la création d’une règle avec Outlook Web Access n’était pas conservée sur le serveur Exchange et provoquait un conflit.
+
+- Résolution d’un problème de blocage que rencontraient les utilisateurs d’Outlook lors de la synchronisation des paramètres.
+
+- Résolution d’un problème d’affichage de la liste déroulante dans le champ « De : » lors de l’utilisation du mode Sombre dans Outlook.
+
+- Résolution du problème suivant : Outlook générait inopinément des données de journalisation dans certains scénarios, même lorsque la journalisation était désactivée.
+
+- Nous avons résolu un problème empêchant les utilisateurs d’ouvrir des messages de dossier public lorsqu’Outlook s'exécutait de nuit.
+
+- Résolution d’une situation d'engorgement dans laquelle les boutons « Autoriser » et « Refuser » de la page autorisations sont désactivés au cours d'un flux de travail d’authentification relatif à l’ajout d’un compte Gmail.
+
+- Résolution d’un problème qui empêchait les utilisateurs d’accéder à la boîte de dialogue des autorisations de calendrier &quot;Options de disponibilité&quot;.
+
+- Résolution d’un problème susceptible d’entraîner l’alerte suivante : &quot;Désolé, nous rencontrons des difficultés pour ouvrir cet élément&quot; lors de l’ouverture d’instances de réunion périodiques envoyées à partir d’un autre fuseau horaire.
+
+- Nous avons résolu un problème qui pouvait empêcher les utilisateurs de ré-ouvrir un fichier. MSG suite au glisser-déplacer d’une pièce jointe de ce message.
+
+- Nous avons résolu un problème dans lequel une fois le chargement d’un fichier joint à partir d’Outlook vers OneDrive, le nom du fichier est modifié si le nom de la pièce jointe contient une parenthèse.
+
+- Résolution d’un problème qui empêchait les utilisateurs de joindre un fichier à leur message électronique via l’Explorateur de fichiers lorsque ce fichier était ouvert dans une autre application.
+
+- Résolution d’un problème de blocage que rencontraient les utilisateurs d’Outlook lors de la synchronisation des paramètres.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d’un problème de clignotement des miniatures recommandées lorsque la souris passait au-dessus de celles-ci. Cela pouvait entraîner le blocage de PowerPoint dans certains cas.
+
+- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
+
+- Résolution d’un problème qui pouvait provoquer l’échec de l’enregistrement d’un document contenant un graphique Excel dans PowerPoint ou Word.
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème où le pourcentage d’achèvement de la tâche passait à tort à une valeur inférieure à 100 % une fois la tâche marquée comme terminée.
+
+- Résolution d’un problème qui empêchait le déclenchement de l’événement OnUndoOrRedo tant que la méthode OpenUndoTransaction n’avait pas été exécutée.
+
+- Résolution d’un problème qui entraînait parfois un calcul erroné des dates des tâches récapitulatives.
+
+### <a name="visio"></a>Visio
+
+- Le volet Informations sur la forme affichait dans la section Données de forme des informations non cohérentes avec le contenu affiché par le fichier lorsque celui-ci était ouvert dans la version de bureau de Visio. Ce problème a été résolu.
+
+- Les images bitmap importées dans les versions antérieures à la version 2016 n’apparaissaient pas suite à certains contrôles de sécurité. Nous avons résolu ce problème dans l’abonnement Visio.
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème dans lequel une carte commentaire n'est pas toujours mise en surbrillance lorsqu’un pointeur de souris la survole.
+
+- Résolution d’un problème qui masquait la zone d’édition des commentaires lors de l’utilisation de la touche Tab dans une carte de commentaires.
+
+- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
+
+- Lors d'une session de collaboration sur un document actif, l'ajout direct d'une image dans une carte commentaire peut entraîner l'adjonction d'une balise. Le problème a été corrigé.
+
+- L’insertion d’un contrôle (par exemple, un contrôle de contenu de texte) dans une équation, puis l’enregistrement et l’ouverture du fichier généraient une erreur de contenu non lisible.
+
+- Résolution d'un problème dans lequel l’enregistrement d’un fichier précédemment protégé par mot de passe vers un stockage cloud ne fonctionnait pas.
+
+- Résolution d’un problème lié à la fonctionnalité de comparaison pour les documents qui étaient protégés pour la modification.
+
+- Résolution d’un problème qui entraînait une perte de transparence des images contenues dans les documents lorsque ceux-ci étaient exportés au format PDF.
+
+### <a name="office-suite"></a>Suite Office
+
+- Lorsque vous utilisez des propriétés de type choix multiple/recherche/gestion des métadonnées avec des documents Word/Excel/PowerPoint et que vous enregistrez ceux-ci dans une bibliothèque de documents SharePoint, ces propriétés étaient auparavant limitées à 255 caractères. Lorsque ces propriétés dépassaient 255 caractères, de tels documents n’étaient pas enregistrés. Grâce à cette modification, cette limite a été augmentée sur 2 048 caractères.
+
+- Résolution d’un problème Word/Excel/PowerPoint dans lequel le Nom d’utilisateur principal (UPN) ne respectait plus la casse, ce qui donnait lieu à un nombre d'échecs diminué lors d'un travail avec des fichiers dans SharePoint.
+
+- Résolution d’un problème qui survenait lorsque plusieurs documents étaient ouverts dans Word/Excel/PowerPoint à partir de la même bibliothèque SharePoint et où seul le premier document ouvert était analysé pour vérifier sa conformité avec la stratégie.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2002-march-05"></a>Version 2002 : 5 mars
 *Version 2002 (Build 12527.20278)*
