@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les publications de canaux mensuelles pour Office 365 ProPlus dans 2016
 ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549245"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614933"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Notes de publication pour les publications mensuelles de canaux dans 2016
 
@@ -217,7 +217,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution du problème où, en cas d’utilisation du solveur, un message d’erreur « Fichier introuvable Solver32.dll » s’affiche une fois le solveur sélectionné.
 -   Résolution du problème où l’icône du complément Bing Cartes ne s’affiche pas lorsque vous utilisez un moniteur en haute résolution et que le mode tactile est activé pour le ruban.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution du problème où Outlook se bloque lorsque vous effectuez une recherche avancée sur plusieurs dossiers.
 -   Résolution du problème où le texte tapé dans la zone de texte cc lors d’une recherche n’est pas ajouté à la zone de recherche principale et où aucune recherche n’est effectuée.
 -   Résolution du problème où, dans une conversation avec plusieurs messages comportant des pièces jointes, Outlook se bloque lorsque vous essayez d’ouvrir une pièce jointe dans l’un de ces messages, si cette pièce jointe est stockée dans un emplacement en ligne.
@@ -251,7 +251,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="onenote-non-security-updates"></a>OneNote : Mises à jour non relatives à la sécurité
 -   Résolution du problème où l’écriture dans le Registre sur un ordinateur qui interdit toute écriture dans le Registre entraîne le blocage de OneNote.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution du problème où, en cas de signature numérique ou de chiffrement d’un message électronique avec une pièce jointe, le contenu de la pièce jointe est perdu.
 
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
@@ -281,7 +281,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 -   ** \@mentions :** Assurez-vous que les destinataires sont invités à entrer ou à intervenir en incluant le symbole @ suivi du nom de la personne dans le corps d’un e-mail ou d’un élément de calendrier. Ils sont ainsi automatiquement ajoutés à la ligne À. [Plus d’informations](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution du problème où, lors de l’utilisation de papier à lettres personnalisé en tant que thème par défaut, des sauts de ligne supplémentaires sont ajoutés aux nouveaux messages électroniques et la police est définie sur Calibri.
 -   Résolution du problème où Outlook se fige lors de l’ouverture si l’affichage Windows est défini sur 125 %.
 -   Résolution du problème où les cellules Excel collées sur une liaison OLE disparaissent des brouillons de messages électroniques.
@@ -356,7 +356,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 -   **Mini-aperçu des photos jointes** : Lorsqu’une photo est jointe à un e-mail, Outlook affiche un petit aperçu de la photo dans le message.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème à cause duquel les images des invitations envoyées à partir d’Outlook 2016 sont manquantes lorsque les messages sont reçus dans Outlook 2013 ou Outlook 2010.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
@@ -417,7 +417,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1607-august-31"></a>Version 1607:31 août
 *Version 1607 (Build 7167.2047)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution du problème où, lorsque vous créez un formulaire personnalisé, le fait de glisser des champs dans le formulaire bloque Outlook.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -454,7 +454,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution des problèmes avec la navigation au clavier et le texte narré d’un lecteur d’écran.
 -   Résolution du problème où un lecteur d’écran n’annonce pas que le partage d’écran a démarré et que les personnes peuvent voir l’écran.
 
-### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
+### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalités
 -   **Modèles UML :** Trois modèles ( [Composant](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074), [Communication](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)et [Déploiement](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)) qui sont compatibles avec le langage UML (Unified Modeling Language) 2.5 standard.
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
@@ -517,7 +517,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution du problème à cause duquel l’outil Défilement disparaît lorsque vous déplacez le curseur sur la page.
 -   Résolution d’un problème à cause duquel la suppression d’une table entraîne le blocage de OneNote.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème à cause duquel l’affichage d’une demande de réunion quand un écouteur Microsoft UI Automation (par exemple le Narrateur) est en cours d’exécution entraîne le blocage d’Outlook.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -564,7 +564,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Améliorations apportées à la transformation des données :** conversion des valeurs de durée en années, prise en charge des espaces blancs et des sauts de ligne dans l’aperçu de l’Éditeur de requête, et renommage des requêtes directement à partir du volet Requêtes.
 -   **Améliorations apportées à la connectivité des données :** détection des fichiers CSV irréguliers, prise en charge de l’authentification avec un compte Microsoft lors de l’utilisation du connecteur Exchange et validation des URL fournies par les utilisateurs lors de la tentative de connexion à leur liste SharePoint.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où, lorsque vous envoyez un nouveau message à un contact, le champ À : est rempli avec le nom du destinataire trois fois, même s’il n’existe qu’une adresse de messagerie pour le contact.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
@@ -578,7 +578,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1605-june-30"></a>Version 1605:30 juin
 *Version 1605 (Build 6965.2063)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Amélioration de l’apparence des messages qui contiennent des tableaux en utilisant une haute résolution (DPI).
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité
@@ -645,7 +645,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
     Remarque : Cette fonctionnalité est encore en cours de déploiement pour les abonnés, et il est donc possible qu’elle ne soit pas immédiatement disponible pour vous. Le moment auquel vous recevrez cette fonctionnalité dépend également de la façon dont votre organisation met à jour Office.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution du problème où les caractères spéciaux étendus sont remplacés par « 1 » lors de l’envoi d’un message électronique au format .rtf.
 -   Résolution d’un problème où la couleur de police noire est utilisée pour une réponse ou un transfert, au lieu d’une nouvelle couleur, même si l’option « Choisir une nouvelle couleur lors de la réponse ou du transfert » est sélectionnée sous Fichier \> Options \> Courrier \> Papier à lettres et polices.
 
@@ -681,7 +681,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1604-may-23"></a>Version 1604:23 mai
 *Version 1604 (Build 6868.2067)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où le lien qui affiche les anciens messages sur le serveur n’apparaît pas en bas de la liste des messages dans le dossier Boîte de réception ou Éléments supprimés, par exemple.
 -   Résolution du problème de non-envoi par Outlook du contenu d’un message lors de l’envoi de courrier à l’aide d’un fichier .msg.
 -   Mise à jour du réparateur de boîte de réception (scanpst.exe) afin qu’il puisse détecter et corriger les problèmes d’altération de fichiers liés au mode d’indexation et de recherche de fichiers .pst. Ce type d’altération peut empêcher le chargement de fichiers .pst, provoquer le blocage d’Outlook ou entraîner une utilisation élevée de l’UC.
@@ -727,7 +727,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
 -   **Liste des pièces jointes pour les conversations :** toutes les pièces jointes pour une conversation dans un groupe Office 365 sont disponibles dans une liste déroulante située en haut à droite du volet de lecture.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution du problème où les classifications de messages ne sont pas toujours affichées sur les messages en texte brut.
 -   Fix an issue where Outlook search returns duplicate results when Conversation Settings \> Use Classic Indented View option is enabled.
 -   Résolution d’un problème avec la navigation par onglets des champs lors de la création d’un message dans la version espagnole d’Outlook.
@@ -788,7 +788,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1602-march-24"></a>Version 1602:24 mars
 *Version 1602 (Build 6741.2021)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où l’utilisation de raccourcis clavier pour accéder à une pièce jointe dans un message électronique génère l’arrêt d’Outlook.
 
 
@@ -837,7 +837,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1601-march-4"></a>Version 1601:4 mars
 *Version 1601 (Build 6568.2036)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Correction d’un problème : lorsque tous les courriers électroniques figurant sur le serveur sont configurés pour utiliser le protocole POP3, ils sont supprimés de la boîte de réception après leur téléchargement par Outlook. [En savoir plus sur ce problème](https://support.microsoft.com/kb/3145116)
 -   Résolution d’un problème : lorsqu’il était configuré pour utiliser le protocole POP3, les messages électroniques sont téléchargés plusieurs fois, provoquant des doublons. [En savoir plus sur ce problème](https://support.microsoft.com/kb/3145116)
 
@@ -881,7 +881,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Options du vérificateur de grammaire :** options supplémentaires ou actualisées pour les vérificateurs de grammaire français, norvégien et danois, qui souligneront des erreurs de grammaire supplémentaires.
 -   **Envoi de commentaires :** suggérez une nouvelle fonctionnalité ou une amélioration pour Outlook sur le site UserVoice en cliquant sur Fichier \> Commentaires.
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où, lorsque vous envoyez un e-mail depuis un appareil avec une résolution élevée vers un écran avec une résolution normale, la taille des images change.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
