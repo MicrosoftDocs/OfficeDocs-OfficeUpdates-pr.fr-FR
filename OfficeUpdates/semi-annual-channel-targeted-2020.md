@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2020
-ms.openlocfilehash: 0c55b3885c6b5f68ac293d92f743ecfcde8c7ea5
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586659"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614986"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2020
 
@@ -69,7 +69,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="outlook"></a>Outlook
 
-- **Afficher les détails LinkedIn des personnes dans Outlook :** à présent, lorsque vous ouvrez la carte de visite d’un contact, vous pouvez en savoir plus à son sujet en consultant son profil LinkedIn.
+
 
 - **Amélioration des expériences avec la boîte de réception Prioritaire activée ou non :** pour les clients qui n’utilisent pas la boîte de réception Prioritaire, nous avons remis en place l’onglet Non lu dans la liste des messages au sein de tous les dossiers. Nous avons également ajouté un tri par indicateur pour faciliter la recherche des éléments avec indicateur. Enfin, nous avons amélioré le modèle d’interaction de la boîte de réception Prioritaire avec la recherche : la boîte de réception Prioritaire reste en place jusqu'à ce qu’un utilisateur commence à effectuer une recherche et le texte « Résultats » apparaît une fois la recherche terminée.
 
@@ -141,7 +141,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-- **Pourquoi réinventer lorsque vous pouvez réutiliser ? :** gagnez du temps en réutilisant les diapositives que vous avez créées ou que d’autres personnes ont partagées avec vous.
+- **Pourquoi réinventer lorsque vous pouvez réutiliser ? :** gagnez du temps en réutilisant les diapositives que vous avez créées ou que d’autres personnes ont partagées avec vous. [En savoir plus](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **Modifier les entrées manuscrites en formes, texte ou mathématiques dans PowerPoint pour Office 365 :** passer d’une entrée manuscrite à une forme, à du texte ou à une expression mathématique dans quelques traits. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -198,8 +198,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="office-suite"></a>Suite Office
 
 - **Volet Nouveautés :** l’expérience Nouveautés a atteint le volet Aide pour vous permettre d’accéder plus aisément à nous dernières mises à jour et rester à jour.
-
-- **Nouvelle apparence des icônes de votre ruban :** ne vous inquiétez pas, tout fonctionne de la même façon. De plus, elles s’adaptent parfaitement à toutes les tailles d’écran. [En savoir plus](https://support.office.com/article/your-ribbon-icons-have-a-new-look-c6bc4cd8-d151-41d3-8276-fc7c9975eb79?ui=en-US&rs=en-US&ad=US)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)

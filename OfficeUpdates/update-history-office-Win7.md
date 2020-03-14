@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux clients des notes de publication pour l’historique des mises à jour d’Office 365 ProPlus pour Windows 7
-ms.openlocfilehash: 64964bc3e806179414c77568c04f449f105fbef3
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586361"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612460"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Historique des mises à jour pour Office 365 ProPlus sur Windows 7 
 
@@ -34,8 +34,11 @@ Les versions sur canal semi-annuel sont généralement disponibles pour 14 mois
 
 Cette extension de la disponibilité de la version 2002 s’applique également à d’autres canaux de mise à jour, tels que les canaux mensuel et semi-annuel (ciblé), mais uniquement aux appareils exécutant Windows 7.
 
-##
+Vous pouvez continuer à déployer les versions antérieures à celle de 2002 sur les appareils exécutant Windows 7, aussi longtemps que cette version antérieure est prise en charge. Par exemple, vous pouvez continuer d'utiliser la version 1908 du canal semi-annuel sur les appareils exécutant Windows 7 jusqu’en mars 2021 mars, date à laquelle la version 1908 n’est plus prise en charge pour le canal semestriel.
 
+Le deuxième mardi de chaque mois, une nouvelle version de la version 2002 sera publiée avec les mises à jour de sécurité, le cas échéant. Il n’y a qu’une seule Build pour chaque architecture (x86 ou x64) et elle peut être utilisée avec le canal de mise à jour que vous avez déployé. Il n’y a pas de build distincte de la version 2002 pour chaque canal. Par exemple, vous pouvez utiliser la même build pour mettre à jour les appareils exécutant Windows 7 qui utilisent un canal mensuel ou qui utilisent un canal semestriel.
+
+##
 
 [//]: # (NE PAS SUPPRIMER)
 
