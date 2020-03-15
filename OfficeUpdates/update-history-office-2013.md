@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions définitives d’Office 2013 qui utilisent Démarrer en un clic
-ms.openlocfilehash: cd64e687a638de8ae45c27407d04c7fe3198b6e5
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: e3befb06ffb3d8d36bb2bafae8f2ba9c65575173
+ms.sourcegitcommit: 3f7b4d887019f46dbb5b75dff061ecb27a0bbf2f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978782"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42635396"
 ---
 # <a name="update-history-for-office-2013"></a>Historique des mises à jour pour Office 2013
 
 Certains produits Office 2013 sont tenus à jour automatiquement à l’aide d’une technologie nommée Démarrer en un clic. Si vous voulez vérifier que vous êtes à jour, vérifiez le numéro de votre version d’Office et mettez à jour Office manuellement si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2013 est la version **15.0.5215.1000**, qui a été publiée le 11 juin 2020.
+> La version la plus récente d’Office 2013 est la version **15.0.5223.1001**, qui a été publiée le 13 mars 2020.
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -45,7 +45,8 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2020|11 février   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
+|2020|13 mars   |15.0.5223.1001   |[KB 4538705 ](https://support.microsoft.com/help/4538705 )  |
+||11 février   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
 ||14 janvier   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |
 |2019|10 décembre   |15.0.5197.1000   |[KB 4532624](https://support.microsoft.com/help/4532624)  |
 ||12 novembre   |15.0.5189.1000   |[KB 4527848](https://support.microsoft.com/help/4527848)  |
