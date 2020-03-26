@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586491"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890111"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -47,7 +47,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 <br/>
 **Code de hachage SHA-256 :**
 
-46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+9AF2FAF4854BF06F33322A8530275F8D32965C91D446C45A0CD8BC4C5DF04F44
 <br/><br/>
 
 ## <a name="february-2020-release"></a>Publication en février 2020
@@ -321,8 +321,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 |11 avril 2017  <br/> |3.9  <br/> |[Notes de publication](release-notes-office-for-mac.md#april-2017-release) <br/> |  <br/> |
 |16 février 2017  <br/> |3.8.4  <br/> |[Notes de publication](release-notes-office-for-mac.md#february-2017-release) <br/> | <br/> |
 |11 janvier 2017  <br/> |3.8.3  <br/> |[Notes de publication](release-notes-office-for-mac.md#january-2017-release) <br/> | <br/> |
-|13 décembre 2016  <br/> |3.8.2  <br/> |[Notes de publication](release-notes-office-for-mac.md#december-2016-release) <br/> | <br/> |
-|15 novembre 2016  <br/> |3.8.1  <br/> |[Notes de publication](release-notes-office-for-mac.md#november-2016-release) <br/> | <br/> |
+|13 décembre 2016  <br/> |3.8.2  <br/> | <br/> | <br/> |
+|15 novembre 2016  <br/> |3.8.1  <br/> | <br/> | <br/> |
 |11 octobre 2016  <br/> |3.8.0  <br/> |[ARTICLE 3193438 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3193438) <br/> | <br/> |
 |22 août 2016  <br/> |3.6.0  <br/> |[ARTICLE 3179163 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3179163) <br/> | <br/> |
 |10 mai 2016  <br/> |3.5.0  <br/> |[ARTICLE 3155777 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3155777) <br/> | <br/> |
