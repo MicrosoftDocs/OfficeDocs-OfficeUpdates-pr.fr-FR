@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
-ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
+ms.openlocfilehash: 9a3e95424b71d1c5511de436b2747b1777463dcb
+ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42706954"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926302"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notes de publication pour Canal mensuel Office (ciblé)
 
@@ -27,6 +27,30 @@ Cet article contient les notes de publication relatives aux versions Canal mensu
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2003-march-23"></a>Version 2003 : 23 mars
+*Version 2003 (Build 12624.20296)*
+
+- Diverses résolutions de bogues et de performances.
+
+## <a name="version-2003-march-21"></a>Version 2003 : 21 mars
+*Version 2003 (Build 12624.20276)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Grâce au calendrier épinglé au volet To-Do, rejoignez une réunion d’un simple clic.
+
+- **Actualisation visuelle du calendrier :** l’année dernière, nous avons mis à jour une expérience de courrier actualisée, et, cette année, c’est au tour du calendrier d’être modernisé ! Les mises à jour sont récentes, mais familières. Par conséquent, en tant qu’utilisateur d’Outlook, vous pouvez vous lancer et augmenter votre productivité immédiatement.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Mettre à jour les diapositives pendant le diaporama :** mettez à jour les diapositives modifiées par d’autres auteurs pendant votre présentation.
+
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
