@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: a38ca822b48a15c2f2765bda0545b23d0ea05309
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
+ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926296"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "42983894"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel en 2020
 
@@ -213,8 +213,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Sélectionnez votre action préférée:** ne pas utiliser indicateur et supprimer? Qu’en est-il d’Archiver ou Marquer comme lu ? Personnalisez le menu d’actions rapides avec les commandes que vous utilisez le plus.
 
 - **Ils verront votre mème :** lorsque du texte ou des images statiques ne conviennent pas, utilisez une image GIF animée pour mettre en avant vos idées. [En savoir plus](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
-
-- **Mise en forme aérée ou plus ajustée ? Vous décidez :** utiliser un espacement plus étroit vous permet de décider si vous souhaitez davantage d’espace entre les éléments ou si vous préférez une disposition plus étroite pour en voir plus.
 
 - **Une méthode rapide pour ajouter des comptes :** grâce aux améliorations de la configuration des comptes, il est plus facile que jamais d’ajouter des comptes Outlook.com et Gmail qui utilisent l’authentification à 2 facteurs d’Outlook. [En savoir plus](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
