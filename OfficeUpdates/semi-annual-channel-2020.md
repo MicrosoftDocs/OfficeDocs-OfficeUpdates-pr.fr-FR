@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983894"
+ms.locfileid: "43024526"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel en 2020
 
@@ -39,28 +39,28 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- <div><span>Résolution d’un problème dans lequel certains utilisateurs peuvent avoir rencontré plusieurs fenêtres contextuelles lorsque des liens externes étaient présents dans le classeur.&nbsp;</span></div>
+- Résolution d’un problème qui faisait que certains utilisateurs peuvent voyaient plusieurs fenêtres contextuelles apparaître lorsque des liens externes étaient présents dans le classeur.
 
 
-- <div><span style="display:inline !important;">La fonctionnalité Texte en colonnes peut être à l’origine d’échecs pour certains paramètres régionaux.</span><br></div>
+- La fonctionnalité Texte en colonnes peut être à l’origine d’échecs pour certains paramètres régionaux.
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Les utilisateurs peuvent rencontrer une erreur lors de l’accès à une plage nommée masquée.</span></div>
+- Les utilisateurs peuvent rencontrer une erreur lors de l’accès à une plage nommée masquée.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>Nous avons résolu un problème lié à la méthode Shape.Paste : lorsque l’utilisateur copie et colle la forme à l’aide de la méthode &nbsp;Shape.Paste. il&nbsp;<span style="font-size:13.3333px;display:inline !important;"> modifie la sélection pour la forme collée.</span></div>
+- Nous avons résolu un problème lié à la méthode Shape. Paste : lorsque l’utilisateur copie et colle la forme à l’aide de la méthode Shape.Paste. il modifie la sélection pour la forme collée.
 
 
 ### <a name="word"></a>Word
 
-- <div>Nous avons résolu un problème dans lequel, dans certains cas, l’enregistrement d’un fichier existant a toujours pour effet de ne jamais enregistrer le fichier par le biais de la boîte de dialogue Enregistrer sous<br></div>
+- Nous avons résolu un problème dans lequel, dans certains cas, l’enregistrement d’un fichier existant a toujours pour effet d’enregistrer la boîte de dialogue Enregistrer sous et le fichier.
 
 
 ### <a name="office-suite"></a>Suite Office
 
-- <div><span>Cette modification résout le problème de rendu lent de certains graphiques en nuages de points avec des marqueurs.</span></div>
+- Cette modification résout le problème de rendu lent de certains graphiques en nuages de points avec des marqueurs.
 
 ## <a name="version-1902-march-10"></a>Version 1902 : 10 mars
 *Version 1902 (Build 11328.20554)*
