@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider Fast pour ordinateur de bureau Windows
-ms.openlocfilehash: 9ef0c0fb6b0a12562c3d529ed0c141c0dc701279
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: 5ffb00f0901f621dbfd82fb46f0de21bc043b592
+ms.sourcegitcommit: 088650343fbff4054950593d3b42d216ae7414cb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926285"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052069"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historique des mises à jour pour le canal Office Insider
 
 Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Insider, vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [Lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - L’historique de mise à jour ici répertorie toutes les builds publiées
@@ -31,6 +39,9 @@ Si vous êtes inscrit au niveau Insider, vous recevez des mises à jour fréquen
 Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NE PAS SUPPRIMER)
+
+**30 mars 2020**<br/>
+Version 2004 (Build 12725.20006)<br/>
 
 **23 mars 2020**<br/>
 Version 2004 (Build 12718.20010)<br/>

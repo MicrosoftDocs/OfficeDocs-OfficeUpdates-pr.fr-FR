@@ -10,14 +10,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions d’Office 365 ProPlus pour chaque canal de mise à jour et des liens vers des notes de publication et l’historique des mises à jour
-ms.openlocfilehash: 1377ec56666c3a713b8e64500b45a140b19273c0
-ms.sourcegitcommit: 42d66d834fd4c1a062535e27fc7eb4e579527d2e
+ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "41103815"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046119"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informations sur les versions pour les mises à jour vers Office 365 ProPlus
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [Lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 
 ## <a name="security-updates-for-office-365-proplus-releases"></a>Mises à jour de sécurité pour les versions d’Office 365 ProPlus

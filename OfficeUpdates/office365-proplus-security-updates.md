@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité Office 365 ProPlus
-ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614941"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046089"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notes de publication pour les mises à jour de sécurité Office 365 ProPlus
 
 Ces notes de publication fournissent des informations sur les correctifs de sécurité inclus dans les mises à jour vers Office 365 ProPlus.
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [Lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
  
 > [!NOTE]
 > - Ce qui suit fournit également des informations sur les mises à jour de sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.

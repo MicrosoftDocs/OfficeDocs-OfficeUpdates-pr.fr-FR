@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953014"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046099"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -23,6 +23,14 @@ Dans la mesure du possible, notre objectif est de fournir à l’avance des info
 Les tableaux suivants montrent la taille de téléchargement approximative lors de la mise à jour de la version précédente d’Office 365 ProPlus vers la version la plus récente. Les tailles de téléchargement réelles peuvent varier d’environ 50 Mo. Si vous effectuez la mise à jour d’une version antérieure à la version actuelle, votre téléchargement est susceptible d’être plus volumineux.
 
 Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour pourrait être beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [Lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - La taille de téléchargement approximative indiquée dans les tableaux s’applique uniquement à la version x64 en-us d’Office 365 ProPlus.

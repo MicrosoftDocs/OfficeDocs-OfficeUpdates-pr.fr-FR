@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 1e7adea823c50641eaeedab8169f54be70c730f6
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 8cf6f5299ffbe0afa3eada8a2e3f0929730dbba9
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951714"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046139"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Historique des mises à jour pour le canal mensuel Office (ciblé) pour Windows
 
@@ -23,6 +23,14 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 ## <a name="office-insider-versions-and-builds"></a>Builds et versions Office Insider
 
 Si vous êtes inscrit au niveau Canal mensuel (Ciblé), anciennement appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds ultérieurs contenant d’importants correctifs ou mises à jour de sécurité. La liste suivante indique les derniers versions et builds Canal mensuel (ciblé), avec **le dernier build publié qui apparaît en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents. Pour rechercher les notes de publication, consultez la rubrique [Nouveautés pour les participants au programme Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [Lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - L’historique de mise à jour ici répertorie toutes les builds publiées
