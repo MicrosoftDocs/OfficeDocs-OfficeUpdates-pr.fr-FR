@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2020
-ms.openlocfilehash: 3015dec03cba319ffeaa8a97794b5236ffd6c879
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982503"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081796"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2020
 
@@ -65,13 +65,11 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 
 ### <a name="outlook"></a>Outlook
 
 
-
-- **Amélioration des expériences avec la boîte de réception Prioritaire activée ou non :** pour les clients qui n’utilisent pas la boîte de réception Prioritaire, nous avons remis en place l’onglet Non lu dans la liste des messages au sein de tous les dossiers. Nous avons également ajouté un tri par indicateur pour faciliter la recherche des éléments avec indicateur. Enfin, nous avons amélioré le modèle d’interaction de la boîte de réception Prioritaire avec la recherche : la boîte de réception Prioritaire reste en place jusqu'à ce qu’un utilisateur commence à effectuer une recherche et le texte « Résultats » apparaît une fois la recherche terminée.
 
 - **Connecter votre réseau LinkedIn avec Outlook :** connectez votre compte LinkedIn de façon sécurisée avec votre compte Microsoft pour afficher les informations du profil LinkedIn directement dans la carte Contacts. [En savoir plus](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -80,8 +78,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Le menu Insérer un lien dans Outlook insère un lien avec l’autorisation définie par l’administrateur du client :** un lien à partir de l’élément utilisé récemment Insérer un lien dans Outlook insère un lien qui fonctionnait uniquement pour les utilisateurs qui disposaient déjà des autorisations pour y accéder. Cela provoquait souvent des va-et-vient de messages électroniques entre les utilisateurs qui demandaient l'autorisation d'accéder à un document. Nous avons mis à jour cette expérience. Le lien est désormais inséré avec l’autorisation par défaut définie par l’administrateur du client. Pour MSIT, il s’agit de « l’organisation peut modifier » de sorte que tous les utilisateurs internes qui reçoivent un lien partagé de cette façon pourront y accéder.
 
 - **Effectuez une recherche avec des fautes d’orthographe ou de frappe :** Outlook trouve ce que vous cherchez, même si l’orthographe ne correspond pas.
-
-- **La fenêtre contacter l’assistance est désormais ancrable :** trouver la fenêtre contacter l’assistance ancrée dans un volet situé à droite de l’écran.
 
 - **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [En savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -99,7 +95,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Voir vos messages sous un autre jour :** utilisez le bouton soleil/lune pour basculer entre les arrière-plans clair et foncé dans le volet de lecture. [En savoir plus](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -138,8 +134,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.
 
 - **Une expérience vidéo plus sécurisée :** les améliorations apportées à la sécurité pour une expérience vidéo en ligne plus sécurisée.
-
-- **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **Pourquoi réinventer lorsque vous pouvez réutiliser ? :** gagnez du temps en réutilisant les diapositives que vous avez créées ou que d’autres personnes ont partagées avec vous. [En savoir plus](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
@@ -195,11 +189,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-
-### <a name="office-suite"></a>Suite Office
-
-- **Volet Nouveautés :** l’expérience Nouveautés a atteint le volet Aide pour vous permettre d’accéder plus aisément à nous dernières mises à jour et rester à jour.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
