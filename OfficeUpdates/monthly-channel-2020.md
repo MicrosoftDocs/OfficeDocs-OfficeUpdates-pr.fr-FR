@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal mensuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
-ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
+ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030921"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081780"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal mensuel en 2020
 
@@ -24,6 +24,28 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 >
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2003-march-31"></a>Version 2003 : 31 mars
+*Version 2003 (build 12624.20382)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="onenote"></a>OneNote
+
+- Synchronisation et la stabilité du serveur améliorées par désactivation temporaire du déplacement de pages dans la corbeille. Les utilisateurs qui souhaitent supprimer une page verront à la place une boîte de dialogue leur demandant s’ils souhaitent supprimer définitivement la page.
+
+- Informez les utilisateurs via la barre d’informations sur les ajustements temporaires dans Microsoft OneNote qui contribueront à améliorer la synchronisation et la disponibilité des services pendant une utilisation internationale.
+
+- Synchronisation et stabilité du service améliorées par modification temporaire de la fréquence de création des historiques des versions de page.
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2003-march-25"></a>Version 2003 : 25 mars
 *Version 2003 (Build 12624.20320)*
@@ -61,11 +83,17 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - Résolution d’un problème de performance lors de la création de graphiques à partir de modèles.
 
+### <a name="onenote"></a>OneNote
+
+- Synchronisation et stabilité du service améliorées par réduction temporaire de la taille maximale admissible des nouvelles pièces jointes incorporées à 50 Mo. Pour les fichiers dont la taille est supérieure à cette limite, les utilisateurs peuvent, via une option, charger le fichier dans OneDrive et insérer un lien dans OneNote.
+
+- Synchronisation et stabilité du service améliorées par désactivation temporaire de l’enregistrement vidéo dans l’application sous OneNote 2016. Les blocs-notes locaux ne sont pas affectés par cette mesure.
+
+- Synchronisation et stabilité du service améliorées par ajustement temporaire de la fréquence de synchronisation dans OneNote 2016.
 
 ### <a name="outlook"></a>Outlook
 
 - Nous avons résolu un problème qui empêchait les utilisateurs de voir le processus Outlook en attente dans le gestionnaire des tâches après avoir quitté.
-
 
 ### <a name="powerpoint"></a>PowerPoint
 
