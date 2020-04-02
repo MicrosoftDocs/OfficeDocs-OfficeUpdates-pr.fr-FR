@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951704"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076271"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notes de publication pour Canal mensuel Office (ciblé)
 
@@ -29,6 +29,32 @@ Cet article contient les notes de publication relatives aux versions Canal mensu
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2003-march-31"></a>Version 2003 : 31 mars
+*Version 2003 (build 12624.20382)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="access"></a>Accès
+
+- **Volet Office « Ajouter des tables » :** le nouveau volet Office « Ajouter des tables » d’Access est enfin là. Cette fonctionnalité vous permet de sélectionner le(s) tableau(x) à ajouter/supprimer dans une fenêtre de requête, sans accéder à la boîte de dialogue « Afficher les tables » pour les requêtes et l’affichage des relations. Cela inclut également un nouvel onglet « Liens » pour afficher les tableaux liés, une zone de recherche pour filtrer la liste actuelle, le « glisser-déplacer », et bien plus encore !
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="project"></a>Project
+
+- <div><span style="display:inline !important;">Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.</span><br></div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2003-march-25"></a>Version 2003 : 25 mars
 *Version 2003 (build 12624.20320)*
