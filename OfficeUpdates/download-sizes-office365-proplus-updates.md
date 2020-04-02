@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: e09cf62186fc223897d1c57ac4f54d7749712821
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046099"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076247"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -26,7 +26,7 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [Lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
 >
 > Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
@@ -38,7 +38,23 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-## <a name="march-25-2020"></a>25 mars, 2020
+## <a name="march-31-2020"></a>31 mars 2020
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 31 mars, 2020)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 2003 (Build 12624.20382).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2003 (Build 12624.20320) <br/> |25 mars 2020 <br/> |64<br/> |
+|Version 2002 (Build 12527.20278) <br/> |10 mars 2020 <br/> |168<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU 31 mars 2020)
+
+## <a name="march-25-2020"></a>25 mars 2020
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU mars 25, 2020)
 

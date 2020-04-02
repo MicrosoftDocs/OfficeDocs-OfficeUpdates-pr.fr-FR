@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider Fast pour ordinateur de bureau Windows
-ms.openlocfilehash: 5ffb00f0901f621dbfd82fb46f0de21bc043b592
-ms.sourcegitcommit: 088650343fbff4054950593d3b42d216ae7414cb
+ms.openlocfilehash: 8bd5842337668ad99a33df31650ed8752ffca0fa
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052069"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076237"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historique des mises à jour pour le canal Office Insider
 
@@ -22,7 +22,7 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [Lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
 >
 > Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
@@ -41,7 +41,7 @@ Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de
 [//]: # (NE PAS SUPPRIMER)
 
 **30 mars 2020**<br/>
-Version 2004 (Build 12725.20006)<br/>
+Version 2004 (build 12725.20006) (restaurée) <br/>
 
 **23 mars 2020**<br/>
 Version 2004 (Build 12718.20010)<br/>
@@ -87,6 +87,7 @@ Version 1912 (Build 12325.20012)<br/>
 
 **18 novembre 2019**<br/>
 Version 1912 (build 12312,20002) (restaurée) <br/>
+
 **12 novembre 2019**<br/>
 Version 1912 (build 12307.20000)<br/>
 
