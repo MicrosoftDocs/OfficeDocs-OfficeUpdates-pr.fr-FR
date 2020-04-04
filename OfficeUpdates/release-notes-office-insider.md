@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 82db5c6be4e891c0d2a50532605409d296b6d571
-ms.sourcegitcommit: 973f5df717e5ed982ac91d5cc66bef6207618405
+ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
+ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028255"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43131102"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -26,6 +26,8 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - Microsoft Teams sur les installations existantes d’Office 365 ProPlus : à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2004-march-27"></a>Version 2004 : 27 mars
 *Version 2004 (Build 12718.20010)*
@@ -1640,7 +1642,7 @@ Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problè
 - Nous avons résolu un problème dans lequel un contrôle désactivé pouvait parfois ne pas être grisé dans le ruban
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -1681,7 +1683,7 @@ Lorsque vous rencontrez un acronyme, nous essayons de le définir à l’aide de
 - Nous avons résolu un problème qui empêchait la mise en forme HTML pour certains utilisateurs POP3.
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -1714,7 +1716,7 @@ Appliquez une animation de reproduction d’entrée manuscrite dans PowerPoint p
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -1825,7 +1827,7 @@ Trouvez les documents avec l’activité appropriée qui vous sont recommandés.
 - Nous avons résolu un problème qui pouvait modifier l’état de disponibilité d’un rendez-vous lors de sa conversion en réunion
 - Nous avons résolu un problème dans lequel un modèle et une description incorrects seraient affichés lorsqu’un courrier électronique était protégé par un modèle ad hoc
 
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 - Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
@@ -1896,7 +1898,7 @@ Utilisez cette nouvelle méthode de sélection pour trouver le lieu exact d’un
 - Nous avons résolu un problème qui empêchait un client de voir toutes les stratégies de rétention si leur nombre était élevé
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -1930,7 +1932,7 @@ Version 1907 (build 11807.20000)
 - Nous avons résolu un problème où, dans certains cas, le champ À était plus grand que normal.
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -1958,7 +1960,7 @@ Version 1907 (build 11727.20064)
 - Nous avons résolu un problème de mise à l’échelle incorrecte des pièces jointes incluses
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Nous avons résolu un problème lié aux feuilles de temps à durée fixe qui modifiaient parfois la date de fin de l’affectation
@@ -2064,7 +2066,7 @@ Pour déclencher l’expérience d’adhésion – Ouvrir un lien vers un classe
 - Nous avons résolu un problème dans lequel les salles étaient affichées comme étant disponibles en dehors des heures de travail
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2100,7 +2102,7 @@ Les mises à jour qui étaient dans « Bientôt disponible » figurent mainten
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Projet
 - Nous avons résolu un problème qui entraînait le blocage de Project après le basculement vers la barre des tâches.
@@ -2245,7 +2247,7 @@ Version 1906 (build 11702.20000)
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Nous avons résolu un problème où il était parfois nécessaire de mettre en surbrillance des ID de tâche pour les voir
@@ -2282,7 +2284,7 @@ Version 1906 (build 11629.20008)
 - Nous avons résolu un problème où Outlook pouvait se bloquer lors de l’affichage d’un message DRM
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Nous avons résolu un problème qui entraînait le basculement de l’éditeur du chinois vers l’anglais
@@ -2325,7 +2327,7 @@ Amélioration de l’expérience de co-création en rendant plus probable la ré
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2421,7 +2423,7 @@ Importez ou joignez des données intelligentes tout en réinventant votre base d
 - Nous avons résolu un problème pouvant produire un conflit entre les dates d’expiration et de suppression
 
 ### <a name="access"></a>Accès
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2510,7 +2512,7 @@ Office prend désormais en charge les modèles animés, ce qui vous permet de li
 - Nous avons résolu un problème dans lequel l’utilisateur peut avoir des difficultés pour sélectionner le volet inférieur
 
 ### <a name="access"></a>Accès
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2588,7 +2590,7 @@ Activer le mode Focus pour vivre l’expérience prioritaire
 - Nous avons résolu un problème qui avait pour effet que les confirmations de lecture étaient incorrectes en japonais
 
 ### <a name="access"></a>Accès
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2794,7 +2796,7 @@ Le nouveau contrôle Moi affiche tous vos comptes personnels et professionnels d
 - Nous avons résolu un problème avec l’affichage du bouton Envoyer à OneNote
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2823,7 +2825,7 @@ Version 1903 (Build 11330.20014)
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs en lien avec les performances et la stabilité
+- Divers correctifs relatifs aux performances et à la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
