@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel (ciblé) pour Office 365 ProPlus en 2020
-ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
+ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081796"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43159836"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2020
 
@@ -43,7 +43,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Trouvez ce que vous cherchez :** rechercher des commandes, des personnes, des fichiers, des photos, des articles web et plus encore. [En savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [En savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. [En savoir plus](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
@@ -79,8 +78,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Effectuez une recherche avec des fautes d’orthographe ou de frappe :** Outlook trouve ce que vous cherchez, même si l’orthographe ne correspond pas.
 
-- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [En savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
-
 - **Les messages de hameçonnage sont faciles à repérer :** le courrier indésirable et les messages hameçons ont une apparence différente pour vous permettre de les identifier et de les éliminer facilement de votre boîte de réception.
 
 - **Protection avancée contre les attaques :** avec Office 365 - Protection avancée contre les menaces, vous êtes protégé contre les attaques via des liens hypertexte dans des objets de courrier, des messages joints, des messages signés, des chemins d’accès réseau, etc.
@@ -103,7 +100,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Nouveaux outils de relecture :** ne stressez pas à propos des mots que vous utilisez. PowerPoint propose désormais des suggestions de grammaire et d’écriture. [En savoir plus](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-- **Consultez le numéro de diapositive sur documents imprimés :** numéro de diapositive ajouté à la copie d’impression de vos documents.
 
 - **Légendes et sous-titres :** les mots du présentateur sont automatiquement affichés à l’écran sous forme de sous-titres ou convertis en sous-titres dans la langue de votre choix. [En savoir plus](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
@@ -111,7 +107,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Trouvez ce que vous recherchez :** utilisez la zone de recherche pour trouver du texte, des commandes, de l’aide et bien plus encore. [En savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [En savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **Rechercher et corriger des titres de diapositives manquants :** les titres des diapositives permettent de donner du sens à votre présentation et de rendre vos diapositives accessibles aux utilisateurs de toutes les fonctionnalités. Le vérificateur d’accessibilité indique où les titres sont absents pour vous permettre de les ajouter en un clin d’œil. [En savoir plus](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -148,8 +143,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
-
-- **Convertisseur de l’Éditeur d’équations Microsoft :** le convertisseur permet aux utilisateurs de convertir les équations créées à l’aide de l’éditeur d’équations de Microsoft au format Office Math ML pour activer la modification.
 
 - **Éditeur pour les C.V. Assistant CV de LinkedIn :** éditeur pour CV offre une sélection de vérifications grammaticales et stylistiques spécialement conçues pour les CV, afin de rendre votre composition plus précise et professionnelle.
 
