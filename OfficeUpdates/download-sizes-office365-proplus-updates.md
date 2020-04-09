@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: e09cf62186fc223897d1c57ac4f54d7749712821
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 7b84c3a897b1bc9e3ca3d2150d49b12fdeab4558
+ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076247"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43170244"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
 
@@ -37,6 +37,32 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="april-7-2020"></a>le 7 avril 2020
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE DÉBUT DU CONTENU)
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+<i>La publication prévue est la version 1908 (build 11929.20708).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (build 11929.20648) <br/> |10 mars 2020 <br/> |72<br/> |
+|Version 1908 (Build 11929.20606) <br/> |11 février 2020 <br/> |82<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+<i>La publication prévue est la version 2002 (build 12527.20442).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (Build 12527.20278) <br/> |10 mars 2020 <br/> |78<br/> |
+|Version 1908 (Build 11929.20606) <br/> |11 février 2020 <br/> |290<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="march-31-2020"></a>31 mars 2020
 
