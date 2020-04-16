@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux clients des notes de publication pour l’historique des mises à jour d’Office 365 ProPlus pour Windows 7
-ms.openlocfilehash: 09bfdeddfdf7b2c09bbd5145c909b24b6da505e1
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 933e17220a7d3825369f68e43054a9abfd0eca65
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890151"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521032"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Historique des mises à jour pour Office 365 ProPlus sur Windows 7 
 
@@ -41,6 +41,9 @@ Le deuxième mardi de chaque mois, une nouvelle version de la version 2002 sera
 ##
 
 [//]: # (NE PAS SUPPRIMER)
+
+**14 avril 2020**<br/>
+Version 2002 (build 12527.20442)<br/>
 
 **10 mars 2020**<br/>
 Version 2002 (Build 12527.20278)<br/>
