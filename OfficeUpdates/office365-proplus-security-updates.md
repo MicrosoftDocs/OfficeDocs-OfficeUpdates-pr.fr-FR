@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité Office 365 ProPlus
-ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046089"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521277"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notes de publication pour les mises à jour de sécurité Office 365 ProPlus
 
@@ -22,7 +22,7 @@ Ces notes de publication fournissent des informations sur les correctifs de séc
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [Lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
 >
 > Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
@@ -33,6 +33,35 @@ Ces notes de publication fournissent des informations sur les correctifs de séc
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.  
 
 [//]: # (NE SUPPRIMEZ PAS LA LIGNE CI-DESSUS, elle est utilisée pour l’espacement)  
+
+## <a name="april-14-2020"></a>14 avril 2020
+Canal mensuel : version 2003 (build 12624.20442)  
+Canal semi-annuel (ciblé) : version 2002 (build 12527.20442)  
+Canal semi-annuel : version 1908 (build 11929.20708)  
+Canal semi-annuel : version 1902 (build 11328.20564)  
+Office 365 ProPlus sur Windows 7 : (version 2002 build 12527.20442)  
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0979)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0980)
+
+### <a name="office-suite"></a>Suite Office
+
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0760)
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0961)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
+
+
 
 ## <a name="march-10-2020"></a>10 mars 2020
 Canal mensuel : version 2002 (build 12527.20278)  

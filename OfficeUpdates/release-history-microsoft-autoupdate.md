@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890111"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521052"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -29,6 +29,30 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="april-2020-release"></a>Publication d’avril 2020
+
+**Date de publication :** 14 avril 2020
+
+*Microsoft AutoUpdate 4.22*
+
+ **Mises à jour des fonctionnalités :**
+
+- Correctif de sécurité : Microsoft AutoUpdate empêche toute connexion non sécurisée à partir de versions antérieures.
+- Les utilisateurs disposant de mises à jour automatiques peuvent voir l’interface utilisateur de Microsoft AutoUpdate une seule fois par semaine.
+- Les ordinateurs MacOS disposant de disques SSD peuvent bénéficier de mises à jour plus rapides et d’une interruption d’application négligeable en raison de mises à jour.
+
+
+Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0984)
+
+**Lien vers la mise à jour d’AutoUpdate :**
+
+[Télécharger le package Microsoft AutoUpdate 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Code de hachage SHA-256 :**
+
+2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
+<br/><br/>
 
 ## <a name="march-2020-release"></a>Version de mars 2020
 

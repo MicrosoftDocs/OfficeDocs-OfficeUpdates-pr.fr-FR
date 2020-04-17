@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fournit un historique des publications de l’outil Déploiement d’Office (ODT) destiné aux professionnels de l’informatique
-ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230062"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521212"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
 
@@ -29,6 +29,13 @@ L’outil Déploiement d’Office vous permet de bien contrôler l’installatio
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="april-15-2020"></a>15 avril 2020
+
+Version 16.0.12624.20320 (setup.exe version 16.0.12624.20290)
+- Ajoute la prise en charge des versions de bureau de fin de vie propres à Windows 7
+- Résout un problème dans lequel les paramètres de personnalisation peuvent ne pas être appliqués comme prévu
+- Résout un problème dans lequel les fichiers .cat peuvent être téléchargés de manière inattendue.
 
 ## <a name="january-16-2020"></a>16 janvier 2020
 

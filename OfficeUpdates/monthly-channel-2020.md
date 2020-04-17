@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal mensuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: f9e4d01b1d656c28115a24cf28012daea45fc372
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081780"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521042"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal mensuel en 2020
 
@@ -24,6 +24,38 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 >
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2003-april-15"></a>Version 2003 : 15 avril
+*Version 2003 (Build 12624.20466)*
+* Diverses résolutions de bogues et de performances.
+
+## <a name="version-2003-april-14"></a>Version 2003 : 14 avril
+*Version 2003 (Build 12624.20442)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies pour l’utilisateur.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui entraînait un blocage occasionnel lorsque les utilisateurs utilisaient le bouton « X » sur leur souris.
+
+### <a name="project"></a>Project
+
+- Lorsque des données prédécesseur/successeur sont modifiées en mode Formulaire, un ProjectBeforeTaskChangeevent supplémentaire se déclenche.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème qui entraînait un blocage occasionnel lorsque les utilisateurs utilisaient le bouton « X » sur leur souris.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2003-march-31"></a>Version 2003 : 31 mars
 *Version 2003 (build 12624.20382)*

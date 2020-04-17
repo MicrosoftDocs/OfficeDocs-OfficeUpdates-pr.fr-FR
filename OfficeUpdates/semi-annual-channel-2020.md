@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076270"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521022"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel en 2020
 
@@ -27,6 +27,46 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
+## <a name="version-1908-april-14"></a>Version 1908 : 14 avril
+*Version 1908 (Build 11929.20708)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème qui a entraîné une baisse des performances lors de la suppression des colonnes qui contiennent des cellules fusionnées.
+
+- Résolution d’un problème avec la mise à l’échelle du texte dans les contrôles de formulaire affichés en mode aperçu avant impression.
+
+### <a name="skype"></a>Skype
+
+- Correction du nom du titre de la conversation à onglet lorsque plusieurs conversations sont activées.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui confrontait les utilisateurs à un blocage lors de l’arrêt d’Outlook.
+
+- Nous avons résolu un problème qui empêchait les clients de voir une liste de salles vide dans certains cas.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d’un problème de surlignage : les textes blancs avec des couleurs de surlignage foncées sont imprimés en noir en nuances de gris.
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème dans la table ajuster le texte.
+
+
+## <a name="version-1902-april-14"></a>Version 1902 : 14 avril
+*Version 1902 (Build 11328.20564)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-march-10"></a>Version 1908 : 10 mars
 *Version 1908 (Build 11929.20648)*

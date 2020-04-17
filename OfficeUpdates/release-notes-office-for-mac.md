@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés à Office 356
-ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 8008445d01b850dedf96f6354716e36c527e1e39
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622138"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521274"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -34,10 +34,25 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 
 [//]: # (NE PAS SUPPRIMER)
+## <a name="april-14-2020"></a>14 avril 2020
+*Version 16.36 (build 20041300)*
 
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
 
+- **Utiliser automatiquement les nouveaux types de données** : lorsque vous tapez une valeur de données qui ressemble à un emplacement ou un emplacement géographique possible, Excel propose de le convertir en type de données connecté approprié (stocks ou géographie).
+- **Imprimez des feuilles de calcul avec différentes orientations** : lorsque vous imprimez un classeur entier à la fois, Excel pour Mac peut imprimer chaque feuille au format paysage ou portrait, conformément aux options de mise en page.
+- **Obtenir les statistiques sur votre classeur** : les statistiques de classeur fournissent une vue d’ensemble du contenu d’un classeur, afin de vous aider à découvrir plus facilement son contenu.
 
+### <a name="outlook"></a>Outlook
 
+- **Rechercher dans le calendrier en mode hors connexion sur Outlook Mac** : Si vous effectuez une recherche dans le calendrier sur un Mac Outlook, tandis que vous êtes en mode hors connexion, vous pouvez : afficher les événements et rendez-vous.
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>10 mars 2020
