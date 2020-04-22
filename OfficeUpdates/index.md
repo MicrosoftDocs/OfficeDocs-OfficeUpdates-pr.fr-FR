@@ -11,17 +11,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Fournit aux professionnels de l’informatique des liens vers du contenu Office version pour Office 365 ProPlus, Office pour Mac, les produits perpétuelles Office et les produits Office Server
-ms.openlocfilehash: 27e010048db0eeac3ab3c4f1eb7e5adb4e6d994c
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 2bdea84afebdfdfd525776aaa50e2540c9d67507
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714544"
 ---
 # <a name="office-updates"></a>Mises à jour Office
 
   
-Obtenez des informations sur les fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour les produits Office, notamment Office 365 ProPlus, Office pour Mac, les produits Office Server et les versions perpétuelles d’Office.
+Obtenez des informations sur les fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour les produits Office, y compris les applications Microsoft 365, Office pour Mac, les produits Office Server et les versions perpétuelles d’Office.
   
 
 ---
@@ -32,7 +32,7 @@ Obtenez des informations sur les fonctionnalités, les mises à jour de sécurit
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office 365 ProPlus</h3>
+                        <h3>Applications Microsoft 365</h3>
                         <p><a href="release-notes-office365-proplus.md">Notes de publication</a></p>
                         <p><a href="update-history-office365-proplus-by-date.md">Historique des mises à jour (par date)</a></p>
                         <p><a href="download-sizes-office365-proplus-updates.md">Tailles des mises à jour</a></p>
@@ -100,7 +100,7 @@ Obtenez des informations sur les fonctionnalités, les mises à jour de sécurit
                         <h3>Autres ressources Office</h3>
                             <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Nouveautés d’Office 365</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Feuille de route Office 365</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Rester informé des modifications apportées Office 365</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Restez informé des modifications apportées à Office 365</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Blog Office</a></p>
                     </div>
                 </div>
