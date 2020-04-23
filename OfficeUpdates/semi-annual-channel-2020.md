@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2020
-ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel de Microsoft 365 Apps disponibles en 2020
+ms.openlocfilehash: 1917bc762563b025f08f8d6e930072c1dc5b7b36
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521022"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714684"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel en 2020
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal semi-annuel vers Office 365 ProPlus en 2020, Visio Pro pour Office 365 et le client de bureau Microsoft Project Online et Office 365 Business.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses en 2020 dans les mises à jour du Canal semi-annuel de Microsoft 365 Apps for enterprise, de Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!NOTE]
 >
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal semi-annuel pendant une certaine période de temps. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- OneNote 2016 sera à présent inclus par défaut lorsqu’un utilisateur sur le Canal semi-annuel téléchargera et installera Office 365 sous Windows 10 à partir du portail Office.
+>- OneNote 2016 sera désormais inclus par défaut lorsqu’un utilisateur du Canal semi-annuel téléchargera et installera Microsoft 365 Apps sous Windows 10 à partir du portail Office.
 
 
 

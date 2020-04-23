@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521052"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714674"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -31,6 +31,23 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
 
 ## <a name="april-2020-release"></a>Publication d’avril 2020
+
+**Date de publication :** 21 avril 2020
+
+*Microsoft AutoUpdate 4.22*
+
+**Résolution de bogues et améliorations :**
+- L’interface utilisateur de la fonctionnalité Mise à jour automatique Microsoft (AutoUpdate) n’apparaîtra pas sur les appareils qui mettent à jour leurs applications Office via le mode « Automatique » de la fonctionnalité, ni sur les appareils qui utilisent le mode non automatique lorsqu’aucune nouvelle mise à jour n’est disponible.
+
+**Lien vers la mise à jour d’AutoUpdate :**
+
+[Télécharger le package Microsoft AutoUpdate 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Code de hachage SHA-256 :**
+
+2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
+
+<br/><br/>
 
 **Date de publication :** 14 avril 2020
 

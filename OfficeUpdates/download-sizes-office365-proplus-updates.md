@@ -1,5 +1,5 @@
 ---
-title: Taille de téléchargement des mises à jour d’Office 365 ProPlus
+title: Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,32 +8,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
-description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour d’Office 365 ProPlus pour chaque canal de mise à jour
-ms.openlocfilehash: ce1a2b84f2eaf59a55431c15c3ff87b033f08bc4
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
+ms.openlocfilehash: c424e6b96022b145f2483b455bf4a49488b54eed
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714664"
 ---
-# <a name="download-sizes-for-updates-to-office-365-proplus"></a>Taille de téléchargement des mises à jour d’Office 365 ProPlus
+# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
 Dans la mesure du possible, notre objectif est de fournir à l’avance des informations sur la taille des mises à jour afin d’aider les entreprises à planifier l’utilisation de la bande passante du réseau.
 
-Les tableaux suivants montrent la taille de téléchargement approximative lors de la mise à jour de la version précédente d’Office 365 ProPlus vers la version la plus récente. Les tailles de téléchargement réelles peuvent varier d’environ 50 Mo. Si vous effectuez la mise à jour d’une version antérieure à la version actuelle, votre téléchargement est susceptible d’être plus volumineux.
+Les tableaux suivants indiquent la taille de téléchargement approximative lors de la mise à jour entre la version précédente de Microsoft 365 Apps et la version la plus récente. Les tailles de téléchargement réelles peuvent varier d’environ 50 Mo. Si vous effectuez la mise à jour d’une version antérieure à la version actuelle, votre téléchargement est susceptible d’être plus volumineux.
 
 Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour pourrait être beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus est renommé en **Microsoft 365 Apps Enterprise**. Pour plus d’informations sur ce changement de nom, [lire ce billet de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Pour plus d’informations sur la prise d’effet de cette modification et sur les actions que les administrateurs doivent effectuer, [Lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
-
+> À partir de la version 2004, Office 365 ProPlus a été renommé Microsoft 365 Apps for enterprise.Pour en savoir plus,  [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).Dans notre documentation, nous l’appelons habituellement Microsoft 365 Apps, tout simplement.
 
 > [!NOTE]
-> - La taille de téléchargement approximative indiquée dans les tableaux s’applique uniquement à la version x64 en-us d’Office 365 ProPlus.
+> - La taille de téléchargement approximative indiquée dans les tableaux s’applique uniquement à la version x64 en-us de Microsoft 365 Apps.
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
@@ -584,11 +580,11 @@ La version la plus récente est la version 1908 (build 11929.20388).
 [//]: # (NE PAS SUPPRIMER FIN DU CONTENU8 octobre 82019)
 
 
-## <a name="related-topics"></a>Sujets associés
+## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour pour Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [Historique des mises à jour pour Office 365 ProPlus (répertoriées par date)](update-history-office365-proplus-by-date.md)
+- [Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
