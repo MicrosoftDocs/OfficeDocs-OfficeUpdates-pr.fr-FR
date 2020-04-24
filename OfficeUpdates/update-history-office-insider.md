@@ -9,21 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider Fast pour ordinateur de bureau Windows
-ms.openlocfilehash: fdc96ba846e44d0c423d6747aba38f1bb184c983
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 97d442f55c339a7f5da8699b07f8a43eca05f043
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715340"
+ms.locfileid: "43781577"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Historique des mises à jour pour le canal Office Insider
 
 Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Insider, vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.
 
 > [!IMPORTANT]
-
-> Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004.Pour en savoir plus,  [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365.
-
+> À partir de la version 2004, Office 365 ProPlus a été renommé Microsoft 365 Apps for enterprise.Pour en savoir plus,  [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365.
 
 > [!NOTE]
 > - L’historique de mise à jour ici répertorie toutes les builds publiées
@@ -37,8 +35,9 @@ Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de
 
 [//]: # (NE PAS SUPPRIMER)
 
+**22 avril 2020**<br/>
+Version 2005 (build 12816.20006)<br/>
 
-=======
 **20 avril 2020**<br/>
 Version 2005 (Build 12816.20000) (restaurée) <br/>
 
