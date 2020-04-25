@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fournit aux clients des notes de publication pour l’historique des mises à jour d’Office 365 ProPlus pour Windows 7
-ms.openlocfilehash: 933e17220a7d3825369f68e43054a9abfd0eca65
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Fournit aux clients des notes de publication pour l’historique des mises à jour pour les Applications Microsoft 365 pour Windows 7
+ms.openlocfilehash: a724d0bedbb2770e55ad106870d4874bfaca6969
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521032"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781597"
 ---
-# <a name="update-history-for-office-365-proplus-on-windows-7"></a>Historique des mises à jour pour Office 365 ProPlus sur Windows 7 
+# <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Historique des mises à jour pour les Applications Microsoft 365 sur Windows 7 
 
  > [!NOTE]
 >
 >- La prise en charge de Windows 7 a pris fin le 14 JANVIER 2020. [En savoir plus](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- Office 365 ProPlus n’est plus pris en charge sur Windows 7, mais continuera à bénéficier de mises à jour de sécurité jusqu’en janvier 2023. [En savoir plus](https://docs.microsoft.com/DeployOffice/windows-7-support)
+>- Microsoft 365 n’est plus pris en charge sur Windows 7, mais continuera à bénéficier de mises à jour de sécurité jusqu’en janvier 2023. [En savoir plus](https://docs.microsoft.com/DeployOffice/windows-7-support)
 >- Si vous êtes un utilisateur individuel exécutant Office sur Windows 7, voir [Fin de la prise en charge de Windows 7 et Office.](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)
-La version 2002 est la dernière version d’Office 365 ProPlus disponible pour les appareils exécutant Windows 7 lorsque la prise en charge de ce dernier prendra fin en janvier 2020.  
+La version 2002 est la dernière version des Applications Microsoft 365 disponible pour les appareils exécutant Windows 7 lorsque la prise en charge de ce dernier prendra fin en janvier 2020.  
 
 La disponibilité de la version 2002 est prévue dans les canaux suivants :
 - Canal mensuel de fin février 2020
