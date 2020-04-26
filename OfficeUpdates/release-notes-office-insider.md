@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: e89f899f5a890b5db7b2ebaa0cc495f9b623f699
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
+ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714714"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43804900"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -25,6 +25,35 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2005-april-24"></a>Version 2005 : 24 avril
+*Version 2005 (build 12816.20006)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+- Cette modification résout un problème dans lequel le coefficient de détermination de la courbe de tendance du graphique (dans la cas d’interception forcée Y) n’était pas correct, même si la fonction DROITEREG renvoyait la valeur correcte.
+- Cette modification résout un problème aléatoire de défaut d’enregistrement de la mise en forme de la courbe de tendance de graphique personnalisée.
+
+### <a name="outlook"></a>Outlook
+- Résolution d’un problème dans lequel le bouton Catégoriser des calendriers de groupe dans le ruban Office était désactivé.
+- Résolution d’un problème d’affichage du message « Aucune réponse » dans Outlook lorsque des clients entreprise disposaient de dossiers de groupe qui n’étaient pas implémentés ou qui ne fonctionnaient pas.
+
+### <a name="powerpoint"></a>PowerPoint
+- Résolution d’un problème où le pointage au-dessus du symbole de l’astérisque (*) n’affichait pas la date et le nom d’utilisateur de la dernière personne ayant mis à jour le document.
+
+### <a name="word"></a>Word
+- L’activation de l’option « Afficher les signets » n’affichait pas les signets. Ce problème a été résolu.
+- Cette modification résout un problème dans lequel le texte contenant des liens hypertexte risquait de ne pas s’afficher lorsque l’option « Afficher les codes de champ plutôt que leurs valeurs » était activée.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
