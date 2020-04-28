@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715422"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907926"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -48,6 +48,7 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 |**Année**|**Date de sortie**|**Canal mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|
+|
 |2020|15 avril|[Version 2003 (Build 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020|14 avril|[Version 2003 (Build 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[Version 2002 (Build 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[Version 1908 (Build 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[Version 1902 (Build 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|31 mars|[Version 2003 (Build 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
