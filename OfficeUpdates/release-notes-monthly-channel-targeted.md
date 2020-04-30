@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: f0ae7d9c965c4ffea21e31859760ebea550ac3e7
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 73bb6f13c3f196a7d99fafc951c831eafea33e41
+ms.sourcegitcommit: 6e3ff925f85e32db7dc701fc7a14aa8339365eee
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907888"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43937407"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notes de publication pour Canal mensuel Office (ciblé)
 
@@ -29,6 +29,32 @@ Cet article contient les notes de publication relatives aux versions Canal mensu
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2004-april-29"></a>Version 2004 : 29 avril
+*Version 2004 (Build 12730.20236)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Contribuez à protéger les données de votre groupe :** l’étiquette Sensibilité que vous sélectionnez lors de la création d’un groupe est appliquée aux e-mails, documents et sites d’équipe de ce groupe.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Corrige un problème qui a provoqué le blocage d’Outlook sur certaines versions de Windows.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2004-april-25"></a>Version 2004 : 25 avril
 *Version 2004 (Build 12730.20206)*
