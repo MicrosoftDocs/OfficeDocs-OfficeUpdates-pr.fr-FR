@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
-ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
+ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43804900"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997477"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -25,6 +25,59 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2005-may-01"></a>Version 2005 : 01 mai
+*Version 2005 (Build 12827.20030)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Amélioration des liens dans les e-mails :** lorsque vous incluez un lien vers un fichier, le nom du fichier remplace l’URL. Vous pouvez modifier les autorisations afin que tous les destinataires aient accès. [En savoir plus](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème qui avait pour effet qu’un tableau de données de graphique pouvait afficher les valeurs d’un axe de dates de façon incorrecte.
+- Résolution d’un problème qui avait pour effet qu’il n’était pas possible de désactiver les sauts de page après avoir accédé à la mise en page ou à l’aperçu des sauts de page.
+- Résolution d’un problème qui avait pour effet que les styles de traits de graphique pouvaient être perdus après un masquage ou un affichage de colonnes contenant des données de série.
+- L’insertion d’une colonne dans une liste filtrée prend plus de temps que prévu.
+- Un blocage peut se produire lorsque vous tentez de répertorier les modifications apportées à une nouvelle feuille de classeur en utilisant le mode hérité « Classeur partagé ».
+- Résolution du problème qui avait pour effet que la mise en forme personnalisée de graphiques croisés dynamiques n’était pas enregistrée quand l’option « Inverser si négatif » était activée.
+- Résolution d’un problème qui avait pour effet que la mise en forme personnalisée d’un seul point de données dans un graphique croisé dynamique n’était pas enregistrée quand l’option « Inverser si négatif » était activée.
+- Cette modification résout un problème qui avait pour effet que le chargement du caractère « @ » dans un fichier CSV entraînait la conversion en formule de la chaîne située derrière ce caractère.
+- Résolution d’un problème qui avait pour effet que les valeurs décimales dans la fonction SEQUENCE n’étaient pas arrondies correctement.
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problème qui avaient pour effet que les liens fiables très longs sur lesquels les utilisateurs cliquaient dans le client de bureau Outlook ne se chargeaient pas en raison de leur troncation.
+- Résolution d’un problème qui avait pour effet que les dossiers Outlook dont les noms contenaient des caractères du jeu de caractères codés sur deux octets (Double Byte Character Set, DBCS) disparaissent de façon intermittente lors de la synchronisation avec le serveur. Pour ce faire, il fallait configurer Outlook avec un compte IMAP et l’exécuter sur un système avec les paramètres régionaux japonais.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d’un problème qui avait pour effet que, quand un utilisateur créait un commentaire sans le publier et fermait le volet Commentaires, puis ouvrait une nouvelle fenêtre, parcourait plusieurs diapositives et fermait la fenêtre, puis rouvrait le volet Commentaires dans la présentation d’origine, les brouillons de commentaires n’étaient plus disponibles.
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème qui avait pour effet que, quand Project était connecté à Project Web App et que le séparateur décimal était une virgule, la méthode Add de TaskDependencies échouait lors de l’ajout d’un décalage.
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème qui avait pour effet que l’insertion de commentaires sur un document en mode collaboration ne fonctionnait pas toujours.
+- Cette modification résout un problème qui avait pour effet que la carte Participants clignotait en cas de clic sur @mention.
+- Résolution d’un problème qui avait pour effet que la fermeture d’un document contenant des brouillons de commentaires entraînait l’affichage d’une invite demandant à l’utilisateur s’il voulait fermer le document sans enregistrer les brouillons de commentaires. L’annulation de l’invite avait pour effet de fermer le document au lieu de le laisser ouvert.
+- Résolution d’un problème qui avait pour effet que la traduction d’un commentaire publié générait l’erreur « Nous n’avons pas pu insérer le texte traduit ».
+- Dans l’affichage web ou le lecteur immersif, cliquer sur un conseil entraînait le défilement de la page vers le haut, même si le conseil était déjà visible. Ce problème a été résolu.
+- Nous avons résolu un problème qui avait pour effet que, lors de la tentative d’enregistrement d’un fichier contenant une macro sous un nouveau nom, le fichier était enregistré sous le nom WRO0004.docx, quel que soit son auteur, rendant le document inutilisable.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
