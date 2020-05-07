@@ -9,20 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel (ciblé) de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 5c9535a000544238e1c68eee98817eb52d12449c
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: e4ab90ee506a9b9899a65e61de380323d347f961
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714689"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044597"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel (ciblé) en 2020
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses en 2020 dans les mises à jour du Canal semi-annuel (ciblé) de Microsoft 365 Apps for enterprise, de Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
-> [!NOTE]
->
-> - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) via le canal semi-annuel (ciblé) durant une période de temps plus ou moins longue. Si vous ne voyez pas immédiatement certaines des fonctionnalités décrites ci-dessous, cela signifie qu’elles seront bientôt disponibles. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
 ## <a name="version-2002-april-14"></a>Version 2002 : 14 avril

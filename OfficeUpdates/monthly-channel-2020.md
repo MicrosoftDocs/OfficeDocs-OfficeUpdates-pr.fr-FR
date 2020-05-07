@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: f69d29bcfdd070f742fe0c4e8c518ee7b8100c69
+ms.sourcegitcommit: 47db4b680df64397a57f388e5d6f3c8b1bf374ee
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997467"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021956"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal mensuel en 2020
 
@@ -42,6 +42,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="access"></a>Access
 
 - **Gagnez en productivité grâce au Concepteur de requêtes, au mode SQL et à la fenêtre Relations :** cliquez sur une table avec le bouton droit pour ouvrir, créer, dimensionner et masquer celle-ci. Rechercher et remplacer du texte en mode SQL. Sélectionnez plusieurs tables dans la fenêtre Relations.
+
+- **Ajouter des tableaux comportant moins de clics :** utiliser le volet Office Ajouter des tableaux qui reste ouvert pendant que vous travaillez, pour ajouter des tableaux à des relations et des requêtes. [En savoir plus](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+
 
 ### <a name="excel"></a>Excel
 

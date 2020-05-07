@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: 3716b555f187be6941741960bb11f3cc738f7d43
-ms.sourcegitcommit: e950bd86b21283e1d6f1f76faa26cd323ab7213d
+ms.openlocfilehash: c3127aaae55214fd16f34fa39c6c59c0be706f3d
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43954897"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044607"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -60,6 +60,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|4 mai 2020|Version 2004 (Build 12730.20250)  |Résout un problème dans lequel certains projets VBA contenant des références à des bibliothèques de code avec des caractères DBCS (codés sur deux octets) dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque sont affichés par l’application Office comme étant endommagée lors du chargement. <br/>  |
 |29 avril 2020|Version 2004 (Build 12730.20236)  |Diverses résolutions de bogues et de performances. <br/>  |
 |15 avril 2020|Version 2003 (build 12624.20466)  |Diverses résolutions de bogues et de performances. <br/>  |
 |14 avril 2020|Version 2003 (build 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0991) <br/> |
@@ -74,9 +75,6 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 |14 janvier 2020   |Version 1912 (build 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |08 janvier 2020   |Version 1912 (build 12325.20288)  |Diverses résolutions de bogues et de performances. <br/>  |
 |10 décembre 2019   |Version 1911 (build 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1464) <br/> |
-|22 novembre 2019   |Version 1910 (build 12130.20410)  |Diverses résolutions de bogues et de performances.<br/>  |
-|18 novembre 2019   |Version 1910 (Build 12130.20390)  |Diverses résolutions de bogues et de performances.<br/>  |
-|12 novembre 2019   |Version 1910 (build 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 
 
 
