@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 39c7da6800f60a66963a559177fe96b4cba43a22
-ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
+ms.openlocfilehash: 228333b39b81bad7979768354d11a70124c816e6
+ms.sourcegitcommit: 31188461773c3aee326d76f9e1d3cb5d511e6fe3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43170234"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44042981"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -22,9 +22,18 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 
 > [!NOTE]
 > - Les informations de cet article s’appliquent uniquement aux versions définitives d’Office qui utilisent la technologie d’installation Windows Installer (MSI). Par exemple, Office Professionnel Plus 2016.
-> - Les informations contenues dans cet article ne s’appliquent pas aux versions d’Office 365, telles qu’Office 365 ProPlus.
+> - Les informations contenues dans cet article ne s’appliquent pas aux applications Microsoft 365.
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="may-5-2020"></a>5 mai 2020
+
+**Office 2016**<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4484339](https://support.microsoft.com/help/4484339))<br/> Mise à jour pour Microsoft Office 2016 ([KB4484328](https://support.microsoft.com/help/4484328))<br/> Mise à jour pour Microsoft Office 2016 ([KB4484327](https://support.microsoft.com/help/4484327))<br/> Mise à jour pour Microsoft Office 2016 ([KB4484325](https://support.microsoft.com/help/4484325))<br/> Mise à jour pour Microsoft Outlook 2016 ([KB4484343](https://support.microsoft.com/help/4484343))<br/> Mise à jour pour Microsoft PowerPoint 2016 ([KB4484337](https://support.microsoft.com/help/4484337))<br/> Mise à jour pour Microsoft Project 2016 ([KB4484345](https://support.microsoft.com/help/4484345))<br/> Mise à jour pour Microsoft Word 2016 ([KB4484341](https://support.microsoft.com/help/4484341))<br/> 
+
+
+**Office 2013**<br/>
+Mise à jour pour Skype Entreprise 2015 ([KB4484289](https://support.microsoft.com/help/4484289))<br/>
 
 ## <a name="april-7-2020"></a>7 avril 2020
 
@@ -74,15 +83,4 @@ Mise à jour pour Microsoft Office 2016 ([KB4484170](https://support.microsoft.
 Mise à jour pour Microsoft Outlook 2016 ([KB4484172](https://support.microsoft.com/help/4484172)) <br/>
 Mise à jour pour Skype Entreprise 2016 ([KB4484133](https://support.microsoft.com/help/4484133)) <br/>
 
-## <a name="november-5-2019"></a>5 novembre 2019
 
-**Office 2016**<br/>
-Mise à jour pour Microsoft Access 2016 ([KB4475539](https://support.microsoft.com/help/4475539)) <br/>
-Mise à jour pour Microsoft Office 2016 ([KB4484138](https://support.microsoft.com/help/4484138)) <br/>
-Mise à jour pour Microsoft Office 2016 ([KB4484137](https://support.microsoft.com/help/4484137)) <br/>
-Mise à jour pour Microsoft Office 2016 ([KB4475588](https://support.microsoft.com/help/4475588)) <br/>
-Mise à jour pour Microsoft Office 2016 ([KB4475552](https://support.microsoft.com/help/4475552)) <br/>
-Mise à jour pour Microsoft Office 2016 ([KB4484145](https://support.microsoft.com/help/4484145)) <br/>
-Mise à jour pour Microsoft Outlook 2016 ([KB4484139](https://support.microsoft.com/help/4484139)) <br/>
-Mise à jour pour Microsoft PowerPoint 2016 ([KB4484134](https://support.microsoft.com/help/4484134)) <br/>
-Mise à jour pour Microsoft Word 2016 ([KB4484135](https://support.microsoft.com/help/4484135)) <br/>
