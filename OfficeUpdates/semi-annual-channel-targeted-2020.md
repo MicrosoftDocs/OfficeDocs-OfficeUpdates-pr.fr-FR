@@ -131,8 +131,6 @@ ms.locfileid: "43714689"
 
 - <span data-ttu-id="6721c-169">**Obtenir les statistiques sur votre classeur :** les statistiques de classeur fournissent une vue d’ensemble du contenu d’un classeur, afin de vous aider à découvrir plus facilement son contenu.</span><span class="sxs-lookup"><span data-stu-id="6721c-169">**Get stats on your workbook:** Workbook Statistics provides an overview of the content of a workbook, to help you more easily discover its contents.</span></span>
 
-- <span data-ttu-id="6721c-170">**Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs.</span><span class="sxs-lookup"><span data-stu-id="6721c-170">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="6721c-171">En savoir plus</span><span class="sxs-lookup"><span data-stu-id="6721c-171">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 
 
 ### <a name="outlook"></a><span data-ttu-id="6721c-172">Outlook</span><span class="sxs-lookup"><span data-stu-id="6721c-172">Outlook</span></span>
