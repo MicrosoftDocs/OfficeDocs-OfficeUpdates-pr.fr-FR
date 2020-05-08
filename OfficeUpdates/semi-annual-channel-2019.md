@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: b03cf0f98c4444a19167759a1805f750866bcb78
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982522"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163526"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -35,7 +35,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1902-december-10"></a>Version 1902 : 10 décembre
 *Version 1902 (build 11328.20492)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -99,7 +99,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-november-12"></a>Version 1902 : 12 novembre
 *Version 1902 (build 11328.20468)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -134,7 +134,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1808-november-12"></a>Version 1808 du 12 novembre
 *Version 1808 (build 10730.20416)*
 
-Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -154,7 +154,7 @@ Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupda
 ## <a name="version-1902-october-08"></a>Version 1902 : 8 octobre
 *Version 1902 (Build 11328.20438)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -183,12 +183,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 *Version 1808 (Build 10730.20386)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1902-september-10"></a>Version 1902 : 10 septembre
 *Version 1902 (Build 11328.20420)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -212,7 +212,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1808-september-10"></a>Version 1808 : 10 septembre
 *Version 1808 (Build 10730.20380)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -225,7 +225,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-august-13"></a>Version 1902 : 13 août
 *Version 1902 (build 11328.20392)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 - Résolution d’un problème pour lequel l’icône permettant d’effacer le filtre était affichée pour les segments filtrés et non filtrés dans les tableaux.
@@ -247,7 +247,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1808-august-13"></a>Version 1808 :13 août
 *Version 1808 (Build 10730.20370)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 - Résolution d’un problème dans lequel la configuration de l’API ne fonctionne pas dans la bibliothèque JavaScript Office dans certains scénarios [En savoir plus](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -256,7 +256,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1803-august-13"></a>Version 1803 :13 août
 *Version 1803 (Build 9126.2432)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 - Résolution d’un problème pour lequel la configuration de l’API ne fonctionnait pas dans la bibliothèque JavaScript Office dans certains scénarios [En savoir plus](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -264,7 +264,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ## <a name="version-1902-july-09"></a>Version 1902 : 9 juillet
 *Version 1902 (build 11328.20368)*
-<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
@@ -432,7 +432,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ## <a name="version-1808-july-09"></a>Version 1808 : 9 juillet
 *Version 1808 (build 10730.20360)*
-<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
@@ -447,12 +447,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ## <a name="version-1803-july-09"></a>Version 1803 : 9 juillet
 *Version 1803 (build 9126.2428)*
-<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>Version 1808 : 11 juin
 *Version 1808 (build 10730.20348)*
-<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
  - Résolution d’un problème relatif à la suppression de la signature lors de l’extraction d’un fichier.
@@ -462,7 +462,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ## <a name="version-1803-june-11"></a>Version 1803 : 11 juin
 *Version 1803 (build 9126.2388)*
-<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) 
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 
 
 ## <a name="version-1808-may-14"></a>Version 1808 : 14 mai
 *Version 1808 (build 10730.20344)*   
@@ -501,7 +501,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Nous avons ajouté la prise en charge du complément Assistant Carte postale japonais Word pour la nouvelle ère japonaise. 
 
 ## <a name="version-1803-april-9"></a>Version 1803 : 9 avril
-- Mises à jour de sécurité répertoriées [ici](office365-proplus-security-updates.md)
+- Mises à jour de sécurité répertoriées [ici](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1808-march-12"></a>Version 1808 : 12 mars
 *Version 1808 (build 10730.20304)*
@@ -520,7 +520,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Résolution d’un problème : la mise à jour Office risque de se bloquer pendant un certain temps lors du téléchargement.
 
 ## <a name="version-1803-march-12"></a>Version 1803 : 12 mars 
-- Mises à jour de sécurité répertoriées [ici](office365-proplus-security-updates.md)
+- Mises à jour de sécurité répertoriées [ici](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1808-february-12"></a>Version 1808 : 12 février
 *Version 1808 (Build 10730.20280)*

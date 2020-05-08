@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 6ffd421e4ecdacb50d44677333c814d41b48d123
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614938"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163546"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notes de publication pour les publications du Canal semi-annuel en 2018
 
@@ -27,7 +27,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > - Le Canal semi-annuel était nommé Canal différé avant janvier 2018.
 
 > [!NOTE]
-> - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](office365-proplus-security-updates.md).
+> - Les informations de mises à jour de sécurité pour chaque chaîne de mise à jour Office 365 ProPlus seront dorénavant listées séparément sur [Mises à jour de sécurité](microsoft365-apps-security-updates.md).
 
 ## <a name="version-1803-december-11"></a>Version 1803 : 11 décembre
 *Version 1803 (build 9126.2336)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: df05a1a57bf165e62717f18b7704bb0e44b459dd
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614949"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163536"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -27,7 +27,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1911-december-10"></a>Version 1911 : 10 décembre
 *Version 1911 (Build 12228.20364)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -119,7 +119,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1910-november-12"></a>Version 1910 : 12 novembre
 *Version 1910 (build 12130.20344)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -222,7 +222,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1909-october-08"></a>Version 1909 : 8 octobre
 *Version 1909 (build 12026.20320)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -334,7 +334,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1908-september-10"></a>Version 1908 : 10 septembre
 *Version 1908 (build 11929.20300)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -400,7 +400,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1907-august-13"></a>Version 1907 : 13 août
 *Version 1907 (Build 11901.20218)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 
@@ -454,7 +454,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1906-july-09"></a>Version 1906 : 9 juillet
 *Version 1906 (build 11727.20244)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 
@@ -520,7 +520,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 
 ## <a name="version-1905-june-11"></a>Version 1905 : 11 juin
 *Version 1905 (Build 11629.20246)*
-<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 
@@ -610,7 +610,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1904-may-14"></a>Version 1904 : 14 mai 
 *Version 1904 (Build 11601.20204)*
 
-- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1904-may-8"></a>Version 1904 : 8 mai
 *Version 1904 (build 11601.20178)*
@@ -675,7 +675,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1903-april-9"></a>Version 1903 : 9 avril
 *Version 1903 (Build 11425.20204)* 
 
-- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+- Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : mises à jour non relatives à la sécurité
 - Résolution d’un problème dans Lync (Skype Entreprise) qui avait pour effet que, quand une réunion en ligne comptait plus de 7 participants, il pouvait arriver que la fenêtre de réunion disparaisse.
@@ -765,7 +765,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1901-february-12"></a>Version 1901 : 12 février
 *Version 1901 (build 11231.20174)* 
 
-Mises à jour de sécurité répertoriées [ici](office365-proplus-security-updates.md)
+Mises à jour de sécurité répertoriées [ici](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1901-january-31"></a>Version 1901 : 31 janvier
 *Version 1901 (build 11231.20130)* 
