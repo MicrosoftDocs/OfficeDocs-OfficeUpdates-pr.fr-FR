@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
+ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997477"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44170624"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -25,6 +25,43 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2006-may-08"></a>Version 2006 : 08 mai
+*Version 2006 (Build 12829.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+
+### <a name="outlook"></a>Outlook
+
+- **Meilleurs résultats : en un clin d'œil :** nous avons mis à jour l’expérience de recherche pour la rendre plus intelligente, plus rapide et plus fiable que jamais. [En savoir plus](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier. [En savoir plus](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a>Word
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons examiné et résolu le problème dans lequel un déploiement d’Office 365 ProPlus via InTune est suspendu après l’arrêt d’un système d’exploitation.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
@@ -81,14 +118,9 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
+
 ## <a name="version-2005-april-24"></a>Version 2005 : 24 avril
 *Version 2005 (build 12816.20006)*
-
-[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
-
-[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
-
-<br/>
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -109,6 +141,7 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 - Cette modification résout un problème dans lequel le texte contenant des liens hypertexte risquait de ne pas s’afficher lorsque l’option « Afficher les codes de champ plutôt que leurs valeurs » était activée.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
 
 ## <a name="version-2005-april-17"></a>Version 2005 : 17 avril
 *Version 2005 (build 12810.20002)*
@@ -139,9 +172,8 @@ Cet article contient les notes de publication relatives aux builds Insider de Wo
 - Résolution d’un problème dans lequel Project se bloque lors de la modification du champ État de tableau sur un projet connecté à une liste de tâches SharePoint.
 - Résolution d’un problème dans lequel Project se bloque lors de l’enregistrement de projets créés avec d’anciennes versions de Project.
 
-
-
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
 
 ## <a name="version-2004-april-10"></a>Version 2004 : 10 avril
 *Version 2004 (build 12730.20024)*
