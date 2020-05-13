@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 77ecb79a3fbc6af85b16cd48aa375b698324b451
-ms.sourcegitcommit: d062befb07b0fae74b30bce2a10cdec248c252ad
+ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163516"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211714"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -26,13 +26,55 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 
 > [!IMPORTANT]
-> À partir de la version 2004, Office 365 ProPlus a été renommé Microsoft 365 Apps for enterprise.Pour en savoir plus,  [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).Dans notre documentation, nous l’appelons habituellement Microsoft 365 Apps, tout simplement.
+> - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004.Pour en savoir plus,  [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).Dans notre documentation, nous l’appelons habituellement Microsoft 365 Apps, tout simplement.
+
 
 > [!NOTE]
 > - La taille de téléchargement approximative indiquée dans les tableaux s’applique uniquement à la version x64 en-us de Microsoft 365 Apps.
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="may-12-2020"></a>12 mai 2020
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 12 mai 2020)
+
+### <a name="monthly-channel"></a>Canal mensuel
+
+La version la plus récente est la version 2004 (build 12730.20270).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2004 (Build 12730.20250) <br/> |4 mai 2020 <br/> |188<br/> |
+|Version 2004 (Build 12730.20236) <br/> |29 avril 2020 <br/> |172<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
+
+La version la plus récente est la version 2003 (build 12624.20588).
+
+### <a name="semi-annual-targeted-channel"></a>Canal semi-annuel (ciblé)
+
+La version la plus récente est la version 2002 (build 12527.20612).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (build 12527.20442) <br/> |14 avril 2020 <br/> |67<br/> |
+|Version 2002 (Build 12527.20278) <br/> |10 mars 2020 <br/> |79<br/> |
+
+
+### <a name="semi-annual-channel"></a>Canal semi-annuel
+
+La version la plus récente est la version 1908 (build 11929.20776).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20708) <br/> |14 avril 2020 <br/> |66<br/> |
+|Version 1908 (build 11929.20648) <br/> |10 mars 2020 <br/> |77<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU 12 mai 2020)
 
 
 ## <a name="may-4-2020"></a>4 mai 2020
