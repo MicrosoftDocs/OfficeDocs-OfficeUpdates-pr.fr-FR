@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Outlook 2016, Outlook 2013 et Outlook 2010
-ms.openlocfilehash: 27cd8850398c5887b4cab2993d32403571e1611c
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: d5a8255e0737a0742dd11c81d71194d36bbc1b43
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521062"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210879"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Outlook qui utilisent Windows Installer (MSI)
 
@@ -22,13 +22,13 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
   
 > [!NOTE]
 > - Les informations contenues dans cet article s’appliquent uniquement aux versions définitives d’Outlook qui utilisent la technologie d’installation Windows Installer (MSI). C’est notamment le cas si vous avez installé une version d’Outlook sous licence en volume, par exemple celle incluse avec Office Professionnel Plus 2016.
-> - Les informations contenues dans cet article ne s’appliquent pas aux versions d’Office 365 d’Outlook, telles que la version d’Outlook incluse avec Office 365 ProPlus.
+> - Les informations contenues dans cet article ne s’appliquent pas aux Applications Microsoft 365.
 > - Pour déterminer la version d’Outlook que vous utilisez, consultez l’article [Identifier votre version d’Outlook](https://support.office.com/article/b3a9568c-edb5-42b9-9825-d48d82b2257c).
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). 
   
-La compatibilité d’Outlook avec Office 365 et votre environnement local dépend de la configuration requise pour votre déploiement :
+La compatibilité d’Outlook avec Microsoft 365 et votre environnement local dépend de la configuration requise pour votre déploiement :
   
-- Office 365 fonctionne avec n’importe quelle version d’Outlook se trouvant dans le support standard, qui comprend la dernière version d’Outlook 2016. Pour les versions précédentes d’Outlook, seules celles qui disposent d’une prise en charge étendue peuvent continuer à fonctionner avec Office 365, mais avec des fonctionnalités réduites. Pour plus d’informations, consultez l’article [Politique de support Microsoft](https://support.microsoft.com/lifecycle).
+- Microsoft 365 fonctionne avec n’importe quelle version d’Outlook se trouvant dans le support standard, qui comprend la dernière version d’Outlook 2016. Pour les versions précédentes d’Outlook, seules celles qui disposent d’une prise en charge étendue peuvent continuer à fonctionner avec Microsoft 365, mais avec des fonctionnalités réduites. Pour plus d’informations, consultez l’article [Politique de support Microsoft](https://support.microsoft.com/lifecycle).
     
 - Pour les déploiements Exchange en local, suivez la configuration requise pour votre version d’Outlook :
     
@@ -43,7 +43,7 @@ La compatibilité d’Outlook avec Office 365 et votre environnement local dép
 
 |**Dernier Service Pack (SP)**|**Mise à jour minimale**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Mise à jour publique d’avril 2020 <br/>[KB4484274](https://support.microsoft.com/help/4484274) 
+|S/O  <br/> |PU de mars 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de mai 2020 <br/>[KB4484343](https://support.microsoft.com/help/4484343) 
 
 ## <a name="outlook-2013-updates"></a>Mises à jour d’Outlook 2013
 
