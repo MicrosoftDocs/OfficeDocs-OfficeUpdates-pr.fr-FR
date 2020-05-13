@@ -10,6 +10,9 @@
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
 
+## Canal d’entreprise mensuel
+### [2020](monthly-enterprise-channel-2020.md)
+
 ## Canal semi-annuel
 ### [2020](semi-annual-channel-2020.md)
 ### [2019](semi-annual-channel-2019.md)
