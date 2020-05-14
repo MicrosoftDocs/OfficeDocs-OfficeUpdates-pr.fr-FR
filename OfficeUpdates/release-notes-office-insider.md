@@ -9,16 +9,19 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
-ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
+ms.openlocfilehash: a6f6e38e29357f0fe8ff009822a597e2627d779d
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44170624"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210939"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
 Cet article contient les notes de publication relatives aux builds Insider de Word, Excel, PowerPoint, Outlook, Access et Project sur ordinateur de bureau Windows. Chaque semaine, nous mettons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Notez que certaines fonctionnalités (voire certains correctifs parfois) sont souvent proposées aux participants au programme Office Insider pour une durée délimitée. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
+
+> [!IMPORTANT]
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds.
@@ -1873,13 +1876,13 @@ Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problè
 - Nous avons résolu un problème dans lequel l’obtention d’un objet de classeur à partir de l’objet graphique après la modification de types de graphiques pouvait provoquer une erreur
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème dans lequel un contrôle désactivé pouvait parfois ne pas être grisé dans le ruban
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -1920,7 +1923,7 @@ Lorsque vous rencontrez un acronyme, nous essayons de le définir à l’aide de
 - Nous avons résolu un problème qui empêchait la mise en forme HTML pour certains utilisateurs POP3.
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -1947,13 +1950,13 @@ Appliquez une animation de reproduction d’entrée manuscrite dans PowerPoint p
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2064,8 +2067,8 @@ Trouvez les documents avec l’activité appropriée qui vous sont recommandés.
 - Nous avons résolu un problème qui pouvait modifier l’état de disponibilité d’un rendez-vous lors de sa conversion en réunion
 - Nous avons résolu un problème dans lequel un modèle et une description incorrects seraient affichés lorsqu’un courrier électronique était protégé par un modèle ad hoc
 
-### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+### <a name="access"></a>Accès
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2135,7 +2138,7 @@ Utilisez cette nouvelle méthode de sélection pour trouver le lieu exact d’un
 - Nous avons résolu un problème qui empêchait un client de voir toutes les stratégies de rétention si leur nombre était élevé
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2169,7 +2172,7 @@ Version 1907 (build 11807.20000)
 - Nous avons résolu un problème où, dans certains cas, le champ À était plus grand que normal.
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2191,13 +2194,13 @@ Version 1907 (build 11727.20064)
 - Nous avons résolu un problème qui provoque un arrêt ou un blocage lors du recalcul d’une formule de tableau
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème de mise à l’échelle incorrecte des pièces jointes incluses
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Nous avons résolu un problème lié aux feuilles de temps à durée fixe qui modifiaient parfois la date de fin de l’affectation
@@ -2295,7 +2298,7 @@ Pour déclencher l’expérience d’adhésion – Ouvrir un lien vers un classe
 - Nous avons résolu un problème dans lequel une icône incorrecte pourrait être affichée pour les filtres inactifs
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème dans lequel certains utilisateurs apparaissaient par erreur en mode hors connexion dans une vue Planning de groupe
@@ -2303,7 +2306,7 @@ Pour déclencher l’expérience d’adhésion – Ouvrir un lien vers un classe
 - Nous avons résolu un problème dans lequel les salles étaient affichées comme étant disponibles en dehors des heures de travail
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2333,13 +2336,13 @@ Les mises à jour qui étaient dans « Bientôt disponible » figurent mainten
 - Nous avons résolu un problème qui autorisait l’activation d’un mauvais classeur dans un script VBA lorsque ce classeur était déjà ouvert.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Projet
 - Nous avons résolu un problème qui entraînait le blocage de Project après le basculement vers la barre des tâches.
@@ -2444,7 +2447,7 @@ accédez à l’onglet Dessiner. Sélectionnez un stylet. Dessinez un trait d’
 - Nous avons résolu un problème qui pouvait réduire les performances lors de l’utilisation de segments
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème où le modèle incorrect pouvait s’afficher à partir de la sélection
@@ -2478,13 +2481,13 @@ Version 1906 (build 11702.20000)
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Nous avons résolu un problème où il était parfois nécessaire de mettre en surbrillance des ID de tâche pour les voir
@@ -2521,7 +2524,7 @@ Version 1906 (build 11629.20008)
 - Nous avons résolu un problème où Outlook pouvait se bloquer lors de l’affichage d’un message DRM
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Nous avons résolu un problème qui entraînait le basculement de l’éditeur du chinois vers l’anglais
@@ -2558,13 +2561,13 @@ Amélioration de l’expérience de co-création en rendant plus probable la ré
 - Nous avons corrigé un problème qui pouvait empêcher l’importation de fichiers Excel dans SharePoint
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2660,7 +2663,7 @@ Importez ou joignez des données intelligentes tout en réinventant votre base d
 - Nous avons résolu un problème pouvant produire un conflit entre les dates d’expiration et de suppression
 
 ### <a name="access"></a>Accès
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2749,7 +2752,7 @@ Office prend désormais en charge les modèles animés, ce qui vous permet de li
 - Nous avons résolu un problème dans lequel l’utilisateur peut avoir des difficultés pour sélectionner le volet inférieur
 
 ### <a name="access"></a>Accès
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2776,7 +2779,7 @@ Version 1904 (build 11514.20004)
 - Nous avons résolu un problème qui empêchaît la boîte de dialogue Enregistrer d’accepter certains caractères coréens
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2827,7 +2830,7 @@ Activer le mode Focus pour vivre l’expérience prioritaire
 - Nous avons résolu un problème qui avait pour effet que les confirmations de lecture étaient incorrectes en japonais
 
 ### <a name="access"></a>Accès
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -2878,7 +2881,7 @@ Créez un fichier docm dans OneDrive Entreprise, partagez-le avec vos collègues
 - Nous avons résolu un problème : copier une cellule dans Excel causait un utilisation intensive du processeur quand effectué quand un document protégé et modifiable était ouvert
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Nous avons résolu un problème dans lequel la recherche Outlook ne respectait pas le tri chronologique sélectionné
@@ -3033,7 +3036,7 @@ Le nouveau contrôle Moi affiche tous vos comptes personnels et professionnels d
 - Nous avons résolu un problème avec l’affichage du bouton Envoyer à OneNote
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité
@@ -3056,13 +3059,13 @@ Version 1903 (Build 11330.20014)
 - Nous avons résolu un problème lié à la détection automatique des stocks
 
 ### <a name="powerpoint"></a>PowerPoint
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="outlook"></a>Outlook
 - Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="access"></a>Access
-- Divers correctifs relatifs aux performances et à la stabilité
+- Divers correctifs en lien avec les performances et la stabilité
 
 ### <a name="project"></a>Project
 - Divers correctifs en lien avec les performances et la stabilité

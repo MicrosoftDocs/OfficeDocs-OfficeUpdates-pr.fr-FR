@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714674"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211109"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -29,6 +29,26 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="may-2020-release"></a>Publication de mai 2020
+
+**Date de publication :** 12 mai 2020
+
+*Microsoft Auto Update 4.23*
+
+**Résolution de bogues et améliorations :**
+- Pour les appareils utilisant MacOS 10.13 ou version ultérieure et les versions d’Office 2016, les utilisateurs verront les notifications d’Office 2016 à la fin du support. 
+- Si les applications Word, Excel et PowerPoint n’ont pas de fenêtre ouverte et que l’appareil est en mode de mise à jour automatique Microsoft (AutoUpdate), les utilisateurs n’auront pas besoin de quitter ces applications pour appliquer les mises à jour. 3. Microsoft AutoUpdate actualise automatiquement son tableau de bord de mise à jour avec les versions les plus récentes sur le réseau de distribution de contenu (CDN), sans qu’il soit nécessaire de l’actualiser ou de lancer une nouvelle session AutoUpdate.
+
+**Lien vers la mise à jour d’AutoUpdate :**
+
+[Télécharger le package Microsoft AutoUpdate 4.23](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Code de hachage SHA-256 :**
+
+7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
+
+<br/><br/>
 
 ## <a name="april-2020-release"></a>Publication d’avril 2020
 
