@@ -9,24 +9,87 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044587"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210859"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel en 2020
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses en 2020 dans les mises à jour du Canal semi-annuel de Microsoft 365 Apps for enterprise, de Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
+
+> [!IMPORTANT]
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
 >- OneNote 2016 sera désormais inclus par défaut lorsqu’un utilisateur du Canal semi-annuel téléchargera et installera Microsoft 365 Apps sous Windows 10 à partir du portail Office.
 
 
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1908-may-12"></a>Version 1908 : 12 mai
+*Version 1908 (build 11929.20776)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+
+### <a name="excel"></a>Excel
+
+- Lorsque vous copiez des données filtrées par couleur dans une colonne de largeur différente, les valeurs ne sont pas coller.
+
+- Résolution d'un problème de performances lorsque des utilisateurs utilisaient une macro VBA pour effacer le contenu d’une plage.
+
+- Résolution d’un problème avec VBA dans lequel les valeurs d’écriture dans une plage seraient plus lentes que prévu.
+
+- Nous avons résolu un problème dans lequel la propriété « Valeur croises à » de l’axe du graphique change de façon inattendue lors de l’enregistrement et de la réouverture d’un fichier.
+
+- Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
+
+### <a name="onenote"></a>OneNote
+
+- Localises la notification qui permet à l’utilisateur d’en savoir plus sur les mesures temporaires prises en vertu de l’expérience utilisateur OneNote pour améliorer la synchronisation et la stabilité du service.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui entraînait l’arrêt inopiné des utilisateurs lors de l’ouverture des fichiers .mgg et .oft après appliqué une mise à jour Windows.
+
+- Nous avons résolu un problème qui confrontait les utilisateurs à un blocage lors de la sélection de certains résultats de recherche.
+
+- Résolution d’un problème qui entraînait l’absence du bouton « Enregistrer dans le cloud » dans les Outils Pièces jointe.
+
+- Par défaut les étiquettes de stratégie de rétention affichent la période de rétention entre parenthèses. Cela fournit une clé de Registre pour permettre aux administrateurs de spécifier que seul le nom de la stratégie doit être affiché. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Par défaut.  1 = le paramètre PolicyName pour le texte de stratégie de rétention s’affiche uniquement.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème lors de la fusion de 2 documents au sein d’un document unique.
+
+- Résolution d’un problème avec la fonctionnalité Comparer avec des documents protégés pour la modification.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1902-may-12"></a>Version 1902 : 12 mai
+*Version 1902 (build 11328.20586)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui entraînait l’arrêt inopiné des utilisateurs lors de l’ouverture des fichiers .mgg et .oft après appliqué une mise à jour Windows.
+
+- Par défaut les étiquettes de stratégie de rétention affichent la période de rétention entre parenthèses. Cela fournit une clé de Registre pour permettre aux administrateurs de spécifier que seul le nom de la stratégie doit être affiché. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Par défaut.  1 = le paramètre PolicyName pour le texte de stratégie de rétention s’affiche uniquement.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -50,7 +113,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1908-april-14"></a>Version 1908 : 14 avril
 *Version 1908 (Build 11929.20708)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -84,14 +147,14 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-april-14"></a>Version 1902 : 14 avril
 *Version 1902 (Build 11328.20564)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-march-10"></a>Version 1908 : 10 mars
 *Version 1908 (Build 11929.20648)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -125,14 +188,14 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-march-10"></a>Version 1902 : 10 mars
 *Version 1902 (Build 11328.20554)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-february-11"></a>Version 1908 : 11 février
 *Version 1908 (Build 11929.20606)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -200,7 +263,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-february-11"></a>Version 1902 : 11 février
 *Version 1902 (Build 11328.20526)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -222,14 +285,14 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1808-february-11"></a>Version 1808 : 11 février
 *Version 1808 (Build 10730.20438)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-january-14"></a>Version 1908 : 14 janvier
 *Version 1908 (build 11929.20562)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -591,7 +654,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-january-14"></a>Version 1902 : 14 janvier
 *Version 1902 (build 11328.20512)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -619,7 +682,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1808-january-14"></a>Version 1808 : 14 janvier
 *Version 1808 (build 10730.20432)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
