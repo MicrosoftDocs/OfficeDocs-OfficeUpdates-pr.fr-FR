@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 6619411170491543c4853e6db56fa845a7adc6e3
+ms.sourcegitcommit: fb97680a81c7d96b0f0f539dc3e3c8c28ad654e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210859"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44222077"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal semi-annuel en 2020
 
@@ -65,6 +65,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Résolution d’un problème qui entraînait l’absence du bouton « Enregistrer dans le cloud » dans les Outils Pièces jointe.
 
 - Par défaut les étiquettes de stratégie de rétention affichent la période de rétention entre parenthèses. Cela fournit une clé de Registre pour permettre aux administrateurs de spécifier que seul le nom de la stratégie doit être affiché. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Par défaut.  1 = le paramètre PolicyName pour le texte de stratégie de rétention s’affiche uniquement.
+
 
 ### <a name="word"></a>Word
 
