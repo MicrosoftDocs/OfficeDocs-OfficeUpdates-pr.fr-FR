@@ -17,11 +17,13 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": ["mor-oitac-eng@moravia.com"],
+  "notification_subscribers": [
+    "mor-oitac-eng@moravia.com"
+  ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
-  "live",
-  "master-sxs"
+    "live",
+    "master-sxs"
   ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
@@ -74,5 +76,8 @@
     }
   },
   "need_generate_pdf": true,
-  "need_generate_intellisense": false
+  "need_generate_intellisense": false,
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
 }
