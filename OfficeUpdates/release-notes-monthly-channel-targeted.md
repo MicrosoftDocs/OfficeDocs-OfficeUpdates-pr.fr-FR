@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 60e81fd50e7a1ef35a4449fd4383982dee3338ec
-ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
+ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44428999"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563674"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notes de publication pour Canal mensuel Office (ciblé)
 
@@ -32,6 +32,45 @@ Cet article contient les notes de publication relatives aux versions Canal mensu
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2005-june-04"></a>Version 2005 : juin 04
+*Version 2005 (Build 12827,20320)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="access"></a>Access
+
+- **Restez à l’esprit ! Le type de données Extended Date/Time a une meilleure précision. :** présentation d’un nouveau type de données amélioré.  Pour améliorer la compatibilité de syntaxe avec SQL, et pour augmenter la précision et le niveau de détail dans les enregistrements qui incluent des dates et des heures, nous implémentons le type de données DateTime2 dans Access. Ce type de données de date/heure supplémentaire & inclut une plus grande plage de dates (0001-01-01 à 9999-12-31), avec une précision de temps supérieure (nanosecondes, plutôt que des secondes) que vous serez en mesure de fournir et sur lequel vous pouvez effectuer des calculs. Pour activer, sélectionnez nouveau champ > date & étendue. [En savoir plus](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power bi dans Excel :** Vous pouvez créer des tableaux croisés dynamiques dans Excel connectés à des jeux de données stockés dans Power BIen quelques clics.Cela vous permet d’obtenir le meilleur des deux tableaux croisés dynamiques et de Power BI. Calculer, résumer et analyser vos données à l’aide de tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés.
+
+### <a name="outlook"></a>Outlook
+
+- **Option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente :** Nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="powerpoint"></a>PowerPoint
+
+- Cela permet de résoudre un blocage lorsque les utilisateurs ont à la fois des commentaires modernes et hérités dans un fichier, déclenchant ainsi une mise à niveau sur les commentaires.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu le problème de taux d’échec ValidateInstall en définissant la validation de l’installation de Bing addon sur true par défaut et en considérant que MSI renvoie Success en tant que réussite de l’installation.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2005-may-29"></a>Version 2005:29 mai
 *Version 2005 (Build 12827,20268)*
@@ -897,7 +936,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - **Gagnez en productivité grâce au Concepteur de requêtes, au mode SQL et à la fenêtre Relations :** cliquez sur une table avec le bouton droit pour ouvrir, créer, dimensionner et masquer celle-ci. Rechercher et remplacer du texte en mode SQL. Sélectionnez plusieurs tables dans la fenêtre Relations.
 
