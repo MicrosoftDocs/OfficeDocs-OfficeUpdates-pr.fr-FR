@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163526"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565069"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notes de publication pour les publications du Canal semi-annuel en 2019
 
@@ -165,7 +165,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="project"></a>Project
 
-- Résolution d’un problème qui avait pour effet que le fichier PDF ou XPS n’était pas créé dans le scénario suivant :</div><ul><li>Vous ouvrez un projet.</li><li>Cliquez sur le menu Fichier, sur Exporter, puis sur le bouton <b>Créer PDF/XPS</b>.</li><li>Dans la boîte de dialogue Parcourir, entrez un nom de fichier, puis cliquez sur OK.</li></ul>
+- Résolution d’un problème qui avait pour effet que le fichier PDF ou XPS n’était pas créé dans le scénario suivant :<ul><li>Vous ouvrez un projet.</li><li>Cliquez sur le menu Fichier, sur Exporter, puis sur le bouton <b>Créer PDF/XPS</b>.</li><li>Dans la boîte de dialogue Parcourir, entrez un nom de fichier, puis cliquez sur OK.</li></ul>
 
 ### <a name="word"></a>Word
 
