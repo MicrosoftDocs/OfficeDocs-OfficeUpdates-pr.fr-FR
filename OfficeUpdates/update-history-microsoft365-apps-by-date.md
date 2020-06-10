@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 2a48dfaf1f2401a9dcaff8c32873547cc923fe72
-ms.sourcegitcommit: 9393c868c1a8b7b6d4bba8abbe02a6c984b9547b
+ms.openlocfilehash: 32e6b751e222270cc14d3dfaddaf68e744b8c401
+ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44520208"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44668019"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -36,11 +36,12 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Tous les mois<br/>|2005<br/>|12827,20268<br/>|2 juin 2020<br/>|La version 2006 est publiée<br/>|
-|Entreprise mensuelle<br/>|2003<br/>|12624.20588<br/>|12 mai 2020<br/>|14 juillet 2020<br/>|
-|Semi-annuel (ciblé)<br/>|2002<br/>|12527.20612<br/>|12 mai 2020<br/>|8 septembre 2020<br/>|
-|Semi-annuel<br/>|1908<br/>|11929.20776<br/>|12 mai 2020<br/>|9 mars 2021<br/>|
-|Semi-annuel<br/>|1902<br/>|11328.20586<br/>|12 mai 2020<br/>|8 septembre 2020<br/>|
+|Current<br/>|2005<br/>|12827,20336<br/>|9 juin 2020<br/>|La version 2006 est publiée<br/>|
+|Entreprise mensuelle<br/>|2004<br/>|12730,20430<br/>|9 juin 2020<br/>|11 août 2020<br/>|
+|Entreprise mensuelle<br/>|2003<br/>|12624,20708<br/>|9 juin 2020<br/>|14 juillet 2020<br/>|
+|Entreprise semi-annuelle (préversion)<br/>|2002<br/>|12527,20720<br/>|9 juin 2020<br/>|8 septembre 2020<br/>|
+|Entreprise semi-annuelle<br/>|1908<br/>|11929,20838<br/>|9 juin 2020<br/>|9 mars 2021<br/>|
+|Entreprise semi-annuelle<br/>|1902<br/>|11328,20602<br/>|9 juin 2020<br/>|8 septembre 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -50,26 +51,27 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 [//]: # (HISTORYTABLESTART)
 
-|**Année**|**Date de sortie**|**Canal mensuel**|**Canal d’entreprise mensuel**|**Canal semi-annuel (ciblé)**|**Canal semi-annuel**|
+|**Année**|**Date de sortie**|**Canal actuel**|**Canal d’entreprise mensuel**|**Canal d’entreprise semi-annuel (préversion)**|**Canal d’entreprise semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|Juin 02|[Version 2005 (Build 12827,20268)](monthly-channel-2020.md#version-2005-june-02)| | | |
-|2020|21 mai|[Version 2004 (Build 12730,20352)](monthly-channel-2020.md#version-2004-may-21)| | | |
-|2020|12 mai|[Version 2004 (build 12730.20270)](monthly-channel-2020.md#version-2004-may-12)|[Version 2003 (build 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[Version 2002 (build 12527.20612)](semi-annual-channel-targeted-2020.md#version-2002-may-12)|[Version 1908 (build 11929.20776)](semi-annual-channel-2020.md#version-1908-may-12)<br/>[Version 1902 (build 11328.20586)](semi-annual-channel-2020.md#version-1902-may-12)|
-|2020|04 mai|[Version 2004 (build 12730.20250)](monthly-channel-2020.md#version-2004-may-04)| | |[Version 1908 (build 11929.20752)](semi-annual-channel-2020.md#version-1908-may-04)<br/>[Version 1902 (build 11328.20572)](semi-annual-channel-2020.md#version-1902-may-04)|
-|2020|29 avril|[Version 2004 (Build 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | | |
-|2020|15 avril|[Version 2003 (Build 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | | |
-|2020|14 avril|[Version 2003 (Build 12624.20442)](monthly-channel-2020.md#version-2003-april-14)| |[Version 2002 (Build 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[Version 1908 (Build 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[Version 1902 (Build 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
-|2020|31 mars|[Version 2003 (Build 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | | |
-|2020|25 mars|[Version 2003 (build 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | | |
-|2020|10 mars|[Version 2002 (Build 12527.20278)](monthly-channel-2020.md#version-2002-march-10)| |[Version 2002 (Build 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Version 1908 (Build 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Version 1902 (Build 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
-|2020|1er mars|[Version 2002 (Build 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | | |
-|2020|25 février|[Version 2002 (build 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | | |
-|2020|19 février|[Version 2001 (build 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | | |
-|2020|11 février|[Version 2001 (Build 12430.20264)](monthly-channel-2020.md#version-2001-february-11)| |[Version 1908 (Build 11929.20606)](semi-annual-channel-targeted-2020.md#version-1908-february-11)|[Version 1908 (Build 11929.20606)](semi-annual-channel-2020.md#version-1908-february-11)<br/>[Version 1902 (Build 11328.20526)](semi-annual-channel-2020.md#version-1902-february-11)<br/>[Version 1808 (Build 10730.20438)](semi-annual-channel-2020.md#version-1808-february-11)|
-|2020|30 janvier|[Version 2001 (build 12430.20184)](monthly-channel-2020.md#version-2001-january-30)| | | |
-|2020|22 janvier|[Version 1912 (Build 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | | |
-|2020|14 janvier|[Version 1912 (build 12325.20298)](monthly-channel-2020#version-1912-january-14)| |[Version 1908 (build 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[Version 1908 (build 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[Version 1902 (build 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[Version 1808 (build 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
-|2020|8 janvier|[Version 1912 (build 12325.20288)](monthly-channel-2020#version-1912-january-08)| | | |
+|2020|09 juin|[Version 2005 (Build 12827,20336)](current-channel.md#version-2005-june-09)|[Version 2004 (Build 12730,20430)](monthly-enterprise-channel-2020.md#version-2004-june-09)<br/>[Version 2003 (Build 12624,20708)](monthly-enterprise-channel-2020.md#version-2003-june-09)|[Version 2002 (Build 12527,20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[Version 1908 (Build 11929,20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[Version 1902 (Build 11328,20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
+|2020|Juin 02|[Version 2005 (Build 12827,20268)](current-channel.md#version-2005-june-02)| | | |
+|2020|21 mai|[Version 2004 (Build 12730,20352)](current-channel.md#version-2004-may-21)| | | |
+|2020|12 mai|[Version 2004 (build 12730.20270)](current-channel.md#version-2004-may-12)|[Version 2003 (build 12624.20588)](monthly-enterprise-channel-2020.md#version-2003-may-12)<br/>|[Version 2002 (build 12527.20612)](semi-annual-enterprise-channel-preview.md#version-2002-may-12)|[Version 1908 (build 11929.20776)](semi-annual-enterprise-channel.md#version-1908-may-12)<br/>[Version 1902 (build 11328.20586)](semi-annual-enterprise-channel.md#version-1902-may-12)|
+|2020|04 mai|[Version 2004 (build 12730.20250)](current-channel.md#version-2004-may-04)| | |[Version 1908 (build 11929.20752)](semi-annual-enterprise-channel.md#version-1908-may-04)<br/>[Version 1902 (build 11328.20572)](semi-annual-enterprise-channel.md#version-1902-may-04)|
+|2020|29 avril|[Version 2004 (Build 12730.20236)](current-channel.md#version-2004-april-29)| | | |
+|2020|15 avril|[Version 2003 (Build 12624.20466)](current-channel.md#version-2003-april-15)| | | |
+|2020|14 avril|[Version 2003 (Build 12624.20442)](current-channel.md#version-2003-april-14)| |[Version 2002 (Build 12527.20442)](semi-annual-enterprise-channel-preview.md#version-2002-april-14)|[Version 1908 (Build 11929.20708)](semi-annual-enterprise-channel.md#version-1908-april-14)<br/>[Version 1902 (Build 11328.20564)](semi-annual-enterprise-channel.md#version-1902-april-14)|
+|2020|31 mars|[Version 2003 (Build 12624.20382)](current-channel.md#version-2003-march-31)| | | |
+|2020|25 mars|[Version 2003 (build 12624.20320)](current-channel.md#version-2003-march-25)| | | |
+|2020|10 mars|[Version 2002 (Build 12527.20278)](current-channel.md#version-2002-march-10)| |[Version 2002 (Build 12527.20278)](semi-annual-enterprise-channel-preview.md#version-2002-march-10)|[Version 1908 (Build 11929.20648)](semi-annual-enterprise-channel.md#version-1908-march-10)<br/>[Version 1902 (Build 11328.20554)](semi-annual-enterprise-channel.md#version-1902-march-10)|
+|2020|1er mars|[Version 2002 (Build 12527.20242)](current-channel.md#version-2002-march-01)| | | |
+|2020|25 février|[Version 2002 (build 12527.20194)](current-channel.md#version-2002-february-25)| | | |
+|2020|19 février|[Version 2001 (build 12430.20288)](current-channel.md#version-2001-february-19)| | | |
+|2020|11 février|[Version 2001 (Build 12430.20264)](current-channel.md#version-2001-february-11)| |[Version 1908 (Build 11929.20606)](semi-annual-enterprise-channel-preview.md#version-1908-february-11)|[Version 1908 (Build 11929.20606)](semi-annual-enterprise-channel.md#version-1908-february-11)<br/>[Version 1902 (Build 11328.20526)](semi-annual-enterprise-channel.md#version-1902-february-11)<br/>[Version 1808 (Build 10730.20438)](semi-annual-enterprise-channel.md#version-1808-february-11)|
+|2020|30 janvier|[Version 2001 (build 12430.20184)](current-channel.md#version-2001-january-30)| | | |
+|2020|22 janvier|[Version 1912 (Build 12325.20344)](current-channel.md#version-1912-january-22)| | | |
+|2020|14 janvier|[Version 1912 (build 12325.20298)](current-channel#version-1912-january-14)| |[Version 1908 (build 11929.20562)](semi-annual-enterprise-channel-preview.md#version-1908-january-14)|[Version 1908 (build 11929.20562)](semi-annual-enterprise-channel.md#version-1908-january-14)<br/>[Version 1902 (build 11328.20512)](semi-annual-enterprise-channel.md#version-1902-january-14)<br/>[Version 1808 (build 10730.20432)](semi-annual-enterprise-channel.md#version-1808-january-14)|
+|2020|8 janvier|[Version 1912 (build 12325.20288)](current-channel#version-1912-january-08)| | | |
 |2019|10 décembre|[Version 1911 (build 12228.20364)](monthly-channel-2019#version-1911-december-10)| |[Version 1908 (Build 11929.20516)](semi-annual-channel-2019#version-1902-december-10)  |[Version 1902 (Build 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[Version 1808 (Build 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|3 décembre|[Version 1911 (build 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | | |
 |2019|22 novembre|[Version 1910 (build 12130.20410)](monthly-channel-2019.md#version-1910-november-22)| |[Version 1908 (build 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Version 1902 (build 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Version 1808 (build 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
@@ -80,9 +82,9 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 |2019|14 octobre|[Version 1909 (build 12026.20334)](monthly-channel-2019.md#version-1909-october-14)| |[Version 1908 (build 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|8 octobre|[Version 1909 (build 12026.20320)](monthly-channel-2019.md#version-1909-october-08)| |[Version 1908 (build 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-08)|[Version 1902 (build 11328.20438)](semi-annual-channel-2019.md#version-1902-october-08)<br/>[Version 1808 (build 10730.20386)](semi-annual-channel-2019.md#version-1808-october-08)|
 |2019|30 septembre|[Version 1909 (build 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | | |
-|2019|10 septembre|[Version 1908 (build 11929.20300)](monthly-channel-2019.md#version-1908-september-10)| |[Version 1908 (build 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[Version 1902 (build 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[Version 1808 (build 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
+|2019|10 septembre|[Version 1908 (build 11929.20300)](monthly-channel-2019.md#version-1908-september-10)| |[Version 1908 (build 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[Version 1902 (build 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[Version 1808 (build 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019|26 août|[Version 1908 (build 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | | |
-|2019|13 août|[Version 1907 (build 11901.20218)](monthly-channel-2019.md#version-1907-august-13)| |[Version 1902 (build 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[Version 1902 (build 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[Version 1808 (build 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[Version 1803 (build 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
+|2019|13 août|[Version 1907 (build 11901.20218)](monthly-channel-2019.md#version-1907-august-13)| |[Version 1902 (build 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[Version 1902 (build 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[Version 1808 (build 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[Version 1803 (build 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019|29 juillet|[Version 1907 (build 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | | |
 |2019|9 juillet|[Version 1906 (build 11727.20244)](monthly-channel-2019#version-1906-july-09)| |[Version 1902 (build 11328.20368)](semi-annual-channel-targeted-2019#version-1902-july-09)|[Version 1902 (build 11328.20368)](semi-annual-channel-2019#version-1902-july-09)<br/>[Version 1808 (build 10730.20360)](semi-annual-channel-2019#version-1808-july-09)<br/>[Version 1803 (build 9126.2428)](semi-annual-channel-2019#version-1803-july-09)|
 |2019|27 juin|[Version 1906 (build 11727.20230)](monthly-channel-2019.md#version-1906-june-27)| | | |
