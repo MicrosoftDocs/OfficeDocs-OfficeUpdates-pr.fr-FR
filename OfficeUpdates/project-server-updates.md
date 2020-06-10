@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
-ms.openlocfilehash: e07faf7d801da2feaa5293b58e60a569f9bf5d6f
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: cb72af910fde540407a40ff466ce803762e35907
+ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211119"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44666656"
 ---
 # <a name="project-server-updates"></a>Mises à jour de Project Server
 
@@ -29,6 +29,7 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
   
 |**Date de sortie**|**Numéro KB**|
 |:-----|:-----|:-----|
+|Juin 2020  <br/> |[KB4484407](https://support.microsoft.com/kb/4484407) <br/>|
 |Mai 2020  <br/> |[KB4484360](https://support.microsoft.com/kb/4484360) <br/>|
 |Avril 2020  <br/> |[KB4484318](https://support.microsoft.com/kb/4484318) <br/>|
 |Mars 2020  <br/> |[KB4484279](https://support.microsoft.com/kb/4484279) <br/>|
@@ -43,15 +44,15 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 |Juin 2019  <br/> |[KB4464600](https://support.microsoft.com/kb/4464600) <br/>|
 |Mai 2019  <br/> |[KB4464562](https://support.microsoft.com/kb/4464562) <br/>|
 |Avril 2019  <br/> |[KB4464513](https://support.microsoft.com/kb/4464513) <br/>|
-|Mars 2019  <br/> |[Article 4462218 de la Base de connaissances](https://support.microsoft.com/kb/4462218) <br/>|
+|Mars 2019  <br/> |[KB4462218](https://support.microsoft.com/kb/4462218) <br/>|
 |Février 2019  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |Janvier 2019  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
 |Décembre 2018  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
 |Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
-|Octobre 2018  <br/> |[Article de la base de connaissances 4461456](https://support.microsoft.com/kb/4461456) <br/>|
-|Septembre 2018  <br/> |[Article de la base de connaissances 4092475](https://support.microsoft.com/kb/4092475) <br/>|
-|Août 2018  <br/> |[Article de la base de connaissances 4032245](https://support.microsoft.com/kb/4032245) <br/>|
-|Juillet 2018  <br/> |[Article 4022240 de la Base de connaissances](https://support.microsoft.com/kb/4022240) <br/>|
+|Octobre 2018  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
+|Septembre 2018  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
+|Août 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
+|Juillet 2018  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
 |Juin 2018  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |Mai 2018  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
 |Avril 2018  <br/> |[KB4018346](https://support.microsoft.com/kb/4018346) <br/> |
@@ -99,6 +100,7 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 
 |**Date de sortie**|**Numéro KB**|
 |:-----|:-----|:-----|
+|Juin 2020  <br/>  |[KB4484412](https://support.microsoft.com/kb/4484412) <br/>|
 |Mai 2020  <br/>  |[KB4484388](https://support.microsoft.com/kb/4484388) <br/>|
 |Avril 2020  <br/>  |[KB4484323](https://support.microsoft.com/kb/4484323) <br/>|
 |Mars 2020  <br/>  |[KB4484239](https://support.microsoft.com/kb/4484239) <br/>|
@@ -111,15 +113,15 @@ Utilisez les liens indiqués sur cette page pour obtenir plus d’informations s
 |Juin 2019  <br/>  |[KB4475507](https://support.microsoft.com/kb/4475507) <br/>|
 |Mai 2019  <br/>  |[KB4464568](https://support.microsoft.com/kb/4464568) <br/>|
 |Avril 2019  <br/>  |[KB4464521](https://support.microsoft.com/kb/4464521) <br/>|
-|Mars 2019  <br/>  |[Article 4462227 de la Base de connaissances](https://support.microsoft.com/kb/4462227) <br/>|
+|Mars 2019  <br/>  |[KB4462227](https://support.microsoft.com/kb/4462227) <br/>|
 |Février 2019  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |Janvier 2019  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
 |Décembre 2018  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|
 |Novembre 2018  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
-|Octobre 2018  <br/>  |[Article de la base de connaissances 4461463](https://support.microsoft.com/kb/4461463) <br/>|
-|Septembre 2018  <br/>  |[Article de la base de connaissances 4092484](https://support.microsoft.com/kb/4092484) <br/>|
-|Août 2018  <br/>  |[Article de la base de connaissances 4092438](https://support.microsoft.com/kb/4092438) <br/>|
-|Juillet 2018  <br/>  |[Article 4032219 de la Base de connaissances](https://support.microsoft.com/kb/4032219) <br/> |
+|Octobre 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
+|Septembre 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
+|Août 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
+|Juillet 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
 |Juin 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |Mai 2018  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
 |Avril 2018  <br/> |[KB4018358](https://support.microsoft.com/kb/4018358) <br/> |
