@@ -4,32 +4,32 @@
 ## [Historique des mises à jour (par date)](update-history-microsoft365-apps-by-date.md)
 ## [Tailles des mises à jour](download-sizes-microsoft365-apps-updates.md)
 
-## Canal mensuel
-### [2020](monthly-channel-2020.md)
+## Canal actuel
+### [2020](current-channel.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
 
 ## Canal d’entreprise mensuel
-### [2020](monthly-enterprise-channel-2020.md)
+### [2020](monthly-enterprise-channel.md)
 
-## Canal semi-annuel
-### [2020](semi-annual-channel-2020.md)
+## Canal d’entreprise semi-annuel
+### [2020](semi-annual-enterprise-channel.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
 ### [2017](semi-annual-channel-2017.md)
 
-## Canal semi-annuel (ciblé)
-### [2020](semi-annual-channel-targeted-2020.md)
+## Canal d’entreprise semestriel (version d’évaluation)
+### [2020](semi-annual-enterprise-channel-preview.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
 ### [2017](semi-annual-channel-targeted-2017.md)
 
 ## Programme Office Insider  
-### [Historique des mises à jour - Canal Insider](update-history-office-insider.md)
-### [Historique des mises à jour - Canal mensuel (ciblé)](update-history-monthly-channel-targeted.md)
-### [Canal de publication Notes Insider](release-notes-office-insider.md)
-### [Notes de publication Canal mensuel (ciblé)](release-notes-monthly-channel-targeted.md)
+### [Historique des mises à jour canal bêta](Update-history-beta-channel.md)
+### [Historique des mises à jour du canal actuel (Preview)](update-history-current-channel-preview.md)
+### [Canal bêta de notes de publication](beta-channel.md)
+### [Notes de publication canal actuel (Preview)](current-channel-preview.md)
 
 ## [Historique des mises à jour de Windows 7](update-history-office-Win7.md)
 
