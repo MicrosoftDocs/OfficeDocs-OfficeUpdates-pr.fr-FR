@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions de Microsoft 365 Apps pour les différents canaux de mise à jour ainsi que des liens d’accès aux notes de publication et à l’historique des mises à jour
-ms.openlocfilehash: b6300a7742b43f0c820882c0362079e05530c55d
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: e82c61c32af89e0be6406a0680e83f6afef6864d
+ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211099"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44695556"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informations sur les versions des mises à jour de Microsoft 365 Apps
 
@@ -45,10 +45,10 @@ Pour obtenir la liste complète des tailles des mises à jour pour chaque versio
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notes de publication des différentes versions de Microsoft 365 Apps
 
 Pour obtenir la liste complète des notes de publication par canal de mise à jour et année, consultez les articles suivants :
- - Mensuel : [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
- - Canal d’entreprise mensuel : [2020](monthly-enterprise-channel-2020.md)
- - Semi-annuel (ciblé) : [2020](semi-annual-channel-targeted-2020.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
- - Semi-annuel : [2020](semi-annual-channel-2020.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Actuel : [2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - Canal d’entreprise mensuel : [2020](monthly-enterprise-channel.md)
+ - Canal d’entreprise semi-annuel (préversion) : [2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md)[2016](semi-annual-channel-targeted-2016.md)
+ - Canal d’entreprise semi-annuel : [2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
  Pour consulter la liste complète des versions de l’outil Déploiement d’Office, reportez-vous à l’article suivant :
