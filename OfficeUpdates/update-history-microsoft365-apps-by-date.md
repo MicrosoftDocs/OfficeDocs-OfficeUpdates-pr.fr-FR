@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 2bfbf1d8df2923c97e12380e8c054ddcf18f6c1e
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: cc14aacc0a08dd5c45e22410df7b50a0de51de94
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695566"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814293"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -47,11 +47,11 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 Pour plus d’informations sur la taille approximative du téléchargement lors de la mise à jour d’une version précédente de Microsoft 365 Apps vers la version la plus récente, consultez [Tailles de téléchargement des mises à jour de Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-Le tableau suivant fournit la liste des numéros de version et de build des différentes mises à jour de Microsoft 365 Apps publiées dans les canaux de mise à jour suivants : Mensuel, Semi-annuel (ciblé) et Semi-annuel. Chaque entrée du tableau contient un lien d’accès direct aux notes de publication de la version correspondante. Ces notes de publication fournissent des informations sur les fonctionnalités, mises à jour de sécurité et autres mises à jour incluses dans la mise à jour de Microsoft 365 Apps.  
+Le tableau suivant fournit la liste des numéros de version et de build pour chaque mise à jour des applications Microsoft 365 publiées dans les canaux de mise à jour suivants : entreprise actuelle, entreprise mensuelle, entreprise semi-annuelle (préversion) et entreprise semi-annuelle. Chaque entrée du tableau contient un lien d’accès direct aux notes de publication de la version correspondante. Ces notes de publication fournissent des informations sur les fonctionnalités, mises à jour de sécurité et autres mises à jour incluses dans la mise à jour de Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
-|**Année**|**Date de sortie**|**Canal actuel**|**Canal d’entreprise mensuel**|**Canal d’entreprise semi-annuel (préversion)**|**Canal d’entreprise semi-annuel**|
+|**Année**|**Date de sortie**|**Canal actuel**|**Canal d’entreprise mensuel**|**Canal d’entreprise semestriel (version d’évaluation)**|**Canal d’entreprise semi-annuel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |2020|09 juin|[Version 2005 (Build 12827,20336)](current-channel.md#version-2005-june-09)|[Version 2004 (Build 12730,20430)](monthly-enterprise-channel.md#version-2004-june-09)<br/>[Version 2003 (Build 12624,20708)](monthly-enterprise-channel.md#version-2003-june-09)|[Version 2002 (Build 12527,20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[Version 1908 (Build 11929,20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[Version 1902 (Build 11328,20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020|Juin 02|[Version 2005 (Build 12827,20268)](current-channel.md#version-2005-june-02)| | | |

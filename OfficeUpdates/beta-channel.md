@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: e754309f8f647f13b6db0a1b6f4cbcfac2f4ffe5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668082"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814303"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
 
@@ -30,6 +30,81 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2007-june-19"></a>Version 2007:19 juin
+*Version 2007 (Build 13012,20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème : CustomUI XML pour un onglet de ruban personnalisé a été supprimé lors de l’enregistrement d’un classeur dans SharePoint/OneDrive.
+- Nous avons résolu un problème : les classeurs étaient en lecture seule lorsque le fichier n’était recommandé qu’en lecture seule.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème : la fenêtre de l’éditeur de méthode d’entrée (IME) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec différentes résolutions.
+- Nous avons résolu un problème qui entraînait l’affichage de l’erreur suivante lors de la fermeture d’un rendez-vous qui a été précédemment enregistré : «l’élément ne peut pas être enregistré car il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous créer une copie dans le dossier par défaut de l’élément ? "
+- Nous avons résolu un problème : les dates du mini-calendrier n’étaient pas affichées en gras pour les utilisateurs au Japon.
+- Nous avons résolu un problème qui empêchait les rappels de calendrier de montrer des temps précis pour les réunions en moins d’une semaine.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel l’indicateur de couleur de présence d’un utilisateur n’a pas été actualisé dans la Galerie de co-création pendant une session de co-création en direct.
+
+### <a name="project"></a>Projet
+
+- Nous avons résolu un problème où, si les tâches à durée fixe sont achevées à 100%, mais que la fin réelle n’est pas spécifiée, la tâche% achevé afficherait moins de 100%.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème : la couleur des liens hypertexte HTML n’était pas affichée correctement.
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème : les URL qui n’étaient pas basées sur http ou https n’étaient pas affichées dans la liste des derniers fichiers utilisés.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2007-june-12"></a>Version 2007:12 juin
+*Version 2007 (Build 13006,20002)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Obtenir les données d’organisation de Power bi à l’aide des types de données :** Les types de données Excel de Power BI sont désormais déployés pour les Insiders dans les organisations disposant d’Office 365 E5/a5 ou Microsoft 365 E5/a5. Obtenir les informations dont vous avez besoin et les actualiser facilement est essentiel à un grand nombre de flux de travail quotidiens. Nous vous offrons un accès aux informations de votre entreprise ou de votre organisation à partir de Power BI comme type de données dans Excel, ce qui vous permet de saisir des informations liées dans vos feuilles de calcul. [En savoir plus](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Nous avons résolu un problème : Microsoft Access ne parvient pas à identifier une colonne identity dans une table SQL Server liée, ce qui pourrait entraîner une dédéclaration incorrecte des lignes.
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème : le quadrillage principal des graphiques en radar n’a pas pu être mis en forme correctement.
+
+### <a name="project"></a>Projet
+
+- Nous avons résolu un problème où l’événement ProjectBeforeTaskChange, n’était pas déclenché lorsqu’une modification a été apportée à la tâche récapitulative du projet, soit le champ début de projet/tâche.
+- Nous avons résolu un problème : une réinitialisation ou une mise à jour de base pouvait modifier les ressources de travail/coût budgétaire chronologiques et la planification initiale pouvait refléter des valeurs de budget incorrectes.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème : la possibilité de supprimer la mise en forme dans le volet de commentaires via le bouton Effacer la mise en forme dans le ruban Office ne fonctionnait pas.
+- Nous avons résolu un problème : la modification de la taille d’un tableau lorsque la règle n’était pas affichée a entraîné le clignotement d’autres applications en arrière-plan.
+- Nous avons résolu un problème où, dans le mode de co-création, les réponses de commentaire ne s’affichaient pas dans le volet de commentaires, mais seraient visibles dans le volet révisions.
+- Nous avons résolu un problème : si Word avait une liste de plus de 50 documents fréquemment ouverts, après l’enregistrement et l’ouverture d’un document, un historique des révisions serait affiché même si aucune révision n’a été apportée à ce document.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2006-june-05"></a>Version 2006 : juin 05
 *Version 2006 (Build 13001,20002)*
@@ -378,7 +453,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Corrige un problème qui entraînait l’invalidation des règles de suppression créées pour les boîtes aux lettres autres que la boîte aux lettres principale de l’utilisateur.
 - Corrige un problème qui entraînait la suppression des pièces jointes lors du transfert d’un message chiffré.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Lorsque des données prédécesseur/successeur sont modifiées en mode Formulaire, un ProjectBeforeTaskChangeevent supplémentaire se déclenche.
 - Résolution d’un problème dans lequel Project se bloque lors de la modification du champ État de tableau sur un projet connecté à une liste de tâches SharePoint.
 - Résolution d’un problème dans lequel Project se bloque lors de l’enregistrement de projets créés avec d’anciennes versions de Project.
@@ -502,7 +577,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="powerpoint"></a>PowerPoint
 - Cette modification corrige une erreur qui pouvait provoquer l’échec de l'enregistrement de fichiers PowerPoint contenant des Emoji.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Résolution d’un problème de création de table de choix vide créée, même si elle ne devait pas l'être, lorsque l’élément « CustomFieldValueListGetItem » était exécuté et qu'une table de choix n'était pas présente pour le champ personnalisé.
 
 ### <a name="word"></a>Word
@@ -615,7 +690,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Corrige un problème qui provoque l’échec de la recherche dans le volet de recherche étendu, poussant les utilisateurs à cliquer sur le bouton Rechercher.
 - Résolution d’un problème dans lequel la recherche n’indique aucune information sur les utilisateurs lorsque l’option « Afficher les photographies des utilisateurs quand disponible » est désactivée.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Résolution d’un problème en raison duquel les dates de tâches récapitulatives n’ont pas toujours été calculées correctement.
 - Résolution d’un problème d’absence de déclenchement de l’événement OnUndoOrRedo sans exécution au préalable de la méthode OpenUndoTransaction.
 
@@ -665,7 +740,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows.
+- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -790,7 +865,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - **Gagnez en productivité grâce au Concepteur de requêtes, au mode SQL et à la fenêtre Relations :** cliquez sur une table avec le bouton droit pour ouvrir, créer, dimensionner et masquer celle-ci. Rechercher et remplacer du texte en mode SQL. Sélectionnez plusieurs tables dans la fenêtre Relations.
 

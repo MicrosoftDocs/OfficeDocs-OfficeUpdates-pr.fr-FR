@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider Fast pour ordinateur de bureau Windows
-ms.openlocfilehash: 13263186e115180da3b989267f23721b13790f93
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
+ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668076"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44853952"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historique des mises à jour pour Office Beta Channel
 
-Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Insider, vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
 > - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
@@ -29,13 +30,20 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 > - L’historique de mise à jour ici répertorie toutes les builds publiées
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu'au numéro de build publié des notes de publication.
 
-## <a name="office-beta-versions-and-builds"></a>Versions et versions bêta d’Office
+## <a name="office-beta-channel-versions-and-builds"></a>Versions et versions de canal bêta d’Office
 
-Si vous êtes au niveau des Insiders, vous recevez régulièrement des mises à jour avec de nouvelles fonctionnalités et des améliorations. La liste suivante présente un historique des versions bêta et des versions récentes, **la dernière version publiée étant répertoriée en premier**. Les nouvelles builds contiennent toutes les mises à jour contenues dans les versions précédentes.
+Si vous êtes au niveau des Insiders, vous recevez régulièrement des mises à jour avec de nouvelles fonctionnalités et des améliorations. La liste suivante présente un historique des versions de canal bêta récentes et des builds, **la dernière version publiée étant répertoriée en premier**. Les nouvelles builds contiennent toutes les mises à jour contenues dans les versions précédentes.
 
-Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
+Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
+
 
 [//]: # (NE PAS SUPPRIMER)
+
+**23 juin 2020**<br/>
+Version 2007 (Build 13020,20004)<br/>
+
+**15 juin 2020**<br/>
+Version 2007 (Build 13012,20000)<br/>
 
 **09 juin 2020**<br/>
 Version 2007 (Build 13006,20002)<br/>

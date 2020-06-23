@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 13bb14c00a9066c7437cde9a00f94a078788d5c5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
+ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668009"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44810866"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les versions de canal actuelles dans 2020
 
@@ -354,11 +354,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="onenote"></a>OneNote
 
-- Synchronisation et la stabilité du serveur améliorées par désactivation temporaire du déplacement de pages dans la corbeille. Les utilisateurs qui souhaitent supprimer une page verront à la place une boîte de dialogue leur demandant s’ils souhaitent supprimer définitivement la page.
-
 - Informez les utilisateurs via la barre d’informations sur les ajustements temporaires dans Microsoft OneNote qui contribueront à améliorer la synchronisation et la disponibilité des services pendant une utilisation internationale.
-
-- Synchronisation et stabilité du service améliorées par modification temporaire de la fréquence de création des historiques des versions de page.
 
 ### <a name="project"></a>Project
 
@@ -408,8 +404,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Synchronisation et stabilité du service améliorées par réduction temporaire de la taille maximale admissible des nouvelles pièces jointes incorporées à 50 Mo. Pour les fichiers dont la taille est supérieure à cette limite, les utilisateurs peuvent, via une option, charger le fichier dans OneDrive et insérer un lien dans OneNote.
 
-- Synchronisation et stabilité du service améliorées par désactivation temporaire de l’enregistrement vidéo dans l’application sous OneNote 2016. Les blocs-notes locaux ne sont pas affectés par cette mesure.
-
 - Synchronisation et stabilité du service améliorées par ajustement temporaire de la fréquence de synchronisation dans OneNote 2016.
 
 ### <a name="outlook"></a>Outlook
@@ -421,7 +415,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Amélioration du scénario copier-coller : lors de la Copie de forme d'une diapositive PowerPoint et son collage en boucle dans une autre diapositive qui peut échouer avec une exception.
 
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème dans lequel l’événement ProjectBeforeTaskChange ne détecte pas quand une tâche a été inactivée/activée à l’aide du bouton Inactiver.
 
@@ -473,16 +467,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Les utilisateurs peuvent désormais enregistrer des objets dans Word et Excel en tant que fichier SVG :** Les utilisateurs peuvent enregistrer des objets tels que des graphiques, des formes, des entrées manuscrites, des icônes, des images, etc. en tant que fichier SVG. [Pour plus d'informations](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 - **Statistiques du classeur :** Cellules, formules, graphiques, tableaux... Nous les comptons pour que vous n’ayez pas à le faire.
 
 - **Profilage des données dans l’éditeur de requêtes :** Obtenez en un clin d'œil l'analyse des données dans vos colonnes, identifiez les valeurs d’erreur et les valeurs vides, consultez les histogrammes de distribution, etc.
-
-### <a name="word"></a>Word
-
-- **Les utilisateurs peuvent désormais enregistrer des objets dans Word et Excel en tant que fichier SVG :** Les utilisateurs peuvent enregistrer des objets tels que des graphiques, des formes, des entrées manuscrites, des icônes, des images, etc. en tant que fichier SVG. [Pour plus d'informations](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -548,7 +535,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Résolution d'un problème qui confrontait les utilisateurs à un blocage lors de l'annulation d'une configuration de compte.
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - Nous avons résolu un problème dans lequel 100 % des tâches à durée fixe pouvaient présenter un pourcentage d’achèvement incorrect représentant une valeur inférieure à 100 %.
 
