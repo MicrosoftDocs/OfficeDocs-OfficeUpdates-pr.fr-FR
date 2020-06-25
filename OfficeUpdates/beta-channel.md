@@ -9,14 +9,14 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
-ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
+ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44814303"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874790"
 ---
-# <a name="release-notes-for-office-insiders"></a>Notes de publication pour Office Insiders
+# <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
 Cet article contient des notes de publication pour les versions bêta de canaux de Word, Excel, PowerPoint, Outlook, Access et Project pour Windows. Chaque semaine, nous mettons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Nous allons souvent déployer les fonctionnalités (et parfois les correctifs) sur le canal bêta sur une période de temps. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
 

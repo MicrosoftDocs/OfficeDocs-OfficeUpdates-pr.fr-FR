@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810866"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874780"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les versions de canal actuelles dans 2020
 
@@ -31,6 +31,74 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2005-june-24"></a>Version 2005:24 juin
+*Version 2005 (Build 12827,20470)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Ce bogue a maintenant été résolu ; vous devriez pouvoir appeler le type de données date/heure étendue dans votre code sans rencontrer de panne dans votre application. Indiquez à l’équipe si vous rencontrez d’autres problèmes.
+
+
+- Ce problème a maintenant été résolu ; vous pouvez maintenant revenir à votre version d’accès la plus récente et utiliser DAO/VBA pour gérer et modifier un type de données décimal. Veuillez indiquer à l’équipe Access si vous rencontrez des problèmes supplémentaires concernant l’utilisation de notre type de données.
+
+
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème : le code XML CustomUI pour un onglet de ruban personnalisé a été supprimé lors de l’enregistrement dans SharePoint/OneDrive.
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- Résoudre un problème où Outlook n’a pas pu activer la stratégie de protection contre la perte de données personnes pour les utilisateurs qui ont payé le service qui se trouve sur les plans M365 Business plus.
+
+
+- Résoudre un problème : les utilisateurs ont pu voir la date de création des pièces jointes copiées sur leur système de fichiers via la fonction glisser-déplacer sur le 1er janvier 4501.
+
+
+- Résoudre un problème : les règles de cet ordinateur entraînaient la non-concordance des règles sur les &quot; messages Microsoft Exchange &quot; lors de la mise à jour de leurs règles dans Outlook.
+
+
+- Résoudre un problème : les utilisateurs des améliorations du calendrier partagé ont été améliorés pour afficher les défaillances du calendrier.
+
+
+- A résolu un problème : les utilisateurs rencontraient des blocages intermittents et se bloquaient dans certains scénarios.
+
+
+- Résolution d’un problème : les utilisateurs ont pu demander à Outlook de les inviter à exécuter l’outil réparation de la boîte de réception.
+
+
+- Résoudre un problème à l’origine de la recherche d’une fonctionnalité dans suggérer une fonctionnalité permettant de ne renvoyer aucun résultat et de laisser l’utilisateur sans option pour soumettre une nouvelle idée de fonctionnalité.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème de blocage avec le volet de suggestions.
+
+
+### <a name="project"></a>Projet
+
+- Résolution d’un problème : une tâche marquée de 100% achevé est susceptible de se trouver à un pourcentage d’achèvement inférieur à 100%.
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème qui a pu causer un blocage lors du déplacement de contenu à partir de l’application.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Cette modification concerne les blocages potentiels lors du chargement et de la lecture de contenu animé tel que des images gif ou des modèles 3D.
+
 
 
 
@@ -329,7 +397,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies par l’utilisateur.
+- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies pour l’utilisateur.
 
 ### <a name="outlook"></a>Outlook
 
@@ -356,7 +424,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Informez les utilisateurs via la barre d’informations sur les ajustements temporaires dans Microsoft OneNote qui contribueront à améliorer la synchronisation et la disponibilité des services pendant une utilisation internationale.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.
 
@@ -415,7 +483,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Amélioration du scénario copier-coller : lors de la Copie de forme d'une diapositive PowerPoint et son collage en boucle dans une autre diapositive qui peut échouer avec une exception.
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - Résolution d’un problème dans lequel l’événement ProjectBeforeTaskChange ne détecte pas quand une tâche a été inactivée/activée à l’aide du bouton Inactiver.
 
@@ -535,7 +603,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Résolution d'un problème qui confrontait les utilisateurs à un blocage lors de l'annulation d'une configuration de compte.
 
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Nous avons résolu un problème dans lequel 100 % des tâches à durée fixe pouvaient présenter un pourcentage d’achèvement incorrect représentant une valeur inférieure à 100 %.
 

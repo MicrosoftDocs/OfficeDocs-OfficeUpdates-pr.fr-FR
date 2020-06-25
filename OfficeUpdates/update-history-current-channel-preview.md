@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: b162030edbc15fd4d9dd5c7ce78b75853dc417da
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796695"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874830"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour Office Current Channel (aperçu) pour Windows
 
@@ -24,7 +24,7 @@ Pour plus d’informations sur le programme Insiders, cliquez [ici](https://insi
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versions et builds du canal actif Office (aperçu)
 
 Si vous êtes au niveau du canal actuel (aperçu), précédemment appelé « Insider Slow », vous obtenez une nouvelle mise à jour de fonctionnalité Office environ une fois par mois, plus les versions ultérieures contenant des correctifs importants ou des mises à jour de sécurité. La liste suivante présente les versions récentes des canaux actuels (préversion) et des builds, **la dernière version publiée étant répertoriée en premier**. Les nouvelles builds contiennent toutes les mises à jour contenues dans les versions précédentes.
-Pour trouver des notes de publication, voir [what’s New for Office Insiders](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Pour trouver des notes de publication, [reportez-vous](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)à. De plus, vous pouvez voir [les nouveautés d’Office Insiders](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 
 > [!IMPORTANT]
