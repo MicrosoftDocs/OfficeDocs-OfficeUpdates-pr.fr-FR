@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796685"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889060"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour Office Current Channel (aperçu)
 
@@ -32,6 +32,46 @@ Cet article contient des notes de publication pour les versions actuelles des ca
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2006-june-25"></a>Version 2006:25 juin
+*Version 2006 (Build 13001,20266)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="visio"></a>Visio
+
+- **Créez des diagrammes Visio soignés dans Excel :** Créer un organigramme ou un organigramme basé sur les données d’une feuille de calcul.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- <div>Ce problème est maintenant résolu. Indiquez à l’équipe si vous rencontrez davantage de problèmes avec ce processus.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Résolution <span style="display:inline !important;">d’un problème à l’origine de <span>&nbsp;</span> l’affichage des utilisateurs</span> <span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">Date de création des &nbsp; pièces jointes copiées dans leur système de fichiers via la fonction glisser-déplacer &nbsp; définie sur le 1er janvier 4501.</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Résolution d’un problème : les utilisateurs des améliorations du calendrier partagé ont été améliorés pour afficher les défaillances du calendrier.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Résolution d’un problème : les utilisateurs ont pu demander à Outlook de les inviter à exécuter l’outil réparation de la boîte de réception.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Résolution d’un problème : la recherche d’une fonctionnalité dans suggérer une fonctionnalité ne renvoie aucun résultat et laisse l’utilisateur sans option pour soumettre une nouvelle idée de fonctionnalité.</span><br></div>
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2006-june-18"></a>Version 2006:18 juin
 *Version 2006 (Build 13001,20198)*
@@ -69,7 +109,7 @@ Cet article contient des notes de publication pour les versions actuelles des ca
 
 - Résoudre un problème à l’origine de Ctrl + clic pour cesser de fonctionner lorsque les paramètres de Cloud étaient activés.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème : une tâche marquée de 100% achevé est susceptible de se trouver à un pourcentage d’achèvement inférieur à 100%.
 
@@ -173,7 +213,7 @@ Cet article contient des notes de publication pour les versions actuelles des ca
 
 - Nous avons résolu un problème dans lequel l’éditeur de diapositives d’une diapositive se chevaucherait sur la diapositive suivante.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution du problème où l’événement ProjectBeforeTaskChange, ne se déclenche pas lors d’une modification apportée à la tâche récapitulative du projet-soit le champ début de projet/tâche.
 
@@ -732,7 +772,7 @@ Cet article contient des notes de publication pour les versions actuelles des ca
 
 - Cette modification corrige un problème dans lequel la recherche de caractères spéciaux à l’aide de l’option « Rechercher uniquement les mots entiers » ne fonctionne pas toujours comme prévu.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème en raison duquel les dates de tâches récapitulatives n’ont pas toujours été calculées correctement.
 
@@ -884,7 +924,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - <div><span style="display:inline !important;">Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.</span><br></div>
 
@@ -1104,7 +1144,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - <div>Résolution d’un problème en raison duquel les dates de tâches récapitulatives n’ont pas toujours été calculées correctement.</div>
 
 
