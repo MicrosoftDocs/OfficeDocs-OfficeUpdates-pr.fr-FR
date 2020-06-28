@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874790"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906909"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,34 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2007-june-26"></a>Version 2007:26 juin
+*Version 2007 (Build 13020,20004)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Nous avons résolu un problème : le gestionnaire de tables liées demande une clé primaire si une table SQL liée a été actualisée.
+- Nous avons résolu un problème : les requêtes de l’éditeur de requêtes ne dépassent pas l’affichage.
+- Nous avons résolu un problème : l’exécution de la requête prend environ deux fois plus de temps que prévu.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème : les utilisateurs n’étaient pas en mesure de « envoyer en tant que » ou « envoyer de la part de » d’une liste de distribution.
+- Nous avons résolu un problème où l’insertion d’une image incorporée dans un message, puis l’enregistrement du message en tant que brouillon entraînerait le redimensionnement de l’image.
+- Nous avons résolu un problème : le corps d’un message de notification d’erreur de remise passe de Unicode à ASCII après avoir modifié l’objet.
+
+### <a name="project"></a>Projet
+
+- Nous avons résolu un problème où les liens du planificateur de projets dans les environnements de Cloud communautaire du secteur public avaient été désactivés.
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème : le texte inséré dans un fichier SVG (Scalable Vector Graphics) était illisible après son insertion dans un fichier Word, Excel ou PowerPoint, l’enregistrement et la fermeture du fichier, puis la réouverture du fichier.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2007-june-19"></a>Version 2007:19 juin
 *Version 2007 (Build 13012,20000)*
@@ -624,7 +652,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 - Résolution d’un problème : dans un ensemble de résultats de recherche renvoyés, le tri des résultats par catégories n’affichait pas les couleurs de la catégorie.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème : l’événement Visual Basic Applications (VBA) « ProjectBeforeTaskChange » ne se produisait lorsque l’utilisateur cliquait sur le bouton « Désactiver » dans le ruban des tâches du regroupement de planification.
 
@@ -690,7 +718,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Corrige un problème qui provoque l’échec de la recherche dans le volet de recherche étendu, poussant les utilisateurs à cliquer sur le bouton Rechercher.
 - Résolution d’un problème dans lequel la recherche n’indique aucune information sur les utilisateurs lorsque l’option « Afficher les photographies des utilisateurs quand disponible » est désactivée.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Résolution d’un problème en raison duquel les dates de tâches récapitulatives n’ont pas toujours été calculées correctement.
 - Résolution d’un problème d’absence de déclenchement de l’événement OnUndoOrRedo sans exécution au préalable de la méthode OpenUndoTransaction.
 
