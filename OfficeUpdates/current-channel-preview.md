@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889060"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001178"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour Office Current Channel (aperçu)
 
@@ -109,7 +109,7 @@ Cet article contient des notes de publication pour les versions actuelles des ca
 
 - Résoudre un problème à l’origine de Ctrl + clic pour cesser de fonctionner lorsque les paramètres de Cloud étaient activés.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - Résolution d’un problème : une tâche marquée de 100% achevé est susceptible de se trouver à un pourcentage d’achèvement inférieur à 100%.
 
@@ -213,7 +213,7 @@ Cet article contient des notes de publication pour les versions actuelles des ca
 
 - Nous avons résolu un problème dans lequel l’éditeur de diapositives d’une diapositive se chevaucherait sur la diapositive suivante.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - Résolution du problème où l’événement ProjectBeforeTaskChange, ne se déclenche pas lors d’une modification apportée à la tâche récapitulative du projet-soit le champ début de projet/tâche.
 
@@ -362,10 +362,7 @@ Cet article contient des notes de publication pour les versions actuelles des ca
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
-### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="excel"></a>Excel
 
-- **Obtenir les données d’organisation de Power bi à l’aide des types de données Excel :** Vous pouvez insérer des données à partir de votre organisation à l’aide des types de données Excel. Convertissez une cellule de votre classeur et obtenez des informations supplémentaires, puis actualisez les données à tout moment.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -924,7 +921,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - <div><span style="display:inline !important;">Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.</span><br></div>
 
@@ -1307,7 +1304,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Résolution d’un problème de surlignage : les textes blancs avec des couleurs de surlignage foncées sont imprimés en noir en nuances de gris.
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - Nous avons résolu un problème dans lequel 100 % des tâches à durée fixe pouvaient présenter un pourcentage d’achèvement incorrect représentant une valeur inférieure à 100 %.
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874780"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015626"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les versions de canal actuelles dans 2020
 
@@ -31,6 +31,89 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2006-june-30"></a>Version 2006:30 juin
+*Version 2006 (Build 13001,20266)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Noms de fichiers plus longs :** Excel pour le bureau Windows prend désormais en charge les fichiers OneDrive/SharePoint dont le nom et le chemin d’accès sont de 400 caractères maximum.
+
+### <a name="outlook"></a>Outlook
+
+- **Nouvelle option pour désactiver les suggestions @mentions lors de la composition de courrier dans Outlook :** le sélecteur @mentionner est-il plus ennuyeux qu’utile ? Vous pouvez désormais l'activer ou le désactive, si vous préférez.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Boutons supplémentaires ajoutés aux notifications Toast Outlook :** Les boutons d’action rapide apparaissent maintenant dans les notifications Toast Outlook lors de l’exécution d’Outlook sur Windows 10
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Amélioration des performances vidéo dans PowerPoint :** Nous avons apporté des améliorations aux performances de lecture des vidéos Microsoft Stream afin de réduire le temps de chargement vidéo et de créer une expérience de visionnage sans complication. Utilisez les vidéos de votre entreprise à partir de Microsoft Stream pour créer de meilleurs présentations.
+
+### <a name="teams"></a>Équipes
+
+- **Les numéros de téléphone PSTN des participants sont masqués pour les utilisateurs externes :** Pour les clients ayant activé l’audioconférence pour leurs réunions Teams, nous allons masquer le numéro de téléphone du participant PSTN aux utilisateurs qui se sont connectés depuis l’extérieur de votre organisation.
+
+- **Simplification de la gestion des paramètres de notification de canal :** Par le biais de la liste teams and Channels ou de l’en-tête de canal, les utilisateurs peuvent rapidement gérer leurs paramètres de notification en activant ou en désactivant toutes les activités d’un simple clic ou d’une plongée dans Custom pour définir leurs permutations préférées.
+
+- Présentation de la **conversation :** Communication vocale instantanée à l’aide de la fonctionnalité appuyer pour parler.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Nous avons résolu un problème : l’exécution de la requête prend environ deux fois plus de temps que prévu.
+
+
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème : le code XML CustomUI pour un onglet de ruban personnalisé a été supprimé lors de l’enregistrement dans SharePoint/OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Résoudre un problème : les utilisateurs ont pu voir la date de création des pièces jointes copiées sur leur système de fichiers via la fonction glisser-déplacer sur le 1er janvier 4501.
+
+- Résoudre un problème : les utilisateurs des améliorations du calendrier partagé ont été améliorés pour afficher les défaillances du calendrier.
+
+
+- Résolution d’un problème : les utilisateurs ont pu demander à Outlook de les inviter à exécuter l’outil réparation de la boîte de réception.
+
+
+- Résoudre un problème à l’origine de Ctrl + clic pour cesser de fonctionner lorsque les paramètres de Cloud étaient activés.
+
+
+- Résoudre un problème à l’origine de la recherche d’une fonctionnalité dans suggérer une fonctionnalité permettant de ne renvoyer aucun résultat et de laisser l’utilisateur sans option pour soumettre une nouvelle idée de fonctionnalité.
+
+
+### <a name="project"></a>Projet
+
+- Résolution d’un problème : les projets n’ont pas pu être ouverts dans le client de bureau Project à partir de Project Web App si l’URL s’est terminée dans. com.
+
+
+- Résolution du problème où l’événement ProjectBeforeTaskChange, ne se déclenche pas lors d’une modification apportée à la tâche récapitulative du projet-soit le champ début de projet/tâche.
+
+
+- Résolution d’un problème : une tâche marquée de 100% achevé est susceptible de se trouver à un pourcentage d’achèvement inférieur à 100%.
+
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème lors de l’ouverture de documents Word à partir de la remise d’un document personnalisé (aspx) lorsque l’URL contient un composant de requête.
 
 
 
@@ -397,7 +480,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies pour l’utilisateur.
+- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies par l’utilisateur.
 
 ### <a name="outlook"></a>Outlook
 
@@ -483,7 +566,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Amélioration du scénario copier-coller : lors de la Copie de forme d'une diapositive PowerPoint et son collage en boucle dans une autre diapositive qui peut échouer avec une exception.
 
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème dans lequel l’événement ProjectBeforeTaskChange ne détecte pas quand une tâche a été inactivée/activée à l’aide du bouton Inactiver.
 
@@ -603,7 +686,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Résolution d'un problème qui confrontait les utilisateurs à un blocage lors de l'annulation d'une configuration de compte.
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - Nous avons résolu un problème dans lequel 100 % des tâches à durée fixe pouvaient présenter un pourcentage d’achèvement incorrect représentant une valeur inférieure à 100 %.
 
