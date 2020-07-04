@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
-ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
+ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
+ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/26/2020
-ms.locfileid: "44906909"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "45037078"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,58 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2007-july-03"></a>Version 2007:03 juillet
+*Version 2007 (Build 13029,20006)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Créer des sondages dans Outlook avec le sondage rapide :** Créer facilement un sondage, collecter des votes et afficher les résultats dans un e-mail [en savoir plus](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Nouvelle recherche de salles :** rechercher des salles de conférence selon différentes fonctionnalités.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème : les tables de modèles de données créées dans certaines versions d’Excel n’étaient pas visibles dans l’aperçu de table, même si la requête associée à la table n’avait pas été modifiée.
+- Nous avons résolu un problème où la désactivation de la mention « ignorer les références relatives/absolue » dans la boîte de dialogue définir un nom \ appliquer des noms entraînerait le non-fonctionnement des formules.
+- Nous avons résolu un problème : la suppression d’un filtre de données avancé pouvait entraîner la perte de la mise en forme de tableau.
+- Nous avons résolu un problème : le chemin d’accès complet d’un document PDF incorporé s’affichait dans la légende du document et non simplement dans le nom de fichier.
+- Nous avons résolu un problème : après avoir désactivé le Wolfram Cloud Connector, puis enregistré et rouvert un classeur Excel, cela pourrait entraîner un blocage.
+- Nous avons résolu un problème : le démarrage d’Excel avec le complément Solver entraînait un blocage.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème : Outlook se bloquait si plus de 130 destinataires étaient sur la ligne « à » et nous avons également amélioré les performances du rendu du texte.
+- Nous avons résolu un problème dans la « barre des tâches » où des événements ayant eu lieu depuis plus de deux jours affichaient la même heure de fin pour tous les jours suivants.
+- Nous avons résolu un problème : les utilisateurs d’Outlook étaient à l’origine de la mise à jour de leur liste de messages après avoir utilisé des calendriers partagés.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème où le collage du code HTML dans une zone de texte d’une diapositive serait alors collé dans une zone de texte créée en haut de la diapositive.
+- Nous avons résolu un problème : le fait de sélectionner toutes les diapositives dans le mode Présentateur, puis de quitter le mode Présentateur en appuyant sur Alt + Tab et de revenir au diaporama et de cliquer sur « fin du diaporama » entraînerait une exception non gérée.
+
+### <a name="project"></a>Projet
+
+- Nous avons résolu un problème dans lequel Project peut se bloquer lors de l’ouverture de certains fichiers XML.
+- Nous avons résolu un problème dans lequel vous ne pouviez pas ouvrir un fichier de projet à partir d’une bibliothèque de documents SharePoint si la bibliothèque était en mode moderne.
+- Nous avons résolu un problème : les projets n’ont pas pu être ouverts dans le client de bureau Project à partir de Project Web App si l’URL s’est terminée dans « . com ».
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème lors du mode de co-création lorsqu’il existe un conflit de fusion et que l’utilisateur a déjà choisi d’ignorer les modifications, nous n’avons plus l’option d’enregistrer ou d’ignorer les modifications.
+- Nous avons résolu un problème : lors de la tentative d’enregistrement d’un fichier contenant une macro sous un nouveau nom, il serait enregistré avec une extension. docx et le nom de fichier « WRO0004.docx », indépendamment de ce que l’utilisateur a entré, rendant le document inutilisable.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2007-june-26"></a>Version 2007:26 juin
 *Version 2007 (Build 13020,20004)*
@@ -481,7 +533,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Corrige un problème qui entraînait l’invalidation des règles de suppression créées pour les boîtes aux lettres autres que la boîte aux lettres principale de l’utilisateur.
 - Corrige un problème qui entraînait la suppression des pièces jointes lors du transfert d’un message chiffré.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 - Lorsque des données prédécesseur/successeur sont modifiées en mode Formulaire, un ProjectBeforeTaskChangeevent supplémentaire se déclenche.
 - Résolution d’un problème dans lequel Project se bloque lors de la modification du champ État de tableau sur un projet connecté à une liste de tâches SharePoint.
 - Résolution d’un problème dans lequel Project se bloque lors de l’enregistrement de projets créés avec d’anciennes versions de Project.
@@ -605,7 +657,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="powerpoint"></a>PowerPoint
 - Cette modification corrige une erreur qui pouvait provoquer l’échec de l'enregistrement de fichiers PowerPoint contenant des Emoji.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Résolution d’un problème de création de table de choix vide créée, même si elle ne devait pas l'être, lorsque l’élément « CustomFieldValueListGetItem » était exécuté et qu'une table de choix n'était pas présente pour le champ personnalisé.
 
 ### <a name="word"></a>Word
@@ -652,7 +704,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 - Résolution d’un problème : dans un ensemble de résultats de recherche renvoyés, le tri des résultats par catégories n’affichait pas les couleurs de la catégorie.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
 - Résolution d’un problème : l’événement Visual Basic Applications (VBA) « ProjectBeforeTaskChange » ne se produisait lorsque l’utilisateur cliquait sur le bouton « Désactiver » dans le ruban des tâches du regroupement de planification.
 
@@ -893,7 +945,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - **Gagnez en productivité grâce au Concepteur de requêtes, au mode SQL et à la fenêtre Relations :** cliquez sur une table avec le bouton droit pour ouvrir, créer, dimensionner et masquer celle-ci. Rechercher et remplacer du texte en mode SQL. Sélectionnez plusieurs tables dans la fenêtre Relations.
 
