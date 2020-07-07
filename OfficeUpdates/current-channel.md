@@ -9,12 +9,11 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
-ms.translationtype: MT
+ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
+ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015626"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45049484"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les versions de canal actuelles dans 2020
 
@@ -100,7 +99,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - Résoudre un problème à l’origine de la recherche d’une fonctionnalité dans suggérer une fonctionnalité permettant de ne renvoyer aucun résultat et de laisser l’utilisateur sans option pour soumettre une nouvelle idée de fonctionnalité.
 
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème : les projets n’ont pas pu être ouverts dans le client de bureau Project à partir de Project Web App si l’URL s’est terminée dans. com.
 
@@ -169,7 +168,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - Nous avons résolu un problème de blocage avec le volet de suggestions.
 
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème : une tâche marquée de 100% achevé est susceptible de se trouver à un pourcentage d’achèvement inférieur à 100%.
 
@@ -204,7 +203,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Cela permet de résoudre un blocage lorsque les utilisateurs ont à la fois des commentaires modernes et hérités dans un fichier, déclenchant ainsi une mise à niveau sur les commentaires.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution du problème où l’événement ProjectBeforeTaskChange, ne se déclenche pas lors d’une modification apportée à la tâche récapitulative du projet-soit le champ début de projet/tâche.
 
@@ -507,7 +506,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Informez les utilisateurs via la barre d’informations sur les ajustements temporaires dans Microsoft OneNote qui contribueront à améliorer la synchronisation et la disponibilité des services pendant une utilisation internationale.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.
 
@@ -588,7 +587,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème d’absence de déclenchement de l’événement OnUndoOrRedo sans exécution au préalable de la méthode OpenUndoTransaction.
 
@@ -686,7 +685,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Résolution d'un problème qui confrontait les utilisateurs à un blocage lors de l'annulation d'une configuration de compte.
 
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Nous avons résolu un problème dans lequel 100 % des tâches à durée fixe pouvaient présenter un pourcentage d’achèvement incorrect représentant une valeur inférieure à 100 %.
 
@@ -824,3 +823,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
+
+[//]: # (NE PAS MODIFIER LE DÉBUT DU CONTENU DES MÉTADONNÉES DU CENTRE D’ADMINISTRATION)
+[//]: # (| Win32 | CC | Production | | 16.0.13001.20266 | version-2006-juin-30 |)
+[//]: # (NE PAS MODIFIER LA FIN DE CONTENU DES MÉTADONNÉES DU CENTRE D’ADMINISTRATION)
