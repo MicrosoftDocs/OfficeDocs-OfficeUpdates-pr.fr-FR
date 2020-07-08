@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037078"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052627"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -70,7 +70,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Nous avons résolu un problème où le collage du code HTML dans une zone de texte d’une diapositive serait alors collé dans une zone de texte créée en haut de la diapositive.
 - Nous avons résolu un problème : le fait de sélectionner toutes les diapositives dans le mode Présentateur, puis de quitter le mode Présentateur en appuyant sur Alt + Tab et de revenir au diaporama et de cliquer sur « fin du diaporama » entraînerait une exception non gérée.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Nous avons résolu un problème dans lequel Project peut se bloquer lors de l’ouverture de certains fichiers XML.
 - Nous avons résolu un problème dans lequel vous ne pouviez pas ouvrir un fichier de projet à partir d’une bibliothèque de documents SharePoint si la bibliothèque était en mode moderne.
@@ -101,7 +101,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Nous avons résolu un problème où l’insertion d’une image incorporée dans un message, puis l’enregistrement du message en tant que brouillon entraînerait le redimensionnement de l’image.
 - Nous avons résolu un problème : le corps d’un message de notification d’erreur de remise passe de Unicode à ASCII après avoir modifié l’objet.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Nous avons résolu un problème où les liens du planificateur de projets dans les environnements de Cloud communautaire du secteur public avaient été désactivés.
 
@@ -133,7 +133,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 - Nous avons résolu un problème dans lequel l’indicateur de couleur de présence d’un utilisateur n’a pas été actualisé dans la Galerie de co-création pendant une session de co-création en direct.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Nous avons résolu un problème où, si les tâches à durée fixe sont achevées à 100%, mais que la fin réelle n’est pas spécifiée, la tâche% achevé afficherait moins de 100%.
 
@@ -172,7 +172,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 - Nous avons résolu un problème : le quadrillage principal des graphiques en radar n’a pas pu être mis en forme correctement.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Nous avons résolu un problème où l’événement ProjectBeforeTaskChange, n’était pas déclenché lorsqu’une modification a été apportée à la tâche récapitulative du projet, soit le champ début de projet/tâche.
 - Nous avons résolu un problème : une réinitialisation ou une mise à jour de base pouvait modifier les ressources de travail/coût budgétaire chronologiques et la planification initiale pouvait refléter des valeurs de budget incorrectes.
@@ -234,7 +234,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Nous avons résolu un problème dans lequel un volet de commentaires qui avait été fermé par l’utilisateur se rouvrirait automatiquement.
 - Nous avons résolu un problème dans lequel l’éditeur de diapositives d’une diapositive se chevaucherait sur la diapositive suivante.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Nous avons résolu un problème qui empêchait la suppression ou le réaffectation des tâches orphelines après la suppression de leur plan parent.
 
@@ -329,7 +329,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 - Nous avons résolu un problème dans lequel le zoom avant ou arrière de la zone de présentation provoquait un intervalle entre le rectangle de sélection à zoom et le pointeur de la souris.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Nous avons résolu un problème où Project se bloquait après avoir cliqué sur options.
 
@@ -533,7 +533,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Corrige un problème qui entraînait l’invalidation des règles de suppression créées pour les boîtes aux lettres autres que la boîte aux lettres principale de l’utilisateur.
 - Corrige un problème qui entraînait la suppression des pièces jointes lors du transfert d’un message chiffré.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Lorsque des données prédécesseur/successeur sont modifiées en mode Formulaire, un ProjectBeforeTaskChangeevent supplémentaire se déclenche.
 - Résolution d’un problème dans lequel Project se bloque lors de la modification du champ État de tableau sur un projet connecté à une liste de tâches SharePoint.
 - Résolution d’un problème dans lequel Project se bloque lors de l’enregistrement de projets créés avec d’anciennes versions de Project.
@@ -614,7 +614,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 - Cette modification corrige un problème dans lequel la recherche de caractères spéciaux à l’aide de l’option « Rechercher uniquement les mots entiers » ne fonctionne pas toujours comme prévu.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.
 
@@ -704,7 +704,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 - Résolution d’un problème : dans un ensemble de résultats de recherche renvoyés, le tri des résultats par catégories n’affichait pas les couleurs de la catégorie.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 
 - Résolution d’un problème : l’événement Visual Basic Applications (VBA) « ProjectBeforeTaskChange » ne se produisait lorsque l’utilisateur cliquait sur le bouton « Désactiver » dans le ruban des tâches du regroupement de planification.
 
@@ -770,7 +770,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Corrige un problème qui provoque l’échec de la recherche dans le volet de recherche étendu, poussant les utilisateurs à cliquer sur le bouton Rechercher.
 - Résolution d’un problème dans lequel la recherche n’indique aucune information sur les utilisateurs lorsque l’option « Afficher les photographies des utilisateurs quand disponible » est désactivée.
 
-### <a name="project"></a>Projet
+### <a name="project"></a>Project
 - Résolution d’un problème en raison duquel les dates de tâches récapitulatives n’ont pas toujours été calculées correctement.
 - Résolution d’un problème d’absence de déclenchement de l’événement OnUndoOrRedo sans exécution au préalable de la méthode OpenUndoTransaction.
 
@@ -997,3 +997,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 - Résout un problème qui peut être à l’origine de l’installation incorrecte des outils de vérification linguistique pour le Nynorsk norvégien (nn-no).
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+
+[//]: # (NE PAS MODIFIER LE DÉBUT DU CONTENU DES MÉTADONNÉES DU CENTRE D’ADMINISTRATION)
+[//]: # (NE PAS MODIFIER LA FIN DE CONTENU DES MÉTADONNÉES DU CENTRE D’ADMINISTRATION)
