@@ -1,5 +1,5 @@
 ---
-title: Historique des mises à jour pour le canal actif de Microsoft Office (aperçu)
+title: Historique des mises à jour pour le canal actuel d’Office (Preview)
 ms.author: anankani
 author: anankani
 manager: andrewmo
@@ -9,22 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: f64aecd4727f710575d87312f00e4a65eb92ce72
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
-ms.translationtype: MT
+ms.openlocfilehash: cf1196ce142f481b62565cac610396c087e7c291
+ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889050"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45094654"
 ---
-# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour Office Current Channel (aperçu) pour Windows
+# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour le canal actuel d’Office (Preview) pour Windows
 
-Hello, Insiders ! Si vous vous demandez si la dernière mise à jour est installée ou si vous recherchez une liste des versions récentes des canaux actuels (aperçu), vous êtes au bon endroit.
-Pour plus d’informations sur le programme Insiders, cliquez [ici](https://insider.office.com/) .
+Bonjour! Si vous vous demandez si vous avez la dernière mise à jour installée ou recherchez une liste des dernières versions des canaux actuels (Preview), vous êtes au bon endroit.
+Pour plus d’informations sur le programme Insider, cliquez [ici](https://insider.office.com/).
 
-## <a name="office-current-channel-preview-versions-and-builds"></a>Versions et builds du canal actif Office (aperçu)
+## <a name="office-current-channel-preview-versions-and-builds"></a>Versions et builds du canal actuel Office actuel (Preview)
 
-Si vous êtes au niveau du canal actuel (aperçu), précédemment appelé « Insider Slow », vous obtenez une nouvelle mise à jour de fonctionnalité Office environ une fois par mois, plus les versions ultérieures contenant des correctifs importants ou des mises à jour de sécurité. La liste suivante présente les versions récentes des canaux actuels (préversion) et des builds, **la dernière version publiée étant répertoriée en premier**. Les nouvelles builds contiennent toutes les mises à jour contenues dans les versions précédentes.
-Pour trouver des notes de publication, [reportez-vous](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)à. De plus, vous pouvez voir [les nouveautés d’Office Insiders](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Si vous êtes inscrit au niveau canal actuel (Preview), autrefois appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds suivant contenant des correctifs importants ou des mises à jour de sécurité. La liste suivante répertorie les versions et builds récentes des canaux actuels (Preview), avec **la build la plus récemment publiée répertoriée en premier**. Les nouvelles builds incluent toutes les mises à jour contenues dans les builds précédentes.
+Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/fr-FR/OfficeUpdates/current-channel-preview). De plus, vous pouvez voir [nouveautés pour les utilisateurs du site Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 
 > [!IMPORTANT]
@@ -38,29 +38,32 @@ Pour trouver des notes de publication, [reportez-vous](https://docs.microsoft.co
 
 [//]: # (NE PAS SUPPRIMER)
 
-**25 juin 2020**<br/>
-Version 2006 (Build 13001,20266)<br/>
+**Juillet 09, 2020**<br/>
+Version 2006 (Build 13001.20384)<br/>
 
-**18 juin 2020**<br/>
-Version 2006 (Build 13001,20198)<br/>
+**25 juin 2020**<br/>
+Version 2006 (Build 13001.20266)<br/>
 
-**11 juin 2020**<br/>
-Version 2006 (Build 13001,20144)<br/>
+**18 juin 2020**<br/>
+Version 2006 (Build 13001.20198)<br/>
 
-**08 juin 2020**<br/>
-Version 2005 (Build 12827,20336)<br/>
+**11 juin 2020**<br/>
+Version 2006 (Build 13001.20144)<br/>
 
-**04 juin 2020**<br/>
-Version 2005 (Build 12827,20320)<br/>
+**8 juin 2020**<br/>
+Version 2005 (Build 12827.20336)<br/>
 
-**29 mai 2020**<br/>
-Version 2005 (Build 12827,20268)<br/>
+**4 juin 2020**<br/>
+Version 2005 (Build 12827.20320)<br/>
 
-**21 mai 2020**<br/>
-Version 2005 (Build 12827,20210)<br/>
+**29 mai, 2020**<br/>
+Version 2005 (Build 12827.20268)<br/>
 
-**14 mai 2020**<br/>
-Version 2005 (Build 12827,20160)<br/>
+**21 mai 2020**<br/>
+Version 2005 (Build 12827.20210)<br/>
+
+**14 mai 2020**<br/>
+Version 2005 (Build 12827.20160)<br/>
 
 **11 mai 2020**<br/>
 Version 2004 (build 12730.20270)<br/>
