@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
-ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
-ms.translationtype: MT
+ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735454"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121744"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
@@ -27,8 +27,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-2004-june-09"></a>Version 2004:09 juin
-*Version 2004 (Build 12730,20430)*
+## <a name="version-2004-june-09"></a>Version 2004 : 09 juin
+*Version 2004 (build 12730.20430)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -36,7 +36,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - **Ajouter des tableaux comportant moins de clics :** utiliser le volet Office Ajouter des tableaux qui reste ouvert pendant que vous travaillez, pour ajouter des tableaux à des relations et des requêtes. [En savoir plus](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
@@ -46,7 +46,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Fin de la prise en charge du connecteur Facebook :** à compter d’avril 2020 avril, Excel ne prend plus en charge les connexions de données externes qui utilisent le connecteur Facebook.
 
-- **Nouvelles images pour donner vie à vos classeurs :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos classeurs. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos classeurs :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos classeurs. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -54,25 +54,25 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Faites glisser le message vers un groupe dont vous êtes propriétaire :** déplacer et copier les messages et les conversations en les faisant glisser à partir de votre boîte de réception. Les messages que vous faites glisser sont partagés avec tous les membres du groupe.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)
 
-- **Calendrier obtient une modification :** Consultez la rubrique mises à jour visuelles qui facilitent l’analyse de votre calendrier. [En savoir plus](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
+- **Le calendrier est une modernisation :** voir les mises à jour visuelles qui facilitent la numérisation de votre calendrier. [Si vous souhaitez en savoir plus](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Nouvelles images pour donner vie à vos messages :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos messages . Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos messages :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos messages . Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama. [En savoir plus](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
+- **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama. [Si vous souhaitez en savoir plus](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Nouvelles images pour donner vie à vos diapositives :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos diapositives. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos diapositives :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos diapositives. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="word"></a>Word
 
-- **Sélection par lasso de vos entrées manuscrites :** l’outil Lasso de l’onglet Dessiner vous permet de sélectionner des objets tracés au moyen de l’entrée manuscrite. Sélectionnez des traits individuels ou des mots entiers. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Sélection par lasso de vos entrées manuscrites :** l’outil Lasso de l’onglet Dessiner vous permet de sélectionner des objets tracés au moyen de l’entrée manuscrite. Sélectionnez des traits individuels ou des mots entiers. [Si vous souhaitez en savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Nouvelles images pour donner vie à vos documents :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos documents. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos documents :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos documents. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="office-suite"></a>Suite Office
 
@@ -88,9 +88,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Résolution d’un problème : le lien externe cesse de fonctionner après la réouverture du fichier si le chemin d’accès du fichier est trop long.
+- Résolution d’un problème dans lequel le lien externe cesse de fonctionner une fois le fichier rouvert, si le chemin d’accès du fichier est trop long.
 
-- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies par l’utilisateur.
+- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies pour l’utilisateur.
 
 - Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
 
@@ -98,7 +98,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="outlook"></a>Outlook
 
-- A résolu un problème : les utilisateurs rencontraient un blocage lors de la soumission de commentaires d’une notification d’administrateur.
+- Nous avons résolu un problème qui amenait les utilisateurs à rencontrer un blocage lors de l’envoi de commentaires d’une notification d’administrateur.
 
 - Résolution d’un problème qui entraînait un blocage de l’interface lors de la fermeture d’Outlook.
 
@@ -118,9 +118,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="office-suite"></a>Suite Office
 
-- Résolution d’un problème « démarrer en un clic » qui a entraîné l’échec de la mise à jour lors de la tentative de liaison physique des liens symboliques.
+- Nous avons résolu un problème de type « démarrer en un clic » qui a provoqué l’échec de la mise à jour lors de la tentative de liaison matérielle de liens symboliques.
 
-- L’hôte Office se bloque dans Windows, lorsqu’un complément est activé alors que la clé de Registre HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth est définie sur zéro. Cette modification corrige ce problème.
+- L’hôte Office a cessé de fonctionner dans Windows, lorsqu’un complément est activé alors que la clé de Registre HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth est définie sur zéro. Cette modification peut résoudre ce problème.
 
 - Ce correctif permet de résoudre une erreur qui se produit en empêchant l’accès restreint et la protection des fichiers avec un mot de passe en même temps.
 
@@ -132,10 +132,10 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2003-june-09"></a>Version 2003:09 juin
-*Version 2003 (Build 12624,20708)*
+## <a name="version-2003-june-09"></a>Version 2003 : 09 juin
+*Version 2003 (build 12624.20708)*
 
-Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -308,3 +308,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
+
+
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
