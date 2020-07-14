@@ -9,16 +9,16 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
-ms.translationtype: MT
+ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
+ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052627"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45098668"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
-Cet article contient des notes de publication pour les versions bêta de canaux de Word, Excel, PowerPoint, Outlook, Access et Project pour Windows. Chaque semaine, nous mettons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Nous allons souvent déployer les fonctionnalités (et parfois les correctifs) sur le canal bêta sur une période de temps. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
+Cet article contient les notes de publication relatives aux builds de canal bêta de Word, Excel, PowerPoint, Outlook, Access et Project sur ordinateur de bureau Windows. Chaque semaine, nous mettons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Notez que certaines fonctionnalités (voire certains correctifs parfois) sont souvent proposées aux participants au programme Office canal bêta pour une durée délimitée. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
 
 > [!IMPORTANT]
 > Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
@@ -31,15 +31,37 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2007-july-03"></a>Version 2007:03 juillet
-*Version 2007 (Build 13029,20006)*
+## <a name="version-2008-july-10"></a>Version 2008 : 10 juillet
+*Version 2008 (Build 13102.20002)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème dans lequel l’option autoriser le transfert n’était pas disponible dans le calendrier partagé « Options de réponse » si l’option Télécharger le dossier partagé n’a PAS été activée.
+- Nous avons résolu un problème qui afficherait le bouton imprimer dans un état désactivé, même si l’utilisateur disposait des autorisations d’impression appropriées.
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème à l'origine d'un échec si vous essayiez d'enregistrer un fichier PDF/XPS de Project dans une bibliothèque de documents SharePoint.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel Word cesserait de répondre une fois le texte et l'image collés dans une zone de commentaires.
+- Nous avons résolu un problème dans lequel le bouton « Nouveau commentaire » serait désactivé une fois le dernier commentaire supprimé.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2007-july-03"></a>Version 2007 : 03 juillet
+*Version 2007 (build 13029.20006)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Créer des sondages dans Outlook avec le sondage rapide :** Créer facilement un sondage, collecter des votes et afficher les résultats dans un e-mail [en savoir plus](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **Créer des sondages dans Outlook avec le sondage rapide :** créer facilement un sondage, collecter des votes et afficher les résultats dans un courrier électronique [En savoir plus](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **Nouvelle recherche de salles :** rechercher des salles de conférence selon différentes fonctionnalités.
 
@@ -52,110 +74,110 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Nous avons résolu un problème : les tables de modèles de données créées dans certaines versions d’Excel n’étaient pas visibles dans l’aperçu de table, même si la requête associée à la table n’avait pas été modifiée.
-- Nous avons résolu un problème où la désactivation de la mention « ignorer les références relatives/absolue » dans la boîte de dialogue définir un nom \ appliquer des noms entraînerait le non-fonctionnement des formules.
-- Nous avons résolu un problème : la suppression d’un filtre de données avancé pouvait entraîner la perte de la mise en forme de tableau.
-- Nous avons résolu un problème : le chemin d’accès complet d’un document PDF incorporé s’affichait dans la légende du document et non simplement dans le nom de fichier.
-- Nous avons résolu un problème : après avoir désactivé le Wolfram Cloud Connector, puis enregistré et rouvert un classeur Excel, cela pourrait entraîner un blocage.
-- Nous avons résolu un problème : le démarrage d’Excel avec le complément Solver entraînait un blocage.
+- Nous avons résolu un problème dans lequel les tableaux du modèle de données créées dans certaines versions d’Excel ne pouvaient pas être affichées dans « Aperçu de la tableau », même si la requête associée au tableau n’a pas été modifiée.
+- Nous avons résolu un problème pour lequel la désactivation des références « ignorer relatif/absolu » dans la boîte de dialogue « Définir le nom \ Appliquer les noms » empêchait les formules de fonctionner.
+- Nous avons résolu un problème dans lequel l’effacement d’un filtre de données avancé risque de perdre la mise en forme d’un tableau.
+- Nous avons résolu un problème dans lequel le chemin d’accès complet d’un document PDF incorporé s'affichait dans la légende du document plutôt que sur le nom de fichier.
+- Nous avons résolu un problème qui, après avoir désactivé le connecteur de cloud Wolfram, puis enregistré et rouvert un classeur Excel, pouvait entraîner un blocage.
+- Nous avons résolu un problème dans lequel le démarrage d'Excel avec le complément Solveur activé provoquait un blocage.
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème : Outlook se bloquait si plus de 130 destinataires étaient sur la ligne « à » et nous avons également amélioré les performances du rendu du texte.
-- Nous avons résolu un problème dans la « barre des tâches » où des événements ayant eu lieu depuis plus de deux jours affichaient la même heure de fin pour tous les jours suivants.
-- Nous avons résolu un problème : les utilisateurs d’Outlook étaient à l’origine de la mise à jour de leur liste de messages après avoir utilisé des calendriers partagés.
+- Nous avons résolu un problème à l’origine du blocage d’Outlook si plus de 130 destinataires ont été trouvés sur la ligne « À ». nous avons également amélioré les performances de rendu du texte.
+- Nous avons résolu un problème dans la « Barre des tâches » où les événements se sont écoulés depuis plus de deux jours, affichant la même heure de fin pour tous les jours suivants.
+- Nous avons résolu un problème qui empêchait les utilisateurs d'Outlook de voir leur liste de messages cesser de se mettre à jour pendant plusieurs minutes après avoir utilisé des calendriers partagés.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Nous avons résolu un problème où le collage du code HTML dans une zone de texte d’une diapositive serait alors collé dans une zone de texte créée en haut de la diapositive.
-- Nous avons résolu un problème : le fait de sélectionner toutes les diapositives dans le mode Présentateur, puis de quitter le mode Présentateur en appuyant sur Alt + Tab et de revenir au diaporama et de cliquer sur « fin du diaporama » entraînerait une exception non gérée.
+- Nous avons résolu un problème pour lequel le fait de coller du code HTML dans une zone de texte d’une diapositive était plutôt copié dans une zone de texte créée en haut de la diapositive.
+- Nous avons résolu un problème dans lequel le fait de sélectionner toutes les diapositives en mode Présentateur, puis de quitter le mode présentateur à l’aide de Alt + Tab pour revenir au diaporama et cliquer sur « Arrêter le diaporama » aurait pour résultat une exception non gérée.
 
 ### <a name="project"></a>Project
 
-- Nous avons résolu un problème dans lequel Project peut se bloquer lors de l’ouverture de certains fichiers XML.
-- Nous avons résolu un problème dans lequel vous ne pouviez pas ouvrir un fichier de projet à partir d’une bibliothèque de documents SharePoint si la bibliothèque était en mode moderne.
-- Nous avons résolu un problème : les projets n’ont pas pu être ouverts dans le client de bureau Project à partir de Project Web App si l’URL s’est terminée dans « . com ».
+- Nous avons résolu un problème dans lequel Project se bloque lors de l’ouverture de certains fichiers XML.
+- Nous avons résolu un problème qui empêchait d'ouvrir un fichier de projet à partir d'une bibliothèque de documents SharePoint si la bibliothèque était en mode moderne.
+- Nous avons résolu un problème qui empêchait l'ouverture de projets dans le client de bureau Project à partir de la Project Web App si l'URL se terminait par « .com ».
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème lors du mode de co-création lorsqu’il existe un conflit de fusion et que l’utilisateur a déjà choisi d’ignorer les modifications, nous n’avons plus l’option d’enregistrer ou d’ignorer les modifications.
-- Nous avons résolu un problème : lors de la tentative d’enregistrement d’un fichier contenant une macro sous un nouveau nom, il serait enregistré avec une extension. docx et le nom de fichier « WRO0004.docx », indépendamment de ce que l’utilisateur a entré, rendant le document inutilisable.
+- Nous avons résolu un problème lors du mode de co-édition en cas de conflit de fusion et si l’utilisateur a déjà choisi d’ignorer les modifications, l’option d’enregistrement ou d’annulation des modifications n’est plus affichée.
+- Nous avons résolu un problème qui avait pour effet que, lors de la tentative d’enregistrement d’un fichier contenant une macro sous un nouveau nom, le fichier était enregistré sous le nom WRO0004.docx, quel que soit son auteur, rendant le document inutilisable.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2007-june-26"></a>Version 2007:26 juin
-*Version 2007 (Build 13020,20004)*
+## <a name="version-2007-june-26"></a>Version 2007 : 26 juin
+*Version 2007 (build 13020.20004)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="access"></a>Access
 
-- Nous avons résolu un problème : le gestionnaire de tables liées demande une clé primaire si une table SQL liée a été actualisée.
-- Nous avons résolu un problème : les requêtes de l’éditeur de requêtes ne dépassent pas l’affichage.
-- Nous avons résolu un problème : l’exécution de la requête prend environ deux fois plus de temps que prévu.
+- Nous avons résolu un problème dans lequel le gestionnaire des tables liées demandait une clé primaire si une table SQL liée était actualisée.
+- Nous avons résolu un problème dans lequel les requêtes dans l'éditeur de requêtes défilaient hors de l'affichage.
+- Nous avons résolu un problème dans lequel l'exécution des requêtes prenait environ deux fois plus de temps que prévu.
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème : les utilisateurs n’étaient pas en mesure de « envoyer en tant que » ou « envoyer de la part de » d’une liste de distribution.
-- Nous avons résolu un problème où l’insertion d’une image incorporée dans un message, puis l’enregistrement du message en tant que brouillon entraînerait le redimensionnement de l’image.
-- Nous avons résolu un problème : le corps d’un message de notification d’erreur de remise passe de Unicode à ASCII après avoir modifié l’objet.
+- Nous avons résolu un problème pour lequel les utilisateurs ne pouvaient pas « Envoyer en tant que » ou « Envoyer de la part de » d’une liste de distribution.
+- Nous avons résolu un problème dans lequel l’insertion d’une image dans un message, puis l’enregistrement d’un message en tant que brouillon entraînerait le redimensionnement de l’image.
+- Nous avons résolu un problème à l'origine de la modification du corps d'un message NDR qui passait de l'Unicode à l'ASCII après avoir modifié le sujet.
 
 ### <a name="project"></a>Project
 
-- Nous avons résolu un problème où les liens du planificateur de projets dans les environnements de Cloud communautaire du secteur public avaient été désactivés.
+- Nous avons résolu un problème dans lequel les liens du planificateur Project dans les environnements de cloud de la communauté secteur public avaient été désactivés.
 
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons résolu un problème : le texte inséré dans un fichier SVG (Scalable Vector Graphics) était illisible après son insertion dans un fichier Word, Excel ou PowerPoint, l’enregistrement et la fermeture du fichier, puis la réouverture du fichier.
+- Nous avons résolu un problème dans lequel le texte inséré dans un graphique vectoriel évolutif (SVG) était illisible une fois qu’il a été inséré dans un fichier Word, Excel ou PowerPoint, lorsque vous enregistrez et fermez le fichier, puis rouvrez le fichier.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2007-june-19"></a>Version 2007:19 juin
-*Version 2007 (Build 13012,20000)*
+## <a name="version-2007-june-19"></a>Version 2007 : 19 juin
+*Version 2007 (build 13012.20000)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Nous avons résolu un problème : CustomUI XML pour un onglet de ruban personnalisé a été supprimé lors de l’enregistrement d’un classeur dans SharePoint/OneDrive.
-- Nous avons résolu un problème : les classeurs étaient en lecture seule lorsque le fichier n’était recommandé qu’en lecture seule.
+- Nous avons résolu un problème dans lequel CustomUI XML pour un onglet de ruban personnalisé a été supprimé lors de l’enregistrement d’un classeur dans SharePoint/OneDrive.
+- Nous avons résolu un problème à l’origine de l’accès en lecture seule des classeurs uniquement lorsque la lecture seule est recommandée pour le fichier.
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème : la fenêtre de l’éditeur de méthode d’entrée (IME) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec différentes résolutions.
-- Nous avons résolu un problème qui entraînait l’affichage de l’erreur suivante lors de la fermeture d’un rendez-vous qui a été précédemment enregistré : «l’élément ne peut pas être enregistré car il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous créer une copie dans le dossier par défaut de l’élément ? "
-- Nous avons résolu un problème : les dates du mini-calendrier n’étaient pas affichées en gras pour les utilisateurs au Japon.
-- Nous avons résolu un problème qui empêchait les rappels de calendrier de montrer des temps précis pour les réunions en moins d’une semaine.
+- Nous avons résolu un problème dans lequel la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec des résolutions différentes.
+- Nous avons résolu un problème à l’origine de l’erreur qui s’est produite lors de la fermeture d’un rendez-vous qui a été enregistré précédemment : «l’élément ne peut pas être enregistré parce qu’il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous effectuer une copie dans le dossier par défaut de l’élément ?»
+- Nous avons résolu un problème dans lequel les dates du mini-calendrier n’ont pas pu s’afficher en gras pour les utilisateurs résidant au Japon.
+- Nous avons résolu un problème qui empêchait les rappels de calendrier de représenter les horaires exacts pour les réunions en moins d’une semaine.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Nous avons résolu un problème dans lequel l’indicateur de couleur de présence d’un utilisateur n’a pas été actualisé dans la Galerie de co-création pendant une session de co-création en direct.
+- Nous avons résolu un problème dans lequel l’indicateur de couleur de présence d’un utilisateur n’a pas été actualisé dans la galerie de co-édition pendant une session de co-édition en temps réel.
 
 ### <a name="project"></a>Project
 
-- Nous avons résolu un problème où, si les tâches à durée fixe sont achevées à 100%, mais que la fin réelle n’est pas spécifiée, la tâche% achevé afficherait moins de 100%.
+- Nous avons résolu un problème dans lequel les tâches de durée fixe sont achevées à 100%, mais la fin réelle n’est pas spécifiée, le pourcentage de la tâche achevée affiche moins de 100%.
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème : la couleur des liens hypertexte HTML n’était pas affichée correctement.
+- Nous avons résolu un problème pour lequel la couleur des liens hypertexte HTML n’était pas rendue correctement.
 
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons résolu un problème : les URL qui n’étaient pas basées sur http ou https n’étaient pas affichées dans la liste des derniers fichiers utilisés.
+- Nous avons résolu un problème dans lequel les URL qui n’étaient pas http ou https n’étaient pas affichées dans la liste des plus récemment utilisés.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2007-june-12"></a>Version 2007:12 juin
-*Version 2007 (Build 13006,20002)*
+## <a name="version-2007-june-12"></a>Version 2007 : 12 juin
+*Version 2007 (build 13006.20002)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Obtenir les données d’organisation de Power bi à l’aide des types de données :** Les types de données Excel de Power BI sont désormais déployés pour les Insiders dans les organisations disposant d’Office 365 E5/a5 ou Microsoft 365 E5/a5. Obtenir les informations dont vous avez besoin et les actualiser facilement est essentiel à un grand nombre de flux de travail quotidiens. Nous vous offrons un accès aux informations de votre entreprise ou de votre organisation à partir de Power BI comme type de données dans Excel, ce qui vous permet de saisir des informations liées dans vos feuilles de calcul. [En savoir plus](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Obtenir des données d’organisation à partir de Power BI à l’aide de types de données :** les types de données Excel de Power BI sont désormais déployés pour les Insiders dans les organisations avec Office 365 E5/A5 ou Microsoft 365 E5/A5. Il est essentiel de récupérer les informations dont vous avez besoin et de les actualiser facilement dans de nombreux flux de travail quotidiens. Nous vous donnons accès aux informations sur votre entreprise ou organisation à partir de Power BI sous la forme d'un type de données dans Excel, ce qui vous permet d'introduire des informations liées dans vos feuilles de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -166,41 +188,41 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="access"></a>Access
 
-- Nous avons résolu un problème : Microsoft Access ne parvient pas à identifier une colonne identity dans une table SQL Server liée, ce qui pourrait entraîner une dédéclaration incorrecte des lignes.
+- Nous avons résolu un problème à l’origine de l’identification par Microsoft Access d’une colonne d’identité dans un tableau SQL Server lié, ce qui peut entraîner la suppression incorrecte des lignes.
 
 ### <a name="excel"></a>Excel
 
-- Nous avons résolu un problème : le quadrillage principal des graphiques en radar n’a pas pu être mis en forme correctement.
+- Nous avons résolu un problème qui empêchait la mise en forme correcte des principales lignes de quadrillage des cartes radar.
 
 ### <a name="project"></a>Project
 
-- Nous avons résolu un problème où l’événement ProjectBeforeTaskChange, n’était pas déclenché lorsqu’une modification a été apportée à la tâche récapitulative du projet, soit le champ début de projet/tâche.
-- Nous avons résolu un problème : une réinitialisation ou une mise à jour de base pouvait modifier les ressources de travail/coût budgétaire chronologiques et la planification initiale pouvait refléter des valeurs de budget incorrectes.
+- Nous avons un problème dans lequel l’événement ProjectBeforeTaskChange n’était pas déclenché en cas de modification de la tâche récapitulative de projet, soit le champ début de projet/tâche.
+- Nous avons résolu un problème à l’origine de la réinitialisation ou de la mise à jour d’un planning de référence susceptible de modifier les coûts budgétaires/ressources de travail, et le planning de référence pouvait refléter des valeurs budgétaires incorrectes.
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème : la possibilité de supprimer la mise en forme dans le volet de commentaires via le bouton Effacer la mise en forme dans le ruban Office ne fonctionnait pas.
-- Nous avons résolu un problème : la modification de la taille d’un tableau lorsque la règle n’était pas affichée a entraîné le clignotement d’autres applications en arrière-plan.
-- Nous avons résolu un problème où, dans le mode de co-création, les réponses de commentaire ne s’affichaient pas dans le volet de commentaires, mais seraient visibles dans le volet révisions.
-- Nous avons résolu un problème : si Word avait une liste de plus de 50 documents fréquemment ouverts, après l’enregistrement et l’ouverture d’un document, un historique des révisions serait affiché même si aucune révision n’a été apportée à ce document.
+- Nous avons résolu un problème dans lequel la possibilité de supprimer la mise en forme dans le volet commentaires à l’aide du bouton Effacer la mise en forme dans le ruban Office ne fonctionnait pas.
+- Nous avons résolu un problème dans lequel la modification de la taille d’un tableau lorsque la règle n’est pas affichée provoquait le clignotement d'autres applications fonctionnant en arrière-plan.
+- Nous avons résolu un problème où, dans le mode de co-édition, les réponses de commentaire ne s’affichent pas dans le volet commentaires, mais seraient visibles dans le volet révisions.
+- Nous avons résolu un problème dans lequel Word avait une liste de plus de 50 documents fréquemment ouverts. Une fois qu’un document a été enregistré et ouvert, l’historique des révisions s’affiche, même si aucune révision n’a été apportée au document.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2006-june-05"></a>Version 2006 : juin 05
-*Version 2006 (Build 13001,20002)*
+## <a name="version-2006-june-05"></a>Version 2006 : 05 juin
+*Version 2006 (Build 13001.20002)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Sort/Filter lors de la collaboration dans Excel :** Vous pouvez désormais trier et filtrer votre fichier Excel tout en collaborant avec d’autres personnes. Cette nouvelle fonctionnalité vous empêche d’avoir un impact sur les tris et les filtres d’autres utilisateurs lors de la co-création du document.
+- **Trier/filtrer pendant la collaboration dans Excel :** vous pouvez désormais trier et filtrer votre fichier Excel pendant que vous collaborez avec d’autres personnes. Cette nouvelle fonctionnalité vous empêche d’être concerné par les tris et filtres d’autres utilisateurs lors de la co-édition du document.
 
-- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power bi dans Excel :** Vous pouvez créer des tableaux croisés dynamiques dans Excel connectés à des jeux de données stockés dans Power BIen quelques clics.Cela vous permet d’obtenir le meilleur des deux tableaux croisés dynamiques et de Power BI. Calculer, résumer et analyser vos données à l’aide de tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [En savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics.Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [Si vous souhaitez en savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
-- **Rouvrir rapidement des éléments à partir d’une session précédente :** Nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente. Qu’Outlook se bloque ou que vous le fermiez, vous pouvez à présent relancer rapidement les éléments lors de la réouverture de l’application. Cette fonctionnalité est activée par défaut. Pour la désactiver, accédez à options > général > options de démarrage.
+- **Rouvrir rapidement des éléments à partir d’une session précédente : **nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente. Qu'Outlook se bloque ou que vous le fermez, vous pourrez désormais relancer rapidement les éléments lorsque vous rouvrez l'application. Cette fonctionnalité est activée par défaut. Pour désactiver cette fonctionnalité, accédez à Options > Général > Options de démarrage.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -212,51 +234,51 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Nous avons résolu un problème : les valeurs personnalisées sur l’axe du graphique ne seraient pas appliquées correctement.
-- Nous avons résolu un problème : les feuilles de calcul contenant plusieurs formules avec des noms définis étaient plus longues à l’enregistrement des fichiers.
+- Nous avons résolu un problème pour lequel les valeurs personnalisées sur l’axe du graphique ne seraient pas appliquées correctement.
+- Nous avons résolu un problème dans lequel les feuilles de calcul contenant plusieurs formules avec des noms définis ont été plus longues à l’enregistrement des fichiers.
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème où la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec différentes résolutions.
-- Nous avons résolu un problème dans lequel l’affichage d’un modèle lors de la composition d’un nouveau message électronique entraînerait un blocage.
-- Nous avons résolu un problème : les dossiers publics Exchange 2010 n’étaient pas en mesure d’utiliser la version 1911 d’Outlook.
-- Nous avons résolu le problème de désactivation du bouton classer pour les calendriers de groupe dans le ruban Office.
-- Nous avons résolu un problème : les utilisateurs rencontraient des contacts en conflit pour rencontrer des blocages dans Outlook.
-- Nous avons résolu un problème : la liste déroulante archive en ligne des propriétés du dossier était manquante pour les utilisateurs sur les moniteurs haute résolution.
-- Nous avons résolu un problème : les utilisateurs rencontraient une panne dans Outlook lors de l’utilisation de liens hypertexte dans les messages électroniques en texte brut.
-- Nous avons résolu un problème : Outlook ne pouvait pas analyser les noms de fichiers longs codés avec RFC2231.
-- Nous avons résolu un problème : les utilisateurs d’Outlook rencontraient des blocages intermittents lors de l’utilisation des lecteurs d’écran.
+- Nous avons résolu un problème dans lequel la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec des résolutions différentes.
+- Nous avons résolu un problème pour lequel la consultation d’un modèle lors de la rédaction d’un nouveau message électronique entraîne un blocage.
+- Nous avons résolu un problème pour lequel les utilisateurs n’ont pas pu utiliser les dossiers publics Exchange 2010 après la version 1911 d’Outlook.
+- Nous avons résolu un problème dans lequel le bouton Catégoriser des calendriers de groupe dans le ruban Office était désactivé.
+- Nous avons résolu un problème qui entraînait l’arrêt de l’expérience des utilisateurs présentant des conflits de contacts dans Outlook.
+- Nous avons résolu un problème à l’aide duquel la liste déroulante de l’archive en ligne était manquante pour les utilisateurs sur les écrans haute résolution.
+- Nous avons résolu un problème qui entraînait un blocage d’Outlook lors de l’utilisation de liens hypertexte dans les messages électroniques en texte brut.
+- Nous avons résolu un problème qui empêchait Outlook d’analyser les noms de fichiers longs encodés avec RFC2231.
+- Nous avons résolu un problème à l’origine du blocage intermittent des utilisateurs d’Outlook lors de l’utilisation de lecteurs d’écran.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Nous avons résolu un problème lors de l’ouverture de fichiers configurés par le serveur avec l’authentification basée sur les formulaires.
-- Nous avons résolu un problème : les fichiers PowerPoint contenant des graphiques ou des classeurs incorporés pouvaient provoquer des échecs lors de l’enregistrement du fichier.
-- Nous avons résolu un problème dans lequel un volet de commentaires qui avait été fermé par l’utilisateur se rouvrirait automatiquement.
+- Nous avons résolu un problème lors de l’ouverture de fichiers configurés sur le serveur avec l’authentification basée sur les formulaires.
+- Nous avons résolu un problème dans lequel les fichiers PowerPoint contenant des graphiques ou des classeurs incorporés peuvent provoquer des erreurs lors de l’enregistrement du fichier.
+- Nous avons résolu un problème dans lequel un volet de commentaire fermé par l’utilisateur se rouvrirait automatiquement.
 - Nous avons résolu un problème dans lequel l’éditeur de diapositives d’une diapositive se chevaucherait sur la diapositive suivante.
 
 ### <a name="project"></a>Project
 
-- Nous avons résolu un problème qui empêchait la suppression ou le réaffectation des tâches orphelines après la suppression de leur plan parent.
+- Nous avons résolu un problème qui empêchait la suppression ou la réassignation des tâches orphelines une fois leur offre parente supprimée.
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème : les estampilles dans les volets de commentaires n’étaient pas basées sur les paramètres régionaux du système.
-- Nous avons résolu un problème : les commentaires entre l’application Web et l’application de bureau n’étaient pas synchronisés.
+- Nous avons résolu un problème pour lequel les horodateurs dans les volets de commentaires ne sont pas basés sur l’heure locale du système.
+- Nous avons résolu un problème dans lequel les commentaires entre l’application Web et l’application de bureau ne sont pas synchronisés.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 
-## <a name="version2006may29"></a>Version 2006:29 mai
-*Version 2006 (Build 12920,20000)*
+## <a name="version2006may29"></a>Version 2006 : 29 mai
+*Version 2006 (Build 12920.20000)*
 
 ### <a name="featureupdates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Boutons supplémentaires ajoutés aux notifications Toast Outlook :** Les boutons d’action rapide apparaissent maintenant dans les notifications de Toast Outlook lors de l’exécution d’Outlook sur Windows 10.
+- **Boutons supplémentaires ajoutés aux notifications de Toast Outlook :** les boutons d’action rapide s’affichent désormais dans les notifications Outlook Toast lors de l’exécution d’Outlook sur Windows 10.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Amélioration des performances vidéo dans PowerPoint :** Nous avons apporté des améliorations aux performances de lecture des vidéos Microsoft Stream afin de réduire le temps de chargement vidéo et de créer une expérience de visionnage sans complication.  Utilisez les vidéos de votre entreprise à partir de Microsoft Stream pour créer de meilleurs présentations.
+- **Amélioration des performances de la vidéo dans PowerPoint :** nous avons apporté des améliorations aux performances de lecture des vidéos Microsoft Stream afin de réduire le temps de chargement de la vidéo et de créer une expérience de visionnage plus lisse.  Utilisez les vidéos de votre entreprise à partir de Microsoft Stream pour créer de meilleures présentations.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -268,42 +290,42 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 ### <a name="excel"></a>Excel
 
-- Nous avons résolu un problème : Excel s’était parfois arrêté lors de l’implication de OneDrive.
-- Nous avons résolu un problème : le fait de cliquer sur un lien hypertexte avec signet dans le même classeur entraînait le masquage du classeur.
-- Nous avons résolu un problème où certains liens de graphiques copiés et collés utilisaient des adresses de lecteur mappées plutôt que des adresses universelles.
-- Nous avons résolu un problème : Excel pouvait cesser de répondre après avoir utilisé Ctrl + Maj + touches de direction pour faire défiler la fenêtre Excel partagée par Teams.
+- Nous avons résolu un problème à l’origine de l’arrêt possible d’Excel lors de l’implication de OneDrive.
+- Nous avons résolu un problème dans lequel le fait de cliquer sur un lien hypertexte avec signet dans le même classeur a pour effet de masquer le classeur.
+- Nous avons résolu un problème dans lequel certains liens de graphiques copier et coller utilisaient des adresses de lecteurs mappées plutôt que des adresses universelles.
+- Nous avons résolu un problème dans lequel Excel pourrait cesser de répondre une fois que vous avez utilisé Ctrl + Maj + touches de direction pour faire défiler la fenêtre Excel partagée par l’intermédiaire de Teams.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Nous avons résolu un problème : les diapositives n’étaient pas centrées après le zoom à l’aide de la roulette de la souris.
+- Nous avons résolu un problème dans lequel les diapositives n’étaient pas centrées après un zoom à l’aide de la roulette de la souris.
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème : la copie et le collage de texte dans un volet de commentaires ne s’affichaient pas.
-- Nous avons résolu un problème : les bulles d’indicateurs de commentaire étaient floues à 100% zoom.
-- Nous avons résolu un problème : l’activation des modèles et documents binaires de stratégie Word 2007 et version ultérieure entraînait l’échec de certains cas de co-création.
-- Nous avons résolu un problème : les fichiers dont le chemin d’accès est long (supérieur à 32 Ko) ne s’affichaient pas et aucun message d’erreur approprié n’était affiché.
+- Nous avons résolu un problème dans lequel copier et coller du texte dans un volet de commentaires ne s’affiche pas.
+- Nous avons résolu un problème dans lequel les bulles de commentaires ont été floues au zoom 100%.
+- Nous avons résolu un problème dans lequel l’activation des modèles et documents binaires Word 2007 et versions ultérieures entraînerait l’échec de certains cas de co-édition.
+- Nous avons résolu un problème dans lequel les fichiers comportant des noms de chemin d’accès longs (plus de 32 Ko) ne s’ouvrent pas et aucun message d’erreur approprié ne s’affiche.
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-## <a name="version-2006-may-22"></a>Version 2006:22 mai
-*Version 2006 (Build 12914,20000)*
+## <a name="version-2006-may-22"></a>Version 2006 : 22 mai
+*Version 2006 (Build 12914.20000)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Enregistrer dans les dossiers épinglés :** Épingler vos dossiers facilite l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs veulent plus de contrôle sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis de vous apporter une nouvelle fonctionnalité : épinglez vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Enregistrer dans les dossiers épinglés :** Épingler vos dossiers facilite l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs veulent plus de contrôle sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis de vous apporter une nouvelle fonctionnalité : épinglez vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Enregistrer dans les dossiers épinglés :** Épingler vos dossiers facilite l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs veulent plus de contrôle sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis de vous apporter une nouvelle fonctionnalité : épinglez vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -314,35 +336,35 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Nous avons résolu un problème dans lequel le message d’erreur « Impossible de fermer ce classeur actuellement référencé par un autre » s’affiche, car les compléments étaient en cours de chargement par ordre alphabétique et non dans un ordre spécifié par l’utilisateur.
-- Nous avons résolu un problème : la mémoire était endommagée lors de la gestion des polices entre Excel et certaines applications de technologie d’assistance tierces.
-- Nous avons résolu un problème : Excel se bloquait lorsque les compléments demanderont des éléments hôtes sur des feuilles de calcul contenant des formes avec des verrous noselect.
+- Nous avons résolu un problème dans lequel le message d’erreur « ce classeur est actuellement référencé par une autre et ne peut pas être fermé » apparaît, car les compléments ont été chargés par ordre alphabétique plutôt que dans l’ordre spécifié par l’utilisateur.
+- Nous avons résolu un problème de corruption de la mémoire lors de la gestion des polices entre Excel et certaines applications de technologie d’assistance tierces.
+- Nous avons résolu un problème dans lequel Excel se bloquait lorsque les compléments demandaient des éléments hôtes sur des feuilles de calcul qui contiennent des formes avec des verrous noselect.
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème dans lequel l’événement Folder. BeforeItemMove, ne se déclenche pas correctement lorsqu’un utilisateur a déplacé des éléments entre des dossiers.
-- Nous avons résolu un problème où les utilisateurs avaient vu des éléments de calendrier ayant dépassé le seuil de minuit en tant qu’événements d’une journée entière.
-- Nous avons résolu un problème au cours duquel Outlook s’est bloqué lorsque deux compléments ajoutaient un bouton au même groupe dans le ruban.
-- Nous avons résolu un problème : les utilisateurs n’étaient pas en mesure de partager un calendrier avec un utilisateur invité.
+- Nous avons résolu un problème dans lequel l’événement Folder.BeforeItemMove n’était pas déclenché correctement lorsqu’un utilisateur a déplacé des éléments entre des dossiers.
+- Nous avons résolu un problème pour lequel les utilisateurs ont trouvé des éléments de calendrier qui s’étendaient du seuil de minuit comme Journées entières.
+- Nous avons résolu un problème dans lequel Outlook s’est bloqué lorsque deux compléments ajoutaient un bouton au même groupe dans le ruban.
+- Nous avons résolu un problème qui empêchait les utilisateurs de partager un calendrier avec un utilisateur invité.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Nous avons résolu un problème dans lequel le zoom avant ou arrière de la zone de présentation provoquait un intervalle entre le rectangle de sélection à zoom et le pointeur de la souris.
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation a provoqué un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
 
 ### <a name="project"></a>Project
 
-- Nous avons résolu un problème où Project se bloquait après avoir cliqué sur options.
+- Nous avons résolu un problème dans lequel Project se bloque après avoir cliqué sur options.
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème où les liens hypertexte dans les commentaires ne fonctionnaient pas.
-- Nous avons résolu un problème dans lequel le zoom avant ou arrière de la zone de présentation provoquait un intervalle entre le rectangle de sélection à zoom et le pointeur de la souris.
-- Nous avons résolu un problème où le collage de code HTML dans WordMail pour le calendrier ne fonctionnait pas.
-- Nous avons résolu un problème : la réponse à un commentaire dans une session co-créée pouvait parfois se figer.
+- Nous avons résolu un problème dans lequel les liens hypertexte dans les commentaires ne fonctionnaient pas.
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation a provoqué un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+- Nous avons résolu un problème dans lequel le fait de coller du code HTML dans WordMail pour le calendrier ne fonctionnait pas.
+- Nous avons résolu un problème pour lequel la réponse à un commentaire dans une session co-créée peut parfois empêcher le blocage de Word.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2006-may-15"></a>Version 2006:15 mai
+## <a name="version-2006-may-15"></a>Version 2006 : 15 mai
 *Version 2006 (build 12905.20000)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -350,19 +372,19 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créer une connexion PDF :** Se connecter à, importer, actualiser des données à partir d’un fichier PDF. [En savoir plus](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+- **Créer une connexion au format PDF :** connectez-vous à des données, importez-les ou actualisez-les à partir d’un fichier PDF. [En savoir plus](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
 ### <a name="outlook"></a>Outlook
 
-- **Trouvez exactement ce dont vous avez besoin :** Affinez votre recherche avec des options comme dossier, expéditeur, date, infos sur la pièce jointe, etc.
+- **Trouver les informations dont vous avez besoin :** affinez votre recherche à l’aide d’options telles que dossier, expéditeur, date, informations sur la pièce jointe, etc.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Aucun clic n’est nécessaire : vos earbuds vous ont expliqué :** Utilisez votre earbuds de surface pour contrôler vos présentations PowerPoint. Important : vous devez coupler votre surface earbuds dans l’application audio de surface pour Windows 10 afin d’utiliser les gestes pour contrôler les présentations. Des instructions pour la prise en main de l’application audio de surface sur Windows 10 sont disponibles ici. [En savoir plus](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **Nul besoin d’un dispositif de clic : vos écouteurs vous couvrent :** utilisez vos écouteurs Surface pour contrôler vos présentations PowerPoint. Important : vous devez associer vos écouteurs Surface dans l’application Surface Audio pour Windows 10 afin d’utiliser des gestes pour contrôler les présentations. Des instructions pour la prise en main de l’application Surface Audio sous Windows 10 sont disponibles ici. [En savoir plus](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="word"></a>Word
 
-- **Appliquer automatiquement ou recommander des étiquettes de sensibilité :** Office peut recommander ou appliquer automatiquement une étiquette de sensibilité basée sur le contenu sensible détecté.
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -373,19 +395,19 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="resolved-issues"></a>Problèmes résolus
 
 ### <a name="excel"></a>Excel
-- Nous avons résolu un problème qui a permis d’améliorer les performances des utilisateurs lorsqu’ils ont supprimé des colonnes fusionnées.
+- Nous avons résolu un problème, ce qui a permis d’améliorer le temps de performance pour les utilisateurs lorsqu’ils ont supprimé des colonnes fusionnées.
 - <div>Nous avons résolu un problème à l’origine de la duplication des noms d’imprimante dans la liste des imprimantes disponibles.</div>
 
 ### <a name="powerpoint"></a>PowerPoint
-- Nous avons résolu un problème : les raccourcis clavier et la vérification de l’orthographe ne fonctionneront pas comme prévu lors de l’utilisation d’un clavier anglais Suisse (QWERTZ).
+- Nous avons résolu un problème dans lequel les raccourcis clavier et la vérification de l’orthographe ne fonctionnaient pas comme prévu lorsque vous utilisiez un clavier anglais (Suisse) (QWERTZ).
 
 ### <a name="word"></a>Word
-- Nous avons résolu un problème : l’ajout d’un nouveau commentaire sur un document vierge ne ferait rien.
-- Nous avons résolu un problème : l’insertion ou la mise à jour d’un index dans un document contenant plus de cent entrées entraînait le blocage de l’application.
-- Nous avons résolu un problème où des fichiers avec des valeurs XML personnalisées étaient ouverts de façon extrêmement lente.
+- Nous avons résolu un problème dans lequel l’ajout d’un nouveau commentaire dans un document vierge n’avait aucun effet.
+- Nous avons résolu un problème dans lequel l’insertion ou la mise à jour d’un index dans un document contenant plus de cent entrées provoquait un incident dans l’application.
+- Nous avons résolu un problème dans lequel les fichiers contenant des valeurs xml personnalisées s’ouvraient très lentement.
 
 ### <a name="office-suite"></a>Suite Office
-- Nous avons résolu un problème dans Visual Basic pour applications dans Microsoft Office où certains projets VBA contenant des références à des bibliothèques de code avec des caractères DBCS dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque seraient affichés par l’application Office comme endommagée lors du chargement.
+- Nous avons résolu un problème dans Visual Basic pour applications dans Microsoft Office où certains projets VBA contenant des références à des bibliothèques de codes avec des caractères DBCS dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque sont affichés par l’application Office comme étant endommagée lors du chargement.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -553,11 +575,11 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 
 ### <a name="excel"></a>Excel
 
-- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donnez vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 ### <a name="outlook"></a>Outlook
 
-- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donnez vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 - **Conservez la haute fidélité de vos images lorsque vous les envoyez dans un courrier électronique :** un nouveau paramètre Outlook est disponible pour limiter la compression d’image lorsque vous envoyez des images dans le cadre du contenu d’un courrier électronique.
 
@@ -580,7 +602,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
@@ -690,7 +712,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Cette modification corrige les retards lorsque les images sont traitées avec des informations de protocole incorrectes ou non valides.
+- Cette modification traite les retards lorsque les images sont traitées avec des informations de protocole incorrectes ou non valides.
 
 ### <a name="outlook"></a>Outlook
 
@@ -820,7 +842,7 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [Si vous souhaitez en savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -999,5 +1021,6 @@ Cet article contient des notes de publication pour les versions bêta de canaux 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 
-[//]: # (NE PAS MODIFIER LE DÉBUT DU CONTENU DES MÉTADONNÉES DU CENTRE D’ADMINISTRATION)
-[//]: # (NE PAS MODIFIER LA FIN DE CONTENU DES MÉTADONNÉES DU CENTRE D’ADMINISTRATION)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
