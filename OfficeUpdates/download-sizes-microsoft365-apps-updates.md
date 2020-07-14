@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 8fd7abbc8ed7c24162c9daeef0d0a2fad8d05bab
-ms.sourcegitcommit: e94688d66388221a9ebd9d29f49487544da5cc49
+ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
+ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083360"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45091050"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -38,9 +38,42 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
 
+## <a name="july-9-2020"></a>9 juillet 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
+
+<i>La publication prévue est la version 2005 (build 12827.20550).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2004 (build 12730.20430) <br/> |9 juin 2020 <br/> |174<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal d’entreprise semestriel (version d’évaluation)
+
+<i>La publication prévue est la version 2002 (build 12527.20880).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (build 12527.20720) <br/> |9 juin 2020 <br/> |50<br/> |
+|Version 2002 (build 12527.20612) <br/> |12 mai 2020 <br/> |59<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal d’entreprise semestriel
+
+<i>La publication prévue est la version 2002 (build 12527.20880).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 1908 (build 11929.20838) <br/> |9 juin 2020 <br/> |291<br/> |
+|Version 1908 (build 11929.20776) <br/> |12 mai 2020 <br/> |291<br/> |
 
 
 [//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
+
+
 
 
 ## <a name="june-30-2020"></a>30 juin 2020
