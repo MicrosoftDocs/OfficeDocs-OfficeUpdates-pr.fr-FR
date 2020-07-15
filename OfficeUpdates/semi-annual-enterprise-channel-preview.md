@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel (ciblé) de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: be72a3d95178f0fde5bbe48428abb0895d5afefd
-ms.sourcegitcommit: cc48ae789324e085a976c3a7a388353447b10d42
-ms.translationtype: MT
+ms.openlocfilehash: 56aaac765769b1c132fb75d318baa1947ba90b4e
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44724959"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121764"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notes de publication pour les publications semi-annuelles Enterprise Channel (Preview) dans 2020
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour semi-annuelles Enterprise Channel (préversion) dans 2020 pour les applications Microsoft 365 pour les entreprises, Microsoft 365 apps pour les entreprises et les versions d’abonnement des applications de bureau pour Project et Visio.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses en 2020 dans les mises à jour du Canal d’enterprise semi-annuel (Preview) de Microsoft 365 Apps for enterprise, de Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
 > Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 
-## <a name="version-2002-june-09"></a>Version 2002:09 juin
-*Version 2002 (Build 12527,20720)*
+## <a name="version-2002-june-09"></a>Version 2002 : 09 juin
+*Version 2002 (build 12527.20720)*
 
-Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -35,9 +35,9 @@ Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupda
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Résolution d’un problème : le lien externe cesse de fonctionner après la réouverture du fichier si le chemin d’accès du fichier est trop long.
+- Résolution d’un problème dans lequel le lien externe cesse de fonctionner une fois le fichier rouvert, si le chemin d’accès du fichier est trop long.
 
-- Résolution d’un problème : Excel pouvait cesser de répondre après avoir utilisé Ctrl + Maj + touches de direction pour faire défiler la fenêtre Excel partagée par Teams.
+- Nous avons résolu un problème dans lequel Excel pourrait cesser de répondre une fois que vous avez utilisé Ctrl + Maj + touches de direction pour faire défiler la fenêtre Excel partagée par l’intermédiaire de Teams.
 
 - Corrige un problème relatif à la mise à l’échelle des cases à cocher dans les contrôles de formulaire lors de l’impression.
 
@@ -45,17 +45,17 @@ Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupda
 
 - L’insertion d’une colonne dans une liste filtrée prend plus de temps que prévu.
 
-- Résolution d’un problème : un symbole @ commençant au début d’une formule était considéré comme un opérateur d’intersection implicite.
+- Résolution d’un problème dans lequel un symbole @ commençant par une formule serait considéré comme un opérateur d’intersection implicite.
 
 ### <a name="outlook"></a>Outlook
 
-- Permet de rejoindre une réunion teams directement via le client teams natif.
+- Permet de participer à une réunion d’équipe directement via le client teams natif.
 
-- Résoudre un problème où Outlook n’a pas pu activer la stratégie de protection contre la perte de données personnes pour les utilisateurs qui ont payé le service qui se trouve sur les plans M365 Business plus.
+- Nous avons résolu un problème avec lequel Outlook n’a pas réussi à activer la stratégie de protection contre la perte de données conseils pour les utilisateurs qui ont payé le service sur M365 Business plus.
 
-- Nous avons rencontré un problème dans lequel les utilisateurs ont configuré le paramètre d’émulation de navigateur incorrect lorsqu’ils ne pouvaient pas terminer l’invite d’authentification pour gmail.
+- Nous avons résolu un problème qui empêchait les utilisateurs d’utiliser le paramètre d’émulation de navigateur incorrect lorsqu’il était impossible de terminer l’invite d’authentification de Gmail.
 
-- Un problème entraînait l’affichage de l’erreur « État Antivirus : non valide » sur les systèmes d’exploitation du serveur. Cette version de Windows prend en charge la détection antivirus, mais aucun antivirus n’a été détecté» malgré la configuration incorrecte du virus.
+- Nous avons rencontré un problème qui empêchait les utilisateurs d’Outlook sur des systèmes d’exploitation serveur de voir l’erreur «État Antivirus : non valide. Cette version de Windows prend en charge la détection de virus, mais aucun antivirus n’a été détecté, même si un antivirus est correctement configuré.
 
 ### <a name="word"></a>Word
 
@@ -63,13 +63,13 @@ Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupda
 
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons résolu ce problème en mettant à jour les noms de canaux en mode Backstage vers les nouveaux noms de canaux de la branche de janvier 2020.
+- Nous avons résolu ce problème en mettant à jour les noms des canaux dans le mode Backstage vers les nouveaux noms de canaux de la branche de janvier 2020.
 
-- Nous avons résolu ce problème et revenons, si un périphérique est géré par la stratégie, il n’appellera pas l’API d’audience DMS.
+- Nous avons résolu ce problème et nous sommes à l’avenir. Si un appareil est géré par une stratégie, il n’appelle pas l’API du public DMS.
 
-- Résolution du problème de suppression incomplète lors de l’ajout et de la suppression d’applications dans une seule transaction.
+- Résolution du problème de suppression incomplète lors de l’ajout ou de la suppression d’applications dans une seule transaction.
 
-- L’hôte Office se bloque dans Windows, lorsqu’un complément est activé alors que la clé de Registre HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth est définie sur zéro. Cette modification corrige ce problème.
+- L’hôte Office a cessé de fonctionner dans Windows, lorsqu’un complément est activé alors que la clé de Registre HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth est définie sur zéro. Cette modification peut résoudre ce problème.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -132,7 +132,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Cette mise à jour corrige un problème dans lequel Microsoft Outlook n’affiche pas l’étiquette de confidentialité actuelle lors de l’affichage ou de la rédaction des messages.
 
-- Résolution d’un problème : les utilisateurs ne pouvaient pas traiter les courriers électroniques vers une liste de distribution personnelle.
+- Nous avons résolu un problème qui empêchait les utilisateurs d’envoyer des messages électroniques à une liste de distribution personnelle.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -273,13 +273,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Obtenir les statistiques sur votre classeur :** les statistiques de classeur fournissent une vue d’ensemble du contenu d’un classeur, afin de vous aider à découvrir plus facilement son contenu.
 
-
-
-
+- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [Si vous souhaitez en savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="outlook"></a>Outlook
-
-
 
 - **Connecter votre réseau LinkedIn avec Outlook :** connectez votre compte LinkedIn de façon sécurisée avec votre compte Microsoft pour afficher les informations du profil LinkedIn directement dans la carte Contacts. [En savoir plus](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -301,9 +297,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Afficher plus de messages à l’écran :** sélectionnez Afficher > Utiliser un espacement plus étroit pour ajuster l’espacement entre les messages. [En savoir plus](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
 
-- **Voir vos messages sous un autre jour :** utilisez le bouton soleil/lune pour basculer entre les arrière-plans clair et foncé dans le volet de lecture. [En savoir plus](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **Voir vos messages sous un autre jour :** utilisez le bouton soleil/lune pour basculer entre les arrière-plans clair et foncé dans le volet de lecture. [Si vous souhaitez en savoir plus](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-
+- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [Si vous souhaitez en savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -311,13 +307,11 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Nouveaux outils de relecture :** ne stressez pas à propos des mots que vous utilisez. PowerPoint propose désormais des suggestions de grammaire et d’écriture. [En savoir plus](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-
 - **Légendes et sous-titres :** les mots du présentateur sont automatiquement affichés à l’écran sous forme de sous-titres ou convertis en sous-titres dans la langue de votre choix. [En savoir plus](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
 - **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Trouvez ce que vous recherchez :** utilisez la zone de recherche pour trouver du texte, des commandes, de l’aide et bien plus encore. [En savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
-
 
 - **Rechercher et corriger des titres de diapositives manquants :** les titres des diapositives permettent de donner du sens à votre présentation et de rendre vos diapositives accessibles aux utilisateurs de toutes les fonctionnalités. Le vérificateur d’accessibilité indique où les titres sont absents pour vous permettre de les ajouter en un clin d’œil. [En savoir plus](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -345,7 +339,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Modifier les entrées manuscrites en formes, texte ou mathématiques dans PowerPoint pour Office 365 :** passer d’une entrée manuscrite à une forme, à du texte ou à une expression mathématique dans quelques traits. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-- **Créer de superbes diapositives à l’aide des entrées manuscrites :** convertissez vos entrées manuscrites en texte, puis consultez les idées de conception intelligentes générées par le Concepteur PowerPoint. [En savoir plus](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+- **Créer de superbes diapositives à l’aide des entrées manuscrites :** convertissez vos entrées manuscrites en texte, puis consultez les idées de conception intelligentes générées par le Concepteur PowerPoint. [Si vous souhaitez en savoir plus](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+
+- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [Si vous souhaitez en savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="visio"></a>Visio
 
@@ -377,9 +373,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
 
-- **Finies les ouvertures systématiques dans le navigateur :** vous choisissez où ouvrir les liens des documents Office : dans le navigateur ou dans l’application. [En savoir plus](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
-
-- **Les autres utilisateurs voient rapidement vos modifications :** la co-création permet à vos collaborateurs de voir vos modifications plus rapidement que jamais.
+- **Finies les ouvertures systématiques dans le navigateur :** vous choisissez où ouvrir les liens des documents Office : dans le navigateur ou dans l’application. [Si vous souhaitez en savoir plus](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
 - **Améliorations de la co-création :** fiabilité améliorée lors de la co-création.
 
@@ -663,3 +657,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
+
+
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
