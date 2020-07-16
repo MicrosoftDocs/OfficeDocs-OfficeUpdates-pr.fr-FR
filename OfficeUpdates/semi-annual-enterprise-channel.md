@@ -1,5 +1,5 @@
 ---
-title: Notes de publication pour les versions des canaux d’entreprise semi-annuelles en 2020
+title: Notes de publication pour les versions semestrielles du canal des entreprises disponibles en 2020
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -8,30 +8,30 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 4e6a61acab775f8619851c4d65327616ef204a63
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
-ms.translationtype: MT
+description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
+ms.openlocfilehash: 3fe55eb66d368490258f6d200c8553a08b556323
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668101"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121754"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions des canaux d’entreprise semi-annuelles en 2020
+# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions semestrielles du canal des entreprises disponibles en 2020
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non relatives à la sécurité incluses dans les mises à jour semi-annuelles Enterprise Channel dans 2020 pour les applications Microsoft 365 pour les entreprises, Microsoft 365 apps pour les entreprises et les versions d’abonnement des applications de bureau pour Project et Visio.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du canal semestriel des entreprises des applications de Microsoft 365 pour entreprises en 2020, des applications de Microsoft 365 pour affaires et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
 > Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
->- OneNote 2016 sera désormais inclus par défaut lorsqu’un utilisateur de la chaîne d’entreprise semi-annuelle télécharge et installe des applications Microsoft 365 sur Windows 10 à partir d’Office Portal.
+>- OneNote 2016 sera désormais inclus par défaut lorsqu’un utilisateur du Canal semestriel pour entreprises télécharge et installe les applications Microsoft 365 sur Windows 10 depuis le portail Office.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-1908-june-09"></a>Version 1908:09 juin
-*Version 1908 (Build 11929,20838)*
+## <a name="version-1908-june-09"></a>Version 1908 : 09 juin
+*Version 1908 (Build 11929.20838)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -41,7 +41,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Résolution d’un problème : Excel pouvait cesser de répondre après avoir utilisé Ctrl + Maj + touches de direction pour faire défiler la fenêtre Excel partagée par Teams.
+- Nous avons résolu un problème dans lequel Excel pourrait cesser de répondre une fois que vous avez utilisé Ctrl + Maj + touches de direction pour faire défiler la fenêtre Excel partagée par l’intermédiaire de Teams.
 
 - Corrige un problème relatif à la mise à l’échelle des cases à cocher dans les contrôles de formulaire lors de l’impression.
 
@@ -53,13 +53,13 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons mis à jour les noms de canaux pour les branches de janvier et de juillet 2019 vers les nouveaux noms de canaux.
+- Nous avons mis à jour les noms des canaux pour les fourches de janvier et de juillet 2019 vers les nouveaux noms de canaux.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-1902-june-09"></a>Version 1902:09 juin
-*Version 1902 (Build 11328,20602)*
+## <a name="version-1902-june-09"></a>Version 1902 : 09 juin
+*Version 1902 (Build 11328.20602)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -69,9 +69,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons mis à jour les noms de canaux pour les branches de janvier et de juillet 2019 vers les nouveaux noms de canaux.
+- Nous avons mis à jour les noms des canaux pour les fourches de janvier et de juillet 2019 vers les nouveaux noms de canaux.
 
-- Nous avons supprimé les références obsolètes des fichiers de base qui comportaient le Build C2R.
+- Nous avons supprimé les références obsolètes des fichiers de base qui ont éliminé la Build C2R.
 
 
 
@@ -88,17 +88,17 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Lorsque vous copiez des données filtrées par couleur dans une colonne de largeur différente, les valeurs ne sont pas coller.
+- Lors de la copie de données filtrées par couleur dans une colonne de largeur différente, les valeurs ne seraient pas collées.
 
 ### <a name="outlook"></a>Outlook
 
-- Résoudre un problème : les utilisateurs ont pu se bloquer lors de l’ouverture des fichiers MSG et. oft après avoir appliqué une mise à jour récente de Windows.
+- Nous avons résolu un problème qui entraînait l’arrêt inopiné des utilisateurs lors de l’ouverture des fichiers .mgg et .oft  après avoir appliqué une mise à jour récente de Windows.
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème lors de la fusion de 2 documents au sein d’un document unique.
+- Nous avons résolu un problème lors de la fusion de deux documents en un seul.
 
-- Résolution d’un problème avec la fonctionnalité Comparer avec des documents protégés pour la modification.
+- Résolution d’un problème avec la fonctionnalité Comparer avec des documents protégés pour l’édition.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
@@ -130,9 +130,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Nous avons résolu un problème qui confrontait les utilisateurs à un blocage lors de la sélection de certains résultats de recherche.
 
-- Résolution d’un problème qui entraînait l’absence du bouton « Enregistrer dans le cloud » dans les Outils Pièces jointe.
+- Résolution d’un problème qui entraînait l’absence du bouton « Enregistrer dans le cloud » dans les Outils Pièces jointes.
 
-- Par défaut les étiquettes de stratégie de rétention affichent la période de rétention entre parenthèses.Cela fournit une clé de Registre pour permettre aux administrateurs de spécifier que seul le nom de la stratégie doit être affiché.HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = par défaut 1 = nous affichons uniquement le paramètre PolicyName pour le texte de stratégie de rétention.
+- Par défaut, les étiquettes de stratégie de rétention affichent la période de rétention entre parenthèses.Cela fournit une clé de registre pour permettre aux administrateurs de spécifier que seul le nom de la stratégie doit être affiché.HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = Par défaut                                                                           1 = Nous n'afficherons que le nom de la stratégie pour le texte de la stratégie de rétention.
 
 ### <a name="office-suite"></a>Suite Office
 
@@ -146,10 +146,10 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Résout un problème dans Visual Basic pour applications dans Microsoft Office où certains projets VBA contenant des références à des bibliothèques de codes avec des caractères DBCS dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque sont affichés par l’application Office comme étant endommagée lors du chargement.
 
-## <a name="version1908april-26"></a>Version 1908:26 avril
-*Version 1908 (Build 11929,20736)*
+## <a name="version1908april-26"></a>Version 1908 : 26 avril
+*Version 1908 (Build 11929.20736)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Les mises à jour de sécurité sont répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
@@ -158,14 +158,14 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/off
 
 - Résolution d’un problème avec VBA dans lequel les valeurs d’écriture dans une plage seraient plus lentes que prévu.
 
-- Nous avons résolu un problème dans lequel la propriété « Valeur croises à » de l’axe du graphique change de façon inattendue lors de l’enregistrement et de la réouverture d’un fichier.
+- Nous avons résolu un problème dans lequel la propriété « Valeur croisée à » de l’axe du graphique change de façon inattendue lors de l’enregistrement et de la réouverture d’un fichier.
 
 - Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
 
 
 ### <a name="onenote"></a>OneNote
 
-- Localise la notification qui permet à l’utilisateur d’en savoir plus sur les mesures temporaires qui sont intégrées à l’expérience utilisateur OneNote pour améliorer la synchronisation et la stabilité des services.
+- Localise la notification qui permet à l'utilisateur d'en savoir plus sur les mesures temporaires mises en place dans l'expérience utilisateur OneNote pour améliorer la synchronisation et la stabilité du service.
 
 
 ## <a name="version-1908-april-14"></a>Version 1908 : 14 avril
@@ -211,7 +211,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-march-10"></a>Version 1908 : 10 mars
 *Version 1908 (Build 11929.20648)*
 
-Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -252,7 +252,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-february-11"></a>Version 1908 : 11 février
 *Version 1908 (Build 11929.20606)*
 
-Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -320,7 +320,7 @@ Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupda
 ## <a name="version-1902-february-11"></a>Version 1902 : 11 février
 *Version 1902 (Build 11328.20526)*
 
-Mises à jour de sécurité listées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -380,7 +380,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Codez rapidement avec les améliorations de Power Query** : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Découvrez également facilement les fonctions, les colonnes et les paramètres.
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook"></a>Outlook
 
@@ -400,7 +400,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Fini, les limites de synchronisation** : grâce aux améliorations apportées à Outlook, la limite de dossiers a disparu. Vous pouvez donc synchroniser vos boîtes aux lettres partagées.
 
-- **Recherchez et profitez :** nous avons ajouté la fonctionnalité Rechercher à l’option Insérer des icônes de manière à faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -410,7 +410,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Augmentez la portée de votre contenu :** vous devez rendre vos présentations accessibles ? Laissez le vérificateur d’accessibilité s’en charger sans interférer dans votre travail. Pour l’essayer, cliquez sur Révision > Vérification de l’accessibilité. Les éléments détectés devant faire l’objet d’un examen apparaissent dans la barre d’état.
 
-- **Basculez facilement :** Le nouveau gestionnaire de compte affiche tous vos comptes personnels et professionnels Office 365 dans un emplacement unique. Il n'a jamais été aussi facile de passer de l'un à l'autre. [En savoir plus](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Basculez facilement :** le nouveau gestionnaire de compte affiche tous vos comptes personnels et professionnels Office 365 dans un emplacement unique. Il n'a jamais été aussi facile de passer de l'un à l'autre. [En savoir plus](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **Les vidéos en ligne ont un nouvel emplacement :** enregistrez une vidéo sur Microsoft Stream afin que tous les membres de votre organisation puissent la voir. Insérez le lien de la vidéo et profitez d’une présentation multimédia pour une fraction de la taille du fichier. [En savoir plus](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
@@ -745,3 +745,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
+
+
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
