@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité des Applications Microsoft 365
-ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211704"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138520"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Mises à jour de sécurité des différentes versions des Applications Microsoft 365
 
@@ -31,6 +31,80 @@ Ces informations s’appliquent aux Applications Microsoft 365 pour les grandes
  
 
 [//]: # (NE SUPPRIMEZ PAS LA LIGNE CI-DESSUS, elle est utilisée pour l’espacement)  
+
+## <a name="july-14-2020"></a>14 juillet 2020
+Canal Actuel : Version 2006 (Build 13001.20384)  
+Canal Entreprise mensuel : Version 2005 (Build 12827.20538)  
+Canal Entreprise mensuel : Version 2004 (Build 12730.20602)  
+Canal Entreprise semestriel (préversion) : Version 2002 (Build 12527.20880)  
+Canal Entreprise semestriel : Version 2002 (Build 12527.20880)  
+Canal Entreprise semestriel : Version 1908 (Build 11929.20904)  
+Canal Entreprise semestriel : Version 1902 (Build 11328.20624)  
+Microsoft 365 Apps sous Windows 7 : Version 2002 (Build 12527.20880)  
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1240)
+
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1349)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1449)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1446)
+
+### <a name="office-suite"></a>Suite Office
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1458)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+
+## <a name="june-09-2020"></a>9 juin 2020
+Canal Actuel : Version 2005 (Build 12827.20336)  
+Canal Entreprise mensuel : Version 2004 (Build 12730.20430)  
+Canal Entreprise mensuel : Version 2003 (Build 12624.20708)  
+Canal Entreprise semestriel (préversion) : Version 2002 (Build 12527.20720)  
+Canal Entreprise semestriel : Version 1908 (Build 11929.20838)  
+Canal Entreprise semestriel : Version 1902 (Build 11328.20602)  
+Microsoft 365 Apps sous Windows 7 : Version 2002 (Build 12527.20720)  
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1225)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1229)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1322)
+
+### <a name="office-suite"></a>Suite Office
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
 
 ## <a name="may-12-2020"></a>12 mai 2020
 Canal mensuel : version 2004 (build 12730.20270)  
