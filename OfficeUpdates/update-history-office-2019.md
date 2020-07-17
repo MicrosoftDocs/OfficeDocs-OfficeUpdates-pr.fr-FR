@@ -18,18 +18,18 @@ ms.locfileid: "45001124"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
-Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
+Microsoft publie des mises à jour de sécurité et de qualité pour la version « Démarrer en un clic » (C2R) d’Office 2016 et pour Office 2019, qui utilise exclusivement le système C2R. Ces mises à jour sont publiées environ une fois par mois, généralement le deuxième mardi du mois.
 
-If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
+Si vous voulez vérifier que vous êtes à jour, vérifiez votre version d’Office et mettez à jour Office manuellement si nécessaire. Pour vérifier votre version d’Office, procédez comme suit :
 
   1.    Ouvrez une application Office, telle que Word ou Excel.
   2.    Sélectionnez **Fichier > Compte**.
   3.    Sous **Informations sur le produit**, notez le numéro de version indiqué dans la section **À propos**.
 
-If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+Si le numéro de version correspond à la version la plus récente, votre système est à jour. Si ce n’est pas le cas, vous pouvez effectuer la mise à jour manuellement pour obtenir la dernière version d’Office. Pour mettre à jour Office, [procédez comme expliqué ici](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-The following tables provide the update history for the volume licensed version of Office 2019, as well as the retail versions of Office 2016 C2R and Office 2019, with the most recent release date listed first. The tables include the version and build number for the release and list the security updates that are included, along with a link to more information about the security update.
+Les tableaux suivants fournissent l’historique des mises à jour pour la version sous licence en volume d’Office 2019, ainsi que pour les versions commerciales d’Office 2016 C2R et d’Office 2019, indiquées de la plus récente à la plus ancienne. Le tableau inclut le numéro de version et de build associé à la publication et fournit la liste des mises à jour de sécurité, ainsi qu’un lien fournissant plus d’informations sur la mise à jour de sécurité.
 
 Les nouvelles versions incluent toutes les mises à jour contenues dans les versions précédentes.
 

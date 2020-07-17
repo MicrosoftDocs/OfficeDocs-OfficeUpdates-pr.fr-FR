@@ -11,7 +11,7 @@ ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
 ms.openlocfilehash: 5307b0e58f5419c004594df7a21b3c9959c35711
 ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 07/01/2020
 ms.locfileid: "45001161"

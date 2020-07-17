@@ -21,14 +21,14 @@ ms.locfileid: "45138630"
 Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières mises à jour pour les versions définitives d’Outlook 2016, Outlook 2013 et Outlook 2010, ainsi que pour les télécharger.
   
 > [!NOTE]
-> - The information in this article only applies to perpetual versions of Outlook that use the Windows Installer (MSI) installation technology. For example, if you installed a volume licensed version of Outlook, such as Outlook included with Office Professional Plus 2016.
+> - Les informations contenues dans cet article s’appliquent uniquement aux versions définitives d’Outlook qui utilisent la technologie d’installation Windows Installer (MSI). C’est notamment le cas si vous avez installé une version d’Outlook sous licence en volume, par exemple celle incluse avec Office Professionnel Plus 2016.
 > - Les informations contenues dans cet article ne s’appliquent pas aux Applications Microsoft 365.
 > - Pour déterminer la version d’Outlook que vous utilisez, consultez l’article [Identifier votre version d’Outlook](https://support.office.com/article/b3a9568c-edb5-42b9-9825-d48d82b2257c).
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). 
   
 La compatibilité d’Outlook avec Microsoft 365 et votre environnement local dépend de la configuration requise pour votre déploiement :
   
-- Microsoft 365 works with any version of Outlook that is in mainstream support, which includes the latest version of Outlook 2016. For previous versions of Outlook, only those that have extended support may continue to work with Microsoft 365, although with reduced functionality. For more information, see [Microsoft Lifecycle Policy](https://support.microsoft.com/lifecycle).
+- Microsoft 365 fonctionne avec n’importe quelle version d’Outlook se trouvant dans le support standard, qui comprend la dernière version d’Outlook 2016. Pour les versions précédentes d’Outlook, seules celles qui disposent d’une prise en charge étendue peuvent continuer à fonctionner avec Microsoft 365, mais avec des fonctionnalités réduites. Pour plus d’informations, consultez l’article [Politique de support Microsoft](https://support.microsoft.com/lifecycle).
     
 - Pour les déploiements Exchange en local, suivez la configuration requise pour votre version d’Outlook :
     
