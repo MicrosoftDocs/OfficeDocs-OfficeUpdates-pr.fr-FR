@@ -1,5 +1,5 @@
 ---
-title: Historique des mises à jour pour Office Beta Channel
+title: Historique des mises à jour pour le canal bêta d’Office
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider Fast pour ordinateur de bureau Windows
-ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
-ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
+ms.openlocfilehash: e4d242d5b7b9d9564cca3b3cbe7324101265f769
+ms.sourcegitcommit: 275efa6dec144dc7a6756d45086a0b3d3672f4b9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45080159"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45153632"
 ---
-# <a name="update-history-for-office-beta-channel"></a>Historique des mises à jour pour Office Beta Channel
+# <a name="update-history-for-office-beta-channel"></a>Historique des mises à jour pour le canal bêta d’Office
 
 Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Insider, vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.
 
@@ -29,44 +29,47 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 > - L’historique de mise à jour ici répertorie toutes les builds publiées
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu'au numéro de build publié des notes de publication.
 
-## <a name="office-beta-channel-versions-and-builds"></a>Versions et versions de canal bêta d’Office
+## <a name="office-beta-channel-versions-and-builds"></a>Versions et builds du canal bêta d’Office
 
-Si vous êtes au niveau des Insiders, vous recevez régulièrement des mises à jour avec de nouvelles fonctionnalités et des améliorations. La liste suivante présente un historique des versions de canal bêta récentes et des builds, **la dernière version publiée étant répertoriée en premier**. Les nouvelles builds contiennent toutes les mises à jour contenues dans les versions précédentes.
+Si vous êtes inscrit au niveau Insider, vous recevez fréquemment des mises à jour avec les nouvelles fonctionnalités et améliorations. La liste suivante indique l’historique des versions et builds récentes de canal bêta, avec **la build la plus récente étant répertoriée en premier**. Les nouvelles builds incluent toutes les mises à jour contenues dans les builds précédentes.
 
 Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NE PAS SUPPRIMER)
 
-**07 juillet 2020**<br/>
-Version 2008 (Build 13102,20002)<br/>
+**16 juillet 2020**<br/>
+Version 2008 (Build 13115.20000)<br/>
 
-**1er juillet 2020**<br/>
-Version 2007 (Build 13029,20006)<br/>
+**07 juillet 2020**<br/>
+Version 2008 (Build 13102.20002)<br/>
 
-**29 juin 2020**<br/>
-Version 2007 (Build 13025,20000)<br/>
+**01 juillet 2020**<br/>
+Version 2007 (build 13029.20006)<br/>
 
-**23 juin 2020**<br/>
-Version 2007 (Build 13020,20004)<br/>
+**29 Juin 2020**<br/>
+Version 2007 (Build 13025.20000)<br/>
+
+**23 Juin 2020**<br/>
+Version 2007 (build 13020.20004)<br/>
 
 **15 juin 2020**<br/>
-Version 2007 (Build 13012,20000)<br/>
+Version 2007 (build 13012.20000)<br/>
 
-**09 juin 2020**<br/>
-Version 2007 (Build 13006,20002)<br/>
+**09 juin 2020**<br/>
+Version 2007 (build 13006.20002)<br/>
 
-**03 juin 2020**<br/>
-Version 2006 (Build 13001,20002)<br/>
+**03 Juin 2020**<br/>
+Version 2006 (Build 13001.20002)<br/>
 
-**1er juin 2020**<br/>
-Version 2006 (Build 12930,20014)<br/>
+**01 Juin 2020**<br/>
+Version 2006 (Build 12930.20014)<br/>
 
-**25 mai 2020**<br/>
-Version 2006 (Build 12920,20000)<br/>
+**25 Mai 2020**<br/>
+Version 2006 (Build 12920.20000)<br/>
 
-**18 mai 2020**<br/>
-Version 2006 (Build 12914,20000)<br/>
+**18 Mai 2020**<br/>
+Version 2006 (Build 12914.20000)<br/>
 
 **11 mai 2020**<br/>
 Version 2006 (build 12905.20000)<br/>
