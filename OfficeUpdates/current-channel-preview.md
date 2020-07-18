@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 63ae6dbe28765efde1ddc6a440adeddd53b71338
-ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.openlocfilehash: 2ed4d263caf7471a37bf52e162d93ee7ebf03fd4
+ms.sourcegitcommit: e04ac83b98dee6ee37338f9eba361e4ae436f9f5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45094644"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45147876"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -27,6 +27,193 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2007-july-15"></a>Version 2007 : 15 juillet
+*Version 2007 (Build 13029.20200)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Nous avons résolu un problème dans lequel le gestionnaire des tables liées demandait une clé primaire si une table SQL liée était actualisée.
+
+- Nous avons résolu un problème dans lequel les requêtes dans l'éditeur de requêtes défilaient hors de l'affichage.
+
+- Nous avons résolu un problème dans lequel l'exécution des requêtes prenait environ deux fois plus de temps que prévu.
+
+- Nous avons résolu un problème à l’origine de l’identification par Microsoft Access d’une colonne d’identité dans un tableau SQL Server lié, ce qui peut entraîner la suppression incorrecte des lignes.
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème dans lequel les URL qui n’étaient pas http ou https n’étaient pas affichées dans la liste des plus récemment utilisés.
+
+- Résolution d’un problème dans lequel une erreur ou un blocage peut se produire lors du chargement d’un classeur avec plusieurs feuilles en mode aperçu des sauts de page.
+
+- Nous avons résolu un problème dans lequel les tableaux du modèle de données créées dans certaines versions d’Excel ne pouvaient pas être affichées dans « Aperçu de la tableau », même si la requête associée au tableau n’a pas été modifiée.
+
+- Les références « ignorer relatif/absolu » dans la boîte de dialogue « Définir le nom \ Appliquer les noms » pourraient empêcher les formules de fonctionner.
+
+- Nous avons résolu un problème dans lequel CustomUI XML pour un onglet de ruban personnalisé a été supprimé lors de l’enregistrement d’un classeur dans SharePoint/OneDrive.
+
+- Nous avons résolu un problème à l’origine de l’accès en lecture seule des classeurs uniquement lorsque la lecture seule est recommandée pour le fichier.
+
+- Résolution d’un problème dans lequel une erreur ou un blocage peut se produire lors du chargement d’un classeur avec plusieurs feuilles en mode aperçu des sauts de page.
+
+- Nous avons résolu un problème qui empêchait la mise en forme correcte des principales lignes de quadrillage des cartes radar.
+
+
+- Nous avons résolu un problème dans lequel l’effacement d’un filtre de données avancé risque de perdre la mise en forme d’un tableau.
+
+
+- Nous avons résolu un problème dans lequel le chemin d’accès complet d’un document PDF incorporé s'affichait dans la légende du document plutôt que sur le nom de fichier.
+
+
+- Nous avons résolu un problème qui, après avoir désactivé le connecteur de cloud Wolfram, puis enregistré et rouvert un classeur Excel, pouvait entraîner un blocage.
+
+
+- Nous avons résolu un problème dans lequel le démarrage d'Excel avec le complément Solveur activé provoquait un blocage.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à l’origine du blocage d’Outlook si plus de 130 destinataires ont été trouvés sur la ligne « À ». nous avons également amélioré les performances de rendu du texte.
+
+
+- Nous avons résolu un problème dans lequel la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec des résolutions différentes.
+
+
+- Nous avons résolu un problème dans la « Barre des tâches » où les événements se sont écoulés depuis plus de deux jours, affichant la même heure de fin pour tous les jours suivants.
+
+
+- Résolution d’un problème : la date de création des pièces jointes que les utilisateurs avaient copiées dans leur système de fichiers par glisser-déplacer était le 1er janvier 4501.
+
+
+- Nous avons résolu un problème pour lequel les utilisateurs ne pouvaient pas « Envoyer en tant que » ou « Envoyer de la part de » d’une liste de distribution.
+
+
+- Nous avons résolu un problème qui empêchait les délégués de recevoir une erreur lors de la modification d’un rendez-vous existant dans le calendrier d’un responsable.
+
+
+- Nous avons résolu un problème à l’origine de l’erreur qui s’est produite lors de la fermeture d’un rendez-vous qui a été enregistré précédemment «l’élément ne peut pas être enregistré parce qu’il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous effectuer une copie dans le dossier par défaut de l’élément ?»
+
+
+- Correction d'un problème qui entraînait l'absence de l'option « Autoriser le transfert » dans les réunions du calendrier partagé « Options de réponse » lorsque l'option « Télécharger le dossier partagé » n'a PAS été activée.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d'Outlook de voir leur liste de messages cesser de se mettre à jour pendant plusieurs minutes après avoir utilisé des calendriers partagés.
+
+
+- Nous avons résolu un problème qui empêchait les rappels de calendrier de représenter les horaires exacts pour les réunions en moins d’une semaine. 
+
+
+- Nous avons résolu un problème dans lequel l’insertion d’une image dans un message, puis l’enregistrement d’un message en tant que brouillon entraînerait le redimensionnement de l’image.
+
+
+- Nous avons résolu un problème à l'origine de la modification du corps d'un message NDR qui passait de l'Unicode à l'ASCII après avoir modifié le sujet.
+
+
+- Nous avons résolu un problème dans lequel les dates du mini-calendrier n’ont pas pu s’afficher en gras pour les utilisateurs résidant au Japon.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel l’indicateur de couleur de présence d’un utilisateur n’a pas été actualisé dans la galerie de co-édition pendant une session de co-édition en temps réel.
+
+
+- Nous avons résolu un problème pour lequel le fait de coller du code HTML dans une zone de texte d’une diapositive était plutôt copié dans une zone de texte créée en haut de la diapositive.
+
+
+- Nous avons résolu un problème dans lequel le fait de sélectionner toutes les diapositives en mode Présentateur, puis de quitter le mode présentateur à l’aide de Alt + Tab pour revenir au diaporama et cliquer sur « Arrêter le diaporama » aurait pour résultat une exception non gérée.
+
+
+### <a name="project"></a>Project
+
+- Résolution d'un problème à l'origine de l'impossibilité d'enregistrer un PDF/XPS de Project dans une bibliothèque de documents SharePoint.
+
+
+- Résolution d’un problème qui empêchait l'ouverture de projets dans le client de bureau Project à partir de la Project Web App si l'URL se terminait par .com.
+
+
+- Nous avons résolu un problème dans lequel Project se bloque lors de l’ouverture de certains fichiers XML.
+
+
+- Nous avons résolu un problème qui empêchait l'ouverture de projets dans le client de bureau Project à partir de la Project Web App si l'URL se terminait par « .com ».
+
+
+- Résolution d'un problème où si vous collez une tâche présentant plusieurs dépendances, toutes les dépendances n’ont pas été correctement copiées.
+
+
+- Résolution d'un problème où la tâche sélectionnée dans le dialogue d'affectation des ressources n'est pas la même que la tâche sélectionnée dans l'affichage du tableau des tâches.
+
+
+- Nous avons un problème dans lequel l’événement ProjectBeforeTaskChange n’était pas déclenché en cas de modification de la tâche récapitulative de projet, soit le champ début de projet/tâche.
+
+
+- Nous avons résolu un problème dans lequel les tâches de durée fixe sont achevées à 100%, mais la fin réelle n’est pas spécifiée, le pourcentage de la tâche achevée affiche moins de 100%.
+
+- Nous avons résolu un problème à l’origine de la réinitialisation ou de la mise à jour d’un planning de référence susceptible de modifier les coûts budgétaires/ressources de travail, et le planning de référence pouvait refléter des valeurs budgétaires incorrectes.
+
+
+- Nous avons résolu un problème dans lequel les liens du planificateur Project dans les environnements de cloud de la communauté secteur public avaient été désactivés.
+
+
+- Nous avons résolu un problème qui empêchait d'ouvrir un fichier de projet à partir d'une bibliothèque de documents SharePoint si la bibliothèque était en mode moderne.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel la possibilité de supprimer la mise en forme dans le volet commentaires à l’aide du bouton Effacer la mise en forme dans le ruban Office ne fonctionnait pas.
+
+
+- Nous avons résolu un problème dans lequel le texte inséré dans un graphique vectoriel évolutif (SVG) était illisible une fois qu’il a été inséré dans un fichier Word, Excel ou PowerPoint, lorsque vous enregistrez et fermez le fichier, puis rouvrez le fichier.
+
+
+- Nous avons résolu un problème dans lequel la modification de la taille d’un tableau lorsque la règle n’est pas affichée provoquait le clignotement d'autres applications fonctionnant en arrière-plan.
+
+
+- Nous avons résolu un problème où, dans le mode de co-édition, les réponses de commentaire ne s’affichent pas dans le volet commentaires, mais seraient visibles dans le volet révisions.
+
+
+- Nous avons résolu un problème lors du mode de co-édition en cas de conflit de fusion et si l’utilisateur a déjà choisi d’ignorer les modifications, l’option d’enregistrement ou d’annulation des modifications n’est plus affichée.
+
+
+- Nous avons résolu un problème pour lequel la couleur des liens hypertexte HTML n’était pas rendue correctement.
+
+
+- Nous avons résolu un problème dans lequel Word avait une liste de plus de 50 documents fréquemment ouverts. Une fois qu’un document a été enregistré et ouvert, l’historique des révisions s’affiche, même si aucune révision n’a été apportée au document.
+
+
+- Nous avons résolu le problème d’enregistrement automatique pendant la co-édition.
+
+
+- Nous avons résolu un problème qui avait pour effet que, lors de la tentative d’enregistrement d’un fichier contenant une macro sous un nouveau nom, le fichier était enregistré sous le nom WRO0004.docx, quel que soit son auteur, rendant le document inutilisable.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Un problème de minutage peut provoquer un blocage lors de la fermeture des fichiers Office
+
+- Pour résoudre ce problème, vous devez vous assurer que le service a correctement calculé les produits ajoutés. Nous avons filtré les produits nouvellement ajoutés (en nous assurant qu'ils existent également dans la nouvelle configuration) et les avons ajoutés à la fin des ID de version des produits existants.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2006-july-09"></a>Version 2006 : 9 juillet
 *Version 2006 (Build 13001.20384)*
@@ -97,21 +284,21 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="access"></a>Access
 
-- <div>Ce problème est désormais résolu. Veuillez le faire savoir à l’équipe si vous rencontrez d’autres problèmes dans le cadre de ce processus.</div>
+- Ce problème est désormais résolu. Veuillez le faire savoir à l’équipe si vous rencontrez d’autres problèmes dans le cadre de ce processus.
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div><span style="display:inline !important;">Résout un problème qui a entraîné l’affichage de<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> la date de création de&nbsp;pièces jointes copiées dans le système de fichiers des utilisateurs par glisser-déplacer.&nbsp; comme 1er janvier 4501.</span><br></div>
+- <span style="display:inline !important;">Résout un problème qui a entraîné l’affichage de<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> la date de création de&nbsp;pièces jointes copiées dans le système de fichiers des utilisateurs par glisser-déplacer.&nbsp; comme 1er janvier 4501.</span><br>
 
 
-- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Résout un problème qui a provoqué l’amélioration des utilisateurs du calendrier partagé pour voir les défaillances du calendrier.</span><br></div>
+- <span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Résout un problème qui a provoqué l’amélioration des utilisateurs du calendrier partagé pour voir les défaillances du calendrier.</span><br>
 
 
-- <div><span style="display:inline !important;">Résout un problème amenant les utilisateurs à Outlook à constamment voir une demande d’exécuter l’outil réparateur de boîte de réception.</span><br></div>
+- <span style="display:inline !important;">Résout un problème amenant les utilisateurs à Outlook à constamment voir une demande d’exécuter l’outil réparateur de boîte de réception.</span><br>
 
 
-- <div><span style="display:inline !important;">Résout un problème qui a entraîné la recherche d’une fonctionnalité dans suggérer une fonctionnalité de ne renvoyer aucun résultat et de laisser l’utilisateur sans option pour envoyer une nouvelle idée de fonctionnalité.</span><br></div>
+- <span style="display:inline !important;">Résout un problème qui a entraîné la recherche d’une fonctionnalité dans suggérer une fonctionnalité de ne renvoyer aucun résultat et de laisser l’utilisateur sans option pour envoyer une nouvelle idée de fonctionnalité.</span><br>
 
 
 
@@ -967,7 +1154,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="project"></a>Project
 
-- <div><span style="display:inline !important;">Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.</span><br></div>
+- <span style="display:inline !important;">Résolution d’un problème dans lequel l’utilisateur n’a pas pu entrer le travail de référence chronologique lorsque le paramètre de protection du travail réel est activé.</span><br>
 
 
 
@@ -1186,11 +1373,11 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 
 ### <a name="project"></a>Project
-- <div>Résolution d’un problème en raison duquel les dates de tâches récapitulatives n’ont pas toujours été calculées correctement.</div>
+- Résolution d’un problème en raison duquel les dates de tâches récapitulatives n’ont pas toujours été calculées correctement.
 
 
 ### <a name="office-suite"></a>Suite Office
-- <div>Corrige un problème qui survient lorsque plusieurs documents sont ouverts dans Word/Excel/PowerPoint à partir de la même bibliothèque SharePoint et dans lequel seul le premier document ouvert est analysé pour vérifier sa conformité à la stratégie.</div>
+- Corrige un problème qui survient lorsque plusieurs documents sont ouverts dans Word/Excel/PowerPoint à partir de la même bibliothèque SharePoint et dans lequel seul le premier document ouvert est analysé pour vérifier sa conformité à la stratégie.
 
 
 
@@ -1202,7 +1389,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
 
-- <div>Corrige un problème empêchant les applications tierces d’envoyer des courriers électroniques.</div>
+- Corrige un problème empêchant les applications tierces d’envoyer des courriers électroniques.
 
 
 
@@ -1243,24 +1430,24 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- <div style="box-sizing:border-box;">Nous avons résolu un problème dans lequel les fonctions VALEURCUBE renvoyaient parfois un résultat incorrect.&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+- <div style="box-sizing:border-box;">Nous avons résolu un problème dans lequel les fonctions VALEURCUBE renvoyaient parfois un résultat incorrect.&nbsp;<span style="display:inline !important;"></span><br>
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div>Corrige un problème qui transforme les virgules en point-virgules dans le champ d’emplacement d’une réunion.</div>
+- Corrige un problème qui transforme les virgules en point-virgules dans le champ d’emplacement d’une réunion.
 
 
-- <div>Corrige un problème qui peut provoquer un blocage lors de l'affichage d'un élément dans plusieurs fenêtres.</div>
+- Corrige un problème qui peut provoquer un blocage lors de l'affichage d'un élément dans plusieurs fenêtres.
 
 
-- <div>Corrige un problème qui occasionne la synchronisation inopinée par Outlook de tous les messages, même lorsque le curseur de synchronisation est défini sur un plus petit paramètre.&nbsp;</div>
+- Corrige un problème qui occasionne la synchronisation inopinée par Outlook de tous les messages, même lorsque le curseur de synchronisation est défini sur un plus petit paramètre.&nbsp;
 
 
-- <div>Corrige un problème qui provoque l’affichage du texte en blanc sur un arrière-plan blanc pour la liste déroulante &quot;De&quot; chez les utilisateurs ayant un thème noir.</div>
+- Corrige un problème qui provoque l’affichage du texte en blanc sur un arrière-plan blanc pour la liste déroulante &quot;De&quot; chez les utilisateurs ayant un thème noir.
 
 
-- <div><span style="display:inline !important;">Cette modification rétablit la possibilité d’afficher des sujets de plusieurs lignes dans l’en-tête du message.</span><br></div>
+- <span style="display:inline !important;">Cette modification rétablit la possibilité d’afficher des sujets de plusieurs lignes dans l’en-tête du message.</span><br>
 
 
 
