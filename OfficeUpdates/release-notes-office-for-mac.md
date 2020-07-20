@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: a626236899faeeef1708e22726fce7c28dcc4a8e
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 4c1b7d69a40afae6c6172d3d3135c2e22a7daa71
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210969"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138540"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
  
-Office pour Mac, qui est fourni avec un abonnement aux Applications Microsoft 365, est mis à jour régulièrement pour proposer des nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.
+Office pour Mac, fourni avec un abonnement Microsoft 365, est régulièrement mis à jour pour proposer des nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non liées à la sécurité.
   
 Les mises à jour sont disponibles dans la fonctionnalité de mise à jour automatique Microsoft (AutoUpdate). Pour utiliser Microsoft AutoUpdate, démarrez une application Office, telle que Word, puis sélectionnez **Aide** > **Vérifier les mises à jour**. Si vous êtes un administrateur et si vous voulez mettre à jour les ordinateurs de votre organisation avec vos outils de déploiement de logiciels existants, vous pouvez télécharger et déployer les packages de mise à jour pour chaque application.
 
   
 > [!NOTE]
 > - Si vous êtes abonné à Office Insider, consultez les [notes de publication pour les builds Insider Fast d’Office 2016 pour Mac](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
-> - À compter de la version 16.17 en septembre 2018, ces notes de publications s’appliquent également à Office 2019 pour Mac, qui est la version d’Office pour Mac disponible sous la forme d’un achat définitif dans un point de vente ou via un contrat de licence en volume. Toutefois, certaines fonctionnalités répertoriées dans les notes de publication ne sont disponibles que si vous disposez d’un abonnement aux Applications Microsoft 365.
+> - À compter de la version 16.17 de septembre 2018, ces notes de publications s’appliquent également à Office 2019 pour Mac, qui est la version d’Office pour Mac disponible sous la forme d’un achat définitif dans un point de vente ou via un contrat de licence en volume. Toutefois, certaines fonctionnalités répertoriées dans les notes de publication ne sont disponibles que si vous disposez d’un abonnement Microsoft 365.
 > - Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps. Ceci nous permet de vérifier qu’il n’y a aucun problème avant de publier la fonctionnalité à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir. [En savoir plus](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Nous publions parfois des mises à jour contenant des améliorations générales de qualité et de performances, sans nouvelles fonctionnalités. Si une application n’est pas spécifiquement mentionnée ci-dessous, sa mise à jour comprend uniquement des améliorations de qualité et de performances.
 
@@ -35,6 +35,101 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 [//]: # (NE PAS SUPPRIMER)
 
+
+
+
+
+
+## <a name="july-14-2020"></a>14 juillet 2020
+*Version 16.39 (Build 20071300)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Ajouter les étiquettes de graphique issues des valeurs des cellules :** utilisez les valeurs des cellules comme étiquettes sur les données de votre graphique. [En savoir plus](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier
+
+### <a name="outlook"></a>Outlook
+
+- **Action rapide à portée de main :** la fonctionnalité Messages actionnables vous permet d’intervenir rapidement (approbation ou réponse à une enquête, par exemple) à partir de votre messagerie.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier
+
+### <a name="word"></a>Word
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1446)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1447)
+
+### <a name="office-suite"></a>Suite Office
+
+-   [CVE-2020-1409](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1409)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+## <a name="june-16-2020"></a>16 juin 2020
+*Version 16.38 (Build 20061401)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Extraire des données à partir d’une photo :** ajoutez des données de tableau à partir d’images, de l’onglet Insertion ou directement depuis votre iPhone. [Si vous souhaitez en savoir plus](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook sans les mains :** vous avez un micro ? Cliquez sur Dictée et observez Outlook saisir ce que vous dites. [Si vous souhaitez en savoir plus](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama.<br />Consultez les détails dans le [billet de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1225)
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1226)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1229)
+
+
+### <a name="office-suite"></a>Suite Office
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DES DÉTAILS DE SÉCURITÉ)
 
 ## <a name="may-12-2020"></a>12 mai 2020
 *Version 16.37 (build 20051002)*
@@ -47,6 +142,8 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 - **Dites-le franchement :** vous avez des questions sur vos données ? Dans la fonctionnalité Idées d’Excel, entrez une question et nous vous fournirons la réponse. [En savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **Trouvez ce que vous recherchez :** utilisez la zone de recherche pour trouver du texte, des commandes, de l’aide et bien plus encore. [En savoir plus](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+
+- **Ajout plus rapide de cellules** : **activez le mode Cliquer pour ajouter**, puis entrez = et sélectionnez quelques cellules pour créer rapidement une formule permettant d’ajouter les valeurs des cellules. L’option se trouve sous **Menu** > **Préférences** > **Modifier**.  [Si vous souhaitez en savoir plus](https://support.office.com/fr-FR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
