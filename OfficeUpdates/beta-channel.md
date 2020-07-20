@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
-ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
+ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45098668"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45166712"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,47 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2008-july-17"></a>Version 2008 : 17 juillet
+*Version 2008 (Build 13115.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui, à chaque fois qu’un graphique croisé dynamique contenant des lignes d’étiquettes cachées était enregistré et rouvert, causaient les lignes d’étiquettes à devenir visibles.
+
+- Nous avons résolu un problème pour lequel les graphiques n’étaient pas toujours mis à jour comme prévu lorsque la « ForceFullCalculation » a été activée via VBA pour le classeur.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème dans la création de plusieurs profils dans Outlook à partir du même domaine de messagerie.
+- Corrige un problème qui a provoqué l’échec de l’affichage de l’icône de verrou dans l’en-tête de messages chiffrés S/MIME.
+- Corrige un problème qui entraînait la suppression de pièces jointes de messages S/MIME lors de l’envoi d’un message non chiffré.
+- Corrige un problème qui entraînait la suppression du courrier de messages en texte brut lors de l’envoi.
+- Corrige un problème qui a provoqué la corruption des pièces jointes lors de l’envoi d’un courrier S/MIME non chiffré.
+- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
+- Corrige un problème qui empêchait les destinataires d’enregistrer les messages protégés par des droits, même si l’autorisation enregistrer sous était accordée par l’expéditeur.
+- Résout un problème qui a entraîné la troncature des étiquettes de certaines options de recherche avancées dans certaines langues.
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème dans lequel les tâches répertoriées dans l’affichage tableau de tâches n’étaient pas synchronisées avec celles de la boîte de dialogue Affecter les ressources.
+- Résolution d'un problème où si vous collez une tâche présentant plusieurs dépendances, toutes les dépendances n’ont pas été correctement copiées.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel la commande « éditeur » était désactivée lorsque le focus se trouvait dans une zone de texte de commentaire.
+- Nous avons résolu un problème dans lequel la commande « Afficher les marques » était désactivée lorsque le focus se trouvait dans une zone de texte de commentaire.
+- Nous avons résolu un problème dans le code XML personnalisé où l’état des commentaires peut être perdu à l’ouverture du document.
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème dans lequel une fois que l’utilisateur a ouvert une nouvelle fenêtre d’application à partir de la barre des tâches et créé un nouveau document vierge, des fichiers supplémentaires ont été créés.
+- Nous avons résolu un problème dans lequel, si un utilisateur modifiait un document, mais qui disposait d’autorisations perdues, nous n’avons pas averti l’utilisateur qu’il devait se ré-authentifier.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2008-july-10"></a>Version 2008 : 10 juillet
 *Version 2008 (Build 13102.20002)*
@@ -1022,5 +1063,6 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
