@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: f32bdae61df487a920d3a5a7186db9113b37310a
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
+ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138810"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45187604"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions semestrielles du canal des entreprises disponibles en 2020
 
@@ -154,8 +154,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Créer des fichiers PDF plus accessibles :** Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problèmes d’accessibilité à résoudre avant de procéder à l’enregistrement. [Si vous souhaitez en savoir plus](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
 - **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
-
-- **Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs. [Si vous souhaitez en savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [Si vous souhaitez en savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)
 
