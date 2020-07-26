@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
-ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
+ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
+ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45166712"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410708"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,35 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2008-july-24"></a>Version 2008 : 24 juillet
+*Version 2008 (Build 13117.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="onenote"></a>OneNote
+
+- Nous avons résolu un problème de débordement du texte de l’espace réservé dans la recherche de la zone d’édition lorsque la fenêtre de l’application est redimensionnée dans une taille inférieure.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème de débordement du texte de l’espace réservé dans la recherche de la zone d’édition lorsque la fenêtre de l’application est redimensionnée dans une taille inférieure.
+- Nous avons résolu un problème de désactivation de l’option « Utilisateurs spécifiques » pour le Suivi des modifications.
+- Nous avons résolu un blocage occasionnel lors de l’ouverture de fichiers HTML.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2008-july-17"></a>Version 2008 : 17 juillet
 *Version 2008 (Build 13115.20000)*
@@ -1063,6 +1092,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-24-juil|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
