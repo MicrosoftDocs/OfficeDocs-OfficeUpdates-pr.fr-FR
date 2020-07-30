@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 1a9ce7dee810cb11e7b77a0e97aa0f89fb64cb86
-ms.sourcegitcommit: 5f56314a735aa6d24dec23182dbd7f343e32f87f
+ms.openlocfilehash: ae8cbd43519543e425d9b21674e6541ba1631798
+ms.sourcegitcommit: 0329ec1911461878a2b0b594aa7cfde1f006ec4a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45189797"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45430691"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -27,6 +27,10 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2007-july-27"></a>Version 2007 : 27 juillet
+*Version 2007 (build 13029.20292)*
+* Diverses résolutions de bogues et de performances.
 
 ## <a name="version-2007-july-20"></a>Version 2007 : 20 juillet
 *Version 2007 (Build 13029.20236)*
