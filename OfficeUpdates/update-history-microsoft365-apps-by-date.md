@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: eadf2e576c58d268c8f70a78958e900d39563e5a
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 7bdde6bc513c17f8814440f4231e22f45737c369
+ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138580"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46506601"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -36,7 +36,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2006<br/>|13001.20384<br/>|14 juillet 2020<br/>|Publication de la version 2007<br/>|
+|Canal actuel<br/>|2006<br/>|13001.20498<br/>|28 juillet 2020<br/>|Publication de la version 2007<br/>|
 |Canal Entreprise mensuel<br/>|2005<br/>|12827.20538<br/>|14 juillet 2020<br/>|8 septembre 2020<br/>|
 |Canal Entreprise mensuel<br/>|2004<br/>|12730.20602<br/>|14 juillet 2020<br/>|11 août 2020<br/>|
 |Canal Entreprise semestriel (préversion)<br/>|2002<br/>|12527.20880<br/>|14 juillet 2020<br/>|8 septembre 2020<br/>|
@@ -54,6 +54,7 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|28 juillet|[Version 2006 (build 13001.20498)](current-channel.md#version-2006-july-28)| | | |
 |2020|14 juillet|[Version 2006 (Build 13001.20384)](current-channel.md#version-2006-july-14)|[Version 2005 (Build 12827.20538)](monthly-enterprise-channel.md#version-2005-july-14)<br/>[Version 2004 (Build 12730.20602)](monthly-enterprise-channel.md#version-2004-july-14)|[Version 2002 (Build 12527.20880)](semi-annual-enterprise-channel-preview.md#version-2002-july-14)|[Version 2002 (Build 12527.20880)](semi-annual-enterprise-channel.md#version-2002-july-14)<br/>[Version 1908 (Build 11929.20904)](semi-annual-enterprise-channel.md#version-1908-july-14)<br/>[Version 1902 (Build 11328.20624)](semi-annual-enterprise-channel.md#version-1902-july-14)|
 |2020|30 juin|[Version 2006 (Build 13001.20266)](current-channel.md#version-2006-june-30)| | | |
 |2020|24 juin|[Version 2005 (Build 12827.20470)](current-channel.md#version-2005-june-24)| | | |
