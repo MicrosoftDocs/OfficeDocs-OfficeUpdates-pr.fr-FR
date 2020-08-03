@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506611"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532589"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal actuel en 2020
 
@@ -31,6 +31,105 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2007-july-30"></a>Version 2007 : 30 juillet
+*Version 2007 (build 13029.20308)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Créer une connexion au format PDF :** connectez-vous à des données, importez-les ou actualisez-les à partir d’un fichier PDF. [En savoir plus](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Filtrer et trier sans perturber les autres :** vous pouvez désormais trier et filtrer votre fichier Excel lorsque vous collaborez avec d’autres utilisateurs via l’Affichage de feuille. Cette nouvelle fonctionnalité vous évite d’être affecté par les tris et filtres d’autres utilisateurs lors de la co-création du document. [En savoir plus](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+
+- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics.Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [En savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+### <a name="outlook"></a>Outlook
+
+- **Créer des sondages dans Outlook avec le sondage rapide :** créer facilement un sondage, collecter des votes et afficher les résultats dans un courrier électronique [En savoir plus](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Conservez la haute fidélité de vos images lorsque vous les envoyez dans un courrier électronique :** un nouveau paramètre Outlook est disponible pour limiter la compression d’image lorsque vous envoyez des images dans le cadre du contenu d’un courrier électronique.
+
+- **Rouvrir rapidement des éléments à partir d’une session précédente : **nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente. Qu'Outlook se bloque ou que vous le fermez, vous pourrez désormais relancer rapidement les éléments lorsque vous rouvrez l'application. Cette fonctionnalité est activée par défaut. Pour désactiver cette fonctionnalité, accédez à Options > Général > Options de démarrage.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+
+- **Amélioration des performances de la vidéo dans PowerPoint :** nous avons apporté des améliorations aux performances de lecture des vidéos Microsoft Stream afin de réduire le temps de chargement de la vidéo et de créer une expérience de visionnage plus lisse. Utilisez les vidéos de votre entreprise à partir de Microsoft Stream pour créer de meilleures présentations.
+
+### <a name="teams"></a>Teams
+
+- **Nouveaux paramètres de notification simplifiés :** les utilisateurs peuvent désormais gérer leurs paramètres de notification de façon plus simple et plus facile à l’aide de fonctionnalités améliorées.
+
+- **Les notifications natives Windows sont désormais prises en charge par Teams :** les utilisateurs peuvent désormais sélectionner leur méthode préférée de remise des notifications via les bannières d’équipes intégrées ou les bannières natives de Windows.
+
+- **Volet d’informations sur le canal :** lors de la sélection de l’icône « Informations de canal » dans l’en-tête de canal, un volet s’ouvre, dans lequel vous pouvez voir un résumé des informations de canal, notamment la description du canal, une liste des contributeurs et des membres récents, ainsi que le nouvel espace pour les messages système.
+
+- **Désactiver les aperçus pour vos notifications de conversation :** les utilisateurs peuvent modifier les paramètres et gérer les aperçus de leurs toasts de notification de conversation.
+
+- **Réponses suggérées :** nous avons ajouté la possibilité pour les utilisateurs de Teams d’avoir une réponse suggérée pour leurs conversations. Ces suggestions s’affichent au bas d’un message de conversation si elles sont activées. Elles vous permettent de répondre rapidement et facilement aux messages.
+
+### <a name="word"></a>Word
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+
+- **Conserver le texte dans des vecteurs :** vous pouvez maintenant conserver le texte dans des cartes, des graphiques et d’autres vecteurs SVG lors de la conversion de ces objets dans Excel, Word et PowerPoint.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
+
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème dans lequel une erreur ou un blocage peut se produire lors du chargement d’un classeur avec plusieurs feuilles en mode aperçu des sauts de page.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui entraînait un blocage chez les utilisateurs de CLP lors du basculement d’un contexte protégé vers un contexte non protégé dans l’adresse De sur une réponse.
+
+
+- Correction d'un problème qui entraînait l'absence de l'option « Autoriser le transfert » dans les réunions du calendrier partagé « Options de réponse » lorsque l'option « Télécharger le dossier partagé » n'a PAS été activée.
+
+
+- Nous avons résolu un problème qui empêchait les délégués de recevoir une erreur lors de la modification d’un rendez-vous existant dans le calendrier d’un responsable.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
+
+- Nous avons résolu un problème qui provoquait l’échec de l’affichage de la page de l’Assistant planification.
+
+- Nous avons résolu des problèmes de mise en forme dans les alertes de notification d’incident.
+
+### <a name="project"></a>Project
+
+- Résolution d'un problème où la tâche sélectionnée dans le dialogue d'affectation des ressources n'est pas la même que la tâche sélectionnée dans l'affichage du tableau des tâches.
+
+- Résolution d'un problème où si vous collez une tâche présentant plusieurs dépendances, toutes les dépendances n’ont pas été correctement copiées.
+
+- Résolution d'un problème à l'origine de l'impossibilité d'enregistrer un PDF/XPS de Project dans une bibliothèque de documents SharePoint.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Résolution d’un problème entraînant l’affichage d’un message d’exécution, même si la transition vers la version complète du produit est terminée. Pour résoudre ce problème, vous devez vous assurer que le service a correctement calculé les produits ajoutés. Nous avons filtré les produits nouvellement ajoutés (en nous assurant qu'ils existent également dans la nouvelle configuration) et les avons ajoutés à la fin des ID de version des produits existants.
 
 
 
@@ -892,6 +991,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)

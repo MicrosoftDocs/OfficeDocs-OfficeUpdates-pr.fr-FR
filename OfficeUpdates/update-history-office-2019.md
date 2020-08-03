@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: bb253c92976d420d74da61968dae95ce42313188
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: b6b4c21b61b32eed96ca96a77d30e787915b4765
+ms.sourcegitcommit: 5a58fccf5a097a2b66b42c9c00b140a8d21a1eb1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138753"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522431"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -58,6 +58,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|28 juillet 2020|Version 2006 (Build 13001.20498)  |Diverses résolutions de bogues et de performances.  <br/>  |
 |14 juillet 2020|Version 2006 (Build 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30 juin 2020|Version 2006 (Build 13001.20266)  |Diverses résolutions de bogues et de performances.  <br/>  |
 |24 juin 2020|Version 2005 (Build 12827.20470)  |Diverses résolutions de bogues et de performances.  <br/>  |

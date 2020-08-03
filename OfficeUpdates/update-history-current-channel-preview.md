@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 895f36d6b1aa3082e27097f18c6ee54a107ffa35
-ms.sourcegitcommit: 0329ec1911461878a2b0b594aa7cfde1f006ec4a
+ms.openlocfilehash: b3e515a3ddf614857d0bb9d865f7f040167f5c90
+ms.sourcegitcommit: 8e0c8f95645d60a8651f7a2085a79c6e0bc02bdd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45430701"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46525045"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour le canal actuel d’Office (Preview) pour Windows
 
@@ -32,11 +32,14 @@ Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/fr-F
 > - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004.Pour en savoir plus,  [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365.
 
 > [!NOTE]
-> - L’historique de mise à jour ici répertorie toutes les builds publiées
+> - L’historique de mise à jour ici répertorie tous les builds publiés
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu'au numéro de build publié des notes de publication.
 
 
 [//]: # (NE PAS SUPPRIMER)
+
+**29 juillet 2020**<br/>
+Version 2007 (build 13029.20308)<br/>
 
 **27 juillet 2020**<br/>
 Version 2007 (build 13029.20292)<br/>

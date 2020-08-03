@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
-ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
+ms.openlocfilehash: c9d5dfb323a27aacb792d93293cf3aba09d43432
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410708"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532599"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,67 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2008-july-31"></a>Version 2008 : 31 juillet
+*Version 2008 (build 13127.20002)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="outlook"></a>Outlook
+
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Consultez les détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Consultez les détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="word"></a>Word
+
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème où, lors de la modification de l’ordre d’une série de graphiques, la case à cocher correspondante alignée avec la série n’était pas réordonnée en même temps que la série.
+- Nous avons résolu un problème dans lequel la copie d’une image avec un remplissage en dégradé radial ne correspondait pas à l’original.
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problème qui empêchait les utilisateurs d’ajouter une signature lors de la réponse à un message géré par des droits numériques à partir d’une fenêtre de l’inspecteur lorsque l’utilisateur ne disposait pas d'autorisations du propriétaire sur le message auquel il répond.
+- Corrige un problème dans lequel Outlook ne parvenait pas à afficher correctement les sauts de ligne dans le contenu de la démarque.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel la copie d’une image avec un remplissage en dégradé radial ne correspondait pas à l’original.
+- Nous avons résolu un problème dans lequel le bouton formulaires dans PowerPoint n’autorisait pas la création de Formulaires lorsque l’accès à Office Store n’était pas autorisé.
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème de boutons du ruban sur le deuxième onglet qui pouvaient être désactivés pour une liste de tâches SharePoint.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel la copie d’une image avec un remplissage en dégradé radial ne correspondait pas à l’original.
+- Nous avons résolu un problème à l’origine de l’ouverture inopinée du volet de révision lors de l’ajout d’un commentaire pour suivre une modification.
+- Nous avons résolu un problème dans lequel les liens vers des documents n’étaient pas insérés dans la zone de commentaires via Insérer-> Liste déroulante du lien.
+- Nous avons résolu un problème dans lequel le nombre de liens hypertexte dans la collection de liens hypertexte VBA ne faisait pas l’itération correctement après avoir ajouté une image contenant un lien hypertexte.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2008-july-24"></a>Version 2008 : 24 juillet
 *Version 2008 (Build 13117.20000)*
@@ -1092,6 +1153,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-24-juil|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
