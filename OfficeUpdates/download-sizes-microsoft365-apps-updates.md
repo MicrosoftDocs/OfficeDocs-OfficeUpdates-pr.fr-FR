@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: d96336b85347bf96fa9907938a6d15b3dc7b309e
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: c2f321c0c1465fd2814232eaab6e1782f83629b9
+ms.sourcegitcommit: 66c77c0b4b04bd91b4624dc741a9aed272bf9807
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530333"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "46588096"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+
+## <a name="august-6-2020"></a>6 août 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
+
+<i>La publication prévue est la version 2006 (build 13001.20540).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2005 (build 12827.20538) <br/> |14 juillet 2020 <br/> |154<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semestriel (préversion)
+
+<i>La publication prévue est la version 2002 (build 12527.20964).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (build 12527.20880) <br/> |14 juillet 2020 <br/> |57<br/> |
+|Version 2002 (build 12527.20720) <br/> |09 juin 2020 <br/> |62<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semestriel
+
+<i>La publication prévue est la version 2002 (build 12527.20964).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (build 12527.20880) <br/> |14 juillet 2020 <br/> |57<br/> |
+|Version 1908 (build 11929.20838) <br/> |9 juin 2020 <br/> |291<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="july-30-2020"></a>30 juillet 2020
 
