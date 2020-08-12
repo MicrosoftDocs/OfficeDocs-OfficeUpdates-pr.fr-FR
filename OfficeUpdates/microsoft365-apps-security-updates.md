@@ -1,5 +1,5 @@
 ---
-title: Mises à jour de sécurité des différentes versions des Applications Microsoft 365
+title: Notes de publication pour les mises à jour de sécurité de Microsoft Office
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,19 +8,19 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité des Applications Microsoft 365
-ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité des Microsoft Office
+ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
+ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138520"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46641800"
 ---
-# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Mises à jour de sécurité des différentes versions des Applications Microsoft 365
+# <a name="release-notes-for-microsoft-office-security-updates"></a>Notes de publication pour les mises à jour de sécurité de Microsoft Office
 
-Ces notes de publication fournissent des informations sur les correctifs de sécurité inclus dans les mises à jour vers Applications Microsoft 365.
+Ces notes de publication fournissent des informations sur les correctifs de sécurité inclus dans les mises à jour vers Microsoft Office.
 
-Ces informations s’appliquent aux Applications Microsoft 365 pour les grandes entreprises, Applications Microsoft 365 pour les entreprises et aux versions avec abonnement des applications de bureau pour Project et Visio.
+Ces informations s’appliquent aux applications Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business, à Office 2016 au commerce (C2R) et à Office 2019.
 
 
 > [!IMPORTANT]
@@ -32,7 +32,55 @@ Ces informations s’appliquent aux Applications Microsoft 365 pour les grandes
 
 [//]: # (NE SUPPRIMEZ PAS LA LIGNE CI-DESSUS, elle est utilisée pour l’espacement)  
 
-## <a name="july-14-2020"></a>14 juillet 2020
+## <a name="august-11-2020"></a>11 août 2020
+Canal Actuel : Version 2007 (Build 13029.20344)  
+Canal d’entreprise mensuel : version 2006 (build 13001.20520)  
+Canal d’entreprise mensuel : version 2005 (build 12827.20656)  
+Canal Entreprise semestriel (préversion) : Version 2002 (Build 12527.20988)  
+Canal Entreprise semestriel : Version 2002 (Build 12527.20988)  
+Canal Entreprise semestriel : Version 1908 (Build 11929.20934)  
+Canal Entreprise semestriel : Version 1902 (Build 11328.20644)  
+Microsoft 365 Apps sur Windows 7 : version 2002 (build 12527.20988)  
+Vente au détail Office 2019 : version 2007 (Build 13029.20344)  
+Vente au détail Office 2016 : version 2007 (Build 13029.20344)  
+Licence en volume Office 2019 : version 1808 (Build 10364.20059)  
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="access"></a>Accès
+
+-   [CVE-2020-1582](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1582)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1496](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1496)
+-   [CVE-2020-1497](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1497)
+-   [CVE-2020-1494](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1494)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1493](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1493)
+-   [CVE-2020-1483](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1483)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1502](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1502)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1503)
+
+### <a name="office-suite"></a>Suite Office
+
+-   [CVE-2020-1581](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1581)
+-   [CVE-2020-1563](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1563)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
+
+
+
+## <a name="july-14-2020"></a>14 juillet 2020
 Canal Actuel : Version 2006 (Build 13001.20384)  
 Canal Entreprise mensuel : Version 2005 (Build 12827.20538)  
 Canal Entreprise mensuel : Version 2004 (Build 12730.20602)  
