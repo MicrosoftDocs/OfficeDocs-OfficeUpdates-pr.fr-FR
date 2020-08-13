@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: c2f321c0c1465fd2814232eaab6e1782f83629b9
-ms.sourcegitcommit: 66c77c0b4b04bd91b4624dc741a9aed272bf9807
+ms.openlocfilehash: 7ccf04ceb82ce5552de8852e2b7c062402be7f38
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46588096"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634821"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -36,14 +36,23 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+## <a name="august-11-2020"></a>11 août 2020
 
-## <a name="august-6-2020"></a>6 août 2020
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU 11 août 2020)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version 2007 est la plus récente (Build 13029.20344).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2007 (build 13029.20308) <br/> |30 juillet 2020 <br/> |50<br/> |
+|Version 2006 (Build 13001.20498) <br/> |28 juillet 2020 <br/> |374<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
 
-<i>La publication prévue est la version 2006 (build 13001.20540).</i>
+La version 2006 est la plus récente (Build 13001.20520).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -53,25 +62,28 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semestriel (préversion)
 
-<i>La publication prévue est la version 2002 (build 12527.20964).</i>
+La version 2002 est la plus récente (Build 12527.20988).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 2002 (build 12527.20880) <br/> |14 juillet 2020 <br/> |57<br/> |
+|Version 2002 (build 12527.20880) <br/> |14 juillet 2020 <br/> |58<br/> |
 |Version 2002 (build 12527.20720) <br/> |09 juin 2020 <br/> |62<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semestriel
 
-<i>La publication prévue est la version 2002 (build 12527.20964).</i>
+La version 2002 est la plus récente (Build 12527.20988).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 2002 (build 12527.20880) <br/> |14 juillet 2020 <br/> |57<br/> |
+|Version 2002 (build 12527.20880) <br/> |14 juillet 2020 <br/> |58<br/> |
 |Version 1908 (build 11929.20838) <br/> |9 juin 2020 <br/> |291<br/> |
 
 
-[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU11 août 2020)
+
+
+
 
 ## <a name="july-30-2020"></a>30 juillet 2020
 

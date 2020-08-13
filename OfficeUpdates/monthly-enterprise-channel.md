@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138680"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634800"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
@@ -26,6 +26,112 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 [//]: # (NE PAS SUPPRIMER)
 
 
+
+## <a name="version-2006-august-11"></a>Version 2006 : 11 août
+*Version 2006 (Build 13001.20520)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+
+- **Filtrer et trier sans perturber les autres :** vous pouvez désormais trier et filtrer votre fichier Excel lorsque vous collaborez avec d’autres utilisateurs via l’Affichage de feuille. Cette nouvelle fonctionnalité vous évite d’être affecté par les tris et filtres d’autres utilisateurs lors de la co-création du document. [En savoir plus](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+### <a name="outlook"></a>Outlook
+
+- **Contribuez à protéger les données de votre groupe :** l’étiquette Sensibilité que vous sélectionnez lors de la création d’un groupe est appliquée aux e-mails, documents et sites d’équipe de ce groupe.
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+
+- **Nouvelle option pour désactiver les suggestions @mentions lors de la composition de courrier dans Outlook :** le sélecteur @mentionner est-il plus ennuyeux qu’utile ? Vous pouvez désormais l'activer ou le désactive, si vous préférez.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Conservez la haute fidélité de vos images lorsque vous les envoyez dans un courrier électronique :** un nouveau paramètre Outlook est disponible pour limiter la compression d’image lorsque vous envoyez des images dans le cadre du contenu d’un courrier électronique.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+
+- **Amélioration des performances de la vidéo dans PowerPoint :** nous avons apporté des améliorations aux performances de lecture des vidéos Microsoft Stream afin de réduire le temps de chargement de la vidéo et de créer une expérience de visionnage plus lisse. Utilisez les vidéos de votre entreprise à partir de Microsoft Stream pour créer de meilleures présentations.
+
+### <a name="word"></a>Word
+
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Nous avons résolu un problème dans lequel l'exécution des requêtes prenait environ deux fois plus de temps que prévu.
+
+- Résolution d’un problème lié à l’insertion de tableaux SQL liées qui incluent un champ d’identité (par exemple, autonumber).
+
+
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème qui a provoqué la suppression de CustomUI XML pour un onglet de ruban personnalisé lors de l’enregistrement dans SharePoint/OneDrive.
+
+- Résolution d’un problème dans lequel une erreur ou un blocage peut se produire lors du chargement d’un classeur avec plusieurs feuilles en mode aperçu des sauts de page.
+
+- Nous avons résolu un problème qui pouvait se produire lorsque vous tentez de créer une connexion de données si vous vous êtes déconnecté de votre compte.
+
+- Il se peut que la classification automatique de documents ait eu lieu pour les classeurs en mode lecture seule.
+
+### <a name="onenote"></a>OneNote
+
+- Améliorer la détection de l’état de la co-édition afin de réduire l’utilisation des ressources.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème de copier/coller d’une image SVG.
+
+- Résout un problème qui a entraîné la recherche d’une fonctionnalité dans suggérer une fonctionnalité de ne renvoyer aucun résultat et de laisser l’utilisateur sans option pour envoyer une nouvelle idée de fonctionnalité.
+
+- Résolution d’un problème causant la combinaison de touches Ctrl + clic d’arrêter de fonctionner lorsque les paramètres Cloud étaient activés.
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
+
+- Résolution d’un problème : Outlook invitait en permanence les utilisateurs à exécuter l’outil de réparation de la boîte de réception.
+
+- Résolution d’un problème : les utilisateurs des améliorations du calendrier partagé rencontraient des échecs du calendrier.
+
+- Résolution d’un problème : la date de création des pièces jointes que les utilisateurs avaient copiées dans leur système de fichiers par glisser-déplacer était le 1er janvier 4501.
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème dans lequel l’événement ProjectBeforeTaskChange ne se déclenche pas en cas de modification de la tâche récapitulative de projet, soit le champ début de projet/tâche.
+
+- Résolution d’un problème dans lequel une tâche marquée comme étant achevée à 100% est modifiée de façon à être marquée comme terminée à moins de 100%.
+
+- Résolution d’un problème qui empêchait l'ouverture de projets dans le client de bureau Project à partir de la Project Web App si l'URL se terminait par .com.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème de copier/coller d’une image SVG.
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons reporté une nouvelle chute AppV51 pour résoudre une régression dans la AppV51 précédente.
+
+- Un problème de minutage peut provoquer un blocage lors de la fermeture des fichiers Office
+
+- Résolution d’un problème de blocage avec l’hôte Office dans Windows, lorsqu’un complément est activé alors que la valeur TabProcGrowth du Registre est REG_SZ type.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2005-august-11"></a>Version 2005 : 11 août
+*Version 2005 (build 12827.20656)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2005-july-14"></a>Version 2005 : 14 juillet
 *Version 2005 (Build 12827.20538)*
@@ -82,9 +188,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Résolution d’un problème : les utilisateurs des améliorations du calendrier partagé rencontraient des échecs du calendrier.
 
-- Résolution d’un problème qui empêchait les utilisateurs de voir le message &quot;Les règles de cet ordinateur ne correspondent pas à celles de Microsoft Exchange&quot; lors de la mise à jour de leurs règles dans Outlook.
+- Nous avons résolu un problème qui empêchait les utilisateurs de voir le message «Les règles de cet ordinateur ne correspondent pas à celles de Microsoft Exchange» lors de la mise à jour de leurs règles dans Outlook.
 
-- Résolution d’un problème : la date de création des&nbsp; pièces jointes que les utilisateurs avaient copiées dans leur système de fichiers par glisser-déplacer était le 1er janvier 4501.
+- Résolution d’un problème : la date de création des pièces jointes que les utilisateurs avaient copiées dans leur système de fichiers par glisser et déplacer était le 1er janvier 4501.
 
 - Résolution d’un problème : Outlook ne parvenait pas à activer les conseils de stratégie de protection contre la perte de données pour les utilisateurs ayant payé le service sur les plans M365 Business Plus.
 
@@ -416,5 +522,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
