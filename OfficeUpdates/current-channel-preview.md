@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
-ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
+ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46576796"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634850"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -27,6 +27,125 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2008-august-11"></a>Version 2008 : 11 août
+*Version 2008 (build 13127.20164)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Accès
+
+- Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
+
+- Si Office 365 est installé sur votre ordinateur, vous n’avez plus besoin d’installer notre moteur redistribuable ACE pour exposer l’ACE en dehors de l’écosystème Office. Par conséquent, pour les utilisateurs Office 365, vous n’avez plus besoin du moteur de redistribution ACE. par conséquent, vous ne pouvez pas rencontrer ce problème.
+
+- Ce problème a été résolu, vous pouvez désormais utiliser notre pilote ODBC en dehors des applications « Démarrer en un clic » d’Office.
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème où, lors de la modification de l’ordre d’une série de graphiques, la case à cocher correspondante alignée avec la série n’était pas réordonnée en même temps que la série.
+
+- Une erreur peut se produire lorsque vous essayez d’enregistrer un fichier qui contient une formule à l’aide de la fonction LET ().
+
+- Nous avons résolu un problème pour lequel les graphiques n’étaient pas toujours mis à jour comme prévu lorsque la « ForceFullCalculation » a été activée via VBA pour le classeur.
+
+- Nous avons résolu un problème dans lequel la copie d’une image avec un remplissage en dégradé radial ne correspondait pas à l’original.
+
+### <a name="onenote"></a>OneNote
+
+- Nous avons résolu un problème de débordement du texte de l’espace réservé dans la recherche de la zone d’édition lorsque la fenêtre de l’application est redimensionnée dans une taille inférieure.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème dans la création de plusieurs profils dans Outlook à partir du même domaine de messagerie.
+
+- Nous avons résolu un problème qui empêchait certains utilisateurs de la fonctionnalité d’améliorations du calendrier partagé de pouvoir afficher un calendrier partagé nouvellement ajouté.
+
+- Nous avons résolu un problème qui a provoqué l’échec de l’affichage de l’icône de verrou dans l’en-tête de messages chiffrés S/MIME.
+
+- Nous avons résolu un problème dans lequel l’option autoriser le transfert n’était pas disponible dans le calendrier partagé « Options de réponse » si l’option Télécharger le dossier partagé n’a PAS été activée.
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
+
+- Nous avons résolu un problème qui afficherait le bouton imprimer dans un état désactivé, même si l’utilisateur disposait des autorisations d’impression appropriées.
+
+- Nous avons résolu un problème qui entraînait la suppression de pièces jointes de messages S/MIME lors de l’envoi d’un message non chiffré.
+
+- Nous avons résolu un problème qui entraînait la suppression du courrier de messages en texte brut lors de l’envoi.
+
+- Nous avons résolu un problème qui a provoqué la corruption des pièces jointes lors de l’envoi d’un courrier S/MIME non chiffré.
+
+- Nous avons résolu un problème qui empêche les destinataires d’enregistrer les messages protégés par des droits, même si l’autorisation enregistrer sous était accordée par l’expéditeur.
+
+- Corrige un problème qui empêchait les utilisateurs d’ajouter une signature lors de la réponse à un message géré par des droits numériques à partir d’une fenêtre de l’inspecteur lorsque l’utilisateur ne disposait pas d'autorisations du propriétaire sur le message auquel il répond.
+
+- Corrige un problème dans lequel Outlook ne parvenait pas à afficher correctement les sauts de ligne dans le contenu de la démarque.
+
+- Nous avons résolu un problème qui a entraîné la troncature des étiquettes de certaines options de recherche avancées dans certaines langues.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel la copie d’une image avec un remplissage en dégradé radial ne correspondait pas à l’original.
+
+- Nous avons résolu un problème dans lequel le bouton formulaires dans PowerPoint n’autorisait pas la création de Formulaires lorsque l’accès à Office Store n’était pas autorisé.
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème dans lequel les tâches répertoriées dans l’affichage tableau de tâches n’étaient pas synchronisées avec celles de la boîte de dialogue Affecter les ressources.
+
+- Nous avons résolu un problème à l'origine d'un échec si vous essayiez d'enregistrer un fichier PDF/XPS de Project dans une bibliothèque de documents SharePoint.
+
+- Résolution d'un problème où si vous collez une tâche présentant plusieurs dépendances, toutes les dépendances n’ont pas été correctement copiées.
+
+- Résolution d’un problème de boutons du ruban sur le deuxième onglet qui pouvaient être désactivés pour une liste de tâches SharePoint.
+
+### <a name="skype"></a>Skype
+
+- Couleur de peau de couleur neutre de l’émoticône danse modifiée
+
+### <a name="visio"></a>Visio
+
+- Après ce correctif, si l'utilisateur a interrompu l'exécution de la commande de suppression par un mécanisme intermédiaire (dans ce cas, il s'agissait d'un add-in), la mémoire ne sera pas perdue et la machine entière ne sera pas affectée.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel Word cesserait de répondre une fois le texte et l'image collés dans une zone de commentaires.
+
+- Nous avons résolu un problème dans lequel la copie d’une image avec un remplissage en dégradé radial ne correspondait pas à l’original.
+
+- Nous avons résolu un problème de débordement du texte de l’espace réservé dans la recherche de la zone d’édition lorsque la fenêtre de l’application est redimensionnée dans une taille inférieure.
+
+- Nous avons résolu un problème à l’origine de l’ouverture inopinée du volet de révision lors de l’ajout d’un commentaire pour suivre une modification.
+
+- Nous avons résolu un problème dans lequel la commande « éditeur » était désactivée lorsque le focus se trouvait dans une zone de texte de commentaire.
+
+- Nous avons résolu un problème dans lequel la commande « Afficher les marques » était désactivée lorsque le focus se trouvait dans une zone de texte de commentaire.
+
+- Nous avons résolu un problème dans lequel le bouton « Nouveau commentaire » serait désactivé une fois le dernier commentaire supprimé.
+
+- Nous avons résolu un problème de désactivation de l’option « Utilisateurs spécifiques » pour le Suivi des modifications.
+
+- Nous avons résolu un problème dans lequel les liens vers des documents n’étaient pas insérés dans la zone de commentaires via Insérer-> Liste déroulante du lien.
+
+- Nous avons résolu un blocage occasionnel lors de l’ouverture de fichiers HTML.
+
+- Nous avons résolu un problème dans le code XML personnalisé où l’état des commentaires peut être perdu à l’ouverture du document.
+
+- Nous avons résolu un problème dans lequel le nombre de liens hypertexte dans la collection de liens hypertexte VBA ne faisait pas l’itération correctement après avoir ajouté une image contenant un lien hypertexte.
+
+- Pour l’ancien volet Partage de service non-web, lorsque vous fermez le document alors que le volet Partager est ouvert, cela peut entraîner un blocage. Ce problème est désormais résolu.
+
+- Nous avons résolu un problème dans lequel une fois que l’utilisateur a ouvert une nouvelle fenêtre d’application à partir de la barre des tâches et créé un nouveau document vierge, des fichiers supplémentaires ont été créés.
+
+- Nous avons résolu un problème dans lequel, si un utilisateur modifiait un document, mais qui disposait d’autorisations perdues, nous n’avons pas averti l’utilisateur qu’il devait se ré-authentifier.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2007-august-05"></a>Version 2007 : 05 août
 *Version 2007 (Build 13029,20344)*
@@ -71,10 +190,6 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="outlook"></a>Outlook
 
 - **Sélectionner l’emplacement de la recherche :** La liste déroulante de la nouvelle étendue de recherche vous permet de modifier plus facilement votre recherche et de basculer entre le Dossier actuel et la Boîte aux lettres actuelle. Nous vous remercions tous ceux qui ont fourni des commentaires sur la nouvelle expérience de Recherche en haut dans Bientôt disponible. Cette conception et cette mise à jour sont issues de ces commentaires.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Amélioration des performances de la vidéo dans PowerPoint :** nous avons apporté des améliorations aux performances de lecture des vidéos Microsoft Stream afin de réduire le temps de chargement de la vidéo et de créer une expérience de visionnage plus lisse. Utilisez les vidéos de votre entreprise à partir de Microsoft Stream pour créer de meilleures présentations.
 
 ### <a name="word"></a>Word
 
