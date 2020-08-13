@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187604"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634600"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions semestrielles du canal des entreprises disponibles en 2020
 
@@ -26,6 +26,57 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > [!NOTE]
 >
 >- OneNote 2016 sera désormais inclus par défaut lorsqu’un utilisateur du Canal semestriel pour entreprises télécharge et installe les applications Microsoft 365 sur Windows 10 depuis le portail Office.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2002-august-11"></a>Version 2002 : 11 août
+*Version 2002 (Build 12527.20988)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème empêchant la possibilité de basculer vers la modification des fichiers ouverts en « lecture seule recommandée ».
+
+### <a name="onenote"></a>OneNote
+
+- Suppression d’appels d’identité redondants pour réduire l’utilisation des ressources
+
+- Détection améliorée de l’état de la co-édition afin de réduire l’utilisation des ressources.
+
+- Meilleure fonctionnalité de détection des erreurs et de qualité de l’expérience de synchronisation.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à l’origine du problème de performance lors du démarrage d’Outlook pour certains locataires.
+
+### <a name="skype"></a>Skype
+
+- Résolution d’un problème dans lequel le démarrage d’un partage d’écran peut échouer sur un client Skype entreprise 32 bits une fois qu’il est exécuté pendant plusieurs jours.
+
+### <a name="office-suite"></a>Suite Office
+
+- Résolution d’un problème dans le cas où l’enregistrement automatique est désactivé par le biais de la stratégie de groupe, certains documents n’affichent peut-être pas le contenu du serveur le plus récent à l’ouverture tant que l’utilisateur ne clique pas sur « mises à jour disponibles ».
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1908-august-11"></a>Version 1908 : 11 août
+*Version 1908 (Build 11929.20934)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-1902-august-11"></a>Version 1902 : 11 août
+*Version 1902 (Build 11328.20644)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -1611,5 +1662,6 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

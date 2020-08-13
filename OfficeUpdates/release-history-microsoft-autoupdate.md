@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
-ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
+ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45145111"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637642"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -29,6 +29,30 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="august-2020-release"></a>Version d’août 2020
+
+**Date de publication :** 11 août 2020
+
+*Mise à jour automatique Microsoft 4.26*
+
+**Résolution de bogues et améliorations :**
+-   L'icône MAU dans le dock affiche désormais le nombre de mises à jour disponibles. 
+-   MAU démarre désormais dans l’état réduit lorsque des mises à jour sont détectées.
+-   Ajout d’une nouvelle préférence « IgnoreUIOpenAfterInstall » pouvant être utilisée pour empêcher le lancement de l’interface utilisateur MAU après l’installation.
+-   Résolution d’un problème d’autorisation qui a provoqué l’affichage d’un message d’erreur « installation incorrecte » 
+-   Extension de la persistance du message de notification d’échéance de mise à jour de MAU de 60 secondes à 1 heure.
+
+
+**Lien vers la mise à jour Microsoft AutoUpdate :**
+
+[Télécharger le package Microsoft AutoUpdate 4.26](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**Code de hachage SHA-256 :**
+
+E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
+
+<br/><br/>
 
 ## <a name="july-2020-release"></a>Version de juillet 2020
 
