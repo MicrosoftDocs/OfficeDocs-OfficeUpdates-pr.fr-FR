@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: 786855ce6b1b1aefd40b631045e450bb49c212b4
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: b9a83dff401ba017968d20a9b85f7a327749ff97
+ms.sourcegitcommit: dc791a00230b0eb2db3e8c36e03825f57af1a03a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637652"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649614"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -58,7 +58,9 @@ Les informations suivantes s’appliquent aux versions d’Office 2019 sous lic
 <details>
 <summary>Versions antérieures</summary>
  
+
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DE L’ANCIEN TABLEAU VL)
+
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
@@ -90,7 +92,9 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 <details>
 <summary>Versions antérieures</summary>
  
+
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DE L’ANCIEN TABLEAU DE VENTE AU DÉTAIL)
+
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
