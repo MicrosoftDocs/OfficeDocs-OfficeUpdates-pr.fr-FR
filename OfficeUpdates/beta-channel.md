@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
-ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
+ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
+ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46590301"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "46695298"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,27 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2009-august-14"></a>Version 2009 : 14 août
+*Version 2009 (Build 13205.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui faisait que si un utilisateur tapait un nom de formule incluant la parenthèse et invoquait l'aide via F1, la rubrique d'aide propre à cette formule ne s'affichait pas.
+- Résolution d’un problème dans lequel les macros affectées à des boutons ont été rompues après la restauration d’une version antérieure du fichier.
+
+### <a name="outlook"></a>Outlook
+
+- Cette modification résout un problème à l’origine de l’affichage de la page de réunion une fois que l’utilisateur a remplacé les onglets de la page de réunion par la page de l’Assistant Planification.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel l’icône d’image de puce ne s’affiche pas correctement.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2009-august-07"></a>Version 2009 : 07 août
 *Version 2009 (Build 13130.20000)*
@@ -1169,6 +1190,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-24-juil|)
