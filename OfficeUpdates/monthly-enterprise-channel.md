@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
+ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634800"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798370"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
@@ -60,6 +60,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="word"></a>Word
 
 - **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+
+- **Dites-le autrement :** la fonction Réécrire est là pour vous aider lorsque vous cherchez à vous exprimer autrement. La fonction Réécrire vous propose des solutions pour peaufiner vos phrases.<br />Consultez les détails dans le [billet de blog](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -144,11 +146,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Meilleurs résultats : en un clin d'œil :** nous avons mis à jour l’expérience de recherche pour la rendre plus intelligente, plus rapide et plus fiable que jamais. [Si vous souhaitez en savoir plus](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **Meilleurs résultats : en un clin d'œil :** nous avons mis à jour l’expérience de recherche pour la rendre plus intelligente, plus rapide et plus fiable que jamais. [En savoir plus](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-### <a name="word"></a>Word
 
-- **Dites-le autrement :** la fonction Réécrire est là pour vous aider lorsque vous cherchez à vous exprimer autrement. La fonction Réécrire vous propose des solutions pour peaufiner vos phrases.<br />Consultez les détails dans le [billet de blog](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -257,7 +257,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Fin de la prise en charge du connecteur Facebook :** à compter d’avril 2020 avril, Excel ne prend plus en charge les connexions de données externes qui utilisent le connecteur Facebook.
 
-- **Nouvelles images pour donner vie à vos classeurs :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos classeurs. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos classeurs :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos classeurs. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -267,7 +267,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Le calendrier est une modernisation :** voir les mises à jour visuelles qui facilitent la numérisation de votre calendrier. [Si vous souhaitez en savoir plus](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Nouvelles images pour donner vie à vos messages :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos messages . Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos messages :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos messages . Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -275,7 +275,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama. [Si vous souhaitez en savoir plus](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Nouvelles images pour donner vie à vos diapositives :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos diapositives. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos diapositives :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos diapositives. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="word"></a>Word
 
@@ -283,7 +283,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Nouvelles images pour donner vie à vos documents :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos documents. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos documents :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos documents. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="office-suite"></a>Suite Office
 
