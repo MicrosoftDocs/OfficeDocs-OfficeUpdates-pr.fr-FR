@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 44e8d793dc8a4a7757bb83320b1ccaf47066886a
+ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634850"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46788954"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -27,6 +27,29 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2008-august-17"></a>Version 2008 : 17 août
+*Version 2008 (build 13127.20208)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui a provoqué l’échec de la suppression de réunions du calendrier d’un responsable lorsqu’un délégué l’a refusé dans certains cas.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de certains jeux de caractères de voir les noms des fichiers s’afficher de façon incorrecte lors de l’ajout d’un lien hypertexte vers un fichier SharePoint.
+
+
+- Nous avons résolu un problème qui entraînait l’arrêt d’un blocage lors de la suppression de 4 courriers électroniques ou plus à partir d’un compte POP avec l’option « Télécharger les en-têtes uniquement » sélectionnée.
+
+
+- Résoudre un problème à l’origine du menu contextuel avec clic droit dans les contrôles de recherche.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2008-august-11"></a>Version 2008 : 11 août
 *Version 2008 (build 13127.20164)*
