@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
+ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634826"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46818353"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal actuel en 2020
 
@@ -253,6 +253,10 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Méthode simplifiée pour gérer les paramètres de notification de votre canal :** dans la liste d’équipes et canaux ou à partir de l’en-tête de canal, les utilisateurs peuvent rapidement gérer leurs paramètres de notification en activant ou désactivant toutes les activités d’un simple clic.
 
 - **Talkie-walkie :** communication vocale instantanée à l’aide d’un « push-talk ».
+
+### <a name="word"></a>Word
+
+- **Confirmation de l’action dans les lecteurs d’écran :** confirmation de l’action est une condition d’accessibilité essentielle. Avec l’introduction d’une nouvelle API de notification de Windows, nous sommes désormais en mesure d’avertir les utilisateurs de lecteur d’écran de la réussite de leurs actions. Les commandes Couper, Copier, Coller, Gras, Italique, Souligné, Annuler, Rétablir, Corrections automatiques et Mise en majuscules automatiques sont désormais annoncées aux utilisateurs du narrateur dans Word Win32. Pour activer cette fonctionnalité, activez le narrateur en appuyant sur Windows + Ctrl + Entrer.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
