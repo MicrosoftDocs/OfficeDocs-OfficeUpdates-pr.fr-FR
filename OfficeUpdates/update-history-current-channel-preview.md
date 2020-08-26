@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 582ec8c33a442ae0e66cc7d4f353f77a147f9a5d
-ms.sourcegitcommit: 20a982ebe52a35e43739162151bb490971203cf7
+ms.openlocfilehash: 95bc3020972a2acd7eb86d96bdba4ee9536d871b
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46826857"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895738"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour le canal actuel d’Office (Preview) pour Windows
 
@@ -24,7 +24,7 @@ Pour plus d’informations sur le programme Insider, cliquez [ici](https://insid
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versions et builds du canal actuel Office actuel (Preview)
 
 Si vous êtes inscrit au niveau canal actuel (Preview), autrefois appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds suivant contenant des correctifs importants ou des mises à jour de sécurité. La liste suivante répertorie les versions et builds récentes des canaux actuels (Preview), avec **la build la plus récemment publiée répertoriée en premier**. Les nouvelles builds incluent toutes les mises à jour contenues dans les builds précédentes.
-Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). De plus, vous pouvez voir [nouveautés pour les utilisateurs du site Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/fr-FR/OfficeUpdates/current-channel-preview). De plus, vous pouvez voir [nouveautés pour les utilisateurs du site Office Insider](https://insider.office.com/fr-FR/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -36,7 +36,9 @@ Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/en-u
 > - Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu'au numéro de build publié des notes de publication.
 
 
-[//]: # (NE PAS SUPPRIMER)
+
+**25 août 2020**<br/>
+Version 2008 (build 13127.20268)<br/>
 
 **17 août 2020**<br/>
 Version 2008 (build 13127.20208)<br/>
