@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
-ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
+ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
+ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852520"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300308"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,33 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2009-august-28"></a>Version 2009 : 28 août
+*Version 2009 (build 13219.20004)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Résout un problème qui permettait aux utilisateurs d’envoyer du contenu de courrier pour lequel une stratégie « Ne pas transférer » était appliquée à OneNote lors de la sélection de plusieurs messages.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème qui désactivait la fonctionnalité d’insertion de vidéo.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème qui empêchait l’utilisateur de quitter l’en-tête/le pied de page lors de la sélection d’un commentaire.
+- Nous avons résolu un problème qui empêchait les utilisateurs de voir les threads de commentaires qui dépassaient la limite Sidetrack, car le fait de faire défiler le Sidetrack ne fonctionnait pas.
+- Nous avons résolu un problème qui empêchait la recherche de commentaires résolus dans le volet Sidetrack.
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème dans l’outil Déploiement d’Office, où la configuration échouait lors de l’utilisation de la fonctionnalité RemoveMSI lorsque le produit « Rapport d'erreurs d'une application Microsoft » d’Office 2007 était présent.
+- Nous avons résolu un problème dans la boîte de dialogue Compresser l’image dans laquelle certains paramètres ppp sélectionnés par l’utilisateur n’étaient pas conservés.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2009-august-21"></a>Version 2009 : 21 août
 *Version 2009 (build 13212.20000)*
@@ -1231,6 +1258,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
