@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
-ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
+ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47291072"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47319001"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal actuel en 2020
 
@@ -32,6 +32,108 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2008-august-31"></a>Version 2008 : 31 août
+*Version 2008 (build 13127.20296)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="outlook"></a>Outlook
+
+- **Amélioration des liens dans les e-mails :** lorsque vous incluez un lien vers un fichier, le nom du fichier remplace l’URL. Vous pouvez modifier les autorisations afin que tous les destinataires aient accès. [En savoir plus](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+
+- **Prise en charge du langage naturel dans la recherche :** avec l’implémentation de la prise en charge des langages naturels dans la recherche, les utilisateurs peuvent facilement filtrer leurs résultats de recherche sans mémoriser la syntaxe de recherche spécifique.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="teams"></a>Équipes
+
+- **Fusion d’appels :** la fusion d’appels permet aux utilisateurs finaux de fusionner leur appel en tête à tête non détenu actif dans un autre appel en tête à tête ou un autre groupe. Cela s’applique aux appels VOIP et appels PSTN Teams.
+
+- **Les administrateurs peuvent configurer une présence basée sur shift (en service, hors service) pour leurs travailleurs de première ligne :** Les administrateurs peuvent configurer leurs travailleurs de première ligne pour qu'ils aient des états de présence basés sur le travail posté : En service, Occupé (peut être basculé en service), et Hors service.
+
+- **Compétences vocales de Cortana dans Teams :** les compétences vocales de Cortana dans l’application mobile Teams permettent aux utilisateurs d’effectuer des tâches de réunion, de communication et de collaboration à l’aide d’un langage naturel. Les utilisateurs peuvent parler à Cortana en cliquant sur le bouton du microphone dans l’application Teams et en faisant des demandes telles que « Appeler Megan » ou « Envoyer un message à ma prochaine réunion » s’ils doivent se connecter à une personne tout en jonglant avec les tâches ménagères ou en promenant le chien ou généralement en déplacement. Les utilisateurs peuvent participer aux réunions simplement en disant « Participer à ma prochaine réunion » ou consulter leur calendrier en demandant « Que dois-je faire ce matin ». Une fois dans une réunion ou un appel, ils peuvent appeler Cortana à partir du menu excédent dans la phase de réunion et effectuer des tâches courantes dans la réunion, telles que l’ajout d’une personne par son nom ou son numéro (« Ajouter Megan à l’appel »), présentation de platine (« présentez la série de révision trimestrielle ») ou la navigation dans les diapositives La fonctionnalité prend également en charge la recherche et le partage de fichiers, la recherche et la navigation au sein de l’application Teams (« Ouvrir ma conversation avec John, accéder à mon activité non lue, accéder à mes mentions, etc.). Cortana dans Teams respecte les mêmes engagements en matière de confidentialité, de sécurité et de conformité au niveau de l’entreprise pour les services d’entreprise Cortana, comme indiqué dans les[Conditions d’utilisation d’Online Services (OTST)](https://www.microsoft.com/licensing/product-licensing/products).
+
+- **Conversation de groupe augmenter :** Teams a ajouté la possibilité d’avoir 250 participants dans une conversation de groupe.
+
+- **Marquage par Shift :** avec cette fonctionnalité, des indicateurs sont automatiquement attribués à des personnes qui correspondent à leur nom de groupe d’échéancier et de décalage dans l’[application Shifts](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) dans Teams.
+
+### <a name="word"></a>Word
+
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="office-suite"></a>Suite Office
+
+- **Volets à onglets :** vous pouvez désormais basculer entre plusieurs volets à l’aide d’une interface utilisateur d’onglet présente sur le côté droit de l’application. L’interface utilisateur n’est visible que lorsque vous avez ouvert au moins deux volets.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Ce problème a été résolu, vous pouvez désormais utiliser notre pilote ODBC en dehors des applications « Démarrer en un clic » d’Office.
+
+
+### <a name="outlook"></a>Outlook
+
+- Résout un problème qui faisait que les utilisateurs qui tentaient de créer une demande de réunion à partir d’un compte secondaire ajoutés à leur profil voyaient un champ « De : » vide, plutôt que leur adresse de courrier.
+
+- Résout un problème qui empêchait des utilisateurs de se connecter aux dossiers publics suite à l’ajout d’une boîte aux lettres partagée.
+
+- Nous avons résolu un problème qui a provoqué l’échec de la suppression de réunions du calendrier d’un responsable lorsqu’un délégué l’a refusé dans certains cas.
+
+- Nous avons résolu un problème qui empêchait certains utilisateurs de la fonctionnalité d’améliorations du calendrier partagé de pouvoir afficher un calendrier partagé nouvellement ajouté.
+
+- Résout un problème qui entraînait des blocages occasionnels lorsque les utilisateurs interagissaient avec des pièces jointes dans le cloud.
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de certains jeux de caractères de voir les noms des fichiers s’afficher de façon incorrecte lors de l’ajout d’un lien hypertexte vers un fichier SharePoint.
+
+- Résolution d’un problème qui confrontait les utilisateurs à un blocage lors de la réponse à un nouveau message ou de la rédaction de celui-ci.
+
+- Nous avons résolu un problème qui entraînait l’arrêt d’un blocage lors de la suppression de 4 courriers électroniques ou plus à partir d’un compte POP avec l’option « Télécharger les en-têtes uniquement » sélectionnée.
+
+- Nous avons résolu un problème à l’origine de l’affichage de la page de l’Assistant planification par certains utilisateurs.
+
+- Résout un problème qui entraînait des blocages occasionnels lorsque les utilisateurs modifiaient les destinataires.
+
+- Résout un problème qui entraînait des anomalies d’affichage lors de l’utilisation de l’affichage compact.
+
+- Résolution d’un problème à l’origine du menu contextuel avec clic droit dans les contrôles de recherche.
+
+- Résolution d’un problème qui a provoqué l’affichage du message d’erreur suivant lors de la réponse à un nouveau message électronique ou de la rédaction de nouveaux messages électroniques. Certains fichiers de cette page web ne se trouvent pas à l’emplacement prévu. Voulez-vous les télécharger quand même ? Si vous êtes sûr de la source de cette page web, cliquez sur Oui. »
+
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème de mise à jour de la date de fin du projet pour les projets connectés à la liste des tâches SharePoint.
+
+- Résolution d’un problème où si une ressource avait plusieurs tableaux de taux de coûts définies, le coût restant n’était pas toujours calculé correctement.
+
+### <a name="skype"></a>Skype
+
+- Couleur de peau de couleur neutre de l’émoticône danse modifiée.
+
+### <a name="word"></a>Word
+
+- Cette modification résout un problème qui faisait que les applications Office pouvaient rester bloquées en cas d’échec de l’enregistrement automatique après une session de co-création.
+
+- Nous avons résolu un problème qui faisait que l’ouverture automatique des macros s’exécutait avant l’exécution automatique.
 
 
 
@@ -1063,6 +1165,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
