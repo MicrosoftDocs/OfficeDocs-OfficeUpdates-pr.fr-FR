@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: 128359540241fd27fa2b6947421cd7c9aa0f5c58
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 52d3ee327fe67488f87677ae7445beed16ebdf7f
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895728"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47319009"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -81,12 +81,12 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|31 août 2020|Version 2008 (build 13127.20296)| |
 |25 août 2020|Version 2007 (Build 13029.20460)| |
 |11 août 2020|Version 2007 (Build 13029.20344)|Consultez la [page mise à jour de sécurité](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |30 juillet 2020|Version 2007 (build 13029.20308)  |Diverses résolutions de bogues et de performances.  <br/>  |
 |28 juillet 2020|Version 2006 (Build 13001.20498)  |Diverses résolutions de bogues et de performances.  <br/>  |
 |14 juillet 2020|Version 2006 (Build 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1458) <br/>|
-|30 juin 2020|Version 2006 (Build 13001.20266)  |Diverses résolutions de bogues et de performances.  <br/>  |
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU TABLEAU DE VENTE AU DÉTAIL)
@@ -100,6 +100,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|30 juin 2020|Version 2006 (Build 13001.20266)  |Diverses résolutions de bogues et de performances.  <br/>  |
 |24 juin 2020|Version 2005 (Build 12827.20470)  |Diverses résolutions de bogues et de performances.  <br/>  |
 |09 juin 2020|Version 2005 (Build 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1322)  <br/>|
 |02 juin 2020|Version 2005 (Build 12827.20268)  |Diverses résolutions de bogues et de performances.  <br/>  |
