@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
-ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
+ms.openlocfilehash: 23d6532d7d2f6abe0a866b14f9affba16e7dd497
+ms.sourcegitcommit: 337679abc3e6d820d9f8e4bdae892c57b517914c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560099"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47322068"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -25,6 +25,17 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 > - Les informations contenues dans cet article ne s’appliquent pas aux applications Microsoft 365.
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="september-1-2020"></a>1 septembre 2020
+**Office 2016**<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4484251](https://support.microsoft.com/help/4484251))<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4484395](https://support.microsoft.com/help/4484395))<br/> Mise à jour pour Microsoft Office 2016 ([KB4484500](https://support.microsoft.com/help/4484500)) <br/>
+Mise à jour pour Microsoft Outlook 2016 ([KB4484511](https://support.microsoft.com/help/4484511)) <br/>
+Mise à jour pour Skype Entreprise 2016 ([KB4484501](https://support.microsoft.com/help/4484501)) <br/>
+
+**Office 2013**<br/>
+Mise à jour pour Microsoft Visio 2013 ([KB4484355](https://support.microsoft.com/help/4484355))<br/>
+
 ## <a name="august-4-2020"></a>4 août 2020
 
 **Office 2016**<br/>
@@ -75,13 +86,6 @@ Mise à jour pour Microsoft Office 2016 ([KB4484248](https://support.microsoft.
 Mise à jour pour Microsoft OneNote 2016 ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
 Mise à jour pour Skype Entreprise 2016 ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
 
+<br/>
 
-## <a name="march-3-2020"></a>3 mars 32020
-
-**Office 2016**<br/>
-Mise à jour pour Microsoft Office 2016 ([KB4484247](https://support.microsoft.com/help/4484247))<br/> Mise à jour pour le Pack linguistique LIP (Language Interface Pack) de Microsoft Office 2016 ([KB4484136](https://support.microsoft.com/help/4484136))<br/>
-Mise à jour pour Skype Entreprise 2016 ([KB4484245](https://support.microsoft.com/help/4484245)) <br/>
-
-**Office 2013**<br/>
-Mise à jour pour Skype Entreprise 2015 ([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
+ 

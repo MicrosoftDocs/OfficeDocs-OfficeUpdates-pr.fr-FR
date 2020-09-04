@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: e5fa97ddcf22460a7fe9c3005cfdf933e245bb1f
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: 5f78997f33f73d23e4b8be0261b2f8a0e42618a5
+ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318991"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364165"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -36,7 +36,44 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-## <a name="august-31-2020"></a>Août 31, 2020
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+
+## <a name="september-3-2020"></a>3 septembre 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
+
+<i>La publication prévue est la version 2007 (build 13029.20514).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2006 (build 13001.20520) <br/> |11 août 2020 <br/> |157<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semestriel (préversion)
+
+<i>La publication prévue est la version 2008 (build 13127.20360).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (build 12527.20988) <br/> |11 août 2020 <br/> |375<br/> |
+|Version 2002 (build 12527.20880) <br/> |14 juillet 2020 <br/> |600<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semestriel
+
+<i>La publication prévue est la version 2002 (build 12527.21074).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (build 12527.20988) <br/> |11 août 2020 <br/> |67<br/> |
+|Version 2002 (build 12527.20880) <br/> |14 juillet 2020 <br/> |72<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
+
+## <a name="august-31-2020"></a>31 août 2020
 
 [//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU 31 août 2020)
 
@@ -520,7 +557,7 @@ La version 2002 est la plus récente (Build 12527.20242).
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Aperçu des canaux de mise à jour pour les applications Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)](update-history-office365-proplus-by-date.md)
 
