@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
-ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
+ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
+ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300308"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47395423"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,79 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2010-september-04"></a>Version 2010 : 4 septembre
+*Version 2010 (build 13301.20004)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données
+
+- **Alignement sur le nom de marque Azure Synapse :** le connecteur de données Azure SQL Data Warehouse a été rebaptisé Azure Synapse Analytics
+
+### <a name="outlook"></a>Outlook
+
+- **Épingler les e-mails :** cette fonctionnalité permet aux utilisateurs d’effectuer le suivi des messages vers lesquels ils doivent revenir ou de les conserver dans la partie supérieure de la liste des messages pour ne pas les oublier.
+
+- **Recevoir des suggestions par e-mail lorsque vous effectuez une recherche par personne :** lorsque vous tapez vos termes de recherche dans Outlook, vous recevez les messages les plus pertinents dans les suggestions.
+
+- **Recevoir des suggestions par e-mail lorsque vous effectuez une recherche par personne :** lorsque vous tapez vos termes de recherche dans Outlook, vous recevez les messages les plus pertinents dans les suggestions.
+
+- **Rédacteur Microsoft reçoit une mise à niveau pour les clients de bureau Word et Outlook :** nous avons introduit un nouveau modèle de révision par clic pour les suggestions d’orthographe, de grammaire et de style avancé dans Rédacteur. Cette modification inclut également une nouvelle surface de carte dédiée pour passer en revue les suggestions.
+
+### <a name="word"></a>Word
+
+- **Rédacteur Microsoft reçoit une mise à niveau pour les clients de bureau Word et Outlook :** nous avons introduit un nouveau modèle de révision par clic pour les suggestions d’orthographe, de grammaire et de style avancé dans Rédacteur. Cette modification inclut également une nouvelle surface de carte dédiée pour passer en revue les suggestions.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui affichait l’alerte suivante lorsque vous ouvriez un fichier contenant la fonction LET : « Désolé... Nous avons trouvé un problème dans le contenu de « votre fichier.xlsx », mais nous pouvons essayer de récupérer le maximum de contenu. Si la source de ce classeur est fiable, cliquez sur Oui. ».
+- Nous avons corrigé un blocage lié aux plages nommées et aux références de complément XLAM.
+- Nous avons résolu un problème qui faisait que les utilisateurs ne pouvaient pas modifier un filtre de tableau croisé dynamique, car il était défini sur une valeur qui n’était plus présente dans une base de données Analysis Services.
+- Nous avons résolu un problème qui faisait que lorsqu’un utilisateur appliquait un style personnalisé à un tableau dynamique, il obtenait l’erreur suivante : « Vous ne pouvez pas modifier une partie de matrice. ». Il s’agissait d’une restriction héritée qui a été supprimée.
+- Nous avons résolu un problème à l’origine de la perte de la barre de formule Excel après la connexion à un appareil (par exemple, connexion/déconnexion d’une session distante ou modification d’un moniteur).
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème de façon à offrir davantage de flexibilité pour l’activation et la désactivation des options de journalisation par défaut via une stratégie de groupe.
+- Nous avons résolu un problème qui faisait que le nom de domaine hérité d’un expéditeur d’e-mail était préservé et affiché une fois qu’un brouillon du message était déplacé entre les boîtes aux lettres avec les autorisations d’assistant et de responsable.
+- Nous avons résolu un problème qui entraînait le démarrage d’Outlook à l’état Hors connexion pour certains utilisateurs jusqu’à ce qu’ils choisissent de travailler en ligne.
+- Nous avons résolu un problème qui faisait que l’exécution du code VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") suite à l’activation du ruban à ligne unique (SLR) générait une erreur d’exécution.
+- Nous avons résolu un problème qui faisait que les boutons OK et Annuler dans la boîte de dialogue Réponses automatiques n’étaient pas visibles sur un système avec une haute résolution (par exemple, 1 750 x 1 920) associée à une taille de texte importante (par exemple, 175 %).
+- Nous avons résolu un problème qui entraînait un blocage après l’envoi d’une demande de réunion à partir d’un groupe de contacts vide vers un autre groupe de contacts.
+- Nous avons résolu un problème qui engendrait un blocage lors de l’ouverture d’e-mails de très grande taille.
+- Nous avons résolu un problème qui faisait que si la stratégie de groupe nécessitait qu’un complément soit toujours activé, le complément de surveillance devenait indisponible afin d’empêcher les utilisateurs de le désactiver.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème qui faisait que les vidéos n’étaient pas lues automatiquement dans les diaporamas.
+- Nous avons résolu un problème qui faisaient que, après le démarrage de PowerPoint et l’insertion d’une diapositive, suivie de l’ouverture et de la fermeture du volet Commentaires, les diapositives dans le volet Miniatures s’affichaient de manière superposée.
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème qui faisait que lorsqu’une ressource présentait plusieurs tables de taux de coûts, le coût restant pouvait ne pas être correctement calculé.
+- Nous avons corrigé un problème de mise à jour de la date de fin du projet pour les projets connectés à la liste des tâches SharePoint.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème qui faisait que la carte Commentaire affichait une bordure autour du texte de commentaire si l’utilisateur cliquait sur le commentaire.
+- Nous avons résolu un problème qui faisait que le focus ne se dirigeait pas vers le volet Commentaires si le document était agrandi à 160 % ou plus et que le volet Commentaires n’était pas visible.
+- Nous avons résolu un problème qui faisait que les commentaires d’un document étaient affichés sur d’autres documents ouverts suite à la transition entre les différents documents ouverts.
+- Nous avons résolu un problème qui faisait que si un utilisateur créait un brouillon de commentaire ancré sur une ligne contenant déjà des commentaires validés, celui-ci était organisé dans un ordre incorrect par rapport au commentaire validé dans le SideTrack.
+- Nous avons résolu un problème qui faisait que les liens longs n’étaient pas encapsulés lors de l’enregistrement d’un document au format HTML.
+- Nous avons résolu un problème lié aux macros qui faisait que l’ouverture automatique s’exécutait avant l’exécution automatique.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2009-august-28"></a>Version 2009 : 28 août
 *Version 2009 (build 13219.20004)*
@@ -1258,6 +1331,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
