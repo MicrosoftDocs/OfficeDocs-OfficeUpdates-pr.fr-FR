@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels informatiques des notes de publication pour les mises à jour de sécurité des Microsoft Office
-ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: f8fc5a41e72074071de05ced6857e2ba1f5e7e21
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413082"
+ms.locfileid: "47420692"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Notes de publication pour les mises à jour de sécurité de Microsoft Office
 
@@ -33,11 +33,15 @@ Ces informations s’appliquent aux applications Microsoft 365 Apps for enterpri
 [//]: # (NE SUPPRIMEZ PAS LA LIGNE CI-DESSUS, elle est utilisée pour l’espacement)  
 
 ## <a name="september-08-2020"></a>8 septembre 2020
+Canal Actuel : Version 2008 (Build 13127.20408)  
 Canal d’entreprise mensuel : version 2007 (build 13029.20534)  
 Canal d’entreprise mensuel : version 2006 (Build 13001.20648)  
 Canal Entreprise semestriel (préversion) : Version 2008 (Build 13127.20408)  
 Canal Entreprise semestriel : Version 2002 (Build 12527.21104)  
 Canal Entreprise semestriel : Version 1908 (Build 11929.20946)  
+Applications Microsoft 365 sur Windows 7 : Version 2002 (build 12527.21104)  
+Vente au détail Office 2019 : version 2008 (Build 13127.20408)  
+Vente au détail Office 2016 : version 2008 (Build 13127.20408)  
 Licence en volume Office 2019 : version 1808 (Build 10366.20016)  
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
@@ -54,11 +58,10 @@ Licence en volume Office 2019 : version 1808 (Build 10366.20016)
 
 -   [CVE-2020-1338](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1338)
 -   [CVE-2020-1218](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1218)
--   [CVE-2020-1445](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1445)
+
 
 ### <a name="office-suite"></a>Suite Office
 
--   [CVE-2020-1458](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1458)
 -   [CVE-2020-1193](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-1193)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
