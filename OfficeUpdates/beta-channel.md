@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
-ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
+ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
+ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47395423"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "47431573"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -39,9 +39,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données
-
-- **Alignement sur le nom de marque Azure Synapse :** le connecteur de données Azure SQL Data Warehouse a été rebaptisé Azure Synapse Analytics
+- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données.
 
 ### <a name="outlook"></a>Outlook
 
