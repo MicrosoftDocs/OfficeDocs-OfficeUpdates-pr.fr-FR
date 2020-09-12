@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399651"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413052"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal actuel en 2020
 
@@ -376,6 +376,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="excel"></a>Excel
 
 - **Noms de fichiers plus longs :** Excel pour le bureau Windows prend désormais en charge les fichiers OneDrive/SharePoint avec des noms et des chemins d'accès comportant jusqu'à 400 caractères.
+
+- **Améliorations RealTimeData (RTD) :** Dans la version 2002 (ou ultérieure) d’Office 365, la fonction RTD d’Excel est beaucoup plus rapide qu’Excel 2010 pour calculer des données dans la feuille de calcul. Nous avons supprimé les goulots d’étranglement dans sa mémoire et ses structures de données sous-jacentes, et l’avons rendu sûr pour les threads pour lui permettre d’être calculé sur tous les threads disponibles du Recalcul multithread (MTR).
 
 ### <a name="outlook"></a>Outlook
 
@@ -884,6 +886,10 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Faites glisser le message vers un groupe dont vous êtes propriétaire :** déplacer et copier les messages et les conversations en les faisant glisser à partir de votre boîte de réception. Les messages que vous faites glisser sont partagés avec tous les membres du groupe.
 
 - **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.
+
+###<a name="powerpoint"></a>PowerPoint
+
+- **Commentaires :** la nouvelle expérience de commentaires dans PowerPoint vous permet de découvrir et d’ajouter rapidement et facilement des commentaires à vos documents. Moderniser vos flux de collaboration avec de nouvelles fonctionnalités telles que l’ancrage des commentaires, la résolution, les tâches, les notifications de mentions améliorées et bien plus encore.
 
 ### <a name="word"></a>Word
 
