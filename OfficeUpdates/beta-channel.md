@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
-ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
+ms.openlocfilehash: be0f92656f096b888632bb73d10187305ab7be48
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "47449557"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816575"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -100,10 +100,6 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="excel"></a>Excel
-
-- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données.
-
 ### <a name="outlook"></a>Outlook
 
 - **Épingler les e-mails :** cette fonctionnalité permet aux utilisateurs d’effectuer le suivi des messages vers lesquels ils doivent revenir ou de les conserver dans la partie supérieure de la liste des messages pour ne pas les oublier.
@@ -278,19 +274,19 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Consultez les détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Consultez les détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -339,7 +335,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -588,7 +584,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 - **Trier/filtrer pendant la collaboration dans Excel :** vous pouvez désormais trier et filtrer votre fichier Excel pendant que vous collaborez avec d’autres personnes. Cette nouvelle fonctionnalité vous empêche d’être concerné par les tris et filtres d’autres utilisateurs lors de la co-édition du document.
 
-- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics.Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [Si vous souhaitez en savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics.Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [En savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -945,17 +941,17 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 ### <a name="excel"></a>Excel
 
-- **Sélecteur de contenu M365 Premium :** donnez vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 ### <a name="outlook"></a>Outlook
 
-- **Sélecteur de contenu M365 Premium :** donnez vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 - **Conservez la haute fidélité de vos images lorsque vous les envoyez dans un courrier électronique :** un nouveau paramètre Outlook est disponible pour limiter la compression d’image lorsque vous envoyez des images dans le cadre du contenu d’un courrier électronique.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Sélecteur de contenu M365 Premium :** donnez vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 - **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama.
 
@@ -1212,7 +1208,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [Si vous souhaitez en savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 
