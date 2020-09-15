@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
-ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
+ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 09/11/2020
-ms.locfileid: "47431573"
+ms.locfileid: "47449557"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,69 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2010-september-11"></a>Version 2010 : 11 septembre
+*Version 2010 (build 13304.20000)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="access"></a>Access
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+### <a name="excel"></a>Excel
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+### <a name="onenote"></a>OneNote
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+### <a name="outlook"></a>Outlook
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+### <a name="project"></a>Project
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+### <a name="publisher"></a>Éditeur
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+### <a name="visio"></a>Visio
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+### <a name="word"></a>Word
+
+- **Office peut s’accorder au mode sombre de votre appareil sous Windows 10 :** utilisez Windows 10 en mode sombre ? Office peut désormais changer de thème pour qu’il corresponde automatiquement à celui de votre appareil : il vous suffit de choisir « Utiliser le paramètre système » comme thème Office.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d’un problème qui provoquait un délai considérable lorsque vous basculiez entre des feuilles de calcul comportant de grandes quantités de données lorsque l’option « Aperçu des sauts de page » était activée.
+
+### <a name="outlook"></a>Outlook
+
+- Correction d’un problème à cause duquel les messages étaient masqués après la désactivation de la boîte de réception Prioritaire et après un tri.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème à cause duquel les images GIF ne s’animaient qu’une seule fois dans l’éditeur et les diaporamas.
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2010-september-04"></a>Version 2010 : 4 septembre
 *Version 2010 (build 13301.20004)*
@@ -1329,6 +1392,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 3ad72b7012b7220dfce130c8976158a496624882
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: cbb7abb985eccb0e7ee8669812ff4b9837565377
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399661"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "47449547"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -27,6 +27,163 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2009-september-10"></a>Version 2009 : 10 septembre
+*Version 2009 (Build 13231.20126)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Ce problème a été résolu et vous ne devriez plus rencontrer de blocage.
+
+
+- Nous avons résolu un problème concernant les connexions aux bases de données ODBC qui ne fonctionnaient pas avec des applications tierces.
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui affichait l’alerte suivante lorsque vous ouvriez un fichier contenant la fonction LET : « Désolé... Nous avons trouvé un problème dans le contenu de « votre fichier.xlsx », mais nous pouvons essayer de récupérer le maximum de contenu. Si la source de ce classeur est fiable, cliquez sur Oui. ».
+
+
+- Nous avons résolu un problème qui faisait que si un utilisateur tapait un nom de formule incluant la parenthèse et invoquait l'aide via F1, la rubrique d'aide propre à cette formule ne s'affichait pas.
+
+
+- Nous avons résolu un problème concernant les références de cellule qui pouvaient être incorrectes si une feuille de graphique était la feuille active lors de l’utilisation d’un macro pour définir la propriété FormulaR1C1.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs ne pouvaient pas modifier un filtre de tableau croisé dynamique, car il était défini sur une valeur qui n’était plus présente dans une base de données Analysis Services.
+
+
+- Correction d’un blocage lié aux plages nommées et aux références de complément XLAM.
+
+
+- Nous avons résolu un problème qui faisait que lorsqu’un utilisateur appliquait un style personnalisé à un tableau dynamique, il obtenait l’erreur suivante : « Vous ne pouvez pas modifier une partie de matrice. ». Il s’agissait d’une restriction héritée qui a été supprimée.
+
+
+- Correction d’un problème à cause duquel les macros affectées à des boutons ont été rompues après la restauration d’une version antérieure du fichier.
+
+
+- Nous avons résolu un problème concernant l’entrée manuscrite qui empêchait Excel de répondre.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème de façon à offrir davantage de flexibilité pour l’activation et la désactivation des options de journalisation par défaut via une stratégie de groupe.
+
+
+- Nous avons résolu un problème qui faisait que le nom de domaine hérité d’un expéditeur d’e-mail était préservé et affiché une fois qu’un brouillon du message était déplacé entre les boîtes aux lettres avec les autorisations d’assistant et de responsable.
+
+
+- Correction d’un problème qui entraînait le démarrage d’Outlook à l’état Hors connexion pour certains utilisateurs jusqu’à ce qu’ils choisissent de travailler en ligne.
+
+
+- Nous avons résolu un problème qui faisait que l’exécution du code VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") suite à l’activation du ruban à ligne unique (SLR) générait une erreur d’exécution.
+
+
+- Nous avons résolu un problème qui faisait que les boutons OK et Annuler dans la boîte de dialogue Réponses automatiques n’étaient pas visibles sur un système avec une haute résolution (par exemple, 1 750 x 1 920) associée à une taille de texte importante (par exemple, 175 %).
+
+
+- Nous avons résolu un problème qui entraînait un blocage après l’envoi d’une demande de réunion à partir d’un groupe de contacts vide vers un autre groupe de contacts.
+
+
+- Correction d’un problème qui engendrait un blocage lors de l’ouverture d’e-mails de très grande taille.
+
+
+- Nous avons résolu un problème qui faisait que si la stratégie de groupe nécessitait qu’un complément soit toujours activé, le complément de surveillance devenait indisponible afin d’empêcher les utilisateurs de le désactiver.
+
+
+- Résout un problème qui permettait aux utilisateurs d’envoyer du contenu de courrier pour lequel une stratégie « Ne pas transférer » était appliquée à OneNote lors de la sélection de plusieurs messages.
+
+
+- Nous avons résolu un problème concernant la gestion des droits relatifs à l’information. Désormais, les utilisateurs peuvent désactiver la gestion des droits relatifs à l’information pour Outlook sans avoir à le faire pour le reste des applications Office.
+
+
+- Nous avons résolu un problème dans lequel les attributs de compte d’utilisateur dans Active Directory pour « otherTelephone » et « otherHomePhone » n’ont pas été mappés aux attributs LDAP Outlook correspondants.
+
+
+- Cette modification résout un problème à l’origine de l’affichage de la page de réunion une fois que l’utilisateur a remplacé les onglets de la page de réunion par la page de l’Assistant Planification.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème à l’origine de l’affichage du ruban ou de la barre de titre dans certaines conditions.
+
+
+- Nous avons résolu un problème qui faisaient que, après le démarrage de PowerPoint et l’insertion d’une diapositive, suivie de l’ouverture et de la fermeture du volet Commentaires, les diapositives dans le volet Miniatures s’affichaient de manière superposée.
+
+
+- Correction d’un problème qui désactivait la fonctionnalité d’insertion de vidéo.
+
+
+- Correction d’un problème à cause duquel les vidéos n’étaient pas lues automatiquement dans les diaporamas.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème qui faisait que lorsqu’une ressource présentait plusieurs tables de taux de coûts, le coût restant pouvait ne pas être correctement calculé.
+
+
+- Correction d’un problème de mise à jour de la date de fin du projet pour les projets connectés à la liste des tâches SharePoint.
+
+
+### <a name="visio"></a>Visio
+
+- Blocages d’Aperçu instantané lors de l’alignement de texte rapportés par les clients. Le problème en tête du mois de juillet.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème qui faisait que la carte Commentaire affichait une bordure autour du texte de commentaire si l’utilisateur cliquait sur le commentaire.
+
+
+- Correction d’un problème à cause duquel l’icône d’image de puce ne s’affiche pas correctement.
+
+
+- Correction d’un problème qui empêchait l’utilisateur de quitter l’en-tête/le pied de page lors de la sélection d’un commentaire.
+
+
+- Correction d’un problème à cause duquel Word pouvait se bloquer après la suppression des commentaires.
+
+
+- Nous avons résolu un problème qui faisait que si un utilisateur créait un brouillon de commentaire ancré sur une ligne contenant déjà des commentaires validés, celui-ci était organisé dans un ordre incorrect par rapport au commentaire validé dans le SideTrack.
+
+
+- Nous avons résolu un problème qui faisait que le focus ne se dirigeait pas vers le volet Commentaires si le document était agrandi à 160 % ou plus et que le volet Commentaires n’était pas visible.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de voir les threads de commentaires qui dépassaient la limite Sidetrack, car le fait de faire défiler le Sidetrack ne fonctionnait pas.
+
+
+- Nous avons résolu un problème qui empêchait la recherche de commentaires résolus dans le volet Sidetrack.
+
+
+- Nous avons résolu un problème qui faisait que les commentaires d’un document étaient affichés sur d’autres documents ouverts suite à la transition entre les différents documents ouverts.
+
+
+- Correction d’un problème à cause duquel les liens longs n’étaient pas encapsulés lors de l’enregistrement d’un document au format HTML.
+
+
+- Correction d’un problème concernant les puces qui, dans certains cas, ne s’affichent pas correctement dans les e-mails.
+
+
+- Correction d’un problème lié aux macros qui faisait que l’ouverture automatique s’exécutait avant l’exécution automatique.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème dans l’outil Déploiement d’Office, où la configuration échouait lors de l’utilisation de la fonctionnalité RemoveMSI lorsque le produit « Rapport d'erreurs d'une application Microsoft » d’Office 2007 était présent.
+
+
+- Nous avons résolu un problème dans la boîte de dialogue Compresser l’image dans laquelle certains paramètres ppp sélectionnés par l’utilisateur n’étaient pas conservés.
+
+
+- Cette modification corrige un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Version 2008 : 4 septembre
 *Version 2008 (build 13127.20378)*

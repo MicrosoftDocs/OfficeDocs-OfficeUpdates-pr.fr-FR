@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: d3309f60d502cdcc50564028e8de5954a43af71f
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413052"
+ms.locfileid: "47420748"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal actuel en 2020
 
@@ -32,6 +32,38 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2008-september-09"></a>Version 2008 : 9 septembre
+*Version 2008 (Build 13127.20408)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Access a résolu le problème actuel, mais examinera nos interfaces supplémentaires pour s’assurer que le problème ne survienne plus. L’équipe vous informera des prochaines mises à jour. Nous vous remercions de votre patience.
+
+
+### <a name="excel"></a>Excel
+
+- Correction d’un problème où Excel pouvait planter dans certaines circonstances lors de l’utilisation de Format Painter.
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème à cause duquel l’utilisateur pouvait perdre du contenu lors du redimensionnement d’une forme.
+
+
+- Correction d’un problème à cause duquel les styles de base n’étaient pas mis à jour avec le style Normal.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Cette modification corrige un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
 
 
 
@@ -1201,6 +1233,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
