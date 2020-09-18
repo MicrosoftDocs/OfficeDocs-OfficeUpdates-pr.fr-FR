@@ -2,19 +2,19 @@
 title: Notes de publication canal actuel (Preview)
 ms.author: anankani
 author: v-lislo
-manager: andrewmo
+manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Slow
-ms.openlocfilehash: 064769dde88f0198237af611b788ed02317235ba
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+description: Fournir aux initiés L'audience lente la dernière liste des principales nouvelles fonctionnalités, corrections ou problèmes connus
+ms.openlocfilehash: 67f78eb141917beb3111180fbdfe42f210c3ab4e
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816555"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942851"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
