@@ -2,19 +2,19 @@
 title: Liste des fichiers. msp les plus récents pour les produits Office 2016
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique la liste des fichiers. msp les plus récents pour les versions perpétuelles d’Office 2016 qui utilisent Windows Installer (MSI)
-ms.openlocfilehash: cc9f7f97499e5e360d4df1210302f7025150b1c4
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 692a20b6c3e88fdfde6296ddadaa8180d1801c16
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413092"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174563"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Liste des fichiers. msp les plus récents pour les produits Office 2016
 
@@ -78,7 +78,7 @@ Le tableau suivant répertorie tous les fichiers. msp publiés depuis la publica
 |Nlgmsproof-x-none  <br/> |Office 2016  <br/> |7 mai 2019  <br/> |[2920717](https://support.microsoft.com/help/2920717) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |officeart-x-aucun  <br/> |Office 2016  <br/> |1 septembre 2020  <br/> |[4484500](https://support.microsoft.com/help/4484500) <br/> |10 avril 2018  <br/> |[4011628](https://support.microsoft.com/help/4011628) <br/> |[3203474](https://support.microsoft.com/help/3203474) <br/> |
 |oleo-x-none  <br/> |Office 2016  <br/> |7 mai 2019  <br/> |[4462119](https://support.microsoft.com/help/4462119) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
-|OneNote-x-aucun  <br/> |OneNote 2016  <br/> |02 juin 2020  <br/> |[4484329](https://support.microsoft.com/help/4484329) <br/> |9 août 2016  <br/> |[3115419](https://support.microsoft.com/help/3115419) <br/> |[3114862](https://support.microsoft.com/help/3114862)  <br/> |
+|OneNote-x-aucun  <br/> |OneNote 2016  <br/> |02 juin 2020  <br/> |[4484329](https://support.microsoft.com/help/4484329) <br/> |9 août 2016  <br/> |[3115419](https://support.microsoft.com/help/3115419) <br/> |[3114862](https://support.microsoft.com/help/3114862)  <br/> |
 |orgidcrl-x-none  <br/> |Office 2016  <br/> |8 décembre 2015  <br/> |[2920712](https://support.microsoft.com/help/2920712) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |ose-x-none  <br/> |Office 2016  <br/> |Non applicable  <br/> |Non applicable  <br/> |10 juillet 2018  <br/> |[4022176](https://support.microsoft.com/help/4022176) <br/> |[4011237](https://support.microsoft.com/help/4011237) <br/> |
 |osetup-x-none  <br/> |Office 2016  <br/> |6 août 2019  <br/> |[4032254](https://support.microsoft.com/help/4032254) <br/>  |10 juillet 2018  <br/> |[4022172](https://support.microsoft.com/help/4022172) <br/> |[4011239](https://support.microsoft.com/help/4011239) <br/> |

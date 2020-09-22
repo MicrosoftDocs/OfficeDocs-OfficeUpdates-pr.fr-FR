@@ -2,19 +2,19 @@
 title: Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: cb3f8e24ca8c83c88cfe2e72788f92b7a19793c7
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 1ffd93ef1c900ae92257bc646b915f15a37c02f1
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413042"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174533"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)
 

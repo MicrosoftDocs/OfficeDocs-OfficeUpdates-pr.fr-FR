@@ -2,19 +2,19 @@
 title: Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 23d6532d7d2f6abe0a866b14f9affba16e7dd497
-ms.sourcegitcommit: 337679abc3e6d820d9f8e4bdae892c57b517914c
+ms.openlocfilehash: 53d2533ecb240ad91b77662f3586804cf68f6cc9
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47322068"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174523"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 

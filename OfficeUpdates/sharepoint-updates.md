@@ -2,7 +2,7 @@
 title: Mises à jour de SharePoint
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Recherchez et gérez les mises à jour pour SharePoint Server 2016, SharePoint 2013 et SharePoint 2010 au même endroit. Utilisez les liens figurant sur cette page pour obtenir plus d’informations sur les mises à jour et les télécharger.
-ms.openlocfilehash: 2cc87885bdec194d58724464352db9521d98f500
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 3f9a24046816c4a8a4673e9a232b37f115a95a15
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413062"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174713"
 ---
 # <a name="sharepoint-updates"></a>Mises à jour de SharePoint
 

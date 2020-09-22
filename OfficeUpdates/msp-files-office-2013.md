@@ -2,19 +2,19 @@
 title: Liste des fichiers. msp les plus récents pour les produits Office 2013
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique la liste des fichiers. msp les plus récents pour les versions perpétuelles d’Office 2013 qui utilisent Windows Installer (MSI)
-ms.openlocfilehash: c46af9e7fb8b8022230b55485fc863a563d49f42
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 3b6bacd76cc7c947c415915ea22bad086f5473bb
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413102"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174613"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Liste des fichiers. msp les plus récents pour les produits Office 2013
 
@@ -112,7 +112,7 @@ Le tableau suivant répertorie tous les fichiers. msp publiés depuis le lanceme
 |stslist-x-none  <br/> |Office 2013  <br/> |5 février 2019  <br/> |[3172473](https://support.microsoft.com/kb/3172473) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |Vbe7-x-none  <br/> |Office 2013  <br/> |02 juin 2020  <br/> |[4484356](https://support.microsoft.com/help/4484356) <br/> |14 avril 2020  <br/> |[4011104](https://support.microsoft.com/help/4011104) <br/> |[3115153](https://support.microsoft.com/help/3115153) <br/> |
 |visconv-x-none<sup>2</sup> <br/> |Pack de compatibilité Visio 2013  <br/> |14 juillet 2015  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
-|Visio-x-aucun  <br/> |Visio 2013  <br/> |1 septembre 2020  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |14 avril 2020  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
+|Visio-x-aucun  <br/> |Visio 2013  <br/> |1 septembre 2020  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |14 avril 2020  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
 |vviewer-x-none  <br/> |Visionneuse Visio 2013  <br/> |8 avril 2014  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |WEC-x-none  <br/> |Office 2013  <br/> |7 novembre 2015  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |Non applicable  <br/> |Non applicable  <br/> |Non applicable  <br/> |
 |Word-x-none  <br/> |Word 2013  <br/> |2 juillet 2019 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |8 septembre 2020  <br/> |[4484522](https://support.microsoft.com/help/4484522) <br/>|[4484484](https://support.microsoft.com/help/4484484) <br/>|
