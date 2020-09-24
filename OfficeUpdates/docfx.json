@@ -14,7 +14,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "**/common/**"
         ]
       }
     ],
@@ -31,7 +32,8 @@
           "**/obj/**",
           "**/includes/**",
           "_themes/**",
-          "_themes.pdf/**"
+          "_themes.pdf/**",
+          "**/common/**"
         ]
       }
     ],
@@ -45,6 +47,7 @@
       "hide_comments": true,
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-OfficeUpdates",
       "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates/issues",
+      "titleSuffix": "Office release notes",
       "bilingual_type": "hover over"
     }, 
     "fileMetadata": {},
