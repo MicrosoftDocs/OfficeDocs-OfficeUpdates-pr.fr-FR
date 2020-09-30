@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: c814f4877fe57ce57136626277f281fcbadc6b73
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
+ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100206"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276442"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,75 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2010-september-25"></a>Version 2010 : 25 septembre
+*Version 2010 (Build 13318.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données
+
+### <a name="outlook"></a>Outlook
+
+- **Mise à jour de l’expérience utilisateur pour les Tâches :** Actualisation visuelle des éléments de tâches
+
+- **Gagnez du temps lors de la rédaction de messages :** Outlook vous présente comment rédiger des suggestions pour vous permettre de composer rapidement des messages. Pour accepter la suggestion, utilisez simplement la touche Tab.
+
+### <a name="word"></a>Word
+
+- **Le volet de l’éditeur Microsoft obtient une mise à jour dans Word pour le bureau :** nous avons mis à niveau l’expérience actuelle avec le volet Éditeur dans Word pour les clients de bureau.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Nous avons résolu un problème de mauvaise configuration de la barre de défilement lors du chargement de la fenêtre requête/relation enregistrée lors du défilement.
+
+
+- Nous avons résolu un problème dans lequel le volet Ajouter une table du volet Office n’affichait pas correctement les noms contenant « & ».
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème dans lequel l’intervalle manuel de catégorie multiniveau ne fonctionnait pas dans les graphiques.
+
+
+- Nous avons résolu un problème qui pouvait provoquer un blocage au cours de l’actualisation des tableaux croisés dynamiques OLAP.
+
+
+- Nous avons résolu un problème d’absence de mise à jour des options pour toutes les feuilles du classeur lors d’un ajout à une table utilisée pour la validation des données.
+
+
+### <a name="onenote"></a>OneNote
+
+- Nous avons résolu un problème dans lequel OneNote ne respectait pas les couleurs à contraste élevé dans la zone de dessin pour les thèmes personnalisés.
+
+
+- Nous avons résolu un problème de fenêtre contextuelle qui affichait « craie rouge » lors du survol de la couleur verte dans le sélecteur de couleurs d’un bloc-notes.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel un graphique Excel lié se convertissait de manière incorrecte en feuille Excel lorsque l’utilisateur modifiait le chemin d’accès source vers le dossier OneDrive local.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel des liens vers des fichiers de flux de travail activés ne s’ouvraient pas comme prévu.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2010-september-18"></a>Version 2010 : 18 septembre
 *Version 2010 (Build 13312.20006)*
@@ -1445,6 +1514,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
@@ -1454,5 +1524,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-24-juil|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
