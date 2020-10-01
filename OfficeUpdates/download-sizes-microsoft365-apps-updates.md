@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 522f8cacbee425af065b6f34a6d2083119834f14
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: 7d90ba304db45d7f105e37c99b3a24e730f1df32
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222460"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297157"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -35,6 +35,22 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="september-28-2020"></a>28 septembre 2020
+
+[//]: # (N'ENLEVEZ PAS LE CONTENU DÉBUTE LE 28 septembre 2020)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2009 (Build 13231.20262).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.20508) <br/> |22 septembre 2020 <br/> |124<br/> |
+|Version 2008 (build 13127.20408) <br/> |8 septembre 2020 <br/> |124<br/> |
+
+
+[//]: # (NE PAS ENLEVER LE CONTENU FIN 28 septembre 2020)
 
 ## <a name="september-22-2020"></a>22 septembre 2020
 
@@ -162,7 +178,7 @@ La version 2006 est la plus récente (Build 13001.20520).
 
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semestriel (préversion)
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal d’entreprise semestriel (version d’évaluation)
 
 La version 2002 est la plus récente (Build 12527.20988).
 
