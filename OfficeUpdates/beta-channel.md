@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit la dernière liste des principales nouvelles fonctionnalités, correctifs ou problèmes connus aux participants du programme Insider Fast
-ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
-ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
+ms.openlocfilehash: fd80f9a2f901e69f8bc45d55add2c48aedb98860
+ms.sourcegitcommit: bd82ba6a5c6eaa151068e633cde0f7cdfc5877ea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276442"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48340729"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,78 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2010-october-02"></a>Version 2010 : 2 octobre
+*Version 2010 (Build 13328.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Utiliser la boîte de dialogue Avancées pour créer des types de données :** la boîte de dialogue Avancé vous permet de sélectionner manuellement les colonnes qui combinent le type de données en cours de création.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="onenote"></a>OneNote
+
+- Nous avons résolu un problème : un utilisateur ne pouvait pas sélectionner et copier l’URL du bloc-notes depuis la zone de texte dans OutSpace Fichier > Info.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problème qui générait l’envoi des e-mails générés automatiquement avec un corps vide lorsque la ligne d'objet était vide.
+
+
+- Nous avons résolu un problème de mise en cache du GUID de dossier incorrect pour les dossiers.
+
+
+- Lorsqu’un utilisateur copiait et collait une adresse de messagerie dans le champ destinataire avec le nom complet, l’adresse de messagerie n’était pas systématiquement analysée correctement, ce qui provoquait l’affichage d’un message d’avertissement indiquant l’utilisation d’une adresse de messagerie non valide.  Le problème a été résolu de sorte que le nom et l’adresse de messagerie soient analysés correctement et que l’avertissement ne s’affiche plus.
+
+
+- Nous avons résolu un problème : les dossiers partagés en ligne ne renvoyaient pas de nom de dossier parent. Au lieu d’un message d’échec, le programme renvoyait un chemin d’accès vide vers le compte principal de manière incorrecte.
+
+
+- Nous avons résolu un problème : le suivi des modifications était activé après la réouverture du brouillon depuis le volet d’aperçu en lecture seule.
+
+
+- Nous avons résolu un problème : l’option Enregistrer sous n’était pas disponible pour les pièces jointes classiques.
+
+
+- Nous avons résolu un problème pour permettre à un utilisateur de personnaliser le texte de la justification lors du remplacement d’une politique.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème : PowerPoint n’exportait pas les puces rectangulaires au format PDF.
+
+
+- Nous avons résolu un problème : une fois sur la dernière diapositive, si vous balayiez l’écran vers la diapositive suivante après avoir appuyé sur « Terminer la session » et avant l’affichage du résumé, la boîte de dialogue de fin de session apparaissait également dans la page Résumé.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème : Project pouvait se bloquer si vous appliquiez la fonction Grouper par à la vue Utilisation des ressources ou Feuille, puis insériez une colonne.
+
+
+- Nous avons résolu un problème : si des champs personnalisés comportaient des formules et que vous utilisiez une valeur acquise, des retards risquaient de survenir lors du passage d’une vue à une autre et de l’affichage d’informations sur un projet/une tâche.
+
+
+- Nous avons résolu un problème : la méthode VBA ConsolidateProjects risquait d’échouer si vous essayiez d’ajouter le même projet plusieurs fois et si AttachToSources avait la valeur false.
+
+
+- Correction d'un problème où si vous avez un code d'événement en cours d'exécution et que vous essayez d'effectuer des changements par le biais d'une vue du formulaire des tâches, le fait de cliquer sur le bouton OK peut ne pas valider les changements.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2010-september-25"></a>Version 2010 : 25 septembre
 *Version 2010 (Build 13318.20000)*
@@ -1514,6 +1586,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
@@ -1523,5 +1596,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-24-juil|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
