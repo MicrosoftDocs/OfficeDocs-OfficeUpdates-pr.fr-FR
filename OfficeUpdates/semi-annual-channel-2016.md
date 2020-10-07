@@ -1,8 +1,8 @@
 ---
 title: Notes de publication pour les versions du canal semi-annuel dans 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal semi-annuel pour Office 365 ProPlus dans 2016
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614950"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370142"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Notes de publication pour les versions du canal semi-annuel dans 2016
 
@@ -32,11 +32,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème à cause duquel Skype Entreprise se bloque quand l’utilisateur effectue un zoom sur du contenu partagé si la personne qui le partage utilise une implémentation tierce de RDP.
 -   Résolution d’un problème à cause duquel Skype Entreprise se bloque lorsque le lecteur d’écran JAWS est en cours d’exécution et que l’utilisateur navigue dans une liste, telle que la liste des contacts.
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)
 
 
@@ -47,9 +47,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Il s’agit de la publication du canal différé disponible depuis le 2016 juin. Il continuera d’être pris en charge et recevra les mises à jour de sécurité jusqu’au 2017 février. Toutefois, une nouvelle version de canal différé est désormais disponible (version 1605 (Build 6965,2115), qui contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
--   Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)
+-   Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148) : Mise à jour de sécurité pour Microsoft Office (3204068)
 
 
@@ -74,9 +74,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Il s’agit de la publication du canal différé disponible depuis le 2016 juin. Il continuera d’être pris en charge et recevra les mises à jour de sécurité jusqu’au 2017 février. Toutefois, une nouvelle version de canal différé est désormais disponible (version 1605 (Build 6965,2105), qui contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
--   Bulletin de sécurité Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133) : Mise à jour de sécurité pour Microsoft Office (3199168)
+-   Bulletin de sécurité Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133) : Mise à jour de sécurité pour Microsoft Office (3199168)
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133) : Mise à jour de sécurité pour Microsoft Office (3199168)
 
 
@@ -176,7 +176,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Bulletin de sécurité Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Mise à jour de sécurité pour le composant de graphique Microsoft (3177393)
 -   Bulletin de sécurité Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Mise à jour de sécurité pour le composant de graphique Microsoft (3192884)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème de non-apparition du délégué dans Skype Entreprise après qu’un utilisateur l’a ajouté dans Exchange Server, même après redémarrage.
 -   Résolution du problème où le client Skype Entreprise se connecte à Skype Entreprise Server sur le réseau externe lorsque le réseau d’entreprise interne est disponible.
 -   Résolution du problème de blocage de Skype pour certains utilisateurs lors de grandes réunions, telles que les réunions de plus de 30 participants.
@@ -200,7 +200,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 -   **Bulles de commentaires :** des boutons apparaissent dans la bulle de commentaire pour vous permettre de répondre à un commentaire, de résoudre un commentaire ou de rouvrir un commentaire facilement.
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054) : Mise à jour de sécurité pour Microsoft Office (3155544)
 -   Bulletin de sécurité Microsoft [MS16-070](https://technet.microsoft.com/library/security/ms16-070) : Mise à jour de sécurité pour Microsoft Office (3163610)
 -   Bulletin de sécurité Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088) : Mise à jour de sécurité pour Microsoft Office (3170008)
@@ -247,7 +247,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Mise à jour de sécurité pour le composant de graphique Microsoft (3192884)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-121](https://technet.microsoft.com/library/security/ms16-121) : Mise à jour de sécurité pour Microsoft Office (3194063)
 
 
@@ -258,7 +258,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107) : Mise à jour de sécurité pour Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107) : Mise à jour de sécurité pour Microsoft Office (3185852)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
@@ -267,7 +267,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="visio-security-updates"></a>Visio : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107) : Mise à jour de sécurité pour Microsoft Office (3185852)
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107) : Mise à jour de sécurité pour Microsoft Office (3185852)
 
 
@@ -280,10 +280,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107) : Mise à jour de sécurité pour Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107) : Mise à jour de sécurité pour Microsoft Office (3185852)
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-107](https://technet.microsoft.com/library/security/ms16-107) : Mise à jour de sécurité pour Microsoft Office (3185852)
 
 
@@ -291,7 +291,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1602-august-9"></a>Version 1602:9 août
 *Version 1602 (Build 6741.2063)*
 
-### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 -   Résolution d’un problème dû à une mise à jour de sécurité récente, où l’ouverture d’un fichier HTML à partir d’un emplacement non approuvé génère l’ouverture d’Excel (avec un écran vide sans aucune erreur affichée) au lieu d’autoriser l’utilisateur à ouvrir le fichier en mode protégé.
 
 ### <a name="onenote-security-updates"></a>OneNote : Mises à jour de sécurité
@@ -300,13 +300,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099) : Mise à jour de sécurité pour Microsoft Office (3177451)
 
-### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
+### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Mise à jour de sécurité pour le composant de graphique Microsoft (3177393)
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099) : Mise à jour de sécurité pour Microsoft Office (3177451)
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099) : Mise à jour de sécurité pour Microsoft Office (3177451)
 
 
@@ -316,13 +316,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 *Il s’agit de la publication du canal différé disponible depuis février 2016. Il continuera d’être pris en charge et recevra les mises à jour de sécurité jusqu’au 2016 octobre. Toutefois, une nouvelle version de canal différé est désormais disponible (version 1602 (Build 6741,2063), qui contient de nouvelles fonctionnalités, des mises à jour de sécurité et des mises à jour non relatives à la sécurité.*
 
-### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 -   Résolution d’un problème dû à une mise à jour de sécurité récente, où l’ouverture d’un fichier HTML à partir d’un emplacement non approuvé génère l’ouverture d’Excel (avec un écran vide sans aucune erreur affichée) au lieu d’autoriser l’utilisateur à ouvrir le fichier en mode protégé.
 
 ### <a name="onenote-security-updates"></a>OneNote : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099) : Mise à jour de sécurité pour Microsoft Office (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099) : Mise à jour de sécurité pour Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
@@ -345,7 +345,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088) : Mise à jour de sécurité pour Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088) : Mise à jour de sécurité pour Microsoft Office (3170008)
 
 
@@ -361,7 +361,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088) : Mise à jour de sécurité pour Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088) : Mise à jour de sécurité pour Microsoft Office (3170008)
 
 
@@ -666,7 +666,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054) : Mise à jour de sécurité pour Microsoft Office (3155544)
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054) : Mise à jour de sécurité pour Microsoft Office (3155544)
 
 
@@ -688,7 +688,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3141806)
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3141806)
 
 

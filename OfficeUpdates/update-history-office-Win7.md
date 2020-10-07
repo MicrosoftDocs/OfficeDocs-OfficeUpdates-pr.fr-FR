@@ -1,20 +1,20 @@
 ---
 title: Historique des mises à jour d’Office sous Windows 7
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux clients des notes de publication pour l’historique des mises à jour pour les Applications Microsoft 365 pour Windows 7
-ms.openlocfilehash: 7dd9dc03bb2112c7aa17a0282203309156b201c4
-ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
+ms.openlocfilehash: c6dd96717051eda1ef3e9cdd998957e317409132
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47420727"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369822"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Historique des mises à jour pour les Applications Microsoft 365 sur Windows 7 
 

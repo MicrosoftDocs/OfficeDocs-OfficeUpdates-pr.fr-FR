@@ -1,8 +1,8 @@
 ---
 title: Notes de publication pour les versions du canal semi-annuel dans 2017
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/12/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal semi-annuel pour Office 365 ProPlus dans 2017
-ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e98b5359a10f2a6cba7dd8539983496f95b5177a
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614970"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370162"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Notes de publication pour les versions du canal semi-annuel dans 2017
 
@@ -32,7 +32,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934) : Vulnérabilité de divulgation d’informations Microsoft PowerPoint
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   [Avis 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021) : Mise à jour de protection fiable pour Microsoft Office
 
 
@@ -45,7 +45,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934) : Vulnérabilité de divulgation d’informations Microsoft PowerPoint
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   [Avis 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021) : Mise à jour de protection fiable pour Microsoft Office
 
 
@@ -95,14 +95,14 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1705-october-10"></a>Version 1705:10 octobre
 *Version 1705 (Build 8201.2200)*
 
-### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 -   Résolution d’un problème : Excel se bloquait temporairement lorsque vous développiez ou réduisiez un tableau croisé dynamique et les en-têtes de tableau croisé dynamique sortaient de l’écran.
 
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Outlook
 -   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): Vulnérabilité de divulgation d’informations Microsoft Outlook
 
-### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
+### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): Vulnérabilité d’élévation de privilège Skype Entreprise
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
@@ -154,7 +154,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Utiliser un stylet pour sélectionner et modifier des objets :** Prenez des objets par leur poignée avec un stylet numérique pour les redimensionner, les faire pivoter, les déplacer et bien plus encore.
 -   **Graphique de carte :** comparer des valeurs et afficher des catégories dans différentes régions géographiques. [Plus d’informations](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des classeurs. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insérer des icônes :**   utilisez les icônes d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en \> accédant aux icônes insérer des illustrations \> . [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insérer des icônes :**   Utilisez des icônes à partir d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en accédant à insérer des \> icônes d’illustration \> . [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Enregistrement dans les dossiers récents :** enregistrer un classeur dans un dossier récemment utilisé à l’aide de l’onglet Récent lorsque vous accédez à Fichier \> Enregistrer sous.
 -   **Améliorations en matière d’accessibilité :** prise en charge améliorée pour l’utilisation du clavier, du Narrateur et d’autres technologies d’assistance pour la lecture et la modification de classeurs. [Plus d’informations](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -191,7 +191,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème où la zone de dessin OneNote masque du contenu ou des mises à jour lorsque de nombreux paragraphes sont affichés.
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows :**    Outlook est désormais une application d’aide à la décision, qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows (WIP) :**    Outlook est désormais une application acsante et peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
 -   **Insérer des liens récents :** joignez des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [Plus d’informations](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Suppression d’arrière-plan :** supprimez une image d’arrière-plan avec un outil de dessin au format libre.
@@ -199,7 +199,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Définition d’autorisations sur les pièces jointes :** pour les pièces jointes OneDrive ou SharePoint, l’utilisateur peut déterminer si les destinataires, dans l’organisation ou en externe, disposent d’autorisations de lecture ou de modification sur la pièce jointe.
 -   **Volet des tâches épinglable :** Laissez le volet des tâches de complément ouvert lorsque vous passez d’un message à l’autre dans une boîte aux lettres. [Plus d’informations](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des messages électroniques. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insérer des icônes :**   utilisez les icônes d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en \> accédant aux icônes insérer des illustrations \> .   [Informations supplémentaires](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insérer des icônes :**   Utilisez des icônes à partir d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en accédant à insérer des \> icônes d’illustration \> .  [ Informations supplémentaires](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Vulnérabilité d’exécution de code à distance Microsoft Outlook
@@ -220,13 +220,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution du problème où une image dans un message est noircie en cas d’envoi à partir d’un ordinateur en haute résolution.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows :**    PowerPoint est désormais une application à l’aide de l’assurance et peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows (WIP) :**    PowerPoint est désormais une application à l’aide de laquelle il est possible de faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
 -   **Insérer des liens récents :** joignez des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Déploiement centralisé des compléments**: les administrateurs peuvent déployer et mettre à jour des compléments pour des utilisateurs ou des groupes à partir du Centre d’administration Office 365. [Plus d’informations](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [Plus d’informations](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Suppression d’arrière-plan :** supprimez une image d’arrière-plan avec un outil de dessin au format libre.
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des présentations. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insérer des icônes :**   utilisez les icônes d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en \> accédant aux icônes insérer des illustrations \> . [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insérer des icônes :**   Utilisez des icônes à partir d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en accédant à insérer des \> icônes d’illustration \> . [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Typage réel lors de la co-création :** Voir où d’autres personnes travaillent dans la présentation et affichent les modifications au fur et à mesure qu’elles sont tapées. [Plus d’informations](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Enregistrement dans les dossiers récents :** enregistrer une présentation dans un dossier récemment utilisé à l’aide de l’onglet Récent lorsque vous accédez à Fichier \> Enregistrer sous.
 -   **Création de formes manuscrites précises :** Faites glisser la gomme à segments pour éliminer les excès d’encre jusqu’à la ligne la plus proche.
@@ -245,7 +245,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="project-feature-updates"></a>Project : Mises à jour de fonctionnalité
 -   **Liste déroulante pour configurer rapidement des prédécesseurs :** utilisez la liste déroulante du diagramme de Gantt pour choisir les prédécesseurs ou successeurs que vous souhaitez lier à une tâche.
--   **Nom de la tâche récapitulative :**   champ en lecture seule qui affiche le nom de la tâche récapitulative de la tâche.  
+-   **Nom de la tâche récapitulative :**   Champ de tâche en lecture seule qui affiche le nom de la tâche récapitulative de la tâche.  
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : les valeurs sélectionnées pour un graphique/tableau n’étaient pas visibles dans le volet du graphique/tableau.
@@ -343,7 +343,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Extraits de diapositive :** prenez des extraits d’un dessin Visio et exportez-les sous forme de diapositives dans PowerPoint.[Plus d’informations](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows :**    Word est désormais une application d’assurance et peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows (WIP) :**    Word est désormais une application acsante et peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
 -   **Insérer des liens récents :** joignez des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Déploiement centralisé des compléments**: les administrateurs peuvent déployer et mettre à jour des compléments pour des utilisateurs ou des groupes à partir du centre d’administration Office 365.   [Informations supplémentaires](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [Plus d’informations](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -351,7 +351,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Côte à côte :** parcourez les pages en mode Page en les faisant glisser côte à côte comme une pile de feuilles de papier. [Plus d’informations](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **Utiliser un stylet pour sélectionner et modifier des objets :** Prenez des objets par leur poignée avec un stylet numérique pour les redimensionner, les faire pivoter, les déplacer et bien plus encore.
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des documents. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insérer des icônes :**   utilisez les icônes d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en \> accédant aux icônes insérer des illustrations \> .   [Informations supplémentaires](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insérer des icônes :**   Utilisez des icônes à partir d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en accédant à insérer des \> icônes d’illustration \> .  [ Informations supplémentaires](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Enregistrement dans les dossiers récents :** enregistrer un document dans un dossier récemment utilisé à l’aide de l’onglet Récent lorsque vous accédez à Fichier \> Enregistrer sous.
 -   **Lecture améliorée avec les outils d’apprentissage :** les nouvelles commandes en mode Lecture améliorent grandement les capacités de lecture en ajustant l’espacement du texte, en affichant les sauts entre les syllabes et en mettant en surbrillance chaque mot au fil de la lecture à voix haute du document. [Plus d’informations](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Reconnaissance de forme :** transformez automatiquement vos dessins en formes à l’aide de Dessiner \> Convertir en forme.[Plus d’informations](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -411,7 +411,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): Vulnérabilité de divulgation d’informations du composant Graphics
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Exécution de code à distance du composant Graphics Microsoft
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744) : Vulnérabilité de corruption de mémoire de Microsoft Office
 
@@ -637,7 +637,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème de détection de microphone lors d’un appel si vous utilisez un appareil Polycom CX100.
 -   Résolution d’un problème : la sélection d’un lien au format \\\\servername ou file:// dans un message instantané entraîne un message d’erreur au lieu d’ouvrir l’emplacement du message.
 -   Résolution d’un problème : dans une infrastructure VDI (Virtual Desktop Infrastructure) utilisant le routage basé sur un emplacement, l’utilisateur ne peut pas émettre ni recevoir d’appels sur RTC, car le serveur considère que l’emplacement de l’utilisateur n’est pas valide pour les appels sur RTC.
--   Lorsque le statut de l’utilisateur est défini sur Ne pas déranger ou En présentation, remplacez la ligne d’objet du message électronique envoyé pour un message manqué « Conversation manquée avec \<nom\> » par « \<Nom\> vous a envoyé un message sur Skype Entreprise. »
+-   Modifier la ligne d’objet du message électronique envoyé pour un message manqué, lorsque le statut de l’utilisateur est défini sur ne pas déranger ou présenter, de « conversation manquée avec \<name\> » à « \<Name\> vous avez envoyé un message dans Skype entreprise ».
 -   Démarrez la capture d’horodatage lors de la première connexion sur le périphérique en tant que [données de recensement](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices)pour vous aider à identifier les tendances de fiabilité de connexion.
 -   Résolution d’un problème où l’option de partage d’un moniteur secondaire n’apparaît pas avec certaines configurations de moniteur sur Windows 10 Version 1607 (également appelé Mise à jour anniversaire).
 -   Résolution d’un problème à cause duquel Skype Entreprise se bloque quand l’utilisateur effectue un zoom sur du contenu partagé si la personne qui le partage utilise une implémentation tierce de RDP.
@@ -760,11 +760,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283): Vulnérabilité d’exécution de code à distance Uniscribe Windows
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550): Vulnérabilité d’exécution de code à distance Skype Entreprise
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Vulnérabilité d’exécution de code à distance Windows PDF 
 -   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Vulnérabilité d’exécution de code à distance Microsoft Office  
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2017-0260](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0260): Exécution de code à distance Microsoft Office
 -   [CVE-2017-8510](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8510): Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2017-8512](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8512): Vulnérabilité d’exécution de code à distance Microsoft Office
@@ -777,11 +777,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2017-0261](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261): Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2017-0262](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0262): Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
@@ -796,11 +796,11 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
+### <a name="office-suite-security-updates"></a>Suite Office : Mises à jour de sécurité
 -   [CVE-2017-0261](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0261): Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2017-0262](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0262): Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
@@ -810,7 +810,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1609-april-11"></a>Version 1609:11 avril
 *Version 1609 (Build 7369.2127)*
 
-### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 -   Résolution d’un problème où Excel se bloque lorsque l’utilisateur essaie de définir des autorisations pour un autre utilisateur afin qu’il puisse modifier une plage.
 
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
@@ -864,7 +864,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-013](https://technet.microsoft.com/library/security/ms17-013): Mise à jour de sécurité pour le composant de graphique Microsoft (4013075)
 
-### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
+### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 
 
@@ -927,7 +927,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème à cause duquel la suppression d’une table entraîne le blocage de OneNote.
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
--   ** \@mentions :** Assurez-vous que les destinataires sont invités à entrer ou à intervenir en incluant le symbole @ suivi du nom de la personne dans le corps d’un e-mail ou d’un élément de calendrier. Ils sont ainsi automatiquement ajoutés à la ligne À. [Plus d’informations](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ mentions :** Assurez-vous que les destinataires sont invités à entrer ou à intervenir en incluant le symbole @ suivi du nom de la personne dans le corps d’un e-mail ou d’un élément de calendrier. Ils sont ainsi automatiquement ajoutés à la ligne À. [Plus d’informations](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Cartes de synthèse pour réservations de voyages et colis :** vérifiez et effectuez le suivi des réservations de voyages, ainsi que des livraisons de colis, à l’aide de cartes de synthèse créées automatiquement dans la boîte de réception et le calendrier.[Plus d’informations](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Mini-aperçu des photos jointes** : Lorsqu’une photo est jointe à un e-mail, Outlook affiche un petit aperçu de la photo dans le message.
 -   **Récupération du lien d’éléments supprimés :** dans le dossier des éléments supprimés, le lien « Récupérer des éléments récemment supprimés de ce dossier » apparaît au-dessus de la liste des éléments supprimés. La boîte de dialogue Récupération des éléments supprimés apparaît lorsque le lien est sélectionné.
@@ -974,7 +974,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Entreprise : Mises à jour de fonctionnalité
 -   **Éléments visuels mis à jour :** modifications apportées aux icônes et aux couleurs pour améliorer l’accessibilité. [Plus d’informations](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Mettre à jour l’interface utilisateur sur « partager » :** remplacer « présent » par « partager » dans les éléments de l’interface utilisateur, tels que la modification de « présent Desktop » en « partager votre bureau » et « présenter le programme » à « partager une fenêtre ».
+-   **Mettre à jour l’interface utilisateur vers « partager » :**   Remplacez « présent » par « partager » dans les éléments de l’interface utilisateur, tels que « afficher le Bureau » sur « partager votre bureau » et « présent programme » pour « partager une fenêtre ».
 -   **Prise en charge de Citrix** : Prise en charge des environnements VDI (Virtual Desktop Infrastructure) basés sur Citrix, ainsi que du module d’optimisation en temps réel Citrix HDX Real Time Optimization Pack 2.1.
 
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité

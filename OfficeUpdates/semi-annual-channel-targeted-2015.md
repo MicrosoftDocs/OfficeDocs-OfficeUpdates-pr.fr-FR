@@ -1,8 +1,8 @@
 ---
 title: Notes de publication pour les versions du canal semi-annuel (ciblé) dans 2015
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/8/2015
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal semi-annuel (ciblé) pour Office 365 ProPlus dans 2015
-ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 45fc19b81f2d207c7abf42e773c98b359701eaca
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439139"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370102"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Notes de publication pour les versions du canal semi-annuel (ciblé) dans 2015
 
@@ -36,7 +36,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résoudre un problème où un signet créé couvre plusieurs paragraphes, mais lors de la réception du message électronique, seul le premier paragraphe du signet est sélectionné lorsque vous utilisez l’option Atteindre.
 
-### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
+### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): Mise à jour de sécurité pour le composant graphique de Microsoft Office visant à corriger l’exécution de code à distance (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
@@ -46,7 +46,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3116111)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résoudre un problème où un trait d’union insécable s’affiche sous la forme d’un carré lors de l’utilisation de certaines polices.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -65,7 +65,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 
-### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 -   Résoudre un problème où l’enregistrement d’une macro pour la création d’une requête entraîne une erreur de compilation.
 -   Résoudre un problème où, suite à la suppression d’une colonne dans l’éditeur de requête, une colonne vide apparaît à la fin de la table après l’actualisation de la requête.
 -   Résoudre un problème où une erreur inattendue se produit lorsque vous choisissez l’onglet Graphiques sparkline dans l’analyse rapide d’une table de requêtes.
@@ -78,7 +78,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="onenote-security-updates"></a>OneNote : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 
-### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
 -   Résoudre un problème où le collage du texte dans Outlook n’affiche pas le texte complet si le volume de texte collé dépasse la hauteur de la fenêtre.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint : Mises à jour de sécurité
@@ -107,7 +107,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 -   Bulletin de sécurité Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116) : Mise à jour de sécurité pour Microsoft Office afin de corriger l’exécution de code à distance (3104540)
 
-### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
+### <a name="word-non-security-updates"></a>Word : mises à jour non relatives à la sécurité
 -   Résoudre un problème où la numérotation de pied de page de l’affichage dans Word ne correspond pas à celui de l’impression lorsqu’un document contenant des pieds de page définis sur « Redémarrer la numérotation de chaque page » est imprimé en arrière-plan.
 -   Résoudre un problème où la co-création en temps réel ne fonctionne pas avec les fichiers stockés sur OneDrive, et où notamment l’utilisateur n’est pas visible par d’autres personnes car la modification en temps réel et les informations de présence ne sont pas disponibles.
 -   Résoudre un problème où Word se bloque lors de la co-création en temps réel sur un document ouvert à partir de SharePoint ou de OneDrive.
@@ -135,7 +135,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résoudre un problème où un lecteur d’écran lit uniquement le premier paragraphe d’une signature de message électronique à plusieurs paragraphes lors de la modification de la signature de message électronique.
 -   Résoudre un problème où le curseur ne figure pas à la position correcte lorsque vous écrivez un message électronique ou y répondez.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
+### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Résoudre un problème où, dans des conditions de mémoire insuffisante, la tentative d’affichage d’une application ou d’un bureau partagé entraîne une déconnexion et des tentatives répétées afin de rejoindre et d’afficher automatiquement l’application ou le bureau partagé.
 -   Résoudre un problème où, plus le nombre de participants augmente, plus l’expérience de bureau partagé empire.
 -   Résoudre un problème où, lorsque l’authentification multifacteur est configurée, plusieurs invites d’authentification téléphonique sont reçues au cours de la journée.
@@ -157,7 +157,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résoudre un problème où le suivi des modifications affiche les suppressions de réviseurs portant le même nom.
 -   Résoudre un problème avec la co-création en temps réel de documents configurée pour supprimer les informations personnelles, où les modifications s’affichent sous forme de marques de révision chaque fois qu’un document est enregistré.
 
-### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
+### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Résoudre un problème où, lorsqu’une application Office est ouverte pour la première fois après la mise à niveau vers 2016, elle est en mode d’utilisation avec fonctionnalités réduites et doit être redémarrée pour obtenir des fonctionnalités complètes.
 -   Résoudre un problème où l’exécution d’Office avec l’activation d’ordinateurs partagé paramétrée sur un ordinateur exécutant les Services Bureau à distance entraîne une erreur, lors de l’ouverture d’une application, qui indique à l’utilisateur qu’il doit utiliser une édition de licence en volume d’Office.
 -   Résoudre un problème où l’installation reste bloquée à environ 90 % de progression.

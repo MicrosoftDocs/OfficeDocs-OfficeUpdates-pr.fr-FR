@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: dffa5844311575083938e0e521280c0dcae6c7dd
-ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
+ms.openlocfilehash: 0cc64d47a2e30409e6186e41a129ea6fb8512076
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48297167"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370152"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal actuel en 2020
 
@@ -59,7 +59,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="teams"></a>Teams
 
-- **Partage de fichiers dans Microsoft Teams :** [En savoir plus ](https://docs.microsoft.com/fr-FR/MicrosoftTeams/sharing-files-in-teams)
+- **Partage de fichiers dans Microsoft Teams :** [En savoir plus ](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1304,7 +1304,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Optimisez votre présentation pour tout :** le vérificateur d’accessibilité vous permet d’organiser les objets sur vos diapositives avec les lecteurs d’écran à l’esprit.
 
-- **GIF en quelques secondes :** une diapositive, un cadre. Créez facilement des images GIF en boucle dans PowerPoint. [En savoir plus](https://support.office.com/fr-FR/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF en quelques secondes :** une diapositive, un cadre. Créez facilement des images GIF en boucle dans PowerPoint. [En savoir plus](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 

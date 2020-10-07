@@ -1,20 +1,20 @@
 ---
 title: Notes de publication pour les publications du canal mensuel en 2019
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2019
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 88dca91031e19422e076e50674d0ada3968af135
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565056"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369932"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notes de publication pour les publications du canal mensuel en 2019
 
@@ -22,12 +22,12 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
  > [!NOTE]
 >- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal mensuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+>- Microsoft Teams sur les installations existantes d’Office 365 ProPlus : depuis début juillet, les mises à jour vers Office 365 ProPlus (et Office 365 Business) incluent Microsoft Teams.  La date d’ajout de Teams dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez [Déployer Microsoft Teams avec Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 ## <a name="version-1911-december-10"></a>Version 1911 : 10 décembre
 *Version 1911 (Build 12228.20364)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -119,7 +119,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1910-november-12"></a>Version 1910 : 12 novembre
 *Version 1910 (build 12130.20344)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -179,7 +179,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 
 ### <a name="office-suite"></a>Suite Office
 
-- **Installer Microsoft Teams sur des installations existantes d’Office 365 ProPlus :** à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez Déployer Microsoft Teams avec Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Installer Microsoft Teams sur des installations existantes d’Office 365 ProPlus :** à partir de la fin juin, Microsoft Teams sera inclus dans les installations existantes d’Office 365 ProPlus (et d’Office 365 Business) lors de la mise à jour de ces installations. La date à laquelle Teams sera ajouté dépend du canal de mise à jour que vous utilisez. Pour plus d’informations, consultez Déployer Microsoft Teams avec Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/deployoffice/teams-install)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -222,7 +222,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1909-october-08"></a>Version 1909 : 8 octobre
 *Version 1909 (build 12026.20320)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -334,7 +334,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1908-september-10"></a>Version 1908 : 10 septembre
 *Version 1908 (build 11929.20300)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -400,7 +400,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1907-august-13"></a>Version 1907 : 13 août
 *Version 1907 (Build 11901.20218)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 
@@ -454,7 +454,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 ## <a name="version-1906-july-09"></a>Version 1906 : 9 juillet
 *Version 1906 (build 11727.20244)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 
@@ -520,7 +520,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/Offi
 
 ## <a name="version-1905-june-11"></a>Version 1905 : 11 juin
 *Version 1905 (Build 11629.20246)*
-<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+<br/>Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
 
