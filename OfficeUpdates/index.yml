@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Mises à jour Office
-summary: Obtenez des informations sur les fonctionnalités, les mises à jour pour les produits Office, y compris les applications Microsoft 365, Office pour Mac, les produits Office Server et les versions perpétuelles d’Office.
+summary: Informez-vous sur les fonctionnalités, les mises à jour des produits Office, y compris Microsoft 365 Apps, Office pour Mac, les produits Office Server et les versions perpétuelles d’Office.
 metadata:
   title: Mises à jour Office
-  description: Obtenez des informations sur les fonctionnalités, les mises à jour pour les produits Office, y compris les applications Microsoft 365, Office pour Mac, les produits Office Server et les versions perpétuelles d’Office.
+  description: Informez-vous sur les fonctionnalités, les mises à jour des produits Office, y compris Microsoft 365 Apps, Office pour Mac, les produits Office Server et les versions perpétuelles d’Office.
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -12,14 +12,14 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
-  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
-  ms.translationtype: MTPE
+  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
+  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+  ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 06/23/2020
-  ms.locfileid: "44854576"
+  ms.lasthandoff: 10/07/2020
+  ms.locfileid: "48369962"
 landingContent:
-- title: Microsoft 365 Apps
+- title: Microsoft 365 Apps
   linkLists:
   - linkListType: overview
     links:
@@ -35,9 +35,9 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: Notes de publication (Microsoft 365, 2019)
+    - text: Notes de publication (Microsoft 365, 2019)
       url: release-notes-office-for-mac.md
-    - text: Historique des mises à jour (Microsoft 365, 2019)
+    - text: Historique des mises à jour (Microsoft 365, 2019)
       url: update-history-office-for-mac.md
     - text: Notes de publication (2016)
       url: release-notes-office-2016-mac.md
@@ -47,11 +47,11 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: Mises à jour d’ Exchange Server
+    - text: Mises à jour d’Exchange Server
       url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
-    - text: Mise à jour de Project Server
+    - text: Mise à jour de Project Server
       url: project-server-updates.md
-    - text: Mises à jour de SharePoint Server
+    - text: Mises à jour de SharePoint Server
       url: sharepoint-updates.md
     - text: Mises à jour de Skype Entreprise Server
       url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
@@ -59,23 +59,23 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: Office 2016 et 2019 (C2R)
+    - text: Office 2016 et 2019 (C2R)
       url: update-history-office-2019.md
-    - text: Mises à jour Office 2010, 2013 et 2016 (MSI)
+    - text: Mises à jour Office 2010, 2013 et 2016 (MSI)
       url: office-updates-msi.md
-    - text: Fichiers. msp Office 2016
+    - text: Fichiers .msp Office 2016
       url: msp-files-office-2016.md
-    - text: Fichiers. msp Office 2013
+    - text: Fichiers .msp Office 2013
       url: msp-files-office-2013.md
 - title: Autres ressources Office
   linkLists:
   - linkListType: whats-new
     links:
-    - text: Nouveautés de Microsoft 365
+    - text: Nouveautés dans Microsoft 365 ?
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
-    - text: Feuille de route Microsoft 365
+    - text: Feuille de route de Microsoft 365.
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: Restez informé des modifications apportées à Microsoft 365
+    - text: Restez informé des modifications apportées à Microsoft 365
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
     - text: Blog Office
       url: https://www.microsoft.com/microsoft-365/blog/office/
@@ -83,11 +83,11 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: Informations sur les versions Windows 10
+    - text: Informations sur les versions de Windows 10
       url: https://www.microsoft.com/itpro/windows-10/release-information
-    - text: Stratégie Microsoft vie
+    - text: Politique de cycle de vie Microsoft
       url: https://support.microsoft.com/lifecycle
-    - text: Guide pour les mises à jour de sécurité Microsoft
+    - text: Guide des mises à jour de sécurité Microsoft
       url: https://portal.msrc.microsoft.com/
-    - text: Communauté Microsoft Tech
+    - text: Communauté Microsoft Tech
       url: https://techcommunity.microsoft.com/
