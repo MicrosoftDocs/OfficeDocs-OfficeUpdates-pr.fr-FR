@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: 735c1fa38e5a805e806725eb7234ecb04bfc65d0
-ms.sourcegitcommit: 99ac054b629a031233c9bad7b18896b84d2448ea
+ms.openlocfilehash: 6167e7a4063e20d10e6a86c731bc9d9685d4f1c1
+ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293176"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "48382553"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour le canal actuel d’Office (Preview) pour Windows
 
@@ -37,6 +37,9 @@ Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/Offi
 
 
 [//]: # (NE PAS SUPPRIMER)
+
+**Octobre 07 2020**<br/>
+Version 2009 (build 13231.20360)<br/>
 
 **26 septembre 2020**<br/>
 Version 2009 (Build 13231.20262)<br/>
