@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 594acccf4870613399a10f74233fd5a1b3c68237
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
+ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368697"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48409068"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -31,7 +31,80 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2010-october-02"></a>Version 2010 : 2 octobre
+## <a name="version-2011-october-09"></a>Version 2011 : 09 octobre
+*Version 2011 (build 13406.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Créez des flux de données Power Platform à partir de requêtes :** vous pouvez désormais exporter vos requêtes dans des modèles Power Query qui peuvent être utilisés pour la création de flux de données Power Platform
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
+
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème dans lequel Nom de fichier ne changeait pas après l’exécution d’une opération Enregistrer sous avec les compléments COM activés.
+
+
+- Nous avons résolu un problème d’échec de l’Enregistrement automatique avec un message d’erreur incorrect/équivoque lorsqu’il existe une définition de mesure incorrecte dans le modèle de données Excel.
+
+
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation provoquait un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème lors duquel l’impression rapide de pièces jointes provoquait l’erreur « Windows ne trouve pas cette image. Vérifiez l’emplacement, puis réessayez ».
+
+
+- Corrige un problème qui a entraîné le démarrage d’Outlook à l’état Hors connexion pour certains utilisateurs jusqu’à ce qu’ils choisissent de travailler en ligne.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation a provoqué un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème dans lequel la NewVal de l’événement ProjectBeforeTaskChagne ne possède pas la valeur correcte si un décalage est modifié dans un affichage de type Formulaire Tâche.
+
+
+- Nous avons résolu un problème dans lequel l’utilisateur ne peut pas modifier rapidement la liste des tâches s’il dispose d’une liste de tâches dans un site de projets et regroupe la liste des tâches.
+
+
+- Nous avons résolu un problème de perte possible des unités de ressource maximum lorsqu’un utilisateur met à jour une ressource d’entreprise via CSOM.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation provoquait un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème dans lequel la connexion interactive de l’API SSO renvoyait un code d’erreur.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+
+## <a name="version-2010-october-02"></a>Version 2010 : 02 octobre
 *Version 2010 (Build 13328.20000)*
 
 
@@ -804,7 +877,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="outlook"></a>Outlook
 
 - Nous avons résolu un problème dans lequel la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec des résolutions différentes.
-- Nous avons résolu un problème pour lequel la consultation d’un modèle lors de la rédaction d’un nouveau message électronique entraîne un blocage.
+- Nous avons résolu un problème pour lequel la consultation d’un modèle lors de la rédaction d’un nouveau message électronique entraînait un blocage.
 - Nous avons résolu un problème pour lequel les utilisateurs n’ont pas pu utiliser les dossiers publics Exchange 2010 après la version 1911 d’Outlook.
 - Nous avons résolu un problème dans lequel le bouton Catégoriser des calendriers de groupe dans le ruban Office était désactivé.
 - Nous avons résolu un problème qui entraînait l’arrêt de l’expérience des utilisateurs présentant des conflits de contacts dans Outlook.
@@ -1585,7 +1658,8 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 
-[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
@@ -1595,5 +1669,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
-[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
+[//]: # (NE PAS MODIFIER LA FIN DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
