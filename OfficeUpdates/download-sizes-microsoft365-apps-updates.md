@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 7d90ba304db45d7f105e37c99b3a24e730f1df32
-ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
+ms.openlocfilehash: 9bc7fd4a134c46d74198afb17147a81a151a4f64
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48297157"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398369"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -35,6 +35,59 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="october-8-2020"></a>8 octobre 2020
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU8 octobre 2020)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2009 (Build 13231.20368).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2009 (Build 13231.20262) <br/> |28 septembre 2020 <br/> |47<br/> |
+|Version 2008 (Build 13127.20508) <br/> |22 septembre 2020 <br/> |361<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU8 octobre 2020)
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+
+## <a name="october-8-2020"></a>8 octobre 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal mensuel des entreprises
+
+<i>La publication prévue est la version 2008 (build 13127.20618).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2007 (Build 13029.20534) <br/> |8 septembre 2020 <br/> |252<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal d’entreprise semestriel (version d’évaluation)
+
+<i>La publication prévue est la version 2008 (Build 13127.20600).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2008 (build 13127.20408) <br/> |8 septembre 2020 <br/> |48<br/> |
+|Version 2002 (Build 12527.20988) <br/> |11 août 2020 <br/> |499<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal d’entreprise semestriel
+
+<i>La publication prévue est la version 2002 (Build 12527.21216).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (Build 12527.21104) <br/> |8 septembre 2020 <br/> |72<br/> |
+|Version 2002 (Build 12527.20988) <br/> |11 août 2020 <br/> |86<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="september-28-2020"></a>28 septembre 2020
 

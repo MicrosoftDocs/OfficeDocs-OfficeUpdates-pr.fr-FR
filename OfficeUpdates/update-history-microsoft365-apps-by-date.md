@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: e1c35c7ba1e829e3c035a2ab6ee80c83473cba26
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369882"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398389"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -36,7 +36,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2009<br/>|13231.20262<br/>|28 septembre 2020<br/>|Publication de la version 2010<br/>|
+|Canal actuel<br/>|2009<br/>|13231.20368<br/>|8 octobre 2020<br/>|Publication de la version 2010<br/>|
 |Canal Entreprise mensuel<br/>|2007<br/>|13029.20534<br/>|8 septembre 2020<br/>|10 novembre 2020<br/>|
 |Canal Entreprise mensuel<br/>|2006<br/>|13001.20648<br/>|8 septembre 2020<br/>|13 octobre 2020<br/>|
 |Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.20408<br/>|8 septembre 2020<br/>|9 mars 2021<br/>|
@@ -53,6 +53,7 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|08 octobre|[Version 2009 (Build 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 septembre|[Version 2009 (Build 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 septembre|[Version 2008 (Build 13127.20508)](current-channel.md#version-2008-september-22)| | | |
 |2020|09 septembre|[Version 2008 (Build 13127.20408)](current-channel.md#version-2008-september-09)| | | |
