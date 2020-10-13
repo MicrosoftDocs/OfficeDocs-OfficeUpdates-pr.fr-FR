@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
-ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
+ms.openlocfilehash: 46c2e42002bf1df8c4b83b437d64c823e6c12e7a
+ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "48382718"
+ms.lasthandoff: 10/12/2020
+ms.locfileid: "48422553"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -27,6 +27,168 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2010-october-11"></a>Version 2010 : 11 octobre
+*Version 2010 (build 13328.20154)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="word"></a>Word
+
+- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Nous avons résolu un problème de mauvaise configuration de la barre de défilement lors du chargement de la fenêtre requête/relation enregistrée lors du défilement.
+
+
+- Nous avons résolu un problème dans lequel le volet Ajouter une table du volet Office n’affichait pas correctement les noms contenant « & ».
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème dans lequel l’intervalle manuel de catégorie multiniveau ne fonctionnait pas dans les graphiques.
+
+
+- Résolution d’un problème lié aux graphiques de carte 2D pour lesquels l’usage de VBA pour définir les couleurs des valeurs max, mid et min d’une série ne fonctionnait pas.
+
+
+- Résolution d’un problème pouvant être à l’origine du message d’erreur « Excel a manqué de ressources lors de la tentative de calcul d’une ou plusieurs formules ».
+
+
+- Résolution d’un problème empêchant parfois, lorsque la langue d’Office était définie sur l’espagnol, l’affichage de tous les éléments d’une liste de validation des données.
+
+
+- Correction d’un problème qui provoquait un délai considérable lorsque vous basculiez entre des feuilles de calcul comportant de grandes quantités de données lorsque l’option « Aperçu des sauts de page » était activée.
+
+
+- Nous avons résolu un problème d’absence de mise à jour des options pour toutes les feuilles du classeur lors d’un ajout à une table utilisée pour la validation des données.
+
+
+- Nous avons résolu un problème qui pouvait provoquer un blocage au cours de l’actualisation des tableaux croisés dynamiques OLAP.
+
+
+- Résolution d’un problème occasionnel de blocage de ChartSheet lors de la saisie d’une formule à l’aide de la barre de formule.
+
+
+- Nous avons résolu un problème à l’origine de la perte de la barre de formule Excel après la connexion à un appareil (par exemple, connexion/déconnexion d’une session distante ou modification d’un moniteur).
+
+
+### <a name="onenote"></a>OneNote
+
+- Nous avons résolu un problème : un utilisateur ne pouvait pas sélectionner et copier l’URL du bloc-notes depuis la zone de texte dans OutSpace Fichier > Info.
+
+
+- Nous avons résolu un problème de fenêtre contextuelle qui affichait « craie rouge » lors du survol de la couleur verte dans le sélecteur de couleurs d’un bloc-notes.
+
+
+- Nous avons résolu un problème dans lequel OneNote ne respectait pas les couleurs à contraste élevé dans la zone de dessin pour les thèmes personnalisés.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige un problème qui générait l’envoi des e-mails générés automatiquement avec un corps vide lorsque la ligne d'objet était vide.
+
+
+- Nous avons résolu un problème de mise en cache du GUID de dossier incorrect pour les dossiers.
+
+
+- Lorsqu’un utilisateur copiait et collait une adresse de messagerie dans le champ destinataire avec le nom complet, l’adresse de messagerie n’était pas systématiquement analysée correctement, ce qui provoquait l’affichage d’un message d’avertissement indiquant l’utilisation d’une adresse de messagerie non valide.  Le problème a été résolu de sorte que le nom et l’adresse de messagerie soient analysés correctement et que l’avertissement ne s’affiche plus.
+
+
+- Nous avons résolu un problème : les dossiers partagés en ligne ne renvoyaient pas de nom de dossier parent. Au lieu d’un message d’échec, le programme renvoyait un chemin d’accès vide vers le compte principal de manière incorrecte.
+
+
+- Nous avons résolu un problème : l’option Enregistrer sous n’était pas disponible pour les pièces jointes classiques.
+
+
+- Nous avons résolu un problème pour permettre à un utilisateur de personnaliser le texte de la justification lors du remplacement d’une politique.
+
+
+- Nous avons résolu un problème : le suivi des modifications était activé après la réouverture du brouillon depuis le volet d’aperçu en lecture seule.
+
+
+- Correction d’un problème à cause duquel les messages étaient masqués après la désactivation de la boîte de réception Prioritaire et après un tri.
+
+
+- Nous avons résolu un problème à cause duquel Outlook créait une deuxième signature vide pour les personnes qui avaient activé les paramètres cloud.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème : PowerPoint n’exportait pas les puces rectangulaires au format PDF.
+
+
+- Nous avons corrigé un problème à cause duquel les images GIF ne s’animaient qu’une seule fois dans l’éditeur et les diaporamas.
+
+
+- Nous avons résolu un problème dans lequel un graphique Excel lié se convertissait de manière incorrecte en feuille Excel lorsque l’utilisateur modifiait le chemin d’accès source vers le dossier OneDrive local.
+
+
+- Nous avons résolu un problème : une fois sur la dernière diapositive, si vous balayiez l’écran vers la diapositive suivante après avoir appuyé sur « Terminer la session » et avant l’affichage du résumé, la boîte de dialogue de fin de session apparaissait également dans la page Résumé.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème : la méthode VBA ConsolidateProjects risquait d’échouer si vous essayiez d’ajouter le même projet plusieurs fois et si AttachToSources avait la valeur false.
+
+
+- Correction d'un problème où si vous avez un code d'événement en cours d'exécution et que vous essayez d'effectuer des changements par le biais d'une vue du formulaire des tâches, le fait de cliquer sur le bouton OK peut ne pas valider les changements.
+
+
+- Nous avons résolu un problème : la méthode VBA ConsolidateProjects risquait d’échouer si vous essayiez d’ajouter le même projet plusieurs fois et si AttachToSources avait la valeur false.
+
+
+- Nous avons résolu un problème : si des champs personnalisés comportaient des formules et que vous utilisiez une valeur acquise, des retards risquaient de survenir lors du passage d’une vue à une autre et de l’affichage d’informations sur un projet/une tâche.
+
+
+- Nous avons résolu un problème : Project pouvait se bloquer si vous appliquiez la fonction Grouper par à la vue Utilisation des ressources ou Feuille, puis insériez une colonne.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel des liens vers des fichiers de flux de travail activés ne s’ouvraient pas comme prévu.
+
+
+- Résolution d’un problème dans lequel un utilisateur appuyant sur une modification suivie (insertion/suppression) affichait une fenêtre de commentaire.
+
+
+- Résolution d’un problème lors de la suppression des appels de commentaire sous Word.
+
+
+- Résolution d’un problème de statut de message Ne pas transférer sous Outlook.
+
+
+- Résolution d’un problème lors de l’enregistrement d’un document Word contenant une citation et une équation.
+
+
+- Nous avons résolu un problème lié à la boîte de dialogue Galerie de styles.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2009-october-07"></a>Version 2009 : 07 octobre
 *Version 2009 (build 13231.20360)*
@@ -55,7 +217,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Corrige un problème à l’origine de la recherche de résultats sans résultat lors de la recherche de calendriers partagés non mis en cache.
 
 
-- Corrige un problème qui a entraîné l’observation d’Outlook de manière inattendue en mode hors connexion.
+- Corrige un problème qui a poussé certains utilisateurs à observer Outlook de manière inattendue en commençant à l'état hors ligne.
 
 
 - Résout un problème qui a empêché les délégués de voir les défaillances intermittentes lors de l’ouverture de dossiers partagés dans une autre boîte aux lettres.
@@ -68,7 +230,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="office-suite"></a>Suite Office
 
-- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et «Aucun toner/encre ».
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
 
 
 
@@ -1038,7 +1200,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Nous avons résolu un problème dans lequel la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec des résolutions différentes.
 
-- Nous avons résolu un problème pour lequel la consultation d’un modèle lors de la rédaction d’un nouveau message électronique entraîne un blocage.
+- Nous avons résolu un problème pour lequel la consultation d’un modèle lors de la rédaction d’un nouveau message électronique entraînait un blocage.
 
 - Nous avons résolu un problème pour lequel les utilisateurs n’ont pas pu utiliser les dossiers publics Exchange 2010 après la version 1911 d’Outlook.
 
