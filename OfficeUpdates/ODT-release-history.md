@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fournit un historique des publications de l’outil Déploiement d’Office (ODT) destiné aux professionnels de l’informatique
-ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
+ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174643"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48469993"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
 
@@ -29,6 +29,12 @@ L’outil Déploiement d’Office vous permet de bien contrôler l’installatio
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="october-14-2020"></a>14 octobre 2020
+Version 16.0.13231.20368 (setup.exe version 16.0.13231.20350)
+- Tous les produits utiliseront désormais le canal mensuel par défaut si aucun canal n’est spécifié
+- Résolution d’un problème de blocage inattendu de certains produits Office 2007 lors de l’utilisation de RemoveMSI
+- Renforcement de la sécurité lors de l’exécution de l’outil Déploiement d’Office à partir d’un répertoire contenant d’autres fichiers DLL
+- Améliorations de la fiabilité et de la résilience
 
 ## <a name="june-9-2020"></a>9 juin 2020
 

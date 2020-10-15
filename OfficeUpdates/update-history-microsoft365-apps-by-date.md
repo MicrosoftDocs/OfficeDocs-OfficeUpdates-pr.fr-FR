@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: 3bf6c9882cb09a45b1e4dd1ac28f2643da11da73
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398389"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453102"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -36,12 +36,12 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2009<br/>|13231.20368<br/>|8 octobre 2020<br/>|Publication de la version 2010<br/>|
-|Canal Entreprise mensuel<br/>|2007<br/>|13029.20534<br/>|8 septembre 2020<br/>|10 novembre 2020<br/>|
-|Canal Entreprise mensuel<br/>|2006<br/>|13001.20648<br/>|8 septembre 2020<br/>|13 octobre 2020<br/>|
-|Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.20408<br/>|8 septembre 2020<br/>|9 mars 2021<br/>|
-|Canal d’entreprise semi-annuel<br/>|2002<br/>|12527.21104<br/>|8 septembre 2020<br/>|14 septembre 2021<br/>|
-|Canal Entreprise semestriel<br/>|1908<br/>|11929.20946<br/>|8 septembre 2020<br/>|9 mars 2021<br/>|
+|Canal actuel<br/>|2009<br/>|13231.20390<br/>|13 octobre 2020<br/>|Publication de la version 2010<br/>|
+|Canal mensuel des entreprises<br/>|2008<br/>|13127.20638<br/>|13 octobre 2020<br/>|8 décembre 2020<br/>|
+|Canal mensuel des entreprises<br/>|2007<br/>|13029.20708<br/>|13 octobre 2020<br/>|10 novembre 2020<br/>|
+|Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.20638<br/>|13 octobre 2020<br/>|9 mars 2021<br/>|
+|Canal d’entreprise semi-annuel<br/>|2002<br/>|12527.21236<br/>|13 octobre 2020<br/>|14 septembre 2021<br/>|
+|Canal Entreprise semestriel<br/>|1908<br/>|11929.20966<br/>|13 octobre 2020<br/>|9 mars 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,7 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|13 octobre|[Version 2009 (build 13231.20390)](current-channel.md#version-2009-october-13)|[Version 2008 (build 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)|[Version 2008 (build 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Version 2002 (build 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Version 1908 (build 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|08 octobre|[Version 2009 (Build 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 septembre|[Version 2009 (Build 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 septembre|[Version 2008 (Build 13127.20508)](current-channel.md#version-2008-september-22)| | | |

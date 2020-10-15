@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942771"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453412"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions semestrielles du canal des entreprises disponibles en 2020
 
@@ -28,7 +28,64 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 >- OneNote 2016 sera désormais inclus par défaut lorsqu’un utilisateur du Canal semestriel pour entreprises télécharge et installe les applications Microsoft 365 sur Windows 10 depuis le portail Office.
 
 
-[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+
+## <a name="version-2002-october-13"></a>Version 2002 : 13 octobre
+*Version 2002 (build 12527.21236)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Normalement, vous ne recevrez plus le message d’erreur « La requête est trop complexe », ni « Ressources système insuffisantes » sur votre version 64 bits d’Access, tant que vous respecterez les instructions et les exigences de la base de données Access.
+
+
+- Dès que vous décidez d’utiliser la fonctionnalité de filtrage d’après notre concepteur de requête, votre base de données ne doit plus se bloquer. Veuillez effectuer les vérifications adéquates.
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui faisait que les utilisateurs ne pouvaient pas modifier un filtre de tableau croisé dynamique, car il était défini sur une valeur qui n’était plus présente dans une base de données Analysis Services.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Les nouvelles présentations créées depuis un modèle peuvent hériter d’un paramètre empêchant une expérience positive de co-édition. Ce correctif permet d’effacer ce paramètre dans ce cas.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu le problème suivant : l’ouverture de documents avec des colonnes et des sauts de page risquait de générer le message d’erreur : « Vous avez dépassé le nombre de pages maximal autorisé par Microsoft Word pris en charge ou le document est peut-être endommagé »
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+
+## <a name="version-1908-october-13"></a>Version 1908 : 13 octobre
+*Version 1908 (build 11929.20966)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="office-suite"></a>Suite Office
+
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2002-september-08"></a>Version 2002 : 8 septembre
 *Version 2002 (Build 12527.21104)*
@@ -819,7 +876,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Nous rencontrons un problème dans lequel la synchronisation de dossiers de calendrier partagés avec le fichier OST génère des erreurs d'autorisation lorsque l'utilisateur tente d'interagir avec ces dossiers.
 
-- Résout un problème qui entraînait une expérience de blocage chez des utilisateurs lors de l’affichage de plus de 30 calendriers dans un environnement Citrix. Vous trouverez [ici](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) la base de connaissances (KB) individuelle dans laquelle les versions précédentes sont documentées.
+- Résout un problème qui entraînait une expérience de blocage chez des utilisateurs lors de l’affichage de plus de 30 calendriers dans un environnement Citrix. Vous trouverez [ici](https://support.microsoft.com/fr-FR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) la base de connaissances (KB) individuelle dans laquelle les versions précédentes sont documentées.
 
 - Nous avons résolu un problème de sélection de l’algorithme SMIME.
 
@@ -1655,7 +1712,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Pour protéger la sécurité des clients Office, les mises à jour Microsoft Office sont désormais exclusivement signées à l’aide de l’algorithme SHA-2.
 
 
-[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-1902-january-14"></a>Version 1902 : 14 janvier
 *Version 1902 (build 11328.20512)*
@@ -1696,7 +1753,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 
-[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
