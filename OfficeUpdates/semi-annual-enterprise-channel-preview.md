@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel (ciblé) de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
+ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453392"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466112"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notes de publication pour les publications semi-annuelles Enterprise Channel (Preview) dans 2020
 
@@ -66,7 +66,13 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Ce changement répond à un problème avec la fonction d'exportation vers des GIF animés où le fait de cliquer sur le bouton d'exportation n'entraînait pas d'exportation.
 
 
-- Correctif de sécurité pour résoudre un problème qui a désactivé les protections IRM lors de l’ouverture d’un fichier PowerPoint en mode protégé.
+- Correctif de sécurité pour résoudre un problème qui désactivait les protections IRM lors de l’ouverture d’un fichier PowerPoint en mode protégé.
+
+- Nous avons résolu un problème dans la boîte de dialogue Paramètres des actions à l’origine d’un blocage de l’application PowerPoint.
+
+### <a name="visio"></a>Visio
+
+- Nous avons résolu un problème à l’origine du blocage de l’aperçu instantané lors de l’alignement du texte.
 
 
 ### <a name="word"></a>Word
