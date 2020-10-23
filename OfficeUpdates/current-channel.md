@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453322"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657322"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal actuel en 2020
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses en 2020 dans les mises à jour du Canal actuel de Microsoft 365 Apps for enterprise, de Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
@@ -35,7 +35,32 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2009-october-21"></a>Version 2009 : 21 octobre
+*Version 2009 (Build 13231.20418)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à accorder l’autorisation éditeur à leurs délégués.
+
+
+- Nous avons résolu un problème qui entraînait l’arrêt inopiné de l’application lors de la sélection d’un résultat de recherche.
+
+
+- Nous avons résolu un problème à l’origine de la lecture des en-têtes de messages chinois lors de la réponse ou du transfert.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel le complément contenu de formulaire ne s’affiche pas après l’insertion, jusqu’à ce que l’utilisateur clique sur une autre diapositive pour l’afficher.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2009-october-13"></a>Version 2009 : 13 octobre
 *Version 2009 (build 13231.20390)*
@@ -405,7 +430,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
 
-- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics.Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [En savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics. Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [En savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1180,7 +1205,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Statistiques du classeur :** Cellules, formules, graphiques, tableaux... Nous les comptons pour que vous n’ayez pas à le faire.
+- **Statistiques du classeur :** Cellules, formules, graphiques, tableaux... Nous les comptons pour que vous n’ayez pas à le faire.
 
 - **Profilage des données dans l’éditeur de requêtes :** Obtenez en un clin d'œil l'analyse des données dans vos colonnes, identifiez les valeurs d’erreur et les valeurs vides, consultez les histogrammes de distribution, etc.
 
@@ -1388,6 +1413,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
@@ -1397,5 +1423,4 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
-[//]: # (NE PAS MODIFIER LA FIN DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
