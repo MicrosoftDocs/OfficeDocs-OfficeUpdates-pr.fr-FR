@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
-ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
+ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
+ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48495911"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "48750573"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -31,9 +31,52 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
+## <a name="version-2011-october-23"></a>Version 2011: 23 octobre
+*Version 2011 (build 13415.20002)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="powerpoint"></a>PowerPoint
+
+- **Exercez-vous sur votre présentation avec l’Assistant de Présentation :** Bénéficiez de conseils sur tout ce qui contribue à entretenir une audience, par exemple les déplacements, la hauteur de la voix, les mots de remplissage, les expressions délicates et bien plus encore. [Si vous souhaitez en savoir plus](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Accès
+
+- Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
+
+- Nous avons résolu un problème où la commutation automatique entre les fenêtres de formulaire passait à un autre formulaire.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème où lors du collage d’une URL copiée à partir d’un emplacement de réunion dans un autre emplacement (par exemple, un navigateur), l’URL contient un point-virgule à la fin.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème où lors de la duplication du diaporama vers le moniteur secondaire, le diaporama se masque derrière d’autres fenêtres.
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème où Project peut s’arrêter de manière inattendue à l’ouverture des fichiers dans lesquels les contours de ressources ont été spécifiés d’une certaine manière.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans le Suivi des Modifications, ce qui peut afficher une boîte de dialogue d’erreur à l’ouverture d’un document Word  .
+
+- Nous avons corrigé un problème d’impression lorsque l’étiquette de confidentialité avec filigranes est appliquée.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
 ## <a name="version-2011-october-16"></a>Version 2011 : 16 octobre
 *Version 2011 (build 13408.20000)*
-
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -304,7 +347,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- Vérifiez vos messages à l’aide de l’**Assistant Rédaction :** si vous êtes utilisateur d’Outlook 64 bits, vous pouvez désormais obtenir des suggestions grammaticales et de style dans vos courriers électroniques. Recherchez les mots soulignés pour afficher les suggestions de l’Assistant Rédaction et affiner votre écriture.
+- Vérifiez vos messages à l’aide de l’ **Assistant Rédaction :** si vous êtes utilisateur d’Outlook 64 bits, vous pouvez désormais obtenir des suggestions grammaticales et de style dans vos courriers électroniques. Recherchez les mots soulignés pour afficher les suggestions de l’Assistant Rédaction et affiner votre écriture.
 
 - **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Dans un message, cliquez avec le bouton droit pour traduire certain mots, des expressions ou tout le message.
 
@@ -905,11 +948,11 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Trier/filtrer pendant la collaboration dans Excel :** vous pouvez désormais trier et filtrer votre fichier Excel pendant que vous collaborez avec d’autres personnes. Cette nouvelle fonctionnalité vous empêche d’être concerné par les tris et filtres d’autres utilisateurs lors de la co-édition du document.
 
-- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics.Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [Si vous souhaitez en savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics. Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [Si vous souhaitez en savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
-- **Rouvrir rapidement des éléments à partir d’une session précédente : **nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente. Qu'Outlook se bloque ou que vous le fermez, vous pourrez désormais relancer rapidement les éléments lorsque vous rouvrez l'application. Cette fonctionnalité est activée par défaut. Pour désactiver cette fonctionnalité, accédez à Options > Général > Options de démarrage.
+- **Rouvrir rapidement des éléments à partir d’une session précédente :** nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente. Qu'Outlook se bloque ou que vous le fermez, vous pourrez désormais relancer rapidement les éléments lorsque vous rouvrez l'application. Cette fonctionnalité est activée par défaut. Pour désactiver cette fonctionnalité, accédez à Options > Général > Options de démarrage.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -955,13 +998,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 
-## <a name="version2006may29"></a>Version 2006 : 29 mai
-*Version 2006 (Build 12920.20000)*
+## <a name="version-2006-may-29"></a>Version 2006 : 29 mai
+*Version 2006 (Build 12920.20000)*
 
-### <a name="featureupdates"></a>Mises à jour de fonctionnalités
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Boutons supplémentaires ajoutés aux notifications de Toast Outlook :** les boutons d’action rapide s’affichent désormais dans les notifications Outlook Toast lors de l’exécution d’Outlook sur Windows 10.
+- **Boutons supplémentaires ajoutés aux notifications de Toast Outlook :** les boutons d’action rapide s’affichent désormais dans les notifications Outlook Toast lors de l’exécution d’Outlook sur Windows 10.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -973,7 +1016,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
-### <a name="resolvedissues"></a>Problèmes résolus
+### <a name="resolved-issues"></a>Problèmes résolus
 
 ### <a name="excel"></a>Excel
 
@@ -993,7 +1036,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - Nous avons résolu un problème dans lequel l’activation des modèles et documents binaires Word 2007 et versions ultérieures entraînerait l’échec de certains cas de co-édition.
 - Nous avons résolu un problème dans lequel les fichiers comportant des noms de chemin d’accès longs (plus de 32 Ko) ne s’ouvrent pas et aucun message d’erreur approprié ne s’affiche.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 
 ## <a name="version-2006-may-22"></a>Version 2006 : 22 mai
@@ -1451,13 +1494,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 
 ### <a name="excel"></a>Excel
-- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -1709,6 +1752,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
@@ -1718,5 +1762,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
