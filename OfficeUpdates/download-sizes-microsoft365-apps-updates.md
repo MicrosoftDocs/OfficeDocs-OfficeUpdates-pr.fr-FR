@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 4d29effb3a70a844c0165f848cdc8aacbf922d50
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 1078760ca45011d1d690140f597f5a4f0752bd75
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657292"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782309"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -27,7 +27,7 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
+> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more,[read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 
 > [!NOTE]
@@ -35,6 +35,22 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="october-27-2020"></a>27 octobre 2020
+
+[//]: # (NE PAS SUPPRIMER DÉBUT DU CONTENU 27 octobre 2020)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2010 (build 13328.20292).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2009 (build 13231.20418) <br/> |21 octobre 2020 <br/> |133<br/> |
+|Version 2009 (build 13231.20390) <br/> |13 octobre 2020 <br/> |133<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER FIN DU CONTENU 27 octobre 2020)
 
 ## <a name="october-21-2020"></a>21 octobre 2020
 

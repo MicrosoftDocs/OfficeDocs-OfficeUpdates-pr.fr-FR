@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657302"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782279"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -23,8 +23,8 @@ Microsoft publie des mises à jour de sécurité et de qualité pour la version 
 Si vous voulez vérifier que vous êtes à jour, vérifiez votre version d’Office et mettez à jour Office manuellement si nécessaire. Pour vérifier votre version d’Office, procédez comme suit :
 
   1.    Ouvrez une application Office, telle que Word ou Excel.
-  2.    Sélectionnez **Fichier > Compte**.
-  3.    Sous **Informations sur le produit**, notez le numéro de version indiqué dans la section **À propos**.
+  2.    Sélectionnez **Fichier > Compte** .
+  3.    Sous **Informations sur le produit** , notez le numéro de version indiqué dans la section **À propos** .
 
 Si le numéro de version correspond à la version la plus récente, votre système est à jour. Si ce n’est pas le cas, vous pouvez effectuer la mise à jour manuellement pour obtenir la dernière version d’Office. Pour mettre à jour Office, [procédez comme expliqué ici](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
@@ -85,12 +85,12 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|27 octobre 2020|Version 2010 (build 13328.20292)| |
 |21 octobre 2020|Version 2009 (Build 13231.20418)| |
 |13 octobre 2020|Version 2009 (build 13231.20390)|Consultez la [page mise à jour de sécurité](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8 octobre 2020|Version 2009 (Build 13231.20368)| |
 |28 septembre 2020|Version 2009 (Build 13231.20262)| |
-|22 septembre 2020|Version 2008 (Build 13127.20508)| |
-|9 septembre 2020|Version 2008 (build 13127.20408)|Consultez la [page mise à jour de sécurité](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
+|22 septembre 2020|Version 2008 (Build 13127.20508)| |
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU TABLEAU DE VENTE AU DÉTAIL)
@@ -104,6 +104,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|
+|9 septembre 2020|Version 2008 (build 13127.20408)|Consultez la [page mise à jour de sécurité](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |31 août 2020|Version 2008 (build 13127.20296)| |
 |25 août 2020|Version 2007 (Build 13029.20460)| |
 |11 août 2020|Version 2007 (Build 13029.20344)|Consultez la [page mise à jour de sécurité](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
