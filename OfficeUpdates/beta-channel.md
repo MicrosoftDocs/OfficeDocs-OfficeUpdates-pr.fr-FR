@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
-ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
+ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
+ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/23/2020
-ms.locfileid: "48750573"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815600"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,93 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2011-october-30"></a>Version 2011 : 30 octobre
+*Version 2011 (build 13426.20004)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Amélioration des boîtes de dialogue de mise en forme conditionnelle :** les boîtes de dialogue de mise en forme conditionnelle sont à présent redimensionnables, et vous pouvez dupliquer la règle d’un simple clic. [Si vous souhaitez en savoir plus](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Accès
+
+- Nous avons résolu un problème lors de l’utilisation de DAO à partir d’applications non-Office, provoquant la fermeture inattendue de l’application.
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème avec Power Pivot lors de l’utilisation d’une connexion à une base de données Oracle.
+
+
+- Nous avons résolu un problème : Excel s’arrêtait de manière anormale lors du déclenchement du processus de calcul MTR et de mise à jour d’objet de stratégie de groupe (par exemple, via l’actualisation de la stratégie de groupe à distance).
+
+
+- Cette modification corrige un bogue à l’origine d’une défaillance d’Excel lors de la tentative de chargement d’un fichier atomsvc.
+
+
+- Nous avons résolu un problème : Word semblait se bloquer lors de l’insertion d’un classeur Excel dans un document Word.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème : le propriétaire d’une boîte aux lettres ne pouvait pas gérer les autorisations partagées pour son propre calendrier, car l’option était grisée.
+
+
+- Nous avons résolu un problème : l’enregistrement de modèles d’e-mail au format .OFT transformait les caractères chinois en points d’interrogation.
+
+
+- Nous avons résolu un problème : Outlook ne pouvait pas créer de message avec une autorisation restreinte.
+
+
+- Nous avons résolu un problème : Outlook cessait sporadiquement de fonctionner lors de l’ajout ou de l’enregistrement de pièces jointes.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème : les quadrillages étaient décalées des diapositives lors de la fermeture du volet de conception.
+
+
+- Nous avons résolu un problème : une fois l’enregistrement de l’écran arrêté avec le volet de sélection ouvert, la barre de défilement de la diapositive commençait à se régler automatiquement.
+
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème où lorsque vous enregistrez un projet de PWA dans un fichier MPP local, ProjectBeforeTaskChangeEvent se déclenche pour les données qui n’ont pas été réellement modifiées par l’utilisateur.
+
+
+- Nous avons résolu un problème : les engagements de ressources recherchaient une ressource par nom au lieu de la rechercher par GUID. Cela entraînait des problèmes si plusieurs ressources portaient le même nom.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème : un clic sur l’indicateur de commentaires ne permettait pas d’effectuer de zoom arrière pour afficher la carte Commentaire dans la vue.
+
+
+- Nous avons corrigé un problème de mise en page : la ligne entre les colonnes s’était peut-être décalée.
+
+
+- Nous avons résolu un problème : Word semblait se bloquer lors de l’insertion d’un classeur Excel dans un document Word.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème dans l’outil Déploiement d’Office, où la configuration échouait lors de l’utilisation de la fonctionnalité RemoveMSI lorsque le produit « Rapport d'erreurs d'une application Microsoft » d’Office 2007 était présent.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2011-october-23"></a>Version 2011: 23 octobre
 *Version 2011 (build 13415.20002)*
@@ -1752,6 +1839,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
@@ -1761,5 +1849,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
