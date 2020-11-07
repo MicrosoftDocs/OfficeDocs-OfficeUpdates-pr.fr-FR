@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 1078760ca45011d1d690140f597f5a4f0752bd75
-ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
+ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
+ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48782309"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "48927137"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+
+## <a name="november-5-2020"></a>5 novembre 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal mensuel des entreprises
+
+<i>La publication prévue est la version 2009 (Build 13231.20492).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.20638) <br/> |13 octobre 2020 <br/> |130<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal d’entreprise semestriel (version d’évaluation)
+
+<i>La publication prévue est la version 2008 (Build 13127.20760).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.20638) <br/> |13 octobre 2020 <br/> |60<br/> |
+|Version 2008 (build 13127.20408) <br/> |8 septembre 2020 <br/> |65<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal d’entreprise semestriel
+
+<i>La publication prévue est la version 2002 (Build 12527.21316).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (build 12527.21236) <br/> |13 octobre 2020 <br/> |63<br/> |
+|Version 2002 (Build 12527.21104) <br/> |8 septembre 2020 <br/> |77<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="october-27-2020"></a>27 octobre 2020
 
