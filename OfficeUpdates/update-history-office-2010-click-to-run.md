@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2010 qui utilisent la technologie « Démarrer en un clic »
-ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453402"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989933"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historique des mises à jour pour les produits « Démarrer en un clic » Office 2010
 
 > [!IMPORTANT]
-> La prise en charge d’Office 2010 se termine le 13 octobre 2020. Si vous n’avez pas encore commencé la mise à niveau de votre environnement Office 2010, nous vous recommandons de le faire dès maintenant. Pour plus d’informations, voir [Feuille de route de la fin de la prise en charge d’Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> La prise en charge d’Office 2010 a pris fin le 13 octobre 2020. Si vous n’avez pas encore commencé la mise à niveau de votre environnement Office 2010, nous vous recommandons de le faire dès maintenant. Pour plus d’informations, voir [Feuille de route de la fin de la prise en charge d’Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
 
 
 Les produits Office 2010 suivants sont tenus à jour automatiquement à l’aide d’une technologie appelée « Démarrer en un clic ».
@@ -33,7 +33,7 @@ Les produits Office 2010 suivants sont tenus à jour automatiquement à l’aid
 Si vous utilisez l’un de ces produits, et que vous souhaitez vérifier que vous êtes à jour, cherchez votre numéro de version Office et mettez manuellement à jour Office si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2010 est **14.0.7261.5000**, qui a été publiée le 13 octobre 2020.
+> La version la plus récente d’Office 2010 est **14.0.7261.5000** , qui a été publiée le 13 octobre 2020.
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -41,7 +41,7 @@ Pour vérifier votre version d’Office, procédez comme suit :
     
 2. Sélectionnez **Fichier** > **Aide**.
     
-3. Sous **Mises à jour du produit Office « Démarrer en un clic »**, notez le numéro de version indiqué.
+3. Sous **Mises à jour du produit Office « Démarrer en un clic »** , notez le numéro de version indiqué.
     
     Si le numéro de version correspond à la version la plus récente, vous êtes à jour. Si ce n’est pas le cas, vous pouvez effectuer la mise à jour manuellement pour obtenir la dernière version d’Office 2010. Pour mettre à jour Office, [procédez comme expliqué ici](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
     
