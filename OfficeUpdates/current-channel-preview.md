@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
+ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944138"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48950003"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -27,6 +27,158 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2011-november-09"></a>Version 2011 : 09 novembre
+*Version 2011 (build 13426.20184)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Créez des flux de données Power Platform à partir de requêtes :** vous pouvez désormais exporter vos requêtes dans des modèles Power Query qui peuvent être utilisés pour la création de flux de données Power Platform
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Accès
+
+- Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
+
+
+- Nous avons résolu un problème où la commutation automatique entre les fenêtres de formulaire passait à un autre formulaire.
+
+
+- Nous avons résolu un problème lors de l’utilisation de DAO à partir d’applications non-Office, provoquant la fermeture inattendue de l’application.
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème dans lequel Nom de fichier ne changeait pas après l’exécution d’une opération Enregistrer sous avec les compléments COM activés.
+
+
+- Nous avons résolu un problème avec Power Pivot lors de l’utilisation d’une connexion à une base de données Oracle.
+
+
+- Nous avons résolu un problème d’échec de l’Enregistrement automatique avec un message d’erreur incorrect/équivoque lorsqu’il existe une définition de mesure incorrecte dans le modèle de données Excel.
+
+
+- Nous avons résolu un problème : Excel s’arrêtait de manière anormale lors du déclenchement du processus de calcul MTR et de mise à jour d’objet de stratégie de groupe (par exemple, via l’actualisation de la stratégie de groupe à distance).
+
+
+- Nous avons résolu un problème pour lequel un utilisateur n’a pas pu ouvrir le fichier atomsvc (UTF8 + BOM) à partir de SharePoint directement.
+
+
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation provoquait un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+
+
+- Nous avons résolu un problème dans lequel Word semble se bloquer lors de l’insertion d’un classeur Excel dans un document Word.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème : Outlook cessait sporadiquement de fonctionner lors de l’ajout ou de l’enregistrement de pièces jointes.
+
+
+- Nous avons résolu un problème lors duquel l’impression rapide de pièces jointes provoquait l’erreur « Windows ne trouve pas cette image. Vérifiez l’emplacement, puis réessayez ».
+
+
+- Nous avons résolu un problème qui entraînait le démarrage d’Outlook à l’état Hors connexion pour certains utilisateurs jusqu’à ce qu’ils choisissent de travailler en ligne.
+
+
+- Nous avons résolu un problème où lors du collage d’une URL copiée à partir d’un emplacement de réunion dans un autre emplacement (par exemple, un navigateur), l’URL contient un point-virgule à la fin.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de supprimer des rendez-vous dans le Calendrier des groupes Microsoft 365 dans l’authentification de base.
+
+
+- Nous avons résolu un problème d’échec du démarrage d’Outlook lors du chargement du cache de surnom.
+
+
+- Nous avons résolu un problème : le propriétaire d’une boîte aux lettres ne pouvait pas gérer les autorisations partagées pour son propre calendrier, car l’option était grisée.
+
+
+- Nous avons résolu un problème : Outlook ne pouvait pas créer de message avec une autorisation restreinte.
+
+
+- Nous avons résolu un problème : l’enregistrement de modèles d’e-mail au format .OFT transformait les caractères chinois en points d’interrogation.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation provoquait un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+
+
+- Nous avons résolu un problème d’absence d’info-bulle dans l’icône d’espace réservé de contenu près des Images.
+
+
+- Nous avons résolu un problème dans lequel le mode protégé du diaporama, affiché par fichier pptsx, autorise la capture d’écran du document protégé par IRM.
+
+
+- Nous avons résolu un problème : les quadrillages étaient décalées des diapositives lors de la fermeture du volet de conception.
+
+
+- Nous avons résolu un problème où lors de la duplication du diaporama vers le moniteur secondaire, le diaporama se masque derrière d’autres fenêtres.
+
+
+- Nous avons résolu un problème : une fois l’enregistrement de l’écran arrêté avec le volet de sélection ouvert, la barre de défilement de la diapositive commençait à se régler automatiquement.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème dans lequel la NewVal de l’événement ProjectBeforeTaskChagne ne possède pas la valeur correcte si un décalage est modifié dans un affichage de type Formulaire Tâche.
+
+
+- Résolution d’un problème où Project peut s’arrêter de manière inattendue à l’ouverture des fichiers dans lesquels les contours de ressources ont été spécifiés d’une certaine manière.
+
+
+- Résolution d’un problème où lorsque vous enregistrez un projet de PWA dans un fichier MPP local, ProjectBeforeTaskChangeEvent se déclenche pour les données qui n’ont pas été réellement modifiées par l’utilisateur.
+
+
+- Nous avons résolu un problème : les engagements de ressources recherchaient une ressource par nom au lieu de la rechercher par GUID. Cela entraînait des problèmes si plusieurs ressources portaient le même nom.
+
+
+- Nous avons résolu un problème dans lequel l’utilisateur ne peut pas modifier rapidement la liste des tâches s’il dispose d’une liste de tâches dans un site de projets et regroupe la liste des tâches.
+
+
+- Nous avons résolu un problème de perte possible des unités de ressource maximum lorsqu’un utilisateur met à jour une ressource d’entreprise via CSOM.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation provoquait un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+
+
+- Nous avons résolu un problème : un clic sur l’indicateur de commentaires ne permettait pas d’effectuer de zoom arrière pour afficher la carte Commentaire dans la vue.
+
+
+- Nous avons corrigé un problème de mise en page : la ligne entre les colonnes s’était peut-être décalée.
+
+
+- Nous avons résolu un problème dans le Suivi des Modifications, ce qui peut afficher une boîte de dialogue d’erreur à l’ouverture d’un document Word.
+
+
+- Nous avons résolu un problème dans lequel Word semble se bloquer lors de l’insertion d’un classeur Excel dans un document Word.
+
+
+- Nous avons corrigé un problème d’impression lorsque l’étiquette de confidentialité avec filigranes est appliquée.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème dans l’outil Déploiement d’Office, où la configuration échouait lors de l’utilisation de la fonctionnalité RemoveMSI lorsque le produit « Rapport d'erreurs d'une application Microsoft » d’Office 2007 était présent.
+
+
+- Nous avons résolu un problème dans lequel la connexion interactive de l’API SSO renvoyait un code d’erreur.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2010-november-06"></a>Version 2010 : 06 novembre
 *Version 2010 (build 13328.20356)*
