@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions définitives d’Office 2013 qui utilisent Démarrer en un clic
-ms.openlocfilehash: 768a146b2be4bccae92489e665c4e9ac9738dac5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 13d1a91f39169c073ffa8732b22051d95a512e2a
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453342"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989953"
 ---
 # <a name="update-history-for-office-2013"></a>Historique des mises à jour pour Office 2013
 
 Certains produits Office 2013 sont tenus à jour automatiquement à l’aide d’une technologie nommée Démarrer en un clic. Si vous voulez vérifier que vous êtes à jour, vérifiez le numéro de votre version d’Office et mettez à jour Office manuellement si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2013 est la version **15.0.5285.1000**, publiée le 13 octobre 2020.
+> La version la plus récente d’Office 2013 est la version **15.0.5293.1000** , qui a été publiée le 10 novembre 2020.
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -29,7 +29,7 @@ Pour vérifier votre version d’Office, procédez comme suit :
     
 2. Sélectionnez **Fichier** > **Compte**.
     
-3. Sous **Informations sur le produit**, notez le numéro de version indiqué sous **Mises à jour d’Office**.
+3. Sous **Informations sur le produit** , notez le numéro de version indiqué sous **Mises à jour d’Office**.
     
     Si le numéro de version correspond à la version la plus récente, vous êtes à jour. Si ce n’est pas le cas, vous pouvez effectuer la mise à jour manuellement pour obtenir la dernière version d’Office 2013. Pour mettre à jour Office, [procédez comme suit](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
@@ -45,7 +45,8 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2020| 13 octobre| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
+|2020| 10 novembre|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
+||13 octobre| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||8 septembre| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||11 août | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||14 juillet    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
