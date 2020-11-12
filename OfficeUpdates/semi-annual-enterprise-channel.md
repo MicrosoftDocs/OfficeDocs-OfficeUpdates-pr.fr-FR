@@ -9,26 +9,68 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453412"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990073"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions semestrielles du canal des entreprises disponibles en 2020
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du canal semestriel des entreprises des applications de Microsoft 365 pour entreprises en 2020, des applications de Microsoft 365 pour affaires et des versions avec abonnement des applications de bureau pour Project et Visio.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du canal d’entreprise semi-annuel en 2020 des applications Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour Microsoft 365 Apps, y compris l’ajout d’un nouveau canal de mise à jour (canal d’entreprise mensuel) et la modification des noms des canaux de mise à jour existants. Pour obtenir plus d’informations, [lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
->- OneNote 2016 sera désormais inclus par défaut lorsqu’un utilisateur du Canal semestriel pour entreprises télécharge et installe les applications Microsoft 365 sur Windows 10 depuis le portail Office.
+>- OneNote 2016 sera désormais incluse par défaut lorsqu’un utilisateur du Canal d’entreprise semi-annuel télécharge et installe Microsoft 365 Apps sur Windows 10 depuis le portail Office.
 
 
-[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2002-november-10"></a>Version 2002 : 10 novembre
+*Version 2002 (Build 12527.21330)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème empêchant parfois, lorsque la langue d’Office était définie sur l’espagnol, l’affichage de tous les éléments d’une liste de validation des données.
+
+
+- Nous avons résolu un problème qui pouvait provoquer un blocage au cours de l’actualisation des tableaux croisés dynamiques OLAP.
+
+
+- Nous avons résolu un bogue entraînant le résultat incorrect de certaines fonctions après le chargement d’un classeur.
+
+
+- Nous avons résolu un problème de fermeture inattendue de l’application qui était liée à des références de compléments XLAM et à des plages nommées.
+
+
+- Nous avons résolu un problème dans lequel l’exécution de la macro filtre avancé signalait des erreurs de façon incorrecte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème entraînant la désactivation inopinée des compléments internes lorsque des expériences connectées facultatives étaient désactivées.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’envoyer en tant que ou au nom de pour une liste de distribution masquée à partir de la Liste d’adresses globale.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1908-november-10"></a>Version 1908 du 10 novembre
+*Version 1908 (Build 11929.20974)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2002-october-13"></a>Version 2002 : 13 octobre
 *Version 2002 (build 12527.21236)*
@@ -190,7 +232,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
 
-- **Complément visualiseur de données : ** créer rapidement des organigrammes de programmation Visio à partir d’Excel. [Si vous souhaitez en savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Complément visualiseur de données :** créer rapidement des organigrammes de programmation Visio à partir d’Excel. [Si vous souhaitez en savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 - **Créer des fichiers PDF plus accessibles :** Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problèmes d’accessibilité à résoudre avant de procéder à l’enregistrement. [Si vous souhaitez en savoir plus](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
@@ -316,7 +358,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Résolution d’un problème d’endommagement de documents dû à la fusion d’objets 3D :** résolution d’un problème d’endommagement de documente dû à la fusion d’objets 3D.
 
-- **Améliorations de la co-création** : Performances de Word améliorées lors de la co-création de documents avec suivi des modifications.
+- **Améliorations de la co-création**  : Performances de Word améliorées lors de la co-création de documents avec suivi des modifications.
 
 - **Améliorations de la co-création :** fiabilité améliorée lors de la co-création.
 
@@ -679,7 +721,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Résolution d’un problème de blocage avec l’hôte Office dans Windows, lorsqu’un complément est activé alors que la valeur TabProcGrowth du Registre est REG_SZ type.
 
-- Cette mise à jour corrige un problème dans Microsoft Office dans lequel les projets VBA (Visual Basic for Applications) présentant des références attendues par des recherches dans les emplacements spécifiés dans la variable d’environnement PATH ne sont peut-être pas correctement détectés lors de l’exécution, ce qui peut entraîner des erreurs d’exécution VBA.
+- Cette mise à jour corrige un problème dans Microsoft Office dans lequel les projets VBA (Visual Basic for Applications) présentant des références attendues par des recherches dans les emplacements spécifiés dans la variable d’environnement PATH ne sont peut-être pas correctement détectés lors de l’exécution, ce qui peut entraîner des erreurs d’exécution VBA.
 
 - Résolu le problème où Access et Publisher pouvaient ne pas démarrer correctement selon les langues installées.
 
@@ -1094,17 +1136,17 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Lors de la copie de données filtrées par couleur dans une colonne de largeur différente, les valeurs ne seraient pas collées.
+- Lorsque vous copiez des données filtrées par couleur dans une colonne de largeur différente, les valeurs ne sont pas collées.
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème qui entraînait l’arrêt inopiné des utilisateurs lors de l’ouverture des fichiers .mgg et .oft  après avoir appliqué une mise à jour récente de Windows.
+- Nous avons résolu un problème qui entraînait l’arrêt inopiné des utilisateurs lors de l’ouverture des fichiers msg et .oft après l’application d’une mise à jour récente de Windows.
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème lors de la fusion de deux documents en un seul.
+- Nous avons résolu un problème lors de la fusion de 2 documents au sein d’un document unique.
 
-- Résolution d’un problème avec la fonctionnalité Comparer avec des documents protégés pour l’édition.
+- Résolution d’un problème avec la fonctionnalité Comparer avec des documents protégés pour la modification.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
@@ -1136,9 +1178,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Nous avons résolu un problème qui confrontait les utilisateurs à un blocage lors de la sélection de certains résultats de recherche.
 
-- Résolution d’un problème qui entraînait l’absence du bouton « Enregistrer dans le cloud » dans les Outils Pièces jointes.
+- Résolution d’un problème qui entraînait l’absence du bouton « Enregistrer dans le cloud » dans les Outils Pièces jointe.
 
-- Par défaut, les étiquettes de stratégie de rétention affichent la période de rétention entre parenthèses.Cela fournit une clé de registre pour permettre aux administrateurs de spécifier que seul le nom de la stratégie doit être affiché.HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = Par défaut                                                                           1 = Nous n'afficherons que le nom de la stratégie pour le texte de la stratégie de rétention.
+- Par défaut les étiquettes de stratégie de rétention affichent la période de rétention entre parenthèses. Cela fournit une clé de Registre pour permettre aux administrateurs de spécifier que seul le nom de la stratégie doit être affiché. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Par défaut 1 = Nous n'afficherons que le nom de la stratégie pour le texte de la stratégie de rétention.
 
 ### <a name="office-suite"></a>Suite Office
 
@@ -1150,12 +1192,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="office-suite"></a>Suite Office
 
-- Résout un problème dans Visual Basic pour applications dans Microsoft Office où certains projets VBA contenant des références à des bibliothèques de codes avec des caractères DBCS dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque sont affichés par l’application Office comme étant endommagée lors du chargement.
+- Nous avons résolu un problème dans Visual Basic pour applications dans Microsoft Office où certains projets VBA contenant des références à des bibliothèques de codes avec des caractères DBCS dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque sont affichés par l’application Office comme étant endommagée lors du chargement.
 
-## <a name="version1908april-26"></a>Version 1908 : 26 avril
-*Version 1908 (Build 11929.20736)*
+## <a name="version-1908-april-26"></a>Version 1908 : 26 avril
+*Version 1908 (Build 11929.20736)*
 
-Les mises à jour de sécurité sont répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
@@ -1164,7 +1206,7 @@ Les mises à jour de sécurité sont répertoriées [ici](https://docs.microsof
 
 - Résolution d’un problème avec VBA dans lequel les valeurs d’écriture dans une plage seraient plus lentes que prévu.
 
-- Nous avons résolu un problème dans lequel la propriété « Valeur croisée à » de l’axe du graphique change de façon inattendue lors de l’enregistrement et de la réouverture d’un fichier.
+- Nous avons résolu un problème dans lequel la propriété « Valeur croises à » de l’axe du graphique change de façon inattendue lors de l’enregistrement et de la réouverture d’un fichier.
 
 - Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
 
@@ -1384,7 +1426,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Joignez des tables sur des colonnes similaires :** la requête Récupérer et transformer (Power Query) présente désormais une logique de correspondance de texte approximative (également appelée correspondance approximative) lorsque vous comparez des colonnes pour fusionner des tableaux. [En savoir plus](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
-- **Codez rapidement avec les améliorations de Power Query** : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Découvrez également facilement les fonctions, les colonnes et les paramètres.
+- **Codez rapidement avec les améliorations de Power Query**  : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Découvrez également facilement les fonctions, les colonnes et les paramètres.
 
 - **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -1410,7 +1452,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Amélioration des transitions de formes : ** nommez vos formes pour mieux contrôler leurs transitions. [En savoir plus](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
+- **Amélioration des transitions de formes :** nommez vos formes pour mieux contrôler leurs transitions. [En savoir plus](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **Trouvez rapidement ce fichier :** Vous recherchez un fichier sur lequel vous avez travaillé récemment ? Renseignez simplement la zone de recherche dans Fichier > Page d’accueil pour trouver le fichier que vous recherchez.
 
@@ -1754,6 +1796,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
