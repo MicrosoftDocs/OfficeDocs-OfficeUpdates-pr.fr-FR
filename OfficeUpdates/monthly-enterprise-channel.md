@@ -9,23 +9,188 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453312"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990153"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du Canal Entreprise mensuel publiées en 2020 pour Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du Canal d’entreprise mensuel publiées en 2020 pour Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour Microsoft 365 Apps, y compris l’ajout d’un nouveau canal de mise à jour (canal d’entreprise mensuel) et la modification des noms des canaux de mise à jour existants. Pour obtenir plus d’informations, [lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 [//]: # (NE PAS SUPPRIMER)
 
 
+
+## <a name="version-2009-november-10"></a>Version 2009 : 10 novembre
+*Version 2009 (build 13231.20514)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+
+### <a name="word"></a>Word
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème d’impossibilité de lecture des en-têtes de messages chinois lors d’une réponse ou d’un transfert.
+
+
+- Résout un problème qui a empêché les délégués de voir les défaillances intermittentes lors de l’ouverture de dossiers partagés dans une autre boîte aux lettres.
+
+
+- Nous avons corrigé un problème qui entraînait l’envoi d’e-mails générés automatiquement avec un corps vide lorsque la ligne d'objet était vide.
+
+
+- Nous avons corrigé un problème lors duquel des utilisateurs observaient que Outlook démarrait de manière inattendue dans un état hors ligne.
+
+
+- Nous avons corrigé un problème à l’origine du retour de recherche sans résultat lors de la recherche de calendriers partagés non mis en cache.
+
+
+- Nous avons résolu un problème qui entraînait l’arrêt inopiné de l’application lors de la sélection d’un résultat de recherche.
+
+
+- Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à accorder l’autorisation éditeur à leurs délégués.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d'un problème entraînant une co-édition lente des fichiers contenant un grand nombre d'objets de données d'un certain type (E2o).
+
+
+- Nous avons résolu un problème qui désactivait les protections IRM lors de l’ouverture d’un fichier PowerPoint en mode protégé.
+
+
+- Nous avons résolu un problème dans lequel le complément contenu de Formulaires ne s’affiche pas après l’insertion, jusqu’à ce que l’utilisateur clique sur une autre diapositive pour l’afficher.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème où lors de l’exécution d’un code d'événement et de la tentative d'effectuer des modifications par le biais d'une vue en mode Formulaire des tâches, le fait de cliquer sur le bouton OK peut ne pas valider les changements.
+
+
+- Résolution d’un problème où Project peut s’arrêter de manière inattendue à l’ouverture des fichiers dans lesquels les contours de ressources ont été spécifiés d’une certaine manière.
+
+
+- Résolution d’un problème où lorsque vous enregistrez un projet de PWA dans un fichier MPP local, ProjectBeforeTaskChangeEvent se déclenche pour les données qui n’ont pas été réellement modifiées par l’utilisateur.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème lié à la boîte de dialogue Galerie de styles.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
+
+
+- Nous avons résolu un problème dans lequel Point de terminaison protection contre la perte de données Microsoft 365 n’a pas pu classifier des documents Office sur disque.
+
+
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toner. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2008-november-10"></a>Version 2008 : 10 novembre
+*Version 2008 (Build 13127.20760).*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème concernant les références de cellule qui pouvaient être incorrectes si une feuille de graphique était la feuille active lors de l’utilisation d’un macro pour définir la propriété FormulaR1C1.
+
+
+- Résolution d’un problème pouvant être à l’origine du message d’erreur « Excel a manqué de ressources lors de la tentative de calcul d’une ou plusieurs formules ».
+
+
+- Résolution d’un problème empêchant parfois, lorsque la langue d’Office était définie sur l’espagnol, l’affichage de tous les éléments d’une liste de validation des données.
+
+
+- Nous avons résolu un problème qui pouvait provoquer un blocage au cours de l’actualisation des tableaux croisés dynamiques OLAP.
+
+
+- Nous avons résolu un problème entraînant le résultat incorrect de certaines fonctions après le chargement d’un classeur.
+
+
+- Nous avons résolu un problème de fermeture inattendue de l’application qui était liée à des références de compléments XLAM et à des plages nommées.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à l’origine du brouillage des en-têtes de messages chinois lors de la réponse ou du transfert.
+
+
+- Nous avons corrigé un problème qui entraînait l’envoi d’e-mails générés automatiquement avec un corps vide lorsque la ligne d'objet était vide.
+
+
+- Résout un problème qui a empêché les délégués de voir les défaillances intermittentes lors de l’ouverture de dossiers partagés dans une autre boîte aux lettres.
+
+
+- Nous avons résolu un problème d’échec du retour de résultats de recherche dans les calendriers Groupe.
+
+
+- Nous avons résolu un problème qui entraînait l’arrêt inopiné de l’application lors de la sélection d’un résultat de recherche.
+
+
+- Nous avons résolu un problème concernant la gestion des droits relatifs à l’information. Désormais, les utilisateurs peuvent désactiver la gestion des droits relatifs à l’information pour Outlook sans avoir à le faire pour le reste des applications Office.
+
+
+- Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à accorder l’autorisation éditeur à leurs délégués.
+
+
+- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://developer.microsoft.com/fr-FR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ce correctif résout le problème suivant : l’invite Enregistrer s’affiche en boucle pendant la fermeture du document lorsqu’un complément écoute l’événement PresentationBeforeClose et vérifie la propriété Presentation.Saved comme partie du gestionnaire d’événements.
+
+
+- Nous avons résolu un problème dans lequel le complément contenu de Formulaires ne s’affiche pas après l’insertion, jusqu’à ce que l’utilisateur clique sur une autre diapositive pour l’afficher.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème pour les clients commerciaux qui tirent parti de System Center Configuration Manager ou d’un autre outil de gestion pour la mise à jour Office à l’aide de Point de terminaison protection contre la perte de données Microsoft 365.
+
+- Résoudre un problème de fonctionnement de Messaging API pour les compléments Office.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2008-october-13"></a>Version 2008 : 13 octobre
 *Version 2008 (build 13127.20638)*
@@ -244,7 +409,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- **Rouvrir rapidement des éléments à partir d’une session précédente : **nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente. Qu'Outlook se bloque ou que vous le fermez, vous pourrez désormais relancer rapidement les éléments lorsque vous rouvrez l'application. Cette fonctionnalité est activée par défaut. Pour désactiver cette fonctionnalité, accédez à Options > Général > Options de démarrage.
+- **Rouvrir rapidement des éléments à partir d’une session précédente :** nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente. Qu'Outlook se bloque ou que vous le fermez, vous pourrez désormais relancer rapidement les éléments lorsque vous rouvrez l'application. Cette fonctionnalité est activée par défaut. Pour désactiver cette fonctionnalité, accédez à Options > Général > Options de démarrage.
 
 ### <a name="word"></a>Word
 
@@ -605,7 +770,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="office-suite"></a>Suite Office
 
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées.
+- **Étiquettes de confidentialité**  : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -699,7 +864,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Où que vous regardiez, à gauche comme à droite... XLOOKUP est là ! :** ligne par ligne, trouvez tout ce dont vous avez besoin au sein d’un tableau ou d’une plage grâce à XLOOKUP. [En savoir plus](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)
 
-- **Lisez et répondez immédiatement ** Répondez aux commentaires et mentions directement à partir du courrier électronique sans ouvrir le classeur.
+- **Lisez et répondez immédiatement** Répondez aux commentaires et mentions directement à partir du courrier électronique sans ouvrir le classeur.
 
 ### <a name="outlook"></a>Outlook
 
@@ -733,7 +898,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="office-suite"></a>Suite Office
 
-- **Ouvrir des fichiers volumineux de façon incrémentielle : ** la possibilité de télécharger, ouvrir et interagir avec des présentations PowerPoint de grande taille, même si des parties de la présentation (par exemple, une vidéo ou une image volumineuse) n’ont pas fini leur téléchargement.
+- **Ouvrir des fichiers volumineux de façon incrémentielle :** la possibilité de télécharger, ouvrir et interagir avec des présentations PowerPoint de grande taille, même si des parties de la présentation (par exemple, une vidéo ou une image volumineuse) n’ont pas fini leur téléchargement.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -840,6 +1005,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)

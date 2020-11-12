@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider rapide pour ordinateur de bureau Windows
-ms.openlocfilehash: 2577a172025a0f5a5a0dcbe26d7395a564c990bf
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: 58f4904dec4b1ef76682713e5e3cbd40b9206f2f
+ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949983"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999549"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historique des mises à jour pour le canal bêta d’Office
 
@@ -31,12 +31,15 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versions et builds du canal bêta d’Office
 
-Si vous êtes inscrit au programme Insider, vous recevez fréquemment des mises à jour offrant de nouvelles fonctionnalités et améliorations. La liste suivante énumère les versions et builds du canal bêta, **du plus récent au plus ancien**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents.
+Si vous êtes inscrit au niveau Insider, vous recevez des mises à jour fréquentes avec de nouvelles fonctionnalités et des améliorations. La liste suivante affiche un historique des derniers builds et versions du Canal Bêta, avec **le dernier build publié en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents.
 
 Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NE PAS SUPPRIMER)
+
+**11 novembre 2020**<br/>
+Version 2012 (Build 13510.20004)<br/>
 
 **9 Novembre 2020**<br/>
 Version 2012 (build 13505.20004)<br/>

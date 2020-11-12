@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
+ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453183"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48994963"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -29,6 +29,27 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
+
+
+## <a name="november-2020-release"></a>Version de novembre 2020
+
+**Date de publication:** 10 novembre 2020
+
+*Mise à jour Automatique Microsoft 4.29*
+
+**Correctifs et Améliorations de bogues:**
+-   Mise à jour des noms de canaux pour Microsoft 365.
+-   Correction du problème de mise à jour de certaines installations OneDrive.
+
+**Lien de mise à jour MAU :**
+
+[Téléchargez le Package Mise à jour Automatique 4.29 de Microsoft](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash :**
+
+7EDE97D524CE7E7869A4033D25270057E670588886F7A0E02628CC7FCB4F7851
+
+<br/><br/>
 
 ## <a name="october-2020-release"></a>Version d’octobre 2020
 
@@ -53,7 +74,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 ## <a name="september-2020-release"></a>Version de septembre 2020
 
-** Date de publication :** 16 septembre 2020
+**Date de publication :** 16 septembre 2020
 
 *Microsoft Auto Update 4.27*
 
