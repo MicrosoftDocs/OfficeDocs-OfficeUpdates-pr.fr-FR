@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: bf76b6eb4a9d985184114454a4fe329fd18ff7f0
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 9e58e7a277f222c7566a59dc6ce237bdd1b9419e
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453222"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989813"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -31,25 +31,27 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |PU d’octobre 2020  <br/> [KB4583495](https://support.microsoft.com/help/4583495) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |Mise à jour publique de novembre 2020  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
    
 ## <a name="office-2013-updates"></a>Mises à jour d’Office 2013
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |PU d’octobre 2020  <br/> [KB4583495](https://support.microsoft.com/help/4583495) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Mise à jour publique de novembre 2020  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
    
 ## <a name="office-2010-updates"></a>Mises à jour d’Office 2010
 > [!IMPORTANT]
-> La prise en charge d’Office 2010 se termine le 13 octobre 2020. Si vous n’avez pas encore commencé la mise à niveau de votre environnement Office 2010, nous vous recommandons de le faire dès maintenant. Pour plus d’informations, voir [Feuille de route de la fin de la prise en charge d’Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> La prise en charge d’Office 2010 prend fin le 13 octobre 2020. Si vous n’avez pas encore commencé la mise à niveau de votre environnement Office 2010, nous vous recommandons de le faire dès maintenant. Pour plus d’informations, voir [Feuille de route de la fin de la prise en charge d’Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Suites Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Serveurs Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produits SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |PU d’octobre 2020  <br/> [KB4583495](https://support.microsoft.com/help/4583495) <br/>|
+|**2010** <br/> Suites Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Serveurs Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produits SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Mise à jour publique de novembre 2020  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Mises à jour publiées au cours des 12 derniers mois
+[Mises à jour de sécurité et non relatives à la sécurité pour octobre 2020 : KB4583503](https://support.microsoft.com/help/4583503)
+
 [Mises à jour de sécurité et non relatives à la sécurité pour octobre 2020 : KB4583495](https://support.microsoft.com/help/4583495)
 
 [Mises à jour de sécurité et non relatives à la sécurité pour septembre 2020 : KB4576653](https://support.microsoft.com/help/4576653)
@@ -71,9 +73,6 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 [Mises à jour de sécurité et non relatives à la sécurité pour janvier 2020 : KB4536554](https://support.microsoft.com/help/4536554)
 
 [Mises à jour de sécurité et non relatives à la sécurité pour décembre 2019 : KB4532624](https://support.microsoft.com/help/4532624)
-
-[Mises à jour de sécurité et non relatives à la sécurité pour novembre 2019 : KB4527848](https://support.microsoft.com/help/4527848)
-
  
 
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
-ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
+ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
+ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48939301"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071533"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,47 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2012-november-13"></a>Version 2012 : 13 novembre
+*Version 2012 (build 13510.20004)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème dans lequel la commande Insérer un objet n’affiche pas l’icône correcte lors de l’insertion d’un fichier à partir du dossier de synchronisation local OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui faisait que le champ À : était vide dans les rapports sur l'état d'avancement des tâches.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons corrigé un problème VBA dans lequel la fonction Slide.Shapes.AddMediaObject2 se bloque avec des formats vidéo hérités (MPG-1, MPEG-2).
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème dans lequel vous n’avez pas pu supprimer des dépendances sur les livrables si le site SharePoint auquel le livrable était associé n’existait plus.
+
+
+- Nous avons résolu un problème dans lequel les utilisateurs ouvrent des projets qui ont été censés être enregistrés avec des informations mises à jour, mais qui ont trouvé les mises à jour sont manquants.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème lié au flou des images lors du zoom.
+
+
+- Nous avons résolu un problème pour lequel les longs hyperliens étaient tronqués.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2012-november-06"></a>Version 2012 : 06 novembre
 *Version 2012 (build 13430.20000)*
@@ -1878,6 +1919,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
@@ -1887,5 +1929,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
