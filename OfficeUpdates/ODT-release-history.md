@@ -23,15 +23,15 @@ L’outil Déploiement d’Office (ODT) est un outil de ligne de commande qui vo
 
 L’outil Déploiement d’Office vous permet de bien contrôler l’installation d’Office. Vous pouvez ainsi choisir les produits et langues installés ainsi que leur mode de mise jour, et décider de montrer ou non l’expérience d’installation à vos utilisateurs. Pour plus d’informations, consultez la rubrique [Vue d’ensemble de l’outil Déploiement d’Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Systèmes d’exploitation pris en charge**  : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
+ **Systèmes d’exploitation pris en charge** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Instructions d’installation**  : téléchargez et exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setup.exe) et un exemple de fichier de configuration (configuration.xml). 
+ **Instructions d’installation** : téléchargez et exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setup.exe) et un exemple de fichier de configuration (configuration.xml). 
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
 ## <a name="october-29-2020"></a>29 octobre 2020
 Version 16.0.13328.20292 (version setup.exe 16.0.13328.20290)
-- Correction d’un problème de blocage inattendu de certains produits Office 2007 lors de l’utilisation de RemoveMSI
+- Correction d’un problème entraînant un blocage de certains produits Office 2007 lors de l’utilisation de RemoveMSI
 
 ## <a name="october-14-2020"></a>14 octobre 2020
 Version 16.0.13231.20368 (setup.exe version 16.0.13231.20350)
