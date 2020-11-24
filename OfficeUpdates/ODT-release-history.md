@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fournit un historique des publications de l’outil Déploiement d’Office (ODT) destiné aux professionnels de l’informatique
-ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
-ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
+ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
+ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48806792"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999539"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
 
@@ -25,9 +25,14 @@ L’outil Déploiement d’Office vous permet de bien contrôler l’installatio
 
  **Systèmes d’exploitation pris en charge** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Instructions d’installation** : téléchargez et exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setup.exe) et un exemple de fichier de configuration (configuration.xml). 
+ **Instructions d’installation** : téléchargez et exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setupodt.exe) et un exemple de fichier de configuration (configuration.xml). 
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="november-10-2020"></a>10 novembre 2020
+Version 16.0.13328.20356 (version setupODT.exe 16.0.13328.20336)
+- Améliorations de la fiabilité et de la résilience
+- Pour empêcher la confusion et faciliter le diagnostic d’erreurs de configuration, l’outil Déploiement d’Office est désormais appelé setupODT.exe par défaut
 
 ## <a name="october-29-2020"></a>29 octobre 2020
 Version 16.0.13328.20292 (version setup.exe 16.0.13328.20290)
