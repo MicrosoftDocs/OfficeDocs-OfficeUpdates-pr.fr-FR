@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989943"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387442"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -34,7 +34,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2010<br/>|13328.20356<br/>|10 novembre 2020<br/>|Publication de la version 2011<br/>|
+|Canal actuel<br/>|2011<br/>|13426.20274<br/>|23 novembre 2020<br/>|Publication de la version 2012<br/>|
 |Canal mensuel des entreprises<br/>|2009<br/>|13231.20514<br/>|10 novembre 2020<br/>|12 Janvier 2021<br/>|
 |Canal mensuel des entreprises<br/>|2008<br/>|13127.20760<br/>|10 novembre 2020<br/>|8 décembre 2020<br/>|
 |Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.20760<br/>|10 novembre 2020<br/>|9 mars 2021<br/>|
@@ -51,6 +51,8 @@ The following table provides a list of the version and build numbers for each up
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|23 novembre|[Version 2011 (build 13426.20274)](current-channel.md#version-2011-november-23)| | | |
+|2020|17 novembre|[Version 2010 (build 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|10 novembre|[Version 2010 (build 13328.20356)](current-channel.md#version-2010-november-10)|[Version 2009 (build 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[Version 2008 (build 13127.20760).](monthly-enterprise-channel.md#version-2008-november-10)|[Version 2008 (build 13127.20760).](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Version 2002 (build 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Version 1908 (build 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|27 octobre|[Version 2010 (build 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21 octobre|[Version 2009 (Build 13231.20418)](current-channel.md#version-2009-october-21)| | | |
