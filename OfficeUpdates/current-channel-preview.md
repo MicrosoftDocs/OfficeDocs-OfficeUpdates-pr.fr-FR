@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
+ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48950003"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49408340"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
-Cet article contient les notes de publication relatives aux versions Canal actuel (Preview) de Word, Excel, PowerPoint, Outlook, Access et Project sur ordinateur de bureau Windows. Chaque semaine, nous mettrons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Notez que nous déployons régulièrement des fonctionnalités (et parfois même des correctifs) via le Canal actuel (Preview) sur une période donnée. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
+This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
 
 > [!IMPORTANT]
 > We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
@@ -27,6 +27,87 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2011-november-24"></a>Version 2011 : 24 novembre
+*Version 2011 (build 13426.20294)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="office-suite"></a>Suite Office
+
+- Résolution d’un problème avec le copier/coller d’une équation à partir de Word vers PowerPoint
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+
+## <a name="version-2011-november-21"></a>Version 2011 : 21 novembre
+*Version 2011 (Build 13426.20274)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="powerpoint"></a>PowerPoint
+
+- **Bibliothèque vidéo :** Élever vos documents à l’aide d’une bibliothèque de métrages vidéo organisés et sans redevance disponible dans l’application
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à l’origine de l’interruption l’événement MailItem.BeforeAttachmentAdd.
+
+
+- Nous avons ajouté une regkey qui permet aux clients de désactiver l’inclusion d’éléments filetime pour les pièces jointes dans les opérations IDataObject (par exemple, glisser-déplacer, presse-papiers). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes sont exclus : 1 = (par défaut) filetimes sont inclus
+
+
+- Nous avons résolu un problème qui entraînait la disparition d’images incorporées lors de la réponse à un message avec une étiquette de protection de Azure information protection.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+
+## <a name="version-2011-november-18"></a>Version 2011 : 18 novembre
+*Version 2011 (Build 13426.20250)*
+* Diverses résolutions de bogues et de performances.
+
+## <a name="version-2011-november-16"></a>Version 2011 : 16 novembre
+*Version 2011 (Build 13426.20234)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Même signature, tous les appareils :** votre signature sont stockés dans le cloud. Créez-la et utilisez-la partout où vous utilisez Outlook.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui faisait que le champ À : était vide lors de l’envoi du rapport d'état des tâches.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons corrigé un problème VBA dans lequel la fonction Slide.Shapes.AddMediaObject2 se bloque avec des formats vidéo hérités (MPG-1,Mpeg-2)
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2011-november-09"></a>Version 2011 : 09 novembre
 *Version 2011 (build 13426.20184)*
@@ -207,9 +288,9 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/fr-FR/blog/svg-content-office-third-party-apps)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/fr-FR/blog/export-animated-gifs-transparent-backgrounds)
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
 
@@ -303,7 +384,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Gagnez du temps lors de la rédaction de messages :** Outlook vous présente comment rédiger des suggestions pour vous permettre de composer rapidement des messages. Pour accepter la suggestion, utilisez simplement la touche Tab.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/fr-FR/blog/text-predictions-in-word-outlook)
+- **Gagnez du temps lors de la rédaction de messages :** Outlook vous présente comment rédiger des suggestions pour vous permettre de composer rapidement des messages. Pour accepter la suggestion, utilisez simplement la touche Tab.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)
 
 - **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Dans un message, cliquez avec le bouton droit pour traduire certain mots, des expressions ou tout le message. [En savoir plus](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -509,7 +590,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="outlook"></a>Outlook
 
-- **La vérification de la grammaire vous soutient :** Outlook signale les fautes de grammaire au cours de la frappe. Vous pouvez ainsi appliquer des suggestions d’un simple clic. <br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/grammar-and-style-suggestions-available-in-outlook)
+- **La vérification de la grammaire vous soutient :** Outlook signale les fautes de grammaire au cours de la frappe. Vous pouvez ainsi appliquer des suggestions d’un simple clic. <br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -573,7 +654,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="excel"></a>Excel
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -585,13 +666,13 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 - **Supprimer la conversation par propriétaire du message :** cette fonctionnalité vous permet de supprimer une conversation par propriétaire du message.
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -609,7 +690,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="word"></a>Word
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1143,7 +1224,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2351,13 +2432,13 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>Problèmes résolus

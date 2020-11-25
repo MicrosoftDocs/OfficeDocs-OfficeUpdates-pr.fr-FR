@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
-ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
+ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
+ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/13/2020
-ms.locfileid: "49071533"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "49372268"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,42 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2012-november-20"></a>Version 2012 : 20 novembre
+*Version 2012 (Build 13512.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Chaque réunion en ligne** Simplifiez la planification des réunions en ligne à l’aide d’un nouveau paramètre qui définit toutes vos réunions en ligne par défaut.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Bibliothèque vidéo :** Élever vos documents à l’aide d’une bibliothèque de métrages vidéo organisés et sans redevance disponible dans l’application
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d’un problème où l’indicateur de présence d’un co-auteur inconnu ne s’est pas entièrement actualisé à la disponibilité de nouvelles informations sur le co-auteur.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans lequel Word se bloque lors de l’enregistrement du document au format PDF avec du texte masqué.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2012-november-13"></a>Version 2012 : 13 novembre
 *Version 2012 (build 13510.20004)*
@@ -514,7 +550,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- Vérifiez vos messages à l’aide de l’ **Assistant Rédaction :** si vous êtes utilisateur d’Outlook 64 bits, vous pouvez désormais obtenir des suggestions grammaticales et de style dans vos courriers électroniques. Recherchez les mots soulignés pour afficher les suggestions de l’Assistant Rédaction et affiner votre écriture.
+- Vérifiez vos messages à l’aide de l’**Assistant Rédaction :** si vous êtes utilisateur d’Outlook 64 bits, vous pouvez désormais obtenir des suggestions grammaticales et de style dans vos courriers électroniques. Recherchez les mots soulignés pour afficher les suggestions de l’Assistant Rédaction et affiner votre écriture.
 
 - **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Dans un message, cliquez avec le bouton droit pour traduire certain mots, des expressions ou tout le message.
 
@@ -805,19 +841,19 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Consultez les détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Consultez les détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -866,7 +902,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -1115,7 +1151,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Trier/filtrer pendant la collaboration dans Excel :** vous pouvez désormais trier et filtrer votre fichier Excel pendant que vous collaborez avec d’autres personnes. Cette nouvelle fonctionnalité vous empêche d’être concerné par les tris et filtres d’autres utilisateurs lors de la co-édition du document.
 
-- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics. Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [Si vous souhaitez en savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics. Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés. [En savoir plus](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1472,17 +1508,17 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="excel"></a>Excel
 
-- **Sélecteur de contenu M365 Premium :** donnez vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 ### <a name="outlook"></a>Outlook
 
-- **Sélecteur de contenu M365 Premium :** donnez vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 - **Conservez la haute fidélité de vos images lorsque vous les envoyez dans un courrier électronique :** un nouveau paramètre Outlook est disponible pour limiter la compression d’image lorsque vous envoyez des images dans le cadre du contenu d’un courrier électronique.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Sélecteur de contenu M365 Premium :** donnez vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez des milliers d’images d’archives, d’icônes et d’autocollants libres de redevance [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 - **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama.
 
@@ -1661,13 +1697,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 
 ### <a name="excel"></a>Excel
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -1739,7 +1775,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [Si vous souhaitez en savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1919,6 +1955,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
@@ -1928,5 +1965,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
