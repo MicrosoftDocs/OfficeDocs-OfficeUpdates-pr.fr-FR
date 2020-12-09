@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 63e5a6f5335d3f7f0f08d673dae6ba5ad2e6ae75
-ms.sourcegitcommit: 058e54ff0668a2497ace28ef1f3dc8651ddec58e
+ms.openlocfilehash: 7482d963f594c772d5102d0ec9cd146f74edd8c8
+ms.sourcegitcommit: 4382f6248aba344455e891c4cfa32e3600a38c0d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48876695"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49527231"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -26,8 +26,17 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
 
-## <a name="november-3-2020"></a>3 novembre 2020
+
+## <a name="december-1-2020"></a>1er décembre 2020
 **Office 2016**<br/>
+Mise à jour pour Skype Entreprise 2016 ([KB4486745](https://support.microsoft.com/help/4486745)) <br/>
+Mise à jour pour Microsoft Office 2016 ([KB4486746](https://support.microsoft.com/help/4486746)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486747](https://support.microsoft.com/help/4486747)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486668](https://support.microsoft.com/help/4486668)) <br/>
+Mise à jour pour Microsoft Project 2016 ([KB4486749](https://support.microsoft.com/help/4486749)) <br/> Mise à jour pour Microsoft Publisher 2016 ([KB4484334](https://support.microsoft.com/help/4484334)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486716](https://support.microsoft.com/help/4486716)) <br/> Mise à jour pour Microsoft Visio 2016 ([KB4486709](https://support.microsoft.com/help/4486709)) <br/>
+Mise à jour pour Microsoft Word 2016 ([KB4486756](https://support.microsoft.com/help/4486756)) <br/> 
+
+
+## <a name="november-3-2020"></a>3 novembre 2020
+**Office 2016**<br/>
 Mise à jour pour Skype Entreprise 2016 ([KB4486710](https://support.microsoft.com/help/4486710)) <br/>
 Mise à jour pour Microsoft Office 2016 ([KB4486680](https://support.microsoft.com/help/4486680)) <br/>
 Mise à jour pour Microsoft Office 2016 ([KB4484397](https://support.microsoft.com/help/4484397)) <br/>
