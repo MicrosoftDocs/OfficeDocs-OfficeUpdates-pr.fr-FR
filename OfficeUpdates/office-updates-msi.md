@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 9e58e7a277f222c7566a59dc6ce237bdd1b9419e
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 2dceda111d7b5694cedba1c1fa098050343ce848
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989813"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601399"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -31,13 +31,13 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |Mise à jour publique de novembre 2020  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |Décembre 2020 PU  <br/> [KB4583521](https://support.microsoft.com/help/4583521) <br/> |
    
 ## <a name="office-2013-updates"></a>Mises à jour d’Office 2013
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Mise à jour publique de novembre 2020  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Décembre 2020 PU  <br/> [KB4583521](https://support.microsoft.com/help/4583521) <br/> |
    
 ## <a name="office-2010-updates"></a>Mises à jour d’Office 2010
 > [!IMPORTANT]
@@ -45,11 +45,13 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Suites Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Serveurs Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produits SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Mise à jour publique de novembre 2020  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
+|**2010** <br/> Suites Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Serveurs Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produits SharePoint 2010  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Décembre 2020 PU  <br/> [KB4583521](https://support.microsoft.com/help/4583521) <br/> |
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Mises à jour publiées au cours des 12 derniers mois
+[Mises à jour de sécurité et non relatives à la sécurité pour septembre 2020 : KB4583521](https://support.microsoft.com/help/4583521)
+
 [Mises à jour de sécurité et non relatives à la sécurité pour octobre 2020 : KB4583503](https://support.microsoft.com/help/4583503)
 
 [Mises à jour de sécurité et non relatives à la sécurité pour octobre 2020 : KB4583495](https://support.microsoft.com/help/4583495)
@@ -72,7 +74,7 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
 
 [Mises à jour de sécurité et non relatives à la sécurité pour janvier 2020 : KB4536554](https://support.microsoft.com/help/4536554)
 
-[Mises à jour de sécurité et non relatives à la sécurité pour décembre 2019 : KB4532624](https://support.microsoft.com/help/4532624)
+
  
 
 

@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387442"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601559"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
 Ces numéros de version et de build s’appliquent à Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et aux versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more,[read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
 
 > [!NOTE]
 > - Le tableau est classé par date de publication, la publication la plus récente apparaissant en premier.
@@ -34,23 +34,26 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2011<br/>|13426.20274<br/>|23 novembre 2020<br/>|Publication de la version 2012<br/>|
-|Canal mensuel des entreprises<br/>|2009<br/>|13231.20514<br/>|10 novembre 2020<br/>|12 Janvier 2021<br/>|
-|Canal mensuel des entreprises<br/>|2008<br/>|13127.20760<br/>|10 novembre 2020<br/>|8 décembre 2020<br/>|
-|Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.20760<br/>|10 novembre 2020<br/>|9 mars 2021<br/>|
-|Canal d’entreprise semi-annuel<br/>|2002<br/>|12527.21330<br/>|10 novembre 2020<br/>|14 septembre 2021<br/>|
-|Canal Entreprise semestriel<br/>|1908<br/>|11929.20974<br/>|10 novembre 2020<br/>|9 mars 2021<br/>|
+|Canal actuel<br/>|2011<br/>|13426.20332<br/>|8 décembre 2020<br/>|Publication de la version 2012<br/>|
+|Canal Entreprise mensuel<br/>|2010<br/>|13328.20478<br/>|8 décembre 2020<br/>|9 février 2021<br/>|
+|Canal Entreprise mensuel<br/>|2009<br/>|13231.20620<br/>|8 décembre 2020<br/>|12 Janvier 2021<br/>|
+|Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.20910<br/>|8 décembre 2020<br/>|9 mars 2021<br/>|
+|Canal d’entreprise semi-annuel<br/>|2002<br/>|12527.21416<br/>|8 décembre 2020<br/>|14 septembre 2021<br/>|
+|Canal Entreprise semestriel<br/>|1908<br/>|11929.20984<br/>|8 décembre 2020<br/>|9 mars 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
 Pour plus d’informations sur la taille approximative du téléchargement lors de la mise à jour d’une version précédente de Microsoft 365 Apps vers la version la plus récente, consultez [Tailles de téléchargement des mises à jour de Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.  
+Le tableau suivant fournit la liste des numéros de version et de build des différentes mises à jour de Microsoft 365 Apps publiées dans les canaux de mise à jour suivants : Actuel, Entreprise mensuel, Entreprise semestriel (préversion) et Entreprise semestriel. Chaque entrée du tableau contient un lien d’accès direct aux notes de publication de la version correspondante. Ces notes de publication fournissent des informations sur les fonctionnalités, mises à jour de sécurité et autres mises à jour incluses dans la mise à jour de Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|08 décembre|[Version 2011 (Build 13426.20332)](current-channel.md#version-2011-december-08)|[Version 2010 (Build 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[Version 2009 (Build 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[Version 2008 (Build 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[Version 2002 (Build 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[Version 1908 (Build 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
+|2020|2 décembre 2019|[Version 2011 (build 13426.20308)](current-channel.md#version-2011-december-02)| | | |
+|2020|30 novembre|[Version 2011 (build 13426.20294)](current-channel.md#version-2011-november-30)| | | |
 |2020|23 novembre|[Version 2011 (build 13426.20274)](current-channel.md#version-2011-november-23)| | | |
 |2020|17 novembre|[Version 2010 (build 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|10 novembre|[Version 2010 (build 13328.20356)](current-channel.md#version-2010-november-10)|[Version 2009 (build 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[Version 2008 (build 13127.20760).](monthly-enterprise-channel.md#version-2008-november-10)|[Version 2008 (build 13127.20760).](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Version 2002 (build 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Version 1908 (build 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
@@ -166,7 +169,7 @@ The following table provides a list of the version and build numbers for each up
 ||6 décembre  <br/> | [Version 1711 (Build 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |  <br/> |
 ||27 novembre  <br/> | [Version 1710 (Build 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |  <br/> |
 ||24 novembre  <br/> |  <br/> |  <br/> |  <br/> |[Version 1705 (Build 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
-||20 novembre  <br/> | [Version 1710 (build 8625.2132)](monthly-channel-2017.md#version-1710-november-20)  <br/> |  <br/> |  <br/> |  <br/> |
+||20 novembre  <br/> | [Version 1710 (Build 8625.2132)](monthly-channel-2017.md#version-1710-november-20)  <br/> |  <br/> |  <br/> |  <br/> |
 ||14 novembre  <br/> | [Version 1710 (Build 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> |  <br/> | [Version 1708 (Build 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [Version 1705 (Build 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [Version 1701 (Build 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
 ||2 novembre  <br/> |[Version 1710 (Build 8625.2121)](monthly-channel-2017.md#version-1710-november-2)  <br/> |  <br/> |  <br/> |  <br/> |
 ||25 octobre  <br/> | [Version 1709 (Build 8528.2147)](monthly-channel-2017.md#version-1709-october-25)  <br/> |  <br/> |  <br/> |  <br/> |

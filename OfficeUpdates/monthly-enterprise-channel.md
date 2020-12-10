@@ -9,23 +9,175 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 523eadc2a10787c22b774c4c01dd9997153a8bb8
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990153"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601519"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du Canal d’entreprise mensuel publiées en 2020 pour Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du Canal Entreprise mensuel publiées en 2020 pour Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour Microsoft 365 Apps, y compris l’ajout d’un nouveau canal de mise à jour (canal d’entreprise mensuel) et la modification des noms des canaux de mise à jour existants. Pour obtenir plus d’informations, [lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 [//]: # (NE PAS SUPPRIMER)
 
 
+
+## <a name="version-2010-december-08"></a>Version 2010:08 décembre
+*Version 2010 (Build 13328.20478)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="access"></a>Access
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="excel"></a>Excel
+
+- **Créer des variables à utiliser dans les formules :** améliorer les performances, la lisibilité et la composabilité avec la fonction LET. Cette fonction vous permet de créer des variables nommées dans des formules nouvelles ou préexistantes. [En savoir plus](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="onenote"></a>OneNote
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="outlook"></a>Outlook
+
+- **Mise à jour de l’expérience utilisateur pour les Tâches :** Actualisation visuelle des éléments de tâches
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte Office et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+- **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
+
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Si vous souhaitez en savoir plus, veuillez consulter ce [billet de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+
+### <a name="project"></a>Project
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="publisher"></a>Éditeur
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="visio"></a>Visio
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+### <a name="word"></a>Word
+
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Accès
+
+- Nous avons résolu un problème lors de l’utilisation de DAO à partir d’applications non-Office, provoquant la fermeture inattendue de l’application.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à cause duquel Outlook créait une deuxième signature vide pour les personnes qui avaient activé les paramètres cloud.
+
+
+- Nous avons résolu un problème n qui empêchait l’activation par défaut des paramètres cloud pour les utilisateurs.
+
+
+- Nous avons résolu un problème qui a provoqué l’échec de l’enregistrement des modifications apportées à la signature d’un utilisateur.
+
+
+- Nous avons résolu un problème d’impossibilité de lecture des en-têtes de messages chinois lors d’une réponse ou d’un transfert.
+
+
+- Nous avons résolu un problème dans lequel les caractères chinois sont remplacés par des points d’interrogation lors de l’enregistrement sous la forme d’un fichier OFT.
+
+
+- Nous avons ajouté une regkey qui permet aux clients de désactiver l’inclusion d’éléments filetime pour les pièces jointes dans les opérations IDataObject (par exemple, glisser-déplacer, presse-papiers).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = les horodatages sont exclus.  1 = (par défaut) les horodatages sont inclus.
+
+
+- Nous avons résolu un problème à l’origine de l’interruption de l’événement MailItem.BeforeAttachmentAdd.
+
+
+- Nous avons résolu un problème qui envoyait l’annulation de réunion à des participants d’origine lorsqu’un autre participant transfère la réunion.
+
+
+- Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à accorder l’autorisation éditeur à leurs délégués.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ce correctif résout le problème suivant : l’invite Enregistrer s’affiche en boucle pendant la fermeture du document lorsqu’un complément écoute l’événement PresentationBeforeClose et vérifie la propriété Presentation.Saved comme partie du gestionnaire d’événements.
+
+
+- Correctif pour résoudre un problème liés à l’utilisation de la gestion des droits relatifs à l’information ou de documents protégés pendant une erreur de fusion.
+
+
+- Résolution d’un problème concernant le copier/coller d’une équation à partir de Word vers PowerPoint.
+
+
+### <a name="project"></a>Projet
+
+- Résolution d’un problème où Project peut s’arrêter de manière inattendue à l’ouverture des fichiers dans lesquels les contours de ressources ont été spécifiés d’une certaine manière.
+
+
+- Résolution d’un problème où lorsque vous enregistrez un projet de PWA dans un fichier MPP local, ProjectBeforeTaskChangeEvent se déclenche pour les données qui n’ont pas été réellement modifiées par l’utilisateur.
+
+
+- Nous avons résolu un problème dans lequel la NewVal de l’événement ProjectBeforeTaskChange ne possède pas la valeur correcte si un décalage est modifié dans un affichage de type Formulaire Tâche.
+
+
+### <a name="visio"></a>Visio
+
+- Nous avons résolu un problème et les utilisateurs pourront créer des lignes droites à l’aide de connecteurs dans Visio pour Office 365 pour les gabarits Visio personnalisés et les modèles intégrés.
+
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème concernant le copier/coller d’une équation à partir de Word vers PowerPoint.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème dans lequel Point de terminaison protection contre la perte de données Microsoft 365 n’a pas pu classifier des documents Office sur disque.
+
+
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toner. Ce message a été modifié. Il affiche désormais « Toner / encre presque vide » et « Pas de toner / encre ».
+
+
+- Résolution d’un problème dans lequel une erreur se produisait lorsque vous copiez-collez un texte de commentaire dans Excel.
+
+
+- Nous avons résolu un problème concernant la tentative d’enregistrement, avec Enregistrer sous, qui échouait dans certains scénarios.
+
+
+- Nous avons résolu un problème à l’origine de l’échec d’une tentative d’enregistrement de fichiers qui sont passés de la version synchronisée à la version serveur uniquement.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2009-december-08"></a>Version 2009:08 décembre
+*Version 2009 (Build 13231.20620)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2009-november-10"></a>Version 2009 : 10 novembre
 *Version 2009 (build 13231.20514)*
@@ -90,9 +242,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Nous avons résolu un problème dans lequel le complément contenu de Formulaires ne s’affiche pas après l’insertion, jusqu’à ce que l’utilisateur clique sur une autre diapositive pour l’afficher.
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projet
 
-- Nous avons résolu un problème où lors de l’exécution d’un code d'événement et de la tentative d'effectuer des modifications par le biais d'une vue en mode Formulaire des tâches, le fait de cliquer sur le bouton OK peut ne pas valider les changements.
+- Correction d'un problème où si vous avez un code d'événement en cours d'exécution et que vous essayez d'effectuer des changements par le biais d'une vue du formulaire des tâches, le fait de cliquer sur le bouton OK peut ne pas valider les changements.
 
 
 - Résolution d’un problème où Project peut s’arrêter de manière inattendue à l’ouverture des fichiers dans lesquels les contours de ressources ont été spécifiés d’une certaine manière.
@@ -118,7 +270,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 
-[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2008-november-10"></a>Version 2008 : 10 novembre
 *Version 2008 (Build 13127.20760).*
@@ -171,7 +323,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à accorder l’autorisation éditeur à leurs délégués.
 
 
-- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://developer.microsoft.com/fr-FR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.<br />Voir détails dans le [billet de blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -203,7 +355,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Vous avez une question ? Demandez à Excel :** les suggestions d’Excel vous permettent de poser des questions sur vos données, vous n’avez pas besoin de perdre du temps à écrire des formules (disponible en anglais uniquement). [En savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Vous avez une question ? Demandez à Excel :** les suggestions d’Excel vous permettent de poser des questions sur vos données, vous n’avez pas besoin de perdre du temps à écrire des formules (disponible en anglais uniquement). [Si vous souhaitez en savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office.  Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
@@ -293,7 +445,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Résolution d’un problème qui empêchait les utilisateurs de fermer les calendriers partagés en cliquant sur le signe « X » dans le coin de l’écran.
 
 
-- Correction d’un problème à cause duquel des utilisateurs ne pouvaient se connecter aux dossiers publics suite à l’ajout d’une boîte aux lettres partagée.
+- Résout un problème qui empêchait des utilisateurs de se connecter aux dossiers publics suite à l’ajout d’une boîte aux lettres partagée.
 
 
 - Nous avons résolu un problème qui a provoqué l’échec de la suppression de réunions du calendrier d’un responsable lorsqu’un délégué l’a refusé dans certains cas.
@@ -740,7 +892,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Fin de la prise en charge du connecteur Facebook :** à compter d’avril 2020 avril, Excel ne prend plus en charge les connexions de données externes qui utilisent le connecteur Facebook.
 
-- **Nouvelles images pour donner vie à vos classeurs :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos classeurs. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos classeurs :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos classeurs. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -750,7 +902,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Le calendrier est une modernisation :** voir les mises à jour visuelles qui facilitent la numérisation de votre calendrier. [Si vous souhaitez en savoir plus](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Nouvelles images pour donner vie à vos messages :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos messages . Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos messages :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos messages . Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -758,19 +910,19 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama. [Si vous souhaitez en savoir plus](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Nouvelles images pour donner vie à vos diapositives :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos diapositives. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos diapositives :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos diapositives. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="word"></a>Word
 
-- **Sélection par lasso de vos entrées manuscrites :** l’outil Lasso de l’onglet Dessiner vous permet de sélectionner des objets tracés au moyen de l’entrée manuscrite. Sélectionnez des traits individuels ou des mots entiers. [Si vous souhaitez en savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Sélection par lasso de vos entrées manuscrites :** l’outil Lasso de l’onglet Dessiner vous permet de sélectionner des objets tracés au moyen de l’entrée manuscrite. Sélectionnez des traits individuels ou des mots entiers. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Nouvelles images pour donner vie à vos documents :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos documents. Accédez à Insérer > Images > Images d’archives pour commencer. [Si vous souhaitez en savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Nouvelles images pour donner vie à vos documents :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos documents. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="office-suite"></a>Suite Office
 
-- **Étiquettes de confidentialité**  : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées.
+- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1004,7 +1156,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 
-[//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)

@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 1601e91a17da4d4896ca6e058d14f2973c8c4eaa
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: 108ed93c82608f00453919ce0d1b50a3d5a4dc0c
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387459"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601549"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notes de publication pour les publications du Canal actuel en 2020
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses en 2020 dans les mises à jour du Canal actuel de Microsoft 365 Apps for enterprise, de Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour Microsoft 365 Apps, y compris l’ajout d’un nouveau canal de mise à jour (canal d’entreprise mensuel) et la modification des noms des canaux de mise à jour existants. Pour plus d’informations, consultez [cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
->- Nous déployons souvent des fonctionnalités (voire, parfois, des correctifs) qui s’étalent sur une période donnée. Si ce que vous recherchez ne figure pas ci-dessous, cela apparaîtra très prochainement. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version du canal actuel publiée, car elles sont plus fréquentes.
+>- Nous déployons souvent des fonctionnalités (et parfois même des correctifs) sur le canal actuel pendant une certaine période de temps.  Si vous ne voyez pas d’informations décrites ci-dessous immédiatement, vous pouvez en attendre prochainement. [En savoir plus](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version du canal actuel publiée, car elles sont plus fréquentes.
 
 
 
@@ -35,7 +35,74 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2011-december-08"></a>Version 2011 : 08 décembre
+*Version 2011 (Build 13426,20332)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème où SaveRequestManagerCam provoquait la fermeture de l’application au lieu de renvoyer une erreur. 
+
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2011-december-02"></a>Version 2011 : 02 décembre
+*Version 2011 (build 13426.20308)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui envoyait l’annulation de réunion à des participants d’origine lorsqu’un autre participant transfère la réunion.
+
+
+- Nous avons résolu un problème où des utilisateurs ne voyaient aucune signature dans la liste déroulante de signatures en dépit de la configuration d’une ou de plusieurs signatures.
+
+
+### <a name="project"></a>Projet
+
+- Nous avons résolu un problème concernant des projets spécifiques qui pouvaient être ouverts s’il y avait un problème avec le fichier du projet dans une partie spécifique du chargement.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème concernant la Suite Office. En effet, l’installation d’une version plus récente d’Office sur certaines versions plus anciennes pouvaient entraîner une altération des fonctionnalités (comme l’impossibilité d’utiliser Power Query) en raison d’entrées de registre manquantes.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2011-november-30"></a>Version 2011 : 30 novembre
+*Version 2011 (build 13426.20294)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d’un problème concernant le copier/coller d’une équation à partir de Word vers PowerPoint.
+
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème concernant le copier/coller d’une équation à partir de Word vers PowerPoint.
+
+
+- Nous avons résolu un problème concernant le remplacement des styles de document par d’autres styles à partir du modèle.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2011-november-23"></a>Version 2011 : 23 novembre
 *Version 2011 (build 13426.20274)*
@@ -49,7 +116,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="excel"></a>Excel
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -59,7 +126,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="outlook"></a>Outlook
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte Office et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -67,7 +134,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -89,7 +156,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="word"></a>Word
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -142,7 +209,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème à l’origine de l’interruption l’événement MailItem.BeforeAttachmentAdd.
+- Nous avons résolu un problème à l’origine de l’interruption de l’événement MailItem.BeforeAttachmentAdd.
 
 
 - Nous avons ajouté une regkey qui permet aux clients de désactiver l’inclusion d’éléments filetime pour les pièces jointes dans les opérations IDataObject (par exemple, glisser-déplacer, presse-papiers).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = les horodatages sont exclus.  1 = (par défaut) les horodatages sont inclus.
@@ -164,7 +231,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2010-november-10"></a>Version 2010 : 10 novembre
 *Version 2010 (build 13328.20356)*
@@ -200,23 +267,23 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="excel"></a>Excel
 
-- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données. [Si vous souhaitez en savoir plus](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
+- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données. [En savoir plus](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Voir détails dans le [billet de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Effectuez des modifications rapides à l’aide du stylet d’action :** avec le stylet d’action, vous pouvez écrire manuellement directement dans les cellules, en décrivant les données à l’aide d’entrées manuscrites automatiquement converties en données Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
-- **La vérification de la grammaire vous soutient :** Outlook signale les fautes de grammaire au cours de la frappe. Vous pouvez ainsi appliquer des suggestions d’un simple clic. [Si vous souhaitez en savoir plus](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **La vérification de la grammaire vous soutient :** Outlook signale les fautes de grammaire au cours de la frappe. Vous pouvez ainsi appliquer des suggestions d’un simple clic. [En savoir plus](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
-### <a name="teams"></a>Teams
+### <a name="teams"></a>Équipes
 
 - **Modèles dans Microsoft Teams :** avec des modèles dans Teams, les utilisateurs peuvent choisir parmi un large éventail de modèles personnalisables lors de la création d’une équipe, afin d’en faciliter la prise en main. Les professionnels de l’informatique peuvent également créer des modèles personnalisés pour leur organisation, leur permettant ainsi de standardiser la structure des équipes, les applications pertinentes et d’adapter les pratiques recommandées.
 
@@ -1061,7 +1128,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier [En savoir plus](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
-- **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama. [En savoir plus](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
+- **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama. [Si vous souhaitez en savoir plus](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
 - **Nul besoin d’un dispositif de clic : vos écouteurs vous couvrent :** utilisez vos écouteurs Surface pour contrôler vos présentations PowerPoint. Fonctionnement : une fois couplés, vous devez activer la fonctionnalité dans PowerPoint. Commencez une présentation en appuyant sur F5 ou en sélectionnant Diaporama > À partir du début.  En mode diaporama, cliquez avec le bouton droit sur la diapositive, puis sous paramètres Surface Earbuds sélectionnez Utiliser les gestes pour contrôler la présentation.  Ce paramètre sera mémorisé pour toutes les présentations à venir. Vous pouvez désormais effectuer un mouvement de balayage vers l’avant ou l’arrière sur l’écouteur gauche pour naviguer dans vos présentations en mode Diaporama.  Appuyez deux fois pour lire ou suspendre les vidéos incorporées.  Important : vous devez associer vos écouteurs Surface dans l’application Surface Audio pour Windows 10 afin d’utiliser des gestes pour contrôler les présentations. Des instructions pour la prise en main de l’application Surface Audio sous Windows 10 sont disponibles ici. [En savoir plus](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
@@ -1206,7 +1273,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Fin de la prise en charge du connecteur Facebook :** à compter d’avril 2020 avril, Excel ne prend plus en charge les connexions de données externes qui utilisent le connecteur Facebook.
 
-- **Vous avez une question ? Demandez à Excel :** les suggestions d’Excel vous permettent de poser des questions sur vos données, vous n’avez pas besoin de perdre du temps à écrire des formules (disponible en anglais uniquement). [En savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Vous avez une question ? Demandez à Excel :** les suggestions d’Excel vous permettent de poser des questions sur vos données, vous n’avez pas besoin de perdre du temps à écrire des formules (disponible en anglais uniquement). [Si vous souhaitez en savoir plus](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **Nouvelles images pour donner vie à vos classeurs :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos classeurs. Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
@@ -1663,7 +1730,10 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
-[//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
+[//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
+[//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
@@ -1671,7 +1741,4 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
-[//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
-[//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

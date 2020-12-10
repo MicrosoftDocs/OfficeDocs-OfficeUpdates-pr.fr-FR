@@ -9,25 +9,31 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fournit un historique des publications de l’outil Déploiement d’Office (ODT) destiné aux professionnels de l’informatique
-ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385480"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601409"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
 
 L’outil Déploiement d’Office (ODT) est un outil de ligne de commande qui vous permet de télécharger et de déployer les versions Démarrer en un clic d’Office, telles que les Applications Microsoft 365, sur vos ordinateurs clients. 
 
 
-The ODT gives you more control over an Office installation. You can define which products and languages are installed, how those products should be updated, and whether or not to display the install experience to your users. For information on how to use the ODT, see the [Overview of the Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
+L’outil Déploiement d’Office vous permet de bien contrôler l’installation d’Office. Vous pouvez ainsi choisir les produits et langues installés ainsi que leur mode de mise jour, et décider de montrer ou non l’expérience d’installation à vos utilisateurs. Pour plus d’informations, consultez la rubrique [Vue d’ensemble de l’outil Déploiement d’Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  **Systèmes d’exploitation pris en charge** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
  **Instructions d’installation** : téléchargez et exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setup.exe) et un exemple de fichier de configuration (configuration.xml). 
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="december-8-2020"></a>8 décembre 2020
+Version 16.0.13426.20308 (setup.exe version 16.0.13426.20308)
+- Résolution d’un problème où le mode de téléchargement bloquait les téléchargements du canal Perpetual 2019 lorsque l’appareil avait un produit Office installé à partir d’un canal non Perpetual 2019.
+- Résolution d’un problème où une migration de l’architecture échouait sur une source locale créée via le mode de téléchargement qui avait spécifié une version explicite dans le fichier XML de configuration.
+
 
 ## <a name="november-23-2020"></a>23 novembre 2020
 Version 16.0.13328.20420 (setup.exe version 16.0.13328.20420)

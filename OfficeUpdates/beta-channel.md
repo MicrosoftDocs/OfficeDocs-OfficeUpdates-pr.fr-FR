@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
-ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
+ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
+ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49372268"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49575018"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
-This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
+Cet article contient les notes de publication relatives aux builds de canal bêta de Word, Excel, PowerPoint, Outlook, Access et Project sur ordinateur de bureau Windows. Chaque semaine, nous mettons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Notez que certaines fonctionnalités (voire certains correctifs parfois) sont souvent proposées aux participants au programme Office canal bêta pour une durée délimitée. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - Les notes de publication sont publiées chaque semaine et peuvent être une compilation de plusieurs builds.
@@ -31,7 +31,101 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2012-november-20"></a>Version 2012 : 20 novembre
+## <a name="version-2012-december-04"></a>Version 2012 : 04 décembre
+*Version 2012 (Build 13530.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Prévoyez du temps entre deux réunions consécutives :** Donnez aux participants le temps de reprendre leur souffle ou de se déplacer entre les différents lieux en fixant par défaut le début des réunions avec 5 à 10 minutes de retard. [En savoir plus](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+### <a name="visio"></a>Visio
+
+- **Des pochoirs et des formes d'azur nouveau :** Nous avons ajouté de nombreux autres pochoirs pour vous aider à créer des diagrammes d'azur actualisés. [En savoir plus](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résolution d'un problème où l'édition dans des langues qui nécessitent l'utilisation de l'IME se comportait mal lors de l'édition en mode écrasement.
+
+
+- Résolution d'un hyperlien défectueux vers un article d'aide dans une alerte au cas où l'enregistrement automatique serait désactivé.
+
+
+- Résolution d'un problème où Excel se fermait de manière inattendue lors du copier-coller de données dans l'affichage des formules.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui causait la perte du formatage des SmartLinks lorsqu'ils étaient sauvegardés sous forme de brouillons.
+
+
+### <a name="project"></a>Project
+
+- Résolution d'un problème de délai d'ouverture d'un projet avec beaucoup de ressources.
+
+
+- Résolution d'un problème qui permettait d'ouvrir des projets spécifiques en cas de problème avec le fichier de projet dans une partie spécifique de la charge.
+
+
+### <a name="word"></a>Word
+
+- Le collage en texte simple est souvent préféré au collage en texte riche. Ce menu contextuel permet à l'utilisateur de coller du texte en clair. Sinon, l'utilisateur devra copier dans un éditeur de texte brut comme le Bloc-notes, puis copier depuis le Bloc-notes dans l'application cible souhaitée
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+
+## <a name="version-2012-november-27"></a>Version 2012 : 27 novembre
+*Version 2012 (Build 13519.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Cela résout un problème où Power Pivot n'était pas en mesure d'importer correctement un fichier texte délimité par des tabulations.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui causait des difficultés aux utilisateurs lors de l'envoi de courrier Outlook depuis d'autres applications qu' Outlook.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ce changement répond à un problème lié aux temps d'arrêt constatés lors de l'analyse de l'encre.
+
+
+- Ce changement vise à corriger une erreur grammaticale dans l'interface utilisateur de Créer un GIF animé.
+
+
+- Résolution d'un problème où certains fichiers PowerPoint corrompus ne s'ouvraient pas correctement, même après une opération de réparation de documents.
+
+
+### <a name="project"></a>Project
+
+- Résolution d'un problème où les utilisateurs peuvent voir plusieurs affectations non assignées associées à une tâche.
+
+
+- Résolution d'un problème de lenteur dans la saisie du nom d'une tâche pour les grands projets.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+
+## <a name="version-2012-november-20"></a>Version 2012 : 20 novembre
 *Version 2012 (Build 13512.20000)*
 
 
@@ -40,11 +134,11 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Chaque réunion en ligne** Simplifiez la planification des réunions en ligne à l’aide d’un nouveau paramètre qui définit toutes vos réunions en ligne par défaut.
+- **Toutes les réunions en ligne :** Facilitez la programmation des réunions en ligne grâce à un nouveau paramètre qui permet de rendre toutes vos réunions en ligne par défaut.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Bibliothèque vidéo :** Élever vos documents à l’aide d’une bibliothèque de métrages vidéo organisés et sans redevance disponible dans l’application
+- **Vidéothèque :** Améliorez vos documents grâce à une bibliothèque de vidéos libres de droits et conservées dans l'application
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -56,18 +150,18 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="powerpoint"></a>PowerPoint
 
-- Résolution d’un problème où l’indicateur de présence d’un co-auteur inconnu ne s’est pas entièrement actualisé à la disponibilité de nouvelles informations sur le co-auteur.
+- Résolution d'un problème où l'indicateur de présence d'un coauteur inconnu n'est pas complètement actualisé, une fois que davantage d'informations sur le coauteur sont disponibles.
 
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème dans lequel Word se bloque lors de l’enregistrement du document au format PDF avec du texte masqué.
+- Nous avons résolu un problème d'accrochage de Word lors de l'enregistrement d'un document au format PDF avec du texte masqué.
 
 
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
-## <a name="version-2012-november-13"></a>Version 2012 : 13 novembre
+## <a name="version-2012-november-13"></a>Version 2012 : 13 novembre
 *Version 2012 (build 13510.20004)*
 
 
@@ -117,7 +211,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Afficher plusieurs feuilles en même temps :** vous n’avez plus besoin d’afficher une feuille à la fois. vous pouvez ainsi afficher plusieurs feuilles masquées à la fois. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **Afficher plusieurs feuilles en même temps :** vous n’avez plus besoin d’afficher une feuille à la fois. vous pouvez ainsi afficher plusieurs feuilles masquées à la fois. [En savoir plus](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 ### <a name="outlook"></a>Outlook
 
@@ -156,7 +250,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Amélioration des boîtes de dialogue de mise en forme conditionnelle :** les boîtes de dialogue de mise en forme conditionnelle sont à présent redimensionnables, et vous pouvez dupliquer la règle d’un simple clic. [Si vous souhaitez en savoir plus](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **Amélioration des boîtes de dialogue de mise en forme conditionnelle :** les boîtes de dialogue de mise en forme conditionnelle sont à présent redimensionnables, et vous pouvez dupliquer la règle d’un simple clic. [En savoir plus](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -242,7 +336,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Exercez-vous sur votre présentation avec l’Assistant de Présentation :** Bénéficiez de conseils sur tout ce qui contribue à entretenir une audience, par exemple les déplacements, la hauteur de la voix, les mots de remplissage, les expressions délicates et bien plus encore. [Si vous souhaitez en savoir plus](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **Exercez-vous sur votre présentation avec l’Assistant de Présentation :** Bénéficiez de conseils sur tout ce qui contribue à entretenir une audience, par exemple les déplacements, la hauteur de la voix, les mots de remplissage, les expressions délicates et bien plus encore. [En savoir plus](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -286,19 +380,19 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="outlook"></a>Outlook
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="word"></a>Word
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [Si vous souhaitez en savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -360,7 +454,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - Nous avons résolu un problème d’échec de l’Enregistrement automatique avec un message d’erreur incorrect/équivoque lorsqu’il existe une définition de mesure incorrecte dans le modèle de données Excel.
 
 
-- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation provoquait un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation a provoqué un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
 
 
 ### <a name="outlook"></a>Outlook
@@ -389,7 +483,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation provoquait un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
+- Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation a provoqué un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
 
 
 ### <a name="office-suite"></a>Suite Office
@@ -400,7 +494,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
-## <a name="version-2010-october-02"></a>Version 2010 : 02 octobre
+## <a name="version-2010-october-02"></a>Version 2010 : 2 octobre
 *Version 2010 (Build 13328.20000)*
 
 
@@ -1173,7 +1267,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="outlook"></a>Outlook
 
 - Nous avons résolu un problème dans lequel la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec des résolutions différentes.
-- Nous avons résolu un problème pour lequel la consultation d’un modèle lors de la rédaction d’un nouveau message électronique entraînait un blocage.
+- Nous avons résolu un problème pour lequel la consultation d’un modèle lors de la rédaction d’un nouveau message électronique entraîne un blocage.
 - Nous avons résolu un problème pour lequel les utilisateurs n’ont pas pu utiliser les dossiers publics Exchange 2010 après la version 1911 d’Outlook.
 - Nous avons résolu un problème dans lequel le bouton Catégoriser des calendriers de groupe dans le ruban Office était désactivé.
 - Nous avons résolu un problème qui entraînait l’arrêt de l’expérience des utilisateurs présentant des conflits de contacts dans Outlook.
@@ -1954,7 +2048,9 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 
-[//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
@@ -1963,6 +2059,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

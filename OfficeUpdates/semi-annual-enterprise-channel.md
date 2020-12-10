@@ -9,26 +9,75 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 60e12b7b58c06415c80db20cd35f41c622c0bbd0
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990073"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601469"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions semestrielles du canal des entreprises disponibles en 2020
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du canal d’entreprise semi-annuel en 2020 des applications Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du canal semestriel des entreprises des applications de Microsoft 365 pour entreprises en 2020, des applications de Microsoft 365 pour affaires et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour Microsoft 365 Apps, y compris l’ajout d’un nouveau canal de mise à jour (canal d’entreprise mensuel) et la modification des noms des canaux de mise à jour existants. Pour obtenir plus d’informations, [lire cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
->- OneNote 2016 sera désormais incluse par défaut lorsqu’un utilisateur du Canal d’entreprise semi-annuel télécharge et installe Microsoft 365 Apps sur Windows 10 depuis le portail Office.
+>- OneNote 2016 sera désormais inclus par défaut lorsqu’un utilisateur du Canal semestriel pour entreprises télécharge et installe les applications Microsoft 365 sur Windows 10 depuis le portail Office.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2002-december-08"></a>Version 2002 : 8 décembre
+*Version 2002 (Build 12527.21416)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Amélioration du crénage de texte dans PowerPoint lorsque le contenu est copié à partir d’Excel et collé dans PowerPoint à l’aide de l’option incorporer.
+
+
+- Nous avons résolu un problème où Excel cessait de fonctionner lors du recalcul.
+
+
+- Nous avons résolu un problème pour lequel un utilisateur n’a pas pu ouvrir le fichier atomsvc (UTF8 + BOM) à partir de SharePoint directement.
+
+
+- Résolution d’un problème qui empêchait le basculement à partir de l’aperçu de la table et l’éditeur de requête dans PowerPivot.
+
+
+- Amélioration des performances pour les fichiers qui utilisent la plupart des fonctions les plus récentes.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème où la définition des paramètres de configuration de OME ajoutait des pièces jointes superflues sur l’élément de courrier qui forçait Outlook à chiffrer le message même si l’option DecryptAttachmentsForEncryptOnly est configurée côté service.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel un graphique Excel lié se convertissait de manière incorrecte en feuille Excel lorsque l’utilisateur modifiait le chemin d’accès source vers le dossier OneDrive local.
+
+
+### <a name="project"></a>Projet
+
+- Nous avons résolu un problème qui empêchait l'ouverture de projets dans le client Project desktop à partir de Project Web App lorsque l'URL se terminait par .com.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-1908-december-08"></a>Version 1908 : 8 décembre
+*Version 1908 (Build 11929.20984)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2002-november-10"></a>Version 2002 : 10 novembre
 *Version 2002 (Build 12527.21330)*
@@ -81,7 +130,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Normalement, vous ne recevrez plus le message d’erreur « La requête est trop complexe », ni « Ressources système insuffisantes » sur votre version 64 bits d’Access, tant que vous respecterez les instructions et les exigences de la base de données Access.
 
@@ -127,7 +176,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 
-[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2002-september-08"></a>Version 2002 : 8 septembre
 *Version 2002 (Build 12527.21104)*
@@ -232,11 +281,11 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
 
-- **Complément visualiseur de données :** créer rapidement des organigrammes de programmation Visio à partir d’Excel. [Si vous souhaitez en savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Complément visualiseur de données :** créer rapidement des organigrammes de programmation Visio à partir d’Excel. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- **Créer des fichiers PDF plus accessibles :** Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problèmes d’accessibilité à résoudre avant de procéder à l’enregistrement. [Si vous souhaitez en savoir plus](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
+- **Créer des fichiers PDF plus accessibles :** Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problèmes d’accessibilité à résoudre avant de procéder à l’enregistrement. [En savoir plus](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
-- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [Si vous souhaitez en savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [En savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
 
@@ -246,9 +295,9 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Finies les ouvertures systématiques dans le navigateur :** vous choisissez où ouvrir les liens des documents Office : dans le navigateur ou dans l’application.
 
-- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. [Si vous souhaitez en savoir plus](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. [En savoir plus](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
-- **Trouvez ce que vous cherchez :** rechercher des commandes, des personnes, des fichiers, des photos, des articles web et plus encore. [Si vous souhaitez en savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- **Trouvez ce que vous cherchez :** rechercher des commandes, des personnes, des fichiers, des photos, des articles web et plus encore. [En savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
 - **Six fonctions puissantes :** nous avons ajouté les six nouvelles fonctions ci-dessous pour optimiser vos feuilles de calcul : FILTRE, TRI, TRI.PAR, UNIQUE, SEQUENCE et TABLEAU.ALEAT. [En savoir plus](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
@@ -258,23 +307,23 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Lisez et répondez immédiatement :** répondez aux commentaires et mentions directement à partir du courrier électronique sans ouvrir le classeur.
 
-- **Attirez leur attention avec \@Mentions :** utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention. [Si vous souhaitez en savoir plus](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Attirez leur attention avec \@Mentions :** utilisez @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention. [En savoir plus](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 ### <a name="outlook"></a>Outlook
 
-- **Afficher plus de messages à l’écran :** sélectionnez Afficher > Utiliser un espacement plus étroit pour ajuster l’espacement entre les messages. [Si vous souhaitez en savoir plus](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
+- **Afficher plus de messages à l’écran :** sélectionnez Afficher > Utiliser un espacement plus étroit pour ajuster l’espacement entre les messages. [En savoir plus](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
 
-- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [Si vous souhaitez en savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [En savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
-- **Un dessin pour le dire :** dessinez à main levée sur des images ou ajoutez une zone de dessin pour transmettre vos idées avec l’entrée manuscrite. [Si vous souhaitez en savoir plus](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **Un dessin pour le dire :** dessinez à main levée sur des images ou ajoutez une zone de dessin pour transmettre vos idées avec l’entrée manuscrite. [En savoir plus](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
-- **Obtenez des suggestions d’emplacements :** commencez à taper dans le champ Emplacement lors de la planification de rendez-vous et de réunions, Outlook suggère des salles, des adresses et d’autres emplacements récents. [Si vous souhaitez en savoir plus](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)
+- **Obtenez des suggestions d’emplacements :** commencez à taper dans le champ Emplacement lors de la planification de rendez-vous et de réunions, Outlook suggère des salles, des adresses et d’autres emplacements récents. [En savoir plus](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)
 
 - **Protection avancée contre les attaques :** avec Office 365 - Protection avancée contre les menaces, vous êtes protégé contre les attaques via des liens hypertexte dans des objets de courrier, des messages joints, des messages signés, des chemins d’accès réseau, etc.
 
 - **Le menu Insérer un lien dans Outlook insère un lien avec l’autorisation définie par l’administrateur du client :** un lien à partir de l’élément utilisé récemment Insérer un lien dans Outlook insère un lien qui fonctionnait uniquement pour les utilisateurs qui disposaient déjà des autorisations pour y accéder. Cela provoquait souvent des va-et-vient de messages électroniques entre les utilisateurs qui demandaient l'autorisation d'accéder à un document. Nous avons mis à jour cette expérience. Le lien est désormais inséré avec l’autorisation par défaut définie par l’administrateur du client. Pour MSIT, il s’agit de « l’organisation peut modifier » de sorte que tous les utilisateurs internes qui reçoivent un lien partagé de cette façon pourront y accéder.
 
-- **Voir vos messages sous un autre jour :** utilisez le bouton soleil/lune pour basculer entre les arrière-plans clair et foncé dans le volet de lecture. [Si vous souhaitez en savoir plus](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **Voir vos messages sous un autre jour :** utilisez le bouton soleil/lune pour basculer entre les arrière-plans clair et foncé dans le volet de lecture. [En savoir plus](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
 - **Les messages de hameçonnage sont faciles à repérer :** le courrier indésirable et les messages hameçons ont une apparence différente pour vous permettre de les identifier et de les éliminer facilement de votre boîte de réception.
 
@@ -282,33 +331,33 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Effectuez une recherche avec des fautes d’orthographe ou de frappe :** Outlook trouve ce que vous cherchez, même si l’orthographe ne correspond pas.
 
-- **Connecter votre réseau LinkedIn avec Outlook :** connectez votre compte LinkedIn de façon sécurisée avec votre compte Microsoft pour afficher les informations du profil LinkedIn directement dans la carte Contacts. [Si vous souhaitez en savoir plus](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+- **Connecter votre réseau LinkedIn avec Outlook :** connectez votre compte LinkedIn de façon sécurisée avec votre compte Microsoft pour afficher les informations du profil LinkedIn directement dans la carte Contacts. [En savoir plus](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
-- **Voir les messages pertinents dans vos résultats de recherche :** Outlook analyse les termes de recherche et affiche les messages électroniques les plus pertinents en haut de vos résultats de recherche. Vous verrez également tous les résultats triés par date dans la section de résultats de la partie supérieure. [Si vous souhaitez en savoir plus](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
+- **Voir les messages pertinents dans vos résultats de recherche :** Outlook analyse les termes de recherche et affiche les messages électroniques les plus pertinents en haut de vos résultats de recherche. Vous verrez également tous les résultats triés par date dans la section de résultats de la partie supérieure. [En savoir plus](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Vous calculez, nous nous occupons de la mise en forme :** nous modifions des expressions mathématiques dessinées à la main et les reproduisons en caractères standard. Sélectionnez simplement Entrée manuscrite en équation et sélectionnez vos notes manuscrites pour commencer. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-- **Trouvez ce que vous recherchez :** utilisez la zone de recherche pour trouver du texte, des commandes, de l’aide et bien plus encore. [Si vous souhaitez en savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- **Trouvez ce que vous recherchez :** utilisez la zone de recherche pour trouver du texte, des commandes, de l’aide et bien plus encore. [En savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Créer de superbes diapositives à l’aide des entrées manuscrites :** convertissez vos entrées manuscrites en texte, puis consultez les idées de conception intelligentes générées par le Concepteur PowerPoint. [Si vous souhaitez en savoir plus](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+- **Créer de superbes diapositives à l’aide des entrées manuscrites :** convertissez vos entrées manuscrites en texte, puis consultez les idées de conception intelligentes générées par le Concepteur PowerPoint. [En savoir plus](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. [Si vous souhaitez en savoir plus](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre présentation. [En savoir plus](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
-- **Reproduction d’entrée manuscrite :** lorsque l’entrée manuscrite est appliquée à vos diapositives, appliquez une animation de relecture pour reproduire le dessin proprement dit de vos entrées manuscrites pendant votre diaporama. [Si vous souhaitez en savoir plus](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/02/be-more-expressive-in-your-presentations-by-using-ink-replay-in-powerpoint/)
+- **Reproduction d’entrée manuscrite :** lorsque l’entrée manuscrite est appliquée à vos diapositives, appliquez une animation de relecture pour reproduire le dessin proprement dit de vos entrées manuscrites pendant votre diaporama. [En savoir plus](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/02/be-more-expressive-in-your-presentations-by-using-ink-replay-in-powerpoint/)
 
 - **Une expérience vidéo plus sécurisée :** les améliorations apportées à la sécurité pour une expérience vidéo en ligne plus sécurisée.
 
 - **Enregistrer une illustration au format SVG** : enregistrez un graphique, une forme ou une autre illustration sous la forme d’un graphique vectoriel évolutif, qui peut être redimensionné sans perte de qualité d’image. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Imprimer des numéros de diapositives sur des documents :** les numéros de diapositive sont automatiquement inclus dans vos documents. Laissez-les activés, désactivez-les, c’est vous qui décidez. [Si vous souhaitez en savoir plus](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Imprimer des numéros de diapositives sur des documents :** les numéros de diapositive sont automatiquement inclus dans vos documents. Laissez-les activés, désactivez-les, c’est vous qui décidez. [En savoir plus](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
-- **Rechercher et corriger des titres de diapositives manquants :** les titres des diapositives permettent de donner du sens à votre présentation et de rendre vos diapositives accessibles aux utilisateurs de toutes les fonctionnalités. Le vérificateur d’accessibilité indique où les titres sont absents pour vous permettre de les ajouter en un clin d’œil. [Si vous souhaitez en savoir plus](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
+- **Rechercher et corriger des titres de diapositives manquants :** les titres des diapositives permettent de donner du sens à votre présentation et de rendre vos diapositives accessibles aux utilisateurs de toutes les fonctionnalités. Le vérificateur d’accessibilité indique où les titres sont absents pour vous permettre de les ajouter en un clin d’œil. [En savoir plus](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
 - **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
 
-- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [Si vous souhaitez en savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [En savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 - **Créer des fichiers PDF plus accessibles :** Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problèmes d’accessibilité à résoudre avant de procéder à l’enregistrement.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
@@ -334,21 +383,21 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="word"></a>Word
 
-- **Une expérience vidéo plus sécurisée :** les améliorations apportées à la sécurité pour une expérience vidéo en ligne plus sécurisée. [Si vous souhaitez en savoir plus](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- **Une expérience vidéo plus sécurisée :** les améliorations apportées à la sécurité pour une expérience vidéo en ligne plus sécurisée. [En savoir plus](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- **Créer des fichiers PDF plus accessibles :** Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problèmes d’accessibilité à résoudre avant de procéder à l’enregistrement. [Si vous souhaitez en savoir plus](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
+- **Créer des fichiers PDF plus accessibles :** Créez un fichier PDF. Le vérificateur d’accessibilité signalera les problèmes d’accessibilité à résoudre avant de procéder à l’enregistrement. [En savoir plus](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
 - **Partage de fichiers plus rapide :** partagez vos documents directement à partir de la liste des derniers fichiers utilisés sans avoir à ouvrir le fichier.
 
-- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [Si vous souhaitez en savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)
+- **Nouvelles icônes à utiliser selon votre humeur :** nous avons ajouté plus de 300 nouvelles icônes. Pour les découvrir, accédez à Insertion > Icônes. [En savoir plus](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)
 
-- **Effacez avec précision :** faites votre choix parmi deux tailles de gomme pour résoudre les petites imperfections de l’entrée manuscrite. [Si vous souhaitez en savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Effacez avec précision :** faites votre choix parmi deux tailles de gomme pour résoudre les petites imperfections de l’entrée manuscrite. [En savoir plus](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **Convertissez des fichiers pour améliorer l’accessibilité :** mettez à niveau vos fichiers au format moderne pour qu’ils soient plus accessibles à tous.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)
 
-- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre document. [Si vous souhaitez en savoir plus](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
+- **Esquissez les formes :** donnez l’impression d’avoir tracé à la main les formes Office dans votre document. [En savoir plus](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)
 
-- **Trouvez ce que vous recherchez :** utilisez la zone de recherche pour trouver du texte, des commandes, de l’aide et bien plus encore. [Si vous souhaitez en savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- **Trouvez ce que vous recherchez :** utilisez la zone de recherche pour trouver du texte, des commandes, de l’aide et bien plus encore. [En savoir plus](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
 - **Finies les ouvertures systématiques dans le navigateur :** vous choisissez où ouvrir les liens des documents Office : dans le navigateur ou dans l’application. [Si vous souhaitez en savoir plus](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
@@ -358,7 +407,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Résolution d’un problème d’endommagement de documents dû à la fusion d’objets 3D :** résolution d’un problème d’endommagement de documente dû à la fusion d’objets 3D.
 
-- **Améliorations de la co-création**  : Performances de Word améliorées lors de la co-création de documents avec suivi des modifications.
+- **Améliorations de la co-création** : Performances de Word améliorées lors de la co-création de documents avec suivi des modifications.
 
 - **Améliorations de la co-création :** fiabilité améliorée lors de la co-création.
 
@@ -368,7 +417,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="office-suite"></a>Suite Office
 
-- **Modifier les entrées manuscrites en formes, texte ou mathématiques dans PowerPoint pour Office 365 :** passer d’une entrée manuscrite à une forme, à du texte ou à une expression mathématique dans quelques traits. [Si vous souhaitez en savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Modifier les entrées manuscrites en formes, texte ou mathématiques dans PowerPoint pour Office 365 :** passer d’une entrée manuscrite à une forme, à du texte ou à une expression mathématique dans quelques traits. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -721,7 +770,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Résolution d’un problème de blocage avec l’hôte Office dans Windows, lorsqu’un complément est activé alors que la valeur TabProcGrowth du Registre est REG_SZ type.
 
-- Cette mise à jour corrige un problème dans Microsoft Office dans lequel les projets VBA (Visual Basic for Applications) présentant des références attendues par des recherches dans les emplacements spécifiés dans la variable d’environnement PATH ne sont peut-être pas correctement détectés lors de l’exécution, ce qui peut entraîner des erreurs d’exécution VBA.
+- Cette mise à jour corrige un problème dans Microsoft Office dans lequel les projets VBA (Visual Basic for Applications) présentant des références attendues par des recherches dans les emplacements spécifiés dans la variable d’environnement PATH ne sont peut-être pas correctement détectés lors de l’exécution, ce qui peut entraîner des erreurs d’exécution VBA.
 
 - Résolu le problème où Access et Publisher pouvaient ne pas démarrer correctement selon les langues installées.
 
@@ -918,7 +967,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Nous rencontrons un problème dans lequel la synchronisation de dossiers de calendrier partagés avec le fichier OST génère des erreurs d'autorisation lorsque l'utilisateur tente d'interagir avec ces dossiers.
 
-- Résout un problème qui entraînait une expérience de blocage chez des utilisateurs lors de l’affichage de plus de 30 calendriers dans un environnement Citrix. Vous trouverez [ici](https://support.microsoft.com/fr-FR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) la base de connaissances (KB) individuelle dans laquelle les versions précédentes sont documentées.
+- Résout un problème qui entraînait une expérience de blocage chez des utilisateurs lors de l’affichage de plus de 30 calendriers dans un environnement Citrix. Vous trouverez [ici](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) la base de connaissances (KB) individuelle dans laquelle les versions précédentes sont documentées.
 
 - Nous avons résolu un problème de sélection de l’algorithme SMIME.
 
@@ -1136,7 +1185,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Lorsque vous copiez des données filtrées par couleur dans une colonne de largeur différente, les valeurs ne sont pas collées.
+- Lorsque vous copiez des données filtrées par couleur dans une colonne de largeur différente, les valeurs ne sont pas coller.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1192,7 +1241,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons résolu un problème dans Visual Basic pour applications dans Microsoft Office où certains projets VBA contenant des références à des bibliothèques de codes avec des caractères DBCS dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque sont affichés par l’application Office comme étant endommagée lors du chargement.
+- Résout un problème dans Visual Basic pour applications dans Microsoft Office où certains projets VBA contenant des références à des bibliothèques de codes avec des caractères DBCS dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque sont affichés par l’application Office comme étant endommagée lors du chargement.
 
 ## <a name="version-1908-april-26"></a>Version 1908 : 26 avril
 *Version 1908 (Build 11929.20736)*
@@ -1426,7 +1475,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Joignez des tables sur des colonnes similaires :** la requête Récupérer et transformer (Power Query) présente désormais une logique de correspondance de texte approximative (également appelée correspondance approximative) lorsque vous comparez des colonnes pour fusionner des tableaux. [En savoir plus](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
-- **Codez rapidement avec les améliorations de Power Query**  : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Découvrez également facilement les fonctions, les colonnes et les paramètres.
+- **Codez rapidement avec les améliorations de Power Query** : écrivez rapidement votre code à l’aide de la coloration de syntaxe et de la saisie semi-automatique. Découvrez également facilement les fonctions, les colonnes et les paramètres.
 
 - **Rechercher et profiter :** nous avons ajouté une fonctionnalité Rechercher à la fonction Insérer des icônes pour faciliter la recherche de l’icône souhaitée. Pendant votre sélection, le bouton Insérer vous indique combien vous en avez choisi. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -1754,7 +1803,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Pour protéger la sécurité des clients Office, les mises à jour Microsoft Office sont désormais exclusivement signées à l’aide de l’algorithme SHA-2.
 
 
-[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1902-january-14"></a>Version 1902 : 14 janvier
 *Version 1902 (build 11328.20512)*
@@ -1795,7 +1844,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 
-[//]: # (NE PAS MODIFIER LE DÉMARRAGE DU CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF)
+[//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
