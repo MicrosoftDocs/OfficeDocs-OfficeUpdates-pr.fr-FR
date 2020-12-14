@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: 523eadc2a10787c22b774c4c01dd9997153a8bb8
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: 44a77260e0e674eccf53a76a0a451a3bfa2d7566
+ms.sourcegitcommit: 244f8fded28adafd66397baee0418254db5c9de2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601519"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49623125"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
@@ -36,49 +36,21 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="access"></a>Access
-
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
 ### <a name="excel"></a>Excel
 
-- **Créer des variables à utiliser dans les formules :** améliorer les performances, la lisibilité et la composabilité avec la fonction LET. Cette fonction vous permet de créer des variables nommées dans des formules nouvelles ou préexistantes. [En savoir plus](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
-
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="onenote"></a>OneNote
-
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Obtenir des données d’organisation à partir de Power BI à l’aide de types de données :** les types de données Excel de Power BI sont désormais déployés pour les Insiders dans les organisations avec Office 365 E5/A5 ou Microsoft 365 E5/A5. Il est essentiel de récupérer les informations dont vous avez besoin et de les actualiser facilement dans de nombreux flux de travail quotidiens. Nous vous donnons accès aux informations sur votre entreprise ou organisation à partir de Power BI sous la forme d'un type de données dans Excel, ce qui vous permet d'introduire des informations liées dans vos feuilles de calcul.
 
 ### <a name="outlook"></a>Outlook
 
 - **Mise à jour de l’expérience utilisateur pour les Tâches :** Actualisation visuelle des éléments de tâches
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte Office et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Amélioration des liens dans les e-mails :** lorsque vous incluez un lien vers un fichier, le nom du fichier remplace l’URL. Vous pouvez modifier les autorisations afin que tous les destinataires aient accès.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
 - **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
 
-- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Si vous souhaitez en savoir plus, veuillez consulter ce [billet de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
-
-### <a name="project"></a>Project
-
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="publisher"></a>Éditeur
-
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="visio"></a>Visio
-
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
-
-### <a name="word"></a>Word
-
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement de thème afin de l’adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -270,7 +242,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 
-[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2008-november-10"></a>Version 2008 : 10 novembre
 *Version 2008 (Build 13127.20760).*
