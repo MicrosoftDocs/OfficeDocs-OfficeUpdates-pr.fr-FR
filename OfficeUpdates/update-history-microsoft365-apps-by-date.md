@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
+ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601559"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "49662699"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -30,6 +30,8 @@ Ces numéros de version et de build s’appliquent à Microsoft 365 Apps for en
 
 Le tableau suivant répertorie la version prise en charge et le numéro de build le plus récent pour chaque canal de mise à jour.
 
+### <a name="supported-versions"></a>**Versions prises en charge**
+
 [//]: # (EOSTABLESTART)
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
@@ -38,14 +40,16 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 |Canal Entreprise mensuel<br/>|2010<br/>|13328.20478<br/>|8 décembre 2020<br/>|9 février 2021<br/>|
 |Canal Entreprise mensuel<br/>|2009<br/>|13231.20620<br/>|8 décembre 2020<br/>|12 Janvier 2021<br/>|
 |Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.20910<br/>|8 décembre 2020<br/>|9 mars 2021<br/>|
-|Canal d’entreprise semi-annuel<br/>|2002<br/>|12527.21416<br/>|8 décembre 2020<br/>|14 septembre 2021<br/>|
+|Canal Entreprise semestriel<br/>|2002<br/>|12527.21416<br/>|8 décembre 2020<br/>|14 septembre 2021<br/>|
 |Canal Entreprise semestriel<br/>|1908<br/>|11929.20984<br/>|8 décembre 2020<br/>|9 mars 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
 Pour plus d’informations sur la taille approximative du téléchargement lors de la mise à jour d’une version précédente de Microsoft 365 Apps vers la version la plus récente, consultez [Tailles de téléchargement des mises à jour de Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-Le tableau suivant fournit la liste des numéros de version et de build des différentes mises à jour de Microsoft 365 Apps publiées dans les canaux de mise à jour suivants : Actuel, Entreprise mensuel, Entreprise semestriel (préversion) et Entreprise semestriel. Chaque entrée du tableau contient un lien d’accès direct aux notes de publication de la version correspondante. Ces notes de publication fournissent des informations sur les fonctionnalités, mises à jour de sécurité et autres mises à jour incluses dans la mise à jour de Microsoft 365 Apps.  
+Le tableau suivant fournit la liste des numéros de version et de build des différentes mises à jour de Microsoft 365 Apps publiées dans les canaux de mise à jour suivants : Actuel, Entreprise mensuel, Entreprise semestriel (préversion) et Entreprise semestriel. Chaque entrée du tableau contient un lien d’accès direct aux notes de publication de la version correspondante. Ces notes de publication fournissent des informations sur les fonctionnalités, mises à jour de sécurité et autres mises à jour incluses dans la mise à jour de Microsoft 365 Apps.
+
+### <a name="version-history"></a>**Historique des versions**
 
 [//]: # (HISTORYTABLESTART)
 
