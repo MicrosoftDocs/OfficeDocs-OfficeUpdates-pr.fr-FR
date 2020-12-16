@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: bf9c104215f5bd1824bc6536e113a4e5c2c670e6
-ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
+ms.openlocfilehash: 29a5e61611e853638aa63e1e5ee4cce47e0ba06c
+ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49588287"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49673992"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour le canal actuel d’Office (Preview) pour Windows
 
@@ -24,7 +24,7 @@ Pour plus d’informations sur le programme Insider, cliquez [ici](https://insid
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versions et builds du canal actuel Office actuel (Preview)
 
 Si vous êtes inscrit au niveau canal actuel (Preview), autrefois appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds suivant contenant des correctifs importants ou des mises à jour de sécurité. La liste suivante répertorie les versions et builds récentes des canaux actuels (Preview), avec **la build la plus récemment publiée répertoriée en premier**. Les nouvelles builds incluent toutes les mises à jour contenues dans les builds précédentes.
-Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). De plus, vous pouvez voir [nouveautés pour les utilisateurs du site Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). De plus, vous pouvez voir [nouveautés pour les utilisateurs du site Office Insider](https://insider.office.com/fr-FR/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -37,6 +37,9 @@ Pour rechercher des notes de publication, [voir](https://docs.microsoft.com/Offi
 
 
 [//]: # (NE PAS SUPPRIMER)
+
+**14 décembre 2020**<br/>
+Version 2012 (build 13530.20144)<br/>
 
 **07 décembre 2020**<br/>
 Version 2012 (Build 13530,20064)<br/>
@@ -366,7 +369,7 @@ Version 1904 (build 11601.20136)<br/>
 **25 avril 2019**<br/>
 Version 1904 (build 11601.20126)<br/>
 
-**16 avril 2019**<br/>
+**16 avril 2019**<br/>
 Version 1904 (build 11601.20072)<br/>
 
 **16 avril 2019**<br/>
