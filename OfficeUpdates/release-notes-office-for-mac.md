@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: ab5f18ee1b2deb738e5d3e6e55a78a5adf624585
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990103"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684086"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -47,6 +47,48 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 
 
+
+
+
+## <a name="december-15-2020"></a>15 décembre 2020
+*Version 16.44 (Build 20121301)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Regarder vos formules:** Regardez les cellules sur plusieurs feuilles et livres dans un seul panneau ou fenêtre. [En savoir plus](https://support.office.com/article/d72fc6f3-4c9d-4c13-bd15-bb074ba7c784)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Présenter votre diaporama dans une expérience à fenêtres :** Lecture de View vous permet d’être multi-tâche et ont plusieurs diaporamas à fenêtres.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/reading-view-available-in-powerpoint-for-mac)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17123](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-17123)
+-   [CVE-2020-17126](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-17126)
+-   [CVE-2020-17128](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-17128)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-17119](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-17119)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2020-17124](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-17124)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
 
 ## <a name="november-10-2020"></a>10 novembre 2020
 *Version 16.43 (build 20110804)*
@@ -254,7 +296,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 ### <a name="outlook"></a>Outlook
 
-- **Outlook sans les mains :** vous avez un micro ? Cliquez sur Dictée et observez Outlook saisir ce que vous dites. [Si vous souhaitez en savoir plus](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
+- **Outlook sans les mains :** vous avez un micro ? Cliquez sur Dictée et observez Outlook saisir ce que vous dites. [En savoir plus](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -298,7 +340,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 - **Trouvez ce que vous recherchez :** utilisez la zone de recherche pour trouver du texte, des commandes, de l’aide et bien plus encore. [En savoir plus](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
-- **Ajout plus rapide de cellules**  : **activez le mode Cliquer pour ajouter** , puis entrez = et sélectionnez quelques cellules pour créer rapidement une formule permettant d’ajouter les valeurs des cellules. L’option se trouve sous **Menu** > **Préférences** > **Modifier**.  [Si vous souhaitez en savoir plus](https://support.office.com/fr-FR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
+- **Ajout plus rapide de cellules** : **activez le mode Cliquer pour ajouter**, puis entrez = et sélectionnez quelques cellules pour créer rapidement une formule permettant d’ajouter les valeurs des cellules. L’option se trouve sous **Menu** > **Préférences** > **Modifier**.  [Si vous souhaitez en savoir plus](https://support.office.com/fr-FR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -337,13 +379,13 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Utiliser automatiquement les nouveaux types de données**  : lorsque vous tapez une valeur de données qui ressemble à un emplacement ou un emplacement géographique possible, Excel propose de le convertir en type de données connecté approprié (stocks ou géographie).
-- **Imprimez des feuilles de calcul avec différentes orientations**  : lorsque vous imprimez un classeur entier à la fois, Excel pour Mac peut imprimer chaque feuille au format paysage ou portrait, conformément aux options de mise en page.
-- **Obtenir les statistiques sur votre classeur**  : les statistiques de classeur fournissent une vue d’ensemble du contenu d’un classeur, afin de vous aider à découvrir plus facilement son contenu.
+- **Utiliser automatiquement les nouveaux types de données** : lorsque vous tapez une valeur de données qui ressemble à un emplacement ou un emplacement géographique possible, Excel propose de le convertir en type de données connecté approprié (stocks ou géographie).
+- **Imprimez des feuilles de calcul avec différentes orientations** : lorsque vous imprimez un classeur entier à la fois, Excel pour Mac peut imprimer chaque feuille au format paysage ou portrait, conformément aux options de mise en page.
+- **Obtenir les statistiques sur votre classeur** : les statistiques de classeur fournissent une vue d’ensemble du contenu d’un classeur, afin de vous aider à découvrir plus facilement son contenu.
 
 ### <a name="outlook"></a>Outlook
 
-- **Rechercher dans le calendrier en mode hors connexion sur Outlook pour Mac**  : vous pouvez désormais rechercher vos événements et rendez-vous dans votre Calendrier Outlook sur Mac lorsque vous êtes en mode hors connexion.
+- **Rechercher dans le calendrier en mode hors connexion sur Outlook pour Mac** : vous pouvez désormais rechercher vos événements et rendez-vous dans votre Calendrier Outlook sur Mac lorsque vous êtes en mode hors connexion.
 
 ### <a name="security-updates"></a>Mises à jour de sécurité
 
@@ -359,18 +401,18 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Possibilité de réduire la fenêtre de la diapositive active en mode Présentateur :** en faisant glisser le séparateur de ligne vers la gauche de l’écran, vous pouvez réduire le mode d’affichage de la diapositive en cours afin de ne voir que la « diapositive suivante » dans la vue pour la durée de votre présentation.
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 
 ### <a name="word"></a>Word
 
-- **Étiquettes de confidentialité** : vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Étiquettes de confidentialité**: vous pouvez désormais appliquer une étiquette de confidentialité configurée par votre organisation pour vous inviter à entrer des autorisations personnalisées. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 ### <a name="security-updates"></a>Mises à jour de sécurité
@@ -670,7 +712,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 
 - **Attirez leur attention avec \@Mentions :** Utilisez les @mentions dans des commentaires pour informer vos collègues que vous avez besoin de leur intervention.
-- **Améliorations de la co-création**  : Performances de Word améliorées lors de la co-création de documents.
+- **Améliorations de la co-création** : Performances de Word améliorées lors de la co-création de documents.
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
 
@@ -705,7 +747,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 |**Application**|**Mise à jour**|**Mises à jour de sécurité**|**Lien de téléchargement pour le package de mise à jour**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/><br/>|**Consulter vos pièces jointes de courrier :** vos pièces jointes sont désormais disponibles sous l’onglet Partagé. |[CVE-2019-0953](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0953) : Vulnérabilité d’exécution de code à distance Microsoft Word<br/>|[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.25.19051201_Updater.pkg)<br/>|
-|Excel<br/>|**Consulter vos pièces jointes de courrier :** vos pièces jointes sont désormais disponibles sous l’onglet Partagé.<br/><br/>**Améliorations de la fusion de la co-création** : la co-création a amélioré le taux de réussite de la fusion lorsque vous utilisez la mise en forme conditionnelle, les styles de cellules, la protection de plage, l’affichage du quadrillage et la réduction/collage de plusieurs feuilles.|<br/>|[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.25.19051201_Updater.pkg)<br/>|
+|Excel<br/>|**Consulter vos pièces jointes de courrier :** vos pièces jointes sont désormais disponibles sous l’onglet Partagé.<br/><br/>**Améliorations de la fusion de la co-création**: la co-création a amélioré le taux de réussite de la fusion lorsque vous utilisez la mise en forme conditionnelle, les styles de cellules, la protection de plage, l’affichage du quadrillage et la réduction/collage de plusieurs feuilles.|<br/>|[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.25.19051201_Updater.pkg)<br/>|
 |PowerPoint<br/>|**Consulter vos pièces jointes de courrier :** vos pièces jointes sont désormais disponibles sous l’onglet Partagé.<br/><br/>**Travailler plus rapidement avec les nouveaux raccourcis :** nous avons des raccourcis clavier pour des actions telles que rogner, envoyer vers l’avant/envoyer vers l’arrière et promouvoir/rétrograder un élément de liste.|<br/>|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.25.19051201_Updater.pkg)<br/>|
 |Outlook  <br/>|**Découvrez les disponibilités de vos contacts en un clin d’œil :** consultez les informations de présence pour vos contacts qui sont dans Teams directement dans Outlook. <br/><br/>**Voir les détails clés pour vos contacts :** sélectionnez le nom d’un contact dans un événement de votre calendrier ou dans un message pour afficher sa photo, son numéro de téléphone, son adresse e-mail, son organigramme et bien plus. [En savoir plus](https://support.office.com/article/cf25962a-3a3e-47be-9181-afa2e1f84b07) <br/><br/> | |[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.25.19051201_Updater.pkg) <br/>|
 
@@ -844,11 +886,11 @@ Cette version inclut les mises à jour suivantes :
 |Word  <br/>| **Passez de l’iPhone à Word en un clin d’œil :** utilisez l’appareil photo Continuité d’Apple pour insérer une photo dans votre document depuis votre iPhone. Nécessite macOS Mojave. [En savoir plus](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos documents :** appliquez des étiquettes de niveau de confidentialité à vos documents pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561 :](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0561) vulnérabilité de divulgation d’informations Microsoft Word  <br/><br/> [CVE-2019-0585 :](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2019-0585) vulnérabilité d’exécution de code à distance Microsoft Word |[Package de mise à jour Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Collaborez à l’aide de commentaires :** insérez la conversation directement dans votre feuille de calcul avec la zone de réponse intégrée. [En savoir plus](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos feuilles de calcul :** appliquez des étiquettes de niveau de confidentialité à vos feuilles de calcul pour qu’elles restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Prise en charge SVG :** insérez et modifiez des SVG dans vos classeurs pour ajouter un impact visuel. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Autres options de mise en forme pour histogramme, cascade, compartimentage, rayons de soleil, entonnoir et graphiques de carte :** vous disposez d’un contrôle plus étroit sur les options de mise en forme pour les nouveaux types de graphiques à l’aide du volet format.|[Package de mise à jour Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Imprimer les numéros de diapositive dans les documents :** lorsque vous imprimez une présentation sous forme de document, chaque diapositive comporte le numéro de diapositive correspondant. <br/><br/> **Appliquez des étiquettes de niveau de confidentialité à vos présentations :** appliquez des étiquettes de niveau de confidentialité à vos présentations pour qu’elles restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Incorporer un sous-ensemble des polices :** vous pouvez désormais incorporer seulements les caractères utilisés dans une présentation.  [En savoir plus](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Package de mise à jour PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **Appliquez des étiquettes de niveau de confidentialité à vos messages :** appliquez des étiquettes de niveau de confidentialité à vos messages pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Rechercher des messages électroniques rapidement dans votre boîte aux lettres :** consultez des suggestions rapides basées sur votre historique de recherche récent dans la zone de recherche, sans rien y saisir. [En savoir plus](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Ajouter des comptes Gmail devient plus facile**  : les améliorations apportées à la sécurité signifient que vous ne devez plus autoriser l’accès aux « applications moins sécurisées » ni définir un mot de passe d’application pour ajouter votre compte Gmail à Outlook. <br/><br/>**Outlook pour Mac désormais surligne les termes de recherche :** Vous avez déjà cherché quelque chose tout en espérant qu’Outlook mette en surbrillance votre critère de recherche dans la liste des éléments ou le volet de visualisation ? N’espérez plus, c’est en place !||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
-|Mise à jour automatique Microsoft (AutoUpdate) 4.7 <br/>| Le démon AutoUpdate se lance désormais dans le cadre du processus d’installation. Cela permet de clarifier les boîtes de dialogue de sécurité que les utilisateurs voyaient auparavant. <br/><br/> Les fonctionnalités de sécurité de la mise à jour automatique Microsoft (AutoUpdate) ont été améliorées pour prendre en charge les certificats SHA256. <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+|Outlook  <br/>| **Appliquez des étiquettes de niveau de confidentialité à vos messages :** appliquez des étiquettes de niveau de confidentialité à vos messages pour qu’ils restent conformes aux stratégies de protection des informations de votre organisation. [En savoir plus](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Possibilité d’insertion de SVG avec les filtres appliqués :** les utilisateurs d’Office ont désormais la possibilité d’insérer des SVG auxquelles des filtres sont appliquées. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Rechercher des messages électroniques rapidement dans votre boîte aux lettres :** consultez des suggestions rapides basées sur votre historique de recherche récent dans la zone de recherche, sans rien y saisir. [En savoir plus](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Ajouter des comptes Gmail devient plus facile** : les améliorations apportées à la sécurité signifient que vous ne devez plus autoriser l’accès aux « applications moins sécurisées » ni définir un mot de passe d’application pour ajouter votre compte Gmail à Outlook. <br/><br/>**Outlook pour Mac désormais surligne les termes de recherche :** Vous avez déjà cherché quelque chose tout en espérant qu’Outlook mette en surbrillance votre critère de recherche dans la liste des éléments ou le volet de visualisation ? N’espérez plus, c’est en place !||[Package de mise à jour Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Mise à jour automatique Microsoft (AutoUpdate) 4.7 <br/>| Le démon AutoUpdate se lance désormais dans le cadre du processus d’installation. Cela permet de clarifier les boîtes de dialogue de sécurité que les utilisateurs voyaient auparavant. <br/><br/> Les fonctionnalités de sécurité de la mise à jour automatique Microsoft (AutoUpdate) ont été améliorées pour prendre en charge les certificats SHA256. <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> À partir de la version 16.21, Microsoft Teams sera installé par défaut pour les *_nouvelles_* _ installations. Pour plus d’informations, consultez l’article [Installations de Microsoft Teams sur un Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> À partir de la version 16.21, Microsoft Teams sera installé par défaut pour *_les nouvelles_* _ installations. Pour plus d’informations, voir [Installations de Microsoft Teams sur un Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 
 
 ## <a name="december-2018-release"></a>Version de décembre 2018
@@ -1239,7 +1281,7 @@ Cette version inclut les mises à jour suivantes.
   
 |**Application**|**Mises à jour de fonctionnalité**|**Mises à jour de sécurité**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Arrière-plans modernes pour le mode Focus :** choisissez entre les arrière-plans Crépuscule ou Nuit polaire, lorsque vous êtes en mode Focus dans l’onglet d’ **affichage**. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Word  <br/> |**Arrière-plans modernes pour le mode Focus :** choisissez entre les arrière-plans Crépuscule ou Nuit polaire, lorsque vous êtes en mode Focus dans l’onglet d’**affichage**. [En savoir plus](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Excel  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Groupes :** affichez vos 10 groupes principaux, et lisez ou répondez aux conversations de groupe directement dans le dossier Groupes.  <br/> <br/> **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales, ainsi que les principales langues utilisant le script arabe. [En savoir plus](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
@@ -1253,7 +1295,7 @@ Cette version inclut les mises à jour suivantes.
   
 |**Application**|**Mises à jour non relatives à la sécurité**|
 |:-----|:-----|
-|Microsoft AutoUpdate 3.9.1  <br/> | - Résolution d’un problème critique qui bloquait les notifications de mise à jour automatique lorsque l’option « Vérifier automatiquement » était sélectionnée.  <br/><br/>  - Résolution d’un problème de blocage de Microsoft AutoUpdate sur OS X 10.10.  <br/><br/> - Résolution d’un problème de blocage du démarrage d’applications si une mise à jour était en attente.   <br/><br/> **Important :** si vous avez effectué la mise à jour vers Microsoft AutoUpdate 3.9.0 et si vous avez défini les paramètres AutoUpdate sur « Vérifier automatiquement », vous devrez effectuer manuellement la mise à jour vers Microsoft AutoUpdate 3.9.1 à l’aide d’une des méthodes suivantes :  <br/><br/>  - Accédez à **Aide** > **Vérifier les mises à jour** , puis sélectionnez **Vérifier les mises à jour**.  <br/><br/>  - Accédez à **Aide** > **Vérifier les mises à jour** , puis sélectionnez **Télécharger et installer automatiquement**.  |
+|Microsoft AutoUpdate 3.9.1  <br/> | - Résolution d’un problème critique qui bloquait les notifications de mise à jour automatique lorsque l’option « Vérifier automatiquement » était sélectionnée.  <br/><br/>  - Résolution d’un problème de blocage de Microsoft AutoUpdate sur OS X 10.10.  <br/><br/> - Résolution d’un problème de blocage du démarrage d’applications si une mise à jour était en attente.   <br/><br/> **Important :** si vous avez effectué la mise à jour vers Microsoft AutoUpdate 3.9.0 et si vous avez défini les paramètres AutoUpdate sur « Vérifier automatiquement », vous devrez effectuer manuellement la mise à jour vers Microsoft AutoUpdate 3.9.1 à l’aide d’une des méthodes suivantes :  <br/><br/>  - Accédez à **Aide** > **Vérifier les mises à jour**, puis sélectionnez **Vérifier les mises à jour**.  <br/><br/>  - Accédez à **Aide** > **Vérifier les mises à jour**, puis sélectionnez **Télécharger et installer automatiquement**.  |
    
 ## <a name="april-2017-release"></a>Version d’avril 2017
 

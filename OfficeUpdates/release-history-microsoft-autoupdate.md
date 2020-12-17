@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
-ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
+ms.openlocfilehash: f6b5462189fa7cf9310c3d69b8ab34474ed96c07
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48994963"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684076"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -30,6 +30,25 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="december-2020-release"></a>Version de décembre 2020
+
+**Date de publication :** 15 décembre 2020
+
+*Microsoft Auto Update 4.30*
+
+**Résolution de bogues et améliorations :**
+- Ajoute le support de l’application Universal pour les Mac avec M1.
+
+**Lien de mise à jour MAU :**
+
+[Télécharger le package Microsoft Auto Update 4.30](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash :**
+
+9F4C49BE4FCC82DED7BD394F4F2057912B40D0083F754D15495B7BDE9E58EAC4
+
+<br/><br/>
+
 
 ## <a name="november-2020-release"></a>Version de novembre 2020
 
@@ -37,7 +56,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 *Mise à jour Automatique Microsoft 4.29*
 
-**Correctifs et Améliorations de bogues:**
+**Résolution de bogues et améliorations :**
 -   Mise à jour des noms de canaux pour Microsoft 365.
 -   Correction du problème de mise à jour de certaines installations OneDrive.
 
@@ -289,7 +308,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - Canaux par application : Les administrateurs Mac peuvent maintenant s'abonner à différents canaux ou anneaux de validation par application. 
 
 
-**Lien vers la mise à jour MAU :**
+**Lien vers la mise à jour d’AutoUpdate :**
 
 [Télécharger le package Microsoft Auto Update 4.18](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
@@ -309,7 +328,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - La configuration minimale requise pour les mises à jour du système d’exploitation pour Office 2019 a été modifiée sur macOS 10.13 suite à publication de Catalina et nous avertissons les utilisateurs de la mise à jour pour disposer des dernières versions d’Office.
 
 
-**Lien vers la mise à jour MA :**
+**Lien vers la mise à jour d’AutoUpdate :**
 
 [Télécharger le package Microsoft Auto Update 4.17](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
