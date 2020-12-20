@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
-ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
+ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
+ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49655304"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49716944"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,66 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2101-december-18"></a>Version 2101 : 18 décembre
+*Version 2101 (build 13610.20002)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+### <a name="outlook"></a>Outlook
+
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+### <a name="word"></a>Word
+
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Améliorez les performances lors de l’application des styles de mise en forme aux tableaux croisés dynamiques.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu et rencontré un problème qui empêchait les utilisateurs de sélectionner plusieurs catégories pour effectuer une recherche.
+
+
+- Nous avons résolu un problème qui a entraîné la modification inattendue de l’heure de début de certains éléments de calendrier lorsque l’événement est copié à partir d’un autre rendez-vous.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème où les utilisateurs ouvrent des projets qui ont soi-disant été enregistrés avec des informations mises à jour, mais découvrent que les mises à jour sont manquantes.
+
+
+### <a name="word"></a>Word
+
+- Corriger l’animation lors de la saisie en bas d’une carte de commentaire.
+
+
+- Nous avons résolu un problème d'accrochage de Word lors de l'enregistrement d'un document au format PDF avec du texte masqué.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2101-december-11"></a>Version 2101 : 11 décembre
 *Version 2101 (build 13604.20000)*
@@ -1453,6 +1513,8 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 - **Créer une connexion au format PDF :** connectez-vous à des données, importez-les ou actualisez-les à partir d’un fichier PDF. [En savoir plus](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+
 ### <a name="outlook"></a>Outlook
 
 - **Trouver les informations dont vous avez besoin :** affinez votre recherche à l’aide d’options telles que dossier, expéditeur, date, informations sur la pièce jointe, etc.
@@ -1460,6 +1522,8 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Nul besoin d’un dispositif de clic : vos écouteurs vous couvrent :** utilisez vos écouteurs Surface pour contrôler vos présentations PowerPoint. Important : vous devez associer vos écouteurs Surface dans l’application Surface Audio pour Windows 10 afin d’utiliser des gestes pour contrôler les présentations. Des instructions pour la prise en main de l’application Surface Audio sous Windows 10 sont disponibles ici. [En savoir plus](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
 
 ### <a name="word"></a>Word
 
@@ -2101,6 +2165,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
@@ -2110,5 +2175,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
