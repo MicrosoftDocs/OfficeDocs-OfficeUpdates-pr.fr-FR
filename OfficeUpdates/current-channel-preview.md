@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 0be2192fb0bc08c399c4c7d698de759bfec3433e
-ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
+ms.openlocfilehash: 33fad2b4d91d05abedee0de26c8a0bc101e9c4bd
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49673972"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725773"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,46 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2012-december-21"></a>Version 2012 : 21 décembre
+*Version 2012 (build 13530.20218)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+### <a name="outlook"></a>Outlook
+
+- **Prévoyez du temps entre deux réunions consécutives :** Donnez aux participants le temps de reprendre leur souffle ou de se déplacer entre les différents lieux en fixant par défaut le début des réunions avec 5 à 10 minutes de retard. [En savoir plus](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+### <a name="word"></a>Word
+
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel la commande de taille de police, ajoutée dans QAT, s’exécutait automatiquement à la taille de police définie la plus proche lors de sa mise à jour.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2012-december-14"></a>Version 2012 : 14 décembre
 *Version 2012 (build 13530.20144)*
@@ -353,7 +393,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -1254,7 +1294,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -2341,7 +2381,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
