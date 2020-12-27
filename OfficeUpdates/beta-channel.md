@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
-ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
+ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
+ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716944"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "49733207"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,48 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2101-december-25"></a>Version 2101 : 25 décembre
+*Version 2101 (build 13617.20002)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Mise à jour de sorte que les paramètres de séparateurs décimaux et de milliers soient retenus lors de la copie d’un graphique à partir d’Excel et du coller dans Word
+
+
+- Résolution d’un problème dans lequel Excel se fermerait de façon inattendue lors de l’ouverture des fichiers UNC qui ont des attributs de fichier non valides (heure de création, heure de modification, etc.)
+
+
+- Cette modification corrige un problème lié à la modification des couleurs de contour des images SVG.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à spécifier la durée pendant laquelle ils souhaitent autoriser l’accès pendant le démarrage d’un publipostage à partir de Word, ce qui leur permet d’obtenir des invites excessives.
+
+
+- Nous avons résolu un problème qui a entraîné la fermeture inattendue d’Outlook pour les utilisateurs de compléments basés sur le remboursement.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Cette modification corrige un problème lié à la modification des couleurs de contour des images SVG.
+
+
+### <a name="word"></a>Word
+
+- Cette modification corrige un problème lié à la modification des couleurs de contour des images SVG.
+
+
+- Résolution d’un problème dans lequel la zone de réponse d’une carte de commentaire est en dehors de l’écran.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2101-december-18"></a>Version 2101 : 18 décembre
 *Version 2101 (build 13610.20002)*
@@ -457,7 +499,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -1745,7 +1787,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
@@ -2165,6 +2207,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
@@ -2174,5 +2217,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
