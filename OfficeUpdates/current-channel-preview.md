@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 33fad2b4d91d05abedee0de26c8a0bc101e9c4bd
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
+ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725773"
+ms.lasthandoff: 12/28/2020
+ms.locfileid: "49735502"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,20 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2012-december-28"></a>Version 2012 : 28 décembre
+*Version 2012 (build 13530.20264)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui causait à certains clients un blocage lors du chargement de leurs calendriers.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2012-december-21"></a>Version 2012 : 21 décembre
 *Version 2012 (build 13530.20218)*
@@ -1137,7 +1151,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème dans la boîte de dialogue Compresser l’image dans laquelle certains paramètres ppp sélectionnés par l’utilisateur n’étaient pas conservés.
 
 
-- Cette modification corrige un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
+- Cette modification corrige un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
 
 
 
