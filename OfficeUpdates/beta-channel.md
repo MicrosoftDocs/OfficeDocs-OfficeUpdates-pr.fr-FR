@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
-ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
+ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "49733207"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748222"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,65 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2101-january-01"></a>Version 2101 : 1er janvier
+*Version 2101 (build 13624.20002)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+
+### <a name="word"></a>Word
+
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="onenote"></a>OneNote
+
+- Cette modification corrige un problème de rendu affectant OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- Cette modification permet à Outlook de tirer parti d’un paramètre Exchange Server qui supprime l’affichage de la boîte aux lettres d’archivage Exchange Online pour les utilisateurs finaux.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Cette modification corrige un problème avec Combiner les formes avec du texte.
+
+
+### <a name="word"></a>Word
+
+- Correctif pour rendre les commentaires modernes plus fiables.
+
+
+- Correction d’un problème lors de la modification de commentaires avec @mention.
+
+
+- Les brouillons de commentaires disparaissent lors de la création d’une instance de Word.
+
+
+- Correction et émission avec les barres de défilement imbriquées dans le volet Commentaires.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2101-december-25"></a>Version 2101 : 25 décembre
 *Version 2101 (build 13617.20002)*
@@ -2207,6 +2266,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
@@ -2216,5 +2276,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

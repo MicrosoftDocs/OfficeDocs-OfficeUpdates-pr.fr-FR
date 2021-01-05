@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions de Microsoft 365 Apps pour les différents canaux de mise à jour ainsi que des liens d’accès aux notes de publication et à l’historique des mises à jour
-ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370132"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748232"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informations sur les versions des mises à jour de Microsoft 365 Apps
 
 
 > [!IMPORTANT]
-> À partir de la version 2004, Office 365 ProPlus a été renommé Microsoft 365 Apps for enterprise.Pour en savoir plus,  [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).Dans notre documentation, nous l’appelons habituellement Microsoft 365 Apps, tout simplement.
+> Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Mises à jour de sécurité des différentes versions de Microsoft 365 Apps
@@ -45,10 +45,10 @@ Pour obtenir la liste complète des tailles des mises à jour pour chaque versio
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notes de publication des différentes versions de Microsoft 365 Apps
 
 Pour obtenir la liste complète des notes de publication par canal de mise à jour et année, consultez les articles suivants :
- - Actuel : [2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
- - Canal d’entreprise mensuel : [2020](monthly-enterprise-channel.md)
- - Canal d’entreprise semi-annuel (préversion) : [2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md)[2016](semi-annual-channel-targeted-2016.md)
- - Canal d’entreprise semi-annuel : [2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Canal actuel : [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
+ - Canal Entreprise mensuel :  [2021-2020](monthly-enterprise-channel.md)
+ - Semestriel entreprise (version d’évaluation) : [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
+ - Semestriel Entreprise : [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
  Pour consulter la liste complète des versions de l’outil Déploiement d’Office, reportez-vous à l’article suivant :
@@ -64,7 +64,7 @@ Pour plus d’informations sur les mises à jour d’Office pour Mac, qui est 
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Déploiement Office](https://docs.microsoft.com/deployoffice/)
 - [Nouveautés de Microsoft 365 Apps](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Feuille de route Microsoft 365 Apps](https://products.office.com/business/office-365-roadmap)
