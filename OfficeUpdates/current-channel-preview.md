@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
-ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
+ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
+ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/28/2020
-ms.locfileid: "49735502"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49750625"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,29 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2012-january-04"></a>Version 2012 : 4 janvier
+*Version 2012 (build 13530.20316)*
+* Diverses résolutions de bogues et de performances.
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+
+### <a name="word"></a>Word
+
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
 ## <a name="version-2012-december-28"></a>Version 2012 : 28 décembre
 *Version 2012 (build 13530.20264)*
