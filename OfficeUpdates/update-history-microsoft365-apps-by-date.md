@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 2f72d1f036be1874e5b911ec57ca18a07fc1c41c
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: cffc6cc2083d3afe5ce79e96ab9fa89a001bd18c
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725753"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748242"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -211,48 +211,7 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 ||25 janvier  <br/> | [Version 1612 (Build 7668.2066)](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |  <br/> |
 ||10 janvier  <br/> |  <br/> |  <br/> | [Version 1609 (Build 7369.2102)](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [Version 1605 (Build 6965.2117)](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [Version 1602 (Build 6741.2105)](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||4 janvier  <br/> | [Version 1611 (Build 7571.2109)](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |  <br/> |
-|2016|13 décembre  <br/> | [Version 1611 (Build 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |  <br/> |[Version 1609 (Build 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [Version 1605 (Build 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [Version 1602 (Build 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
-||6 décembre  <br/> | [Version 1611 (Build 7571.2072)](monthly-channel-2016.md#version-1611-december-6)  <br/> |  <br/> |  <br/> |  <br/> |
-||10 novembre  <br/> | [Version 1610 (Build 7466.2038)](monthly-channel-2016.md#version-1610-november-10)  <br/> |  <br/> |  <br/> |  <br/> |
-||8 novembre  <br/> |[Version 1609 (Build 7369.2055)](monthly-channel-2016.md#version-1609-november-8)  <br/> |  <br/> | [Version 1609 (Build 7369.2055)](semi-annual-channel-targeted-2016.md#version-1609-november-8)  <br/> | [Version 1605 (Build 6965.2105)](semi-annual-channel-2016.md#version-1605-november-8)  <br/>  [Version 1602 (Build 6741.2088)](semi-annual-channel-2016.md#version-1602-november-8)  <br/> |
-||2 novembre  <br/> |[Version 1609 (Build 7369.2054)](monthly-channel-2016.md#version-1609-november-2) <br/> |  <br/> |[Version 1609 (Build 7369.2054)](semi-annual-channel-targeted-2016.md#version-1609-november-2)  <br/> |  <br/> |
-||11 octobre  <br/> | [Version 1609 (Build 7369.2038)](monthly-channel-2016.md#version-1609-october-11)  <br/> |  <br/> |[Version 1609 (Build 7369.2038)](semi-annual-channel-targeted-2016.md#version-1609-october-11)  <br/> | [Version 1605 (Build 6965.2092)](semi-annual-channel-2016.md#version-1605-october-11)  <br/>  [Version 1602 (Build 6741.2081)](semi-annual-channel-2016.md#version-1602-october-11)  <br/> |
-||4 octobre  <br/> | [Version 1609 (Build 7369.2024)](monthly-channel-2016.md#version-1609-october-4)  <br/> |  <br/> |  <br/> |  <br/> |
-||26 septembre  <br/> |[Version 1608 (Build 7341.2035)](monthly-channel-2016.md#version-1608-september-26)  <br/> |  <br/> |  <br/> |  <br/> |
-||21 septembre  <br/> |[Version 1608 (Build 7341.2032)](monthly-channel-2016.md#version-1608-september-21)  <br/> |  <br/> |  <br/> |  <br/> |
-||13 septembre  <br/> |[Version 1607 (Build 7167.2060)](monthly-channel-2016.md#version-1607-september-13)  <br/> |  <br/> |[Version 1605 (Build 6965.2084)](semi-annual-channel-targeted-2016.md#version-1605-september-13)  <br/> | [Version 1602 (Build 6741.2071)](semi-annual-channel-2016.md#version-1602-september-13)  <br/>  [Version 1509 (Build 6001.1090)](semi-annual-channel-2016.md#version-1509-september-13)  <br/> |
-||6 septembre  <br/> |[Version 1607 (Build 7167.2055)](monthly-channel-2016.md#version-1607-september-6)  <br/> |  <br/> |  <br/> |  <br/> |
-||31 août  <br/> |[Version 1607 (Build 7167.2047)](monthly-channel-2016.md#version-1607-august-31)  <br/> |  <br/> |  <br/> |  <br/> |
-||16 août  <br/> |[Version 1607 (Build 7167.2040)](monthly-channel-2016.md#version-1607-august-16)  <br/> |  <br/> |  <br/> |  <br/> |
-||9 août  <br/> |[Version 1606 (Build 7070.2036)](monthly-channel-2016.md#version-1606-august-9)  <br/> |  <br/> |[Version 1605 (Build 6965.2076)](semi-annual-channel-targeted-2016.md#version-1605-august-9)  <br/> | [Version 1602 (Build 6741.2063)](semi-annual-channel-2016.md#version-1602-august-9)  <br/>  [Version 1509 (Build 6001.1087)](semi-annual-channel-2016.md#version-1509-august-9)  <br/> |
-||26 juillet  <br/> |[Version 1606 (Build 7070.2033)](monthly-channel-2016.md#version-1606-july-26)  <br/> |  <br/> |  <br/> |  <br/> |
-||21 juillet  <br/> |  <br/> |  <br/> |[Version 1605 (Build 6965.2069)](semi-annual-channel-targeted-2016.md#version-1605-july-21)  <br/> |  <br/> |
-||20 juillet  <br/> |[Version 1606 (Build 7070.2028)](monthly-channel-2016.md#version-1606-july-20)  <br/> |  <br/> |  <br/> |  <br/> |
-||12 juillet  <br/> |[Version 1606 (Build 7070.2026)](monthly-channel-2016.md#version-1606-july-12)  <br/> |  <br/> |[Version 1605 (Build 6965.2066)](semi-annual-channel-targeted-2016.md#version-1605-july-12)  <br/> | [Version 1602 (Build 6741.2056)](semi-annual-channel-2016.md#version-1602-july-12) <br/>  [Version 1509 (Build 6001.1085)](semi-annual-channel-2016.md#version-1509-july-12)  <br/> |
-||5 juillet  <br/> |[Version 1606 (Build 7070.2022)](monthly-channel-2016.md#version-1606-july-5)  <br/> |  <br/> |  <br/> |  <br/> |
-||30 juin  <br/> |[Version 1605 (Build 6965.2063)](monthly-channel-2016.md#version-1605-june-30)  <br/> |  <br/> |[Version 1605 (Build 6965.2063)](semi-annual-channel-targeted-2016.md#version-1605-june-30)  <br/> |  <br/> |
-||14 juin  <br/> |[Version 1605 (Build 6965.2058)](monthly-channel-2016.md#version-1605-june-14)  <br/> |  <br/> |[Version 1605 (Build 6965.2058)](semi-annual-channel-targeted-2016.md#version-1605-june-14)  <br/> | [Version 1602 (Build 6741.2048)](semi-annual-channel-2016.md#version-1602-june-14)  <br/>  [Version 1509 (Build 6001.1082)](semi-annual-channel-2016.md#version-1509-june-14)  <br/> |
-||7 juin  <br/> |  <br/> |  <br/> |[Version 1602 (Build 6741.2047)](semi-annual-channel-targeted-2016.md#version-1602-june-7)  <br/> |  <br/> |
-||6 juin  <br/> |[Version 1605 (Build 6965.2053)](monthly-channel-2016.md#version-1605-june-6)  <br/> |  <br/> |  <br/> |  <br/> |
-||23 mai  <br/> |[Version 1604 (Build 6868.2067)](monthly-channel-2016.md#version-1604-may-23)  <br/> |  <br/> |[Version 1602 (Build 6741.2042)](semi-annual-channel-targeted-2016.md#version-1602-may-23)  <br/> |  <br/> |
-||10 mai  <br/> |[Version 1604 (Build 6868.2062)](monthly-channel-2016.md#version-1604-may-10)  <br/> |  <br/> |[Version 1602 (Build 6741.2037)](semi-annual-channel-targeted-2016.md#version-1602-may-10)  <br/> |[Version 1509 (Build 6001.1078)](semi-annual-channel-2016.md#version-1509-may-10)  <br/> |
-||4 mai  <br/> |[Version 1604 (Build 6868.2060)](monthly-channel-2016.md#version-1604-may-4)  <br/> |  <br/> |  <br/> |  <br/> |
-||3 mai  <br/> |  <br/> |  <br/> |[Version 1602 (Build 6741.2033)](semi-annual-channel-targeted-2016.md#version-1602-may-3)  <br/> |  <br/> |
-||28 avril  <br/> |[Version 1603 (Build 6769.2040)](monthly-channel-2016.md#version-1603-april-28)  <br/> |  <br/> |  <br/> |  <br/> |
-||12 avril  <br/> |[Version 1603 (Build 6769.2017)](monthly-channel-2016.md#version-1603-april-12)  <br/> |  <br/> |[Version 1602 (Build 6741.2026) ](semi-annual-channel-targeted-2016.md#version-1602-april-12) <br/> |[Version 1509 (Build 6001.1073)](semi-annual-channel-2016.md#version-1509-april-12)  <br/> |
-||4 avril  <br/> |[Version 1603 (Build 6769.2015)](monthly-channel-2016.md#version-1603-april-4)  <br/> |  <br/> |[Version 1602 (Build 6741.2025)](semi-annual-channel-targeted-2016.md#version-1602-april-4)  <br/> |  <br/> |
-||24 mars  <br/> |[Version 1602 (Build 6741.2021)](monthly-channel-2016.md#version-1602-march-24)  <br/> |  <br/> |  <br/> |  <br/> |
-||23 mars  <br/> |  <br/> |  <br/> |[Version 1602 (Build 6741.2021)](semi-annual-channel-targeted-2016.md#version-1602-march-23)  <br/> |  <br/> |
-||17 mars  <br/> |[Version 1602 (Build 6741.2017)](monthly-channel-2016.md#version-1602-march-17)  <br/> |  <br/> |  <br/> |  <br/> |
-||16 mars  <br/> |  <br/> |  <br/> |[Version 1602 (Build 6741.2017)](semi-annual-channel-targeted-2016.md#version-1602-march-16)  <br/> |  <br/> |
-||14 mars  <br/> |  <br/> |  <br/> |[Version 1602 (Build 6741.2015)](semi-annual-channel-targeted-2016.md#version-1602-march-14)  <br/> |  <br/> |
-||8 mars  <br/> |  <br/> |  <br/> |[Version 1602 (Build 6741.2014)](semi-annual-channel-targeted-2016.md#version-1602-march-8)  <br/> |[Version 1509 (Build 6001.1068)](semi-annual-channel-2016.md#version-1509-march-8)  <br/> |
-||4 mars  <br/> |[Version 1601 (Build 6568.2036)](monthly-channel-2016.md#version-1601-march-4)  <br/> |  <br/> |  <br/> |  <br/> |
-||3 mars  <br/> |[Version 1601 (Build 6568.2034)](monthly-channel-2016.md#version-1601-march-3)  <br/> |  <br/> |  <br/> |  <br/> |
-||16 février  <br/> |[Version 1601 (Build 6568.2025)](monthly-channel-2016.md#version-1601-february-16)  <br/> |  <br/> |  <br/> |  <br/> |
-||9 février  <br/> |[Version 1511 (Build 6366.2068)](monthly-channel-2016.md#version-1511-february-9)  <br/> |  <br/> |[Version 1509 (Build 6001.1061)](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[Version 1509 (Build 6001.1061)](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
-||25 janvier  <br/> |[Version 1511 (Build 6366.2062)](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |  <br/> |
-||12 janvier  <br/> |[Version 1511 (Build 6366.2056)](monthly-channel-2016.md#version-1511-january-12)  <br/> |  <br/> |[Version 1509 (Build 6001.1054)](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
+
 
 [//]: # (HISTORYTABLEEND)
 
