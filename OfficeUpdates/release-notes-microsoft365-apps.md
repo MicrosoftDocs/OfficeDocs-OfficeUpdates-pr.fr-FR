@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions de Microsoft 365 Apps pour les différents canaux de mise à jour ainsi que des liens d’accès aux notes de publication et à l’historique des mises à jour
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748232"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760638"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informations sur les versions des mises à jour de Microsoft 365 Apps
 
@@ -45,10 +45,10 @@ Pour obtenir la liste complète des tailles des mises à jour pour chaque versio
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notes de publication des différentes versions de Microsoft 365 Apps
 
 Pour obtenir la liste complète des notes de publication par canal de mise à jour et année, consultez les articles suivants :
- - Canal actuel : [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
- - Canal Entreprise mensuel :  [2021-2020](monthly-enterprise-channel.md)
- - Semestriel entreprise (version d’évaluation) : [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
- - Semestriel Entreprise : [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
+ - Canal actuel : [notes de publication](current-channel.md) [notes de publication archivées](monthly-channel-archived.md)
+ - Canal mensuel des entreprises : [Notes de publication](monthly-enterprise-channel.md)
+ - Canal semi-annuel des entreprises (préversion) : [Notes de publication](semi-annual-enterprise-channel-preview.md), [Notes de publication archivées](semi-annual-enterprise-channel-preview-archived.md)
+ - Canal semi-annuel des entreprises : [Notes de publication](semi-annual-enterprise-channel.md), [Notes de publication archivées](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
  Pour consulter la liste complète des versions de l’outil Déploiement d’Office, reportez-vous à l’article suivant :
