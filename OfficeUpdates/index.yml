@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
-  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+  ms.openlocfilehash: 8d6eb89310b8a5ab94b530928f069caadcea6818
+  ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 10/07/2020
-  ms.locfileid: "48369962"
+  ms.lasthandoff: 01/07/2021
+  ms.locfileid: "49780742"
 landingContent:
 - title: Microsoft 365 Apps
   linkLists:
@@ -84,7 +84,7 @@ landingContent:
   - linkListType: overview
     links:
     - text: Informations sur les versions de Windows 10
-      url: https://www.microsoft.com/itpro/windows-10/release-information
+      url: https://aka.ms/windows/releaseinfo
     - text: Politique de cycle de vie Microsoft
       url: https://support.microsoft.com/lifecycle
     - text: Guide des mises à jour de sécurité Microsoft
