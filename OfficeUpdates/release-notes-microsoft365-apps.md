@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique la liste des dernières versions de Microsoft 365 Apps pour les différents canaux de mise à jour ainsi que des liens d’accès aux notes de publication et à l’historique des mises à jour
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760638"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780672"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informations sur les versions des mises à jour de Microsoft 365 Apps
 
@@ -64,12 +64,12 @@ Pour plus d’informations sur les mises à jour d’Office pour Mac, qui est 
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Déploiement Office](https://docs.microsoft.com/deployoffice/)
 - [Nouveautés de Microsoft 365 Apps](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Feuille de route Microsoft 365 Apps](https://products.office.com/business/office-365-roadmap)
 - [Présentation du Centre de messages de Microsoft 365 Apps](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Informations sur les versions Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Informations sur les versions Windows 10](https://aka.ms/windows/releaseinfo)
 - [Guide pour les mises à jour de sécurité Microsoft](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
