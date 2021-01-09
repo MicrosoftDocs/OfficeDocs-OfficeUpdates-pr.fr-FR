@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: c2a5c2332ee83c83dc7e83728f4db2ded500a205
-ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
+ms.openlocfilehash: 8c3c42b5eb9ee1583736bc0e9df002b407ae71a5
+ms.sourcegitcommit: f42b5b75d8599f1876094ae2ceb5411519b69a31
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756704"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778875"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+
+## <a name="january-7-2021"></a>7 janvier 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
+
+<i>La publication prévue est la version 2011 (build 13426.20504).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2010 (build 13328.20478) <br/> |8 décembre 2020 <br/> |146<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semi-annuel (préversion)
+
+<i>La publication prévue est la version 2008 (build 13127.21032).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2008 (build 13127.20910) <br/> |8 décembre 2020 <br/> |56<br/> |
+|Version 2008 (Build 13127,20760) <br/> |10 novembre 2020 <br/> |71<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semi-annuel
+
+<i>La publication prévue est la version 2102 (build 13127.21032).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2002 (build 12527.21416) <br/> |8 décembre 2020 <br/> |363<br/> |
+|Version 2002 (Build 12527.21330) <br/> |10 novembre 2020 <br/> |373<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="january-5-2021"></a>5 janvier 2021
 
