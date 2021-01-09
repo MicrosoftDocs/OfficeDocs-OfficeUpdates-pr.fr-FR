@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
-ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
+ms.openlocfilehash: 5c14b7c5e42d76034712a07789bce366b69d1543
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49750625"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780680"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,151 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2101-january-07"></a>Version 2101 : 7 janvier
+*Version 2101 (build 13628.20030)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Afficher plusieurs feuilles en même temps :** vous n’avez plus besoin d’afficher une feuille à la fois. vous pouvez ainsi afficher plusieurs feuilles masquées à la fois. [En savoir plus](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Amélioration des boîtes de dialogue de mise en forme conditionnelle :** les boîtes de dialogue de mise en forme conditionnelle sont à présent redimensionnables, et vous pouvez dupliquer la règle d’un simple clic. [En savoir plus](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème dans lequel Excel affichait incorrectement une barre de messages indiquant qu’une nouvelle version du fichier était disponible, puis obligeait l’utilisateur à enregistrer ses modifications dans une copie du classeur ou à ignorer ses modifications.
+
+
+- Résolution d’un problème lié au changement de séparateur après un appel Selection.Parent.Copy.
+
+
+- Améliorez les performances lors de l’application des styles de mise en forme aux tableaux croisés dynamiques.
+
+
+- Nous avons résolu un problème pour lequel Excel laisse les macros désactivées sans qu’une invite s’affiche lorsque vous ouvrez un fichier de complément Excel contenant des macros 4.0 Excel.
+
+
+- Mise à jour de sorte que les paramètres de séparateurs décimaux et de milliers soient retenus lors de la copie d’un graphique à partir d’Excel et du coller dans Word
+
+
+- Résolution d’un problème dans lequel Excel se fermerait de façon inattendue lors de l’ouverture des fichiers UNC qui ont des attributs de fichier non valides (heure de création, heure de modification, etc.)
+
+
+- Correction d’un problème pouvant provoquer une alerte « ressources insuffisantes » lors de l’utilisation de la fonction STOCKHISTORY.
+
+
+- Ajout d’une dll FuzzyClustering à la liste des dll PQ.
+
+
+- Cette modification corrige un problème lié à la modification des couleurs de contour des images SVG.
+
+
+- Nous avons corrigé un problème de mauvaise valeur de taille dans l’aperçu de plage Excel intégré dans PowerPoint.
+
+
+### <a name="onenote"></a>OneNote
+
+- Cette modification corrige un problème de rendu affectant OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à spécifier la durée pendant laquelle ils souhaitent autoriser l’accès pendant le démarrage d’un publipostage à partir de Word, ce qui leur permet d’obtenir des invites excessives.
+
+
+- Cette modification permet à Outlook de tirer parti d’un paramètre Exchange Server qui supprime l’affichage de la boîte aux lettres d’archivage Exchange Online pour les utilisateurs finaux.
+
+
+- Nous avons résolu un problème qui a entraîné la fermeture inattendue d’Outlook pour les utilisateurs de compléments basés sur le remboursement.
+
+
+- Nous avons résolu et rencontré un problème qui empêchait les utilisateurs de sélectionner plusieurs catégories pour effectuer une recherche.
+
+
+- Nous avons résolu un problème qui a entraîné la modification inattendue de l’heure de début de certains éléments de calendrier lorsque l’événement est copié à partir d’un autre rendez-vous.
+
+
+- Nous avons résolu un problème qui entraînait l’altération des messages S/MIME en texte brut lors de l’envoi.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Cette modification corrige un problème avec Combiner les formes avec du texte.
+
+
+- Cette modification corrige un problème lié à la modification des couleurs de contour des images SVG.
+
+
+- Cette modification résout un problème de lecture de vidéos en arrière-plan en boucle dans un diaporama.
+
+
+- Nous avons résolu un problème dans lequel la commande de taille de police, ajoutée dans QAT, s’exécutait automatiquement à la taille de police définie la plus proche lors de sa mise à jour.
+
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème dans lequel les unités Max d’une ressource ne reflétaient pas toujours la dernière mise à jour des unités max.
+
+
+### <a name="visio"></a>Visio
+
+- Le problème s’est produit suite à une régression récente. Nous avons résolu le problème. La boîte de dialogue « Enregistrer en tant que page web » présente désormais les champs correctement renseignés, en fonction des entrées utilisateur, et les utilisateurs peuvent enregistrer leurs fichiers en toute transparence en tant que pages web.
+
+
+- Le problème a été corrigé. Vous pouvez désormais incorporer des fichiers Visio en tant qu’objets dans d’autres applications Office, telles que PowerPoint et Word, et y accéder en toute transparence à partir de ces applications.
+
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème dans lequel les ordinateurs ayant des paramètres de hachage personnalisés étaient en cours d’exécution dans une session espace collaboration avec un paramètre de hachage autre que sha512.
+
+
+- Cette modification corrige un problème lié à la modification des couleurs de contour des images SVG.
+
+
+- Correction d’un problème lors de la modification de commentaires avec @mention.
+
+
+- Nous avons résolu un problème pour rendre les commentaires modernes plus fiables.
+
+
+- Nous avons résolu un problème lié à la suppression de commentaires récents dans un contrôle de contenu marqué comme non modifiable.
+
+
+- Corriger l’animation lors de la saisie en bas d’une carte de commentaire.
+
+
+- Résolution d’un problème dans lequel la zone de réponse d’une carte de commentaire est en dehors de l’écran.
+
+
+- Corrige un problème à l’aide d’une carte de commentaires affichée en haut de la page.
+
+
+- Corrige le bogue dans les commentaires où le texte peut défiler hors de l’écran.
+
+
+- Correction et émission avec les barres de défilement imbriquées dans le volet Commentaires.
+
+
+- Les brouillons de commentaires disparaissent lors de la création d’une instance de Word.
+
+
+- Nous avons résolu un problème d'accrochage de Word lors de l'enregistrement d'un document au format PDF avec du texte masqué.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
 ## <a name="version-2012-january-04"></a>Version 2012 : 4 janvier
 *Version 2012 (build 13530.20316)*
