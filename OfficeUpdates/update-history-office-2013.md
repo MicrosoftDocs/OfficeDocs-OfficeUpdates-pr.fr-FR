@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions définitives d’Office 2013 qui utilisent Démarrer en un clic
-ms.openlocfilehash: 0d11acb0a63bf32c86bebcd3352c8be79017c7fb
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: d46d8e6ea453c64fed6458132ea439bd20caa92f
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601459"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837605"
 ---
 # <a name="update-history-for-office-2013"></a>Historique des mises à jour pour Office 2013
 
 Certains produits Office 2013 sont tenus à jour automatiquement à l’aide d’une technologie nommée Démarrer en un clic. Si vous voulez vérifier que vous êtes à jour, vérifiez le numéro de votre version d’Office et mettez à jour Office manuellement si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2013 est la version **15.0.5301.1000**, qui a été publiée le 8 septembre 2020.
+> La version la plus récente d’Office 2013 est la version **15.0.5311.1000**, publiée le 12 janvier 2021.
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -45,6 +45,7 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
+|2021|12 janvier|15.0.5311.1000|[KB  4583559](https://support.microsoft.com/help/4583559)|
 |2020| 8 décembre|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
 ||10 novembre|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
 ||13 octobre| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
