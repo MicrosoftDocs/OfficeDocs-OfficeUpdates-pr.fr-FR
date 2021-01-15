@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: ab5f18ee1b2deb738e5d3e6e55a78a5adf624585
-ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
+ms.openlocfilehash: 5e63a6441de32b956a7e25e6bc0026d6fd485f2a
+ms.sourcegitcommit: 38acc55545cbeccd16603b7f731dc41a26e4a5ea
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49684086"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "49863201"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -49,6 +49,51 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 
 
+
+
+
+## <a name="january-13-2021"></a>13 janvier 2021
+*Version 16.45 (build 21011103)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="outlook"></a>Outlook
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="word"></a>Word
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1715)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
 
 ## <a name="december-15-2020"></a>15 décembre 2020
 *Version 16.44 (Build 20121301)*
