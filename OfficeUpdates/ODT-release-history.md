@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fournit un historique des publications de l’outil Déploiement d’Office (ODT) destiné aux professionnels de l’informatique
-ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
-ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
+ms.openlocfilehash: b9a5966e49653a4998a0cb3f3858decbe6f820c6
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725069"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837365"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
 
@@ -28,6 +28,10 @@ L’outil Déploiement d’Office vous permet de bien contrôler l’installatio
  **Instructions d’installation** : téléchargez et exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setup.exe) et un exemple de fichier de configuration (configuration.xml). 
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="january-12-2021"></a>12 Janvier 2021
+Version 16.0.13530.20376 (setup.exe version 16.0.13530.20334)
+- Correction d'un problème où un enregistrement de produit corrompu ou non standard pouvait entraîner l'échec des opérations de RemoveMSI
 
 ## <a name="december-21-2020"></a>21 décembre 2020
 Version 16.0.13426.20370 (setup.exe version 16.0.13426.20352)
