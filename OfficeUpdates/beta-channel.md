@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: f2eb63f0f9724ab4f5927df9696f7007917fe82e
-ms.sourcegitcommit: 75e30d61054abf480f9344b5a54370db93198d11
+ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
+ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49785746"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878737"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,42 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2102-january-15"></a>Version 2102 : 15 janvier
+*Version 2102 (build 13707.20008)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Partager dans Teams** : partager un courrier électronique ou une conversation depuis Outlook avec une personne ou un canal dans Teams.
+
+### <a name="visio"></a>Visio
+
+- **Graphismes prêts à l’élaboration de diagrammes** : faites votre choix parmi une grande bibliothèque d’icônes, d’images de photos de stock, de vignettes de personnes et d’autocollants que vous pouvez ajouter à vos dessins Visio. [En savoir plus](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="project"></a>Project
+
+- Correction d’un problème où lorsqu’une ressource de type Coût est affectée à une tâche jalon, le coût de référence n’est pas correctement pris en charge.
+
+
+### <a name="word"></a>Word
+
+- Correction d’une défaillance lorsque l’exécution de la macro VBA ExportAsFixedFormat2 échoue avec une erreur indiquant « Présentation (membre inconnu) valeur illégale ».
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2102-january-08"></a>Version 2102 : 8 janvier
 *Version 2102 (build 13704.20000)*
@@ -2297,6 +2333,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
@@ -2306,5 +2343,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
