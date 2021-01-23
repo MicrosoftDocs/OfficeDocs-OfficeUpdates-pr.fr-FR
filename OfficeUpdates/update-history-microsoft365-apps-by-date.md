@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 042d0dd2267b94d06d3b55c4cfd5f50f2229448e
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: fb018221e9a2024823d0426b390dc19180a653d2
+ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837555"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49934422"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -36,7 +36,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2012<br/>|13530.20376<br/>|12 Janvier 2021<br/>|Publication de la version 2101<br/>|
+|Canal actuel<br/>|2012<br/>|13530.20440<br/>|21 janvier 2021<br/>|Publication de la version 2101<br/>|
 |Canal Entreprise mensuel<br/>|2011<br/>|13426.20526<br/>|12 Janvier 2021<br/>|9 mars 2021<br/>|
 |Canal Entreprise mensuel<br/>|2010<br/>|13328.20550<br/>|12 Janvier 2021<br/>|9 février 2021<br/>|
 |Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.21064<br/>|12 Janvier 2021<br/>|9 mars 2021<br/>|
@@ -56,6 +56,7 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|21 janvier|[Version 2012 (build 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021|12 janvier|[Version 2012 (Build 13530.20376)](current-channel.md#version-2012-january-12)|[Version 2011 (Build 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[Version 2010 (Build 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[Version 2008 (Build 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[Version 2008 (Build 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[Version 2002 (Build 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[Version 1908 (Build 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|
 |2021|05 janvier|[Version 2012 (build 13530.20316)](current-channel.md#version-2012-january-05)| | | |
 |2020|21 décembre|[Version 2011 (build 13426.20404)](current-channel.md#version-2011-december-21)| | | |
