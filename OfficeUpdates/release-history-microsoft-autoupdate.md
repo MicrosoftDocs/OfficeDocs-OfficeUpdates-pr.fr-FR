@@ -1,5 +1,5 @@
 ---
-title: Historique des versions de Microsoft Auto Update (MAU)
+title: Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -8,25 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: Fournit aux professionnels de l’informatique un historique des versions de Microsoft Auto Update (MAU)
-ms.openlocfilehash: 5250255af7fe776e7f8ed07a7d5987076fc08079
-ms.sourcegitcommit: 053560beb18fc8b527e2be661b165e0034e3b1bf
+description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
+ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
+ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49849489"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "49943274"
 ---
-# <a name="release-history-for-microsoft-auto-update-mau"></a>Historique des versions de Microsoft Auto Update (MAU)
+# <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
-Nous vous recommandons de toujours effectuer la mise à jour vers la dernière version de Microsoft Auto Update (MAU).
+Nous vous recommandons de toujours effectuer la mise à jour vers la dernière version de la mise à jour automatique Microsoft (AutoUpdate).
 
-Le tableau suivant fournit des informations sur l’historique des versions de Microsoft Auto Update (MAU). Le tableau est organisé par date de publication, la plus récente apparaissant en premier. Tous les packages de mise à jour représentent 64 bits.
+Le tableau suivant fournit des informations sur l’historique des versions de la mise à jour automatique Microsoft (AutoUpdate). Le tableau est organisé par date de publication, la plus récente apparaissant en premier. Tous les packages de mise à jour représentent 64 bits.
 
 
 > [!NOTE]
 > 
-> - Les liens de téléchargement sont uniquement fournis pour la version la plus récente de Microsoft Auto Update (MAU)
-> - Microsoft Auto Update (MAU) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour Microsoft Auto Update (MAU), même si vous n’utilisez pas Office pour Mac.
+> - Les liens de téléchargement sont uniquement fournis pour la version la plus récente de la mise à jour automatique Microsoft (AutoUpdate)
+> - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
 
@@ -34,10 +34,10 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 **Date de publication :** 13 janvier 2020
 
-*Microsoft Auto Update 4.31*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.31*
 
 **Résolution de bogues et améliorations :**
-- Pour les appareils qui n’utilisent pas les mises à jour automatiques, Microsoft Auto Update est désormais informé des nouvelles mises à jour via une notification au lieu d’ouvrir l’interface utilisateur de Microsoft Auto Update.
+- Pour les appareils qui n’utilisent pas les mises à jour automatiques, la mise à jour automatique Microsoft (AutoUpdate) est désormais informé des nouvelles mises à jour via une notification au lieu d’ouvrir l’interface utilisateur de Microsoft Auto Update.
 
 [Télécharger le package Microsoft Auto Update 4.31](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
 <br/>
@@ -51,7 +51,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 **Date de publication :** 15 décembre 2020
 
-*Microsoft Auto Update 4.30*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.30*
 
 **Résolution de bogues et améliorations :**
 - Ajoute le support de l’application Universal pour les Mac avec M1.
@@ -71,7 +71,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 **Date de publication:** 10 novembre 2020
 
-*Mise à jour Automatique Microsoft 4.29*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.29*
 
 **Résolution de bogues et améliorations :**
 -   Mise à jour des noms de canaux pour Microsoft 365.
@@ -91,7 +91,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 **Date de publication :** 13 octobre 2020
 
-*Microsoft Auto Update 4.28*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.28*
 
 **Résolution de bogues et améliorations :**
 -   Interface utilisateur de MAU : la vue récapitulative indique à présent que l’utilisateur doit accorder toute son attention aux erreurs
@@ -112,7 +112,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 **Date de publication :** 16 septembre 2020
 
-*Microsoft Auto Update 4.27*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.27*
 
 **Résolution de bogues et améliorations :**
 -   L'assistant de mise à jour MAU lancera désormais les mises à jour derrière un écran verrouillé même si le cycle de contrôle régulier n'est pas atteint.
@@ -131,7 +131,7 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 **Date de publication :** 11 août 2020
 
-*Mise à jour automatique Microsoft 4.26*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.26*
 
 **Résolution de bogues et améliorations :**
 -   L'icône MAU dans le dock affiche désormais le nombre de mises à jour disponibles. 
@@ -155,11 +155,11 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 **Date de publication :** 14 juillet 2020
 
-*Mise à jour automatique Microsoft 4.25*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.25*
 
 **Résolution de bogues et améliorations :**
 - Détecter l'arrêt de l'application et supprimer automatiquement la boîte de dialogue affichée liée à « ouvrir l'application ».
-- La fonctionnalité introduite dans la version d'avril a été rétablie : les utilisateurs dont les mises à jour automatiques sont désactivées ne verront l'interface utilisateur de Microsoft Auto Update qu'une fois par semaine.
+- La fonctionnalité introduite dans la version d'avril a été rétablie : les utilisateurs dont les mises à jour automatiques sont désactivées ne verront l'interface utilisateur de Microsoft AutoUpdate qu'une fois par semaine.
 - Résolution d'un problème où l'Assistant de mise à jour s'arrêtait avant le début de l'installation, après le chargement des mises à jour.
 - Résolution d’un problème dans lequel l’Assistant Mise à jour ne s’est pas arrêté après une durée prolongée lorsque les notifications de l’utilisateur étaient en attente.
 - Résolution d'un problème où l'interface utilisateur MAU se rouvrait (ou ne se rouvrait pas) après l'installation. L’interface utilisateur doit s’ouvrir après l’installation si la mise à jour est lancée à partir de l’interface utilisateur MAU proprement dite, ou si une mise à jour est déclenchée explicitement par l’utilisateur (via Finder, terminal, etc.).
@@ -174,10 +174,10 @@ B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
 
 **Date de publication :** 18 juin 2020
 
-*Mise à jour automatique Microsoft 4.24*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.24*
 
 **Résolution de bogues et améliorations :**
-- Campagne de messages aux clients : Office for Mac 2016 sera retiré du support en octobre 2020. 
+- Campagne de messages aux clients : Microsoft Office pour Mac 2016 sera retiré du support en octobre 2020. 
 - Correctif de sécurité pour la connexion XPC de l'outil d'aide MAU.
 
 **Code de hachage SHA-256 :**
@@ -190,11 +190,11 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **Date de publication :** 12 mai 2020
 
-*Microsoft Auto Update 4.23*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.23*
 
 **Résolution de bogues et améliorations :**
-- Pour les appareils utilisant MacOS 10.13 ou version ultérieure et les versions d’Office 2016, les utilisateurs verront les notifications d’Office 2016 à la fin du support. 
-- Si les applications Word, Excel et PowerPoint n’ont pas de fenêtre ouverte et que l’appareil est en mode de mise à jour automatique Microsoft (MAU), les utilisateurs n’auront pas besoin de quitter ces applications pour appliquer les mises à jour. 3. Microsoft Auto Update actualise automatiquement son tableau de bord de mise à jour avec les versions les plus récentes sur le réseau de distribution de contenu (CDN), sans qu’il soit nécessaire de l’actualiser ou de lancer une nouvelle session Auto Update. 
+- Pour les appareils utilisant macOS 10.13 ou version ultérieure et les versions d’Office 2016, les utilisateurs verront les notifications d’Office 2016 à la fin du support. 
+- Si les applications Word, Excel et PowerPoint n’ont pas de fenêtre ouverte et que l’appareil est en mode de mise à jour automatique Microsoft (AutoUpdate), les utilisateurs n’auront pas besoin de quitter ces applications pour appliquer les mises à jour. Microsoft AutoUpdate actualise automatiquement son tableau de bord de mise à jour avec les versions les plus récentes sur le réseau de distribution de contenu (CDN), sans qu’il soit nécessaire de l’actualiser ou de lancer une nouvelle session AutoUpdate. 
 
 **Code de hachage SHA-256 :**
 
@@ -206,10 +206,10 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **Date de publication :** 21 avril 2020
 
-*Microsoft AutoUpdate 4.22*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.22*
 
-**Résolution de bogues et améliorations :**
-- L’interface utilisateur de Microsoft Auto Update (MAU) n’apparaîtra pas sur les appareils qui mettent à jour leurs applications Office via le mode « Automatique » de la fonctionnalité, ni sur les appareils qui utilisent le mode non automatique lorsqu’aucune nouvelle mise à jour n’est disponible.
+**Correctifs et Améliorations de bogues:**
+- L’interface utilisateur de la fonctionnalité Mise à jour automatique Microsoft (AutoUpdate) n’apparaîtra pas sur les appareils qui mettent à jour leurs applications Office via le mode « Automatique » de la fonctionnalité, ni sur les appareils qui utilisent le mode non automatique lorsqu’aucune nouvelle mise à jour n’est disponible.
 
 **Code de hachage SHA-256 :**
 
@@ -219,13 +219,13 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **Date de publication :** 14 avril 2020
 
-*Microsoft AutoUpdate 4.22*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.22*
 
  **Mises à jour des fonctionnalités :**
 
-- Correctif de sécurité : Microsoft Auto Update empêche toute connexion non sécurisée à partir de versions antérieures.
-- Les utilisateurs disposant de mises à jour automatiques peuvent voir l’interface utilisateur de Microsoft Auto Update une seule fois par semaine.
-- Les ordinateurs MacOS disposant de disques SSD peuvent bénéficier de mises à jour plus rapides et d’une interruption d’application négligeable en raison de mises à jour.
+- Correctif de sécurité : Microsoft AutoUpdate empêche toute connexion non sécurisée à partir de versions antérieures.
+- Les utilisateurs disposant de mises à jour automatiques peuvent voir l’interface utilisateur de Microsoft AutoUpdate une seule fois par semaine.
+- Les ordinateurs macOS disposant de disques SSD peuvent bénéficier de mises à jour plus rapides et d’une interruption d’application négligeable en raison de mises à jour.
 
 
 Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0984)
@@ -239,11 +239,11 @@ Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/fr-FR/security-guida
 
 **Date de publication :** 10 mars 2020
 
-*Mise à jour automatique Microsoft 4.21*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.21*
 
  **Mises à jour des fonctionnalités :**
 
-- Restauration de l’état activé pour Word, Excel et PowerPoint, exécutée sans fenêtre ouverte, ou en exécutant l’état Docstage, en mode de mise à jour automatique de Microsoft Auto Update. Les mises à jour seront désormais encore plus silencieuses pour les utilisateurs finaux en mode de Mise à jour automatique, car ils n’ont pas besoin de quitter leurs applications qui sont éligibles pour la mise à jour via la Restauration de l’état.
+- Restauration de l’état activé pour Word, Excel et PowerPoint, exécutée sans fenêtre ouverte, ou en exécutant l’état Docstage, en mode de mise à jour automatique de la Mise à jour automatique Microsoft. Les mises à jour seront désormais encore plus silencieuses pour les utilisateurs finaux en mode de Mise à jour automatique, car ils n’ont pas besoin de quitter leurs applications qui sont éligibles pour la mise à jour via la Restauration de l’état.
 
 **Code de hachage SHA-256 :**
 
@@ -254,11 +254,11 @@ Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/fr-FR/security-guida
 
 **Date de publication :** 11 février 2020
 
-*Microsoft AutoUpdate 4.20*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.20*
 
  **Mises à jour des fonctionnalités :**
 
-- L’interface utilisateur de Microsoft Auto Update démarre uniquement si au moins 1 application sur l’appareil est inscrit auprès de Microsoft Auto Update
+- L’interface utilisateur de Microsoft AutoUpdate démarre uniquement si au moins 1 application sur l’appareil est inscrit auprès de Microsoft AutoUpdate
 - Résolution de bogues et améliorations
 
 **Code de hachage SHA-256 :**
@@ -269,7 +269,7 @@ Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/fr-FR/security-guida
 
 **Date de publication :** 14 janvier 2020
 
-*Microsoft Auto Update 4.19*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.19*
 
  **Mises à jour des fonctionnalités :**
 
@@ -283,7 +283,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **Date de publication :** 10 décembre 2019
 
-*Mise à jour automatique Microsoft 4.18*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.18*
 
  **Mises à jour des fonctionnalités :**
 
@@ -301,8 +301,8 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
  **Mises à jour des fonctionnalités :**
 
-- Les nouveautés de chaque mise à jour majeure peuvent désormais être affichées sur le tableau de bord Microsoft Auto Update.
-- La configuration minimale requise pour les mises à jour du système d’exploitation pour Office 2019 a été modifiée sur macOS 10.13 suite à publication de Catalina et nous avertissons les utilisateurs de la mise à jour pour disposer des dernières versions d’Office.
+- Les nouveautés de chaque mise à jour majeure peuvent désormais être affichées sur le tableau de bord Microsoft AutoUpdate.
+- La configuration minimale requise pour les mises à jour du système d’exploitation pour Office 2019 a été modifiée sur macOS 10.13 suite à publication de Catalina. Les utilisateurs seront informés de la mise à niveau vers les dernières mises à jour d’Office.
 
 **Code de hachage SHA-256 :**
 
@@ -316,7 +316,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
  **Mises à jour des fonctionnalités :**
 
-- Lorsque vous démarrez Microsoft Auto Update (MAU) 4.16, la nouvelle expérience améliorée pour l’utilisateur final est désormais disponible pour tous les clients.
+- Lorsque vous démarrez la mise à jour automatique Microsoft (AutoUpdate) 4.16, la nouvelle expérience améliorée pour l’utilisateur final est désormais disponible pour tous les clients.
 
 **Code de hachage SHA-256 :**
 
@@ -325,7 +325,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **Date de publication :** 10 septembre 2019
 
-*Mise à jour automatique Microsoft 4.15*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.15*
 
  **Mises à jour des fonctionnalités :**
 
@@ -340,7 +340,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **Date de publication :** 13 août 2019
 
-*Mise à jour automatique Microsoft (AutoUpdate) 4.14*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.14*
 
  **Mises à jour des fonctionnalités :**
 
@@ -370,7 +370,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **Date de publication :** 27 juin 2019
 
-*Microsoft AutoUpdate 4.12*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.12*
 
  **Mises à jour des fonctionnalités :**
 
@@ -383,13 +383,13 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **Date de publication :** 9 juin 2019
 
-*Microsoft AutoUpdate 4.12*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.12*
 
  **Mises à jour des fonctionnalités :**
 
-- Mises à jour delta binaires : pour les dispositifs SSD, déploiement de plus petites mises à jour, réduisant ainsi la consommation de bande passante due aux mises à jour.
+- Mises à jour delta binaires : des mises à jour plus petites sont disponibles pour les appareils SSD, réduisant ainsi la consommation de bande passante due aux mises à jour.
 - Prise en charge d’applications accessoires : MAU prend désormais en charge les applications accessoire, telles que Microsoft OneDrive.
-- Améliorations de l’installation sur des clones : la mise à jour des clones est désormais plus robuste et infaillible.
+- Améliorations de l’installation sur des clones : la mise à jour des clones est désormais plus robuste.
 
 **Code de hachage SHA-256 :**
 
@@ -401,7 +401,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 
 **Date de publication :** 14 mai 2019
 
-*Microsoft AutoUpdate 4.11*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.11*
 
  **Mises à jour des fonctionnalités :**
 
@@ -418,12 +418,12 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 
 **Date de publication :** 16 avril 2019
 
-*Microsoft AutoUpdate 4.10*
+*Mise à jour automatique Microsoft (AutoUpdate) 4.10*
 
  **Mises à jour des fonctionnalités :**
 
 - Améliorations de la fonctionnalité d’installation sur un clone : pour les appareils SSD, les mises à jour seront déployées sur un clone des applications utilisées, réduisant ainsi le temps d’arrêt des applications en raison des mises à jour.
-- Optimisations au niveau de l’installation : le processus de mise à jour utilise désormais le clonage parallélisé, de telle sorte que le temps d’arrêt des applications dues aux mises à jour est réduit.
+- Optimisation des installations : le temps d'arrêt des applications sera réduit car le processus de mise à jour utilisera le clonage parallélisé.
 
 **Code de hachage SHA-256 :**
 
@@ -475,7 +475,7 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 |5 janvier 2016  <br/> |3.4.0  <br/> |[ARTICLE 3133674 DE LA BASE DE CONNAISSANCES MICROSOFT](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
 
 
-## <a name="related-topics"></a>Voir aussi
+## <a name="related-articles"></a>Articles connexes
 
 - [Historique mises à jour pour Office pour Mac](update-history-office-for-mac.md)
 - [Notes de mise à jour pour Office pour Mac](release-notes-office-for-mac.md) 
