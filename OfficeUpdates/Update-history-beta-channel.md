@@ -9,247 +9,250 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider rapide pour ordinateur de bureau Windows
-ms.openlocfilehash: b24da533833f1ef126635e89ed39284175c6ecba
-ms.sourcegitcommit: 7a563552c335a03092271f454be4b4e05d4a0d01
+ms.openlocfilehash: 77411efa38083a7a2c91e23c8f2c322fa5dfb561
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49912521"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013265"
 ---
-# <a name="update-history-for-office-beta-channel"></a><span data-ttu-id="9e1b2-103">Historique des mises à jour pour le canal bêta d’Office</span><span class="sxs-lookup"><span data-stu-id="9e1b2-103">Update history for Office Beta Channel</span></span>
+# <a name="update-history-for-office-beta-channel"></a><span data-ttu-id="f5b82-103">Historique des mises à jour pour le canal bêta d’Office</span><span class="sxs-lookup"><span data-stu-id="f5b82-103">Update history for Office Beta Channel</span></span>
 
-<span data-ttu-id="9e1b2-p101">Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Insider, vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
+<span data-ttu-id="f5b82-p101">Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Insider, vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.</span><span class="sxs-lookup"><span data-stu-id="f5b82-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
 
 > [!IMPORTANT]
-> - <span data-ttu-id="9e1b2-107">Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-107">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="9e1b2-108">Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span><span class="sxs-lookup"><span data-stu-id="9e1b2-108">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
-> - <span data-ttu-id="9e1b2-109">Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-109">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="9e1b2-110">Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="9e1b2-110">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span> <span data-ttu-id="9e1b2-111">Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-111">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
+> - <span data-ttu-id="f5b82-107">Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants.</span><span class="sxs-lookup"><span data-stu-id="f5b82-107">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="f5b82-108">Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span><span class="sxs-lookup"><span data-stu-id="f5b82-108">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).</span></span>
+> - <span data-ttu-id="f5b82-109">Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004.</span><span class="sxs-lookup"><span data-stu-id="f5b82-109">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="f5b82-110">Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="f5b82-110">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span> <span data-ttu-id="f5b82-111">Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.</span><span class="sxs-lookup"><span data-stu-id="f5b82-111">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
 
 > [!NOTE]
 >
-> - <span data-ttu-id="9e1b2-112">L’historique de mise à jour ici répertorie tous les builds publiés</span><span class="sxs-lookup"><span data-stu-id="9e1b2-112">The Update History here lists all builds released</span></span>
-> - <span data-ttu-id="9e1b2-113">Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu'au numéro de build publié des notes de publication.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-113">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
+> - <span data-ttu-id="f5b82-112">L’historique de mise à jour ici répertorie tous les builds publiés</span><span class="sxs-lookup"><span data-stu-id="f5b82-112">The Update History here lists all builds released</span></span>
+> - <span data-ttu-id="f5b82-113">Les notes de publication sont mises à jour à une cadence plus lente et peuvent être une compilation des mises à jour pour plusieurs builds jusqu'au numéro de build publié des notes de publication.</span><span class="sxs-lookup"><span data-stu-id="f5b82-113">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
 
-## <a name="office-beta-channel-versions-and-builds"></a><span data-ttu-id="9e1b2-114">Versions et builds du canal bêta d’Office</span><span class="sxs-lookup"><span data-stu-id="9e1b2-114">Office Beta Channel versions and builds</span></span>
+## <a name="office-beta-channel-versions-and-builds"></a><span data-ttu-id="f5b82-114">Versions et builds du canal bêta d’Office</span><span class="sxs-lookup"><span data-stu-id="f5b82-114">Office Beta Channel versions and builds</span></span>
 
-<span data-ttu-id="9e1b2-115">Si vous êtes inscrit au programme Insider, vous recevez fréquemment des mises à jour offrant de nouvelles fonctionnalités et améliorations.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-115">If you're enrolled in the Insider level you get frequent updates with new features and improvements.</span></span> <span data-ttu-id="9e1b2-116">La liste suivante énumère les versions et builds du canal bêta, **du plus récent au plus ancien**.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-116">The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**.</span></span> <span data-ttu-id="9e1b2-117">Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-117">New builds contain all the updates contained in previous builds.</span></span>
+<span data-ttu-id="f5b82-115">Si vous êtes inscrit au programme Insider, vous recevez fréquemment des mises à jour offrant de nouvelles fonctionnalités et améliorations.</span><span class="sxs-lookup"><span data-stu-id="f5b82-115">If you're enrolled in the Insider level you get frequent updates with new features and improvements.</span></span> <span data-ttu-id="f5b82-116">La liste suivante énumère les versions et builds du canal bêta, **du plus récent au plus ancien**.</span><span class="sxs-lookup"><span data-stu-id="f5b82-116">The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**.</span></span> <span data-ttu-id="f5b82-117">Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents.</span><span class="sxs-lookup"><span data-stu-id="f5b82-117">New builds contain all the updates contained in previous builds.</span></span>
 
-<span data-ttu-id="9e1b2-118">Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).</span><span class="sxs-lookup"><span data-stu-id="9e1b2-118">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/OfficeUpdates/beta-channel).</span></span>
+<span data-ttu-id="f5b82-118">Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).</span><span class="sxs-lookup"><span data-stu-id="f5b82-118">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/OfficeUpdates/beta-channel).</span></span>
 
 
 [//]: # (NE PAS SUPPRIMER)
 
-<span data-ttu-id="9e1b2-120">**19 Janvier 2021**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-120">**January 19, 2021**</span></span><br/>
-<span data-ttu-id="9e1b2-121">Version 2102 (Build 13714.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-121">Version 2102 (Build 13714.20000)</span></span><br/>
+<span data-ttu-id="f5b82-120">**26 janvier 2021**</span><span class="sxs-lookup"><span data-stu-id="f5b82-120">**January 26, 2021**</span></span><br/>
+<span data-ttu-id="f5b82-121">Version 2102 (Build 13721.20008)</span><span class="sxs-lookup"><span data-stu-id="f5b82-121">Version 2102 (Build 13721.20008)</span></span><br/>
 
-<span data-ttu-id="9e1b2-122">**11 janvier 2021**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-122">**January 11, 2021**</span></span><br/>
-<span data-ttu-id="9e1b2-123">Version 2102 (build 13707.20008)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-123">Version 2102 (Build 13707.20008)</span></span><br/>
+<span data-ttu-id="f5b82-122">**19 Janvier 2021**</span><span class="sxs-lookup"><span data-stu-id="f5b82-122">**January 19, 2021**</span></span><br/>
+<span data-ttu-id="f5b82-123">Version 2102 (Build 13714.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-123">Version 2102 (Build 13714.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-124">**06 janvier 2021**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-124">**January 06, 2021**</span></span><br/>
-<span data-ttu-id="9e1b2-125">Version 2102 (build 13704.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-125">Version 2102 (Build 13704.20000)</span></span><br/>
+<span data-ttu-id="f5b82-124">**11 janvier 2021**</span><span class="sxs-lookup"><span data-stu-id="f5b82-124">**January 11, 2021**</span></span><br/>
+<span data-ttu-id="f5b82-125">Version 2102 (build 13707.20008)</span><span class="sxs-lookup"><span data-stu-id="f5b82-125">Version 2102 (Build 13707.20008)</span></span><br/>
 
-<span data-ttu-id="9e1b2-126">**4 janvier, 2021**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-126">**January 04, 2021**</span></span><br/>
-<span data-ttu-id="9e1b2-127">Version 2101 (build 13628.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-127">Version 2101 (Build 13628.20000)</span></span><br/>
+<span data-ttu-id="f5b82-126">**06 janvier 2021**</span><span class="sxs-lookup"><span data-stu-id="f5b82-126">**January 06, 2021**</span></span><br/>
+<span data-ttu-id="f5b82-127">Version 2102 (build 13704.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-127">Version 2102 (Build 13704.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-128">**28 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-128">**December 28, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-129">Version 2101 (build 13624.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-129">Version 2101 (Build 13624.20002)</span></span><br/>
+<span data-ttu-id="f5b82-128">**4 janvier, 2021**</span><span class="sxs-lookup"><span data-stu-id="f5b82-128">**January 04, 2021**</span></span><br/>
+<span data-ttu-id="f5b82-129">Version 2101 (build 13628.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-129">Version 2101 (Build 13628.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-130">**21 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-130">**December 21, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-131">Version 2101 (build 13617.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-131">Version 2101 (Build 13617.20002)</span></span><br/>
+<span data-ttu-id="f5b82-130">**28 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-130">**December 28, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-131">Version 2101 (build 13624.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-131">Version 2101 (Build 13624.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-132">**14 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-132">**December 14, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-133">Version 2101 (build 13610.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-133">Version 2101 (Build 13610.20002)</span></span><br/>
+<span data-ttu-id="f5b82-132">**21 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-132">**December 21, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-133">Version 2101 (build 13617.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-133">Version 2101 (Build 13617.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-134">**07 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-134">**December 07, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-135">Version 2101 (build 13604.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-135">Version 2101 (Build 13604.20000)</span></span><br/>
+<span data-ttu-id="f5b82-134">**14 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-134">**December 14, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-135">Version 2101 (build 13610.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-135">Version 2101 (Build 13610.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-136">**02 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-136">**December 02, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-137">Version 2012 (build 13530.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-137">Version 2012 (Build 13530.20000)</span></span><br/>
+<span data-ttu-id="f5b82-136">**07 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-136">**December 07, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-137">Version 2101 (build 13604.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-137">Version 2101 (Build 13604.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-138">**30 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-138">**November 30, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-139">Version 2012 (build 13524.20004)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-139">Version 2012 (Build 13524.20004)</span></span><br/>
+<span data-ttu-id="f5b82-138">**02 décembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-138">**December 02, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-139">Version 2012 (build 13530.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-139">Version 2012 (Build 13530.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-140">**23 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-140">**November 23, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-141">Version 2012 (build 13519.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-141">Version 2012 (Build 13519.20000)</span></span><br/>
+<span data-ttu-id="f5b82-140">**30 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-140">**November 30, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-141">Version 2012 (build 13524.20004)</span><span class="sxs-lookup"><span data-stu-id="f5b82-141">Version 2012 (Build 13524.20004)</span></span><br/>
 
-<span data-ttu-id="9e1b2-142">**16 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-142">**November 16, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-143">Version 2012 (build 13512.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-143">Version 2012 (Build 13512.20000)</span></span><br/>
+<span data-ttu-id="f5b82-142">**23 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-142">**November 23, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-143">Version 2012 (build 13519.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-143">Version 2012 (Build 13519.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-144">**11 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-144">**November 11, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-145">Version 2012 (Build 13510.20004)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-145">Version 2012 (Build 13510.20004)</span></span><br/>
+<span data-ttu-id="f5b82-144">**16 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-144">**November 16, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-145">Version 2012 (build 13512.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-145">Version 2012 (Build 13512.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-146">**9 Novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-146">**November 09, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-147">Version 2012 (build 13505.20004)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-147">Version 2012 (Build 13505.20004)</span></span><br/>
+<span data-ttu-id="f5b82-146">**11 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-146">**November 11, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-147">Version 2012 (Build 13510.20004)</span><span class="sxs-lookup"><span data-stu-id="f5b82-147">Version 2012 (Build 13510.20004)</span></span><br/>
 
-<span data-ttu-id="9e1b2-148">**2 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-148">**November 02, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-149">Version 2012 (build 13430.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-149">Version 2012 (Build 13430.20000)</span></span><br/>
+<span data-ttu-id="f5b82-148">**9 Novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-148">**November 09, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-149">Version 2012 (build 13505.20004)</span><span class="sxs-lookup"><span data-stu-id="f5b82-149">Version 2012 (Build 13505.20004)</span></span><br/>
 
-<span data-ttu-id="9e1b2-150">**28 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-150">**October 28, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-151">Version 2011 (build 13426.20004)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-151">Version 2011 (Build 13426.20004)</span></span><br/>
+<span data-ttu-id="f5b82-150">**2 novembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-150">**November 02, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-151">Version 2012 (build 13430.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-151">Version 2012 (Build 13430.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-152">**26 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-152">**October 26, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-153">Version 2011 (build 13422.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-153">Version 2011 (Build 13422.20000)</span></span><br/>
+<span data-ttu-id="f5b82-152">**28 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-152">**October 28, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-153">Version 2011 (build 13426.20004)</span><span class="sxs-lookup"><span data-stu-id="f5b82-153">Version 2011 (Build 13426.20004)</span></span><br/>
 
-<span data-ttu-id="9e1b2-154">**19 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-154">**October 19, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-155">Version 2011 (build 13415.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-155">Version 2011 (Build 13415.20002)</span></span><br/>
+<span data-ttu-id="f5b82-154">**26 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-154">**October 26, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-155">Version 2011 (build 13422.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-155">Version 2011 (Build 13422.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-156">**12 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-156">**October 12, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-157">Version 2011 (build 13408.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-157">Version 2011 (Build 13408.20000)</span></span><br/>
+<span data-ttu-id="f5b82-156">**19 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-156">**October 19, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-157">Version 2011 (build 13415.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-157">Version 2011 (Build 13415.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-158">**Octobre 07 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-158">**October 07, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-159">Version 2011 (build 13406.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-159">Version 2011 (Build 13406.20000)</span></span><br/>
+<span data-ttu-id="f5b82-158">**12 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-158">**October 12, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-159">Version 2011 (build 13408.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-159">Version 2011 (Build 13408.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-160">**5 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-160">**October 05, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-161">Version 2011 (build 13402.20004)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-161">Version 2011 (Build 13402.20004)</span></span><br/>
+<span data-ttu-id="f5b82-160">**Octobre 07 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-160">**October 07, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-161">Version 2011 (build 13406.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-161">Version 2011 (Build 13406.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-162">**30 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-162">**September 30, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-163">Version 2010 (Build 13328.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-163">Version 2010 (Build 13328.20000)</span></span><br/>
+<span data-ttu-id="f5b82-162">**5 octobre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-162">**October 05, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-163">Version 2011 (build 13402.20004)</span><span class="sxs-lookup"><span data-stu-id="f5b82-163">Version 2011 (Build 13402.20004)</span></span><br/>
 
-<span data-ttu-id="9e1b2-164">**28 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-164">**September 28, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-165">Version 2010 (Build 13324.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-165">Version 2010 (Build 13324.20000)</span></span><br/>
+<span data-ttu-id="f5b82-164">**30 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-164">**September 30, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-165">Version 2010 (Build 13328.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-165">Version 2010 (Build 13328.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-166">**21 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-166">**September 21, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-167">Version 2010 (Build 13318.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-167">Version 2010 (Build 13318.20000)</span></span><br/>
+<span data-ttu-id="f5b82-166">**28 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-166">**September 28, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-167">Version 2010 (Build 13324.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-167">Version 2010 (Build 13324.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-168">**15 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-168">**September 15, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-169">Version 2010 (Build 13312.20006)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-169">Version 2010 (Build 13312.20006)</span></span><br/>
+<span data-ttu-id="f5b82-168">**21 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-168">**September 21, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-169">Version 2010 (Build 13318.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-169">Version 2010 (Build 13318.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-170">**Septembre 07, 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-170">**September 07, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-171">Version 2010 (build 13304.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-171">Version 2010 (Build 13304.20000)</span></span><br/>
+<span data-ttu-id="f5b82-170">**15 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-170">**September 15, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-171">Version 2010 (Build 13312.20006)</span><span class="sxs-lookup"><span data-stu-id="f5b82-171">Version 2010 (Build 13312.20006)</span></span><br/>
 
-<span data-ttu-id="9e1b2-172">**02 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-172">**September 02, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-173">Version 2010 (Build 13301.20004)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-173">Version 2010 (Build 13301.20004)</span></span><br/>
+<span data-ttu-id="f5b82-172">**Septembre 07, 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-172">**September 07, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-173">Version 2010 (build 13304.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-173">Version 2010 (Build 13304.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-174">**31 août 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-174">**August 31, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-175">Version 2009 (Build 13226.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-175">Version 2009 (Build 13226.20002)</span></span><br/>
+<span data-ttu-id="f5b82-174">**02 septembre 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-174">**September 02, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-175">Version 2010 (Build 13301.20004)</span><span class="sxs-lookup"><span data-stu-id="f5b82-175">Version 2010 (Build 13301.20004)</span></span><br/>
 
-<span data-ttu-id="9e1b2-176">**24 août 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-176">**August 24, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-177">Version 2009 (build 13219.20004)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-177">Version 2009 (Build 13219.20004)</span></span><br/>
+<span data-ttu-id="f5b82-176">**31 août 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-176">**August 31, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-177">Version 2009 (Build 13226.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-177">Version 2009 (Build 13226.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-178">**17 août 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-178">**August 17, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-179">Version 2009 (Build 13212.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-179">Version 2009 (Build 13212.20000)</span></span><br/>
+<span data-ttu-id="f5b82-178">**24 août 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-178">**August 24, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-179">Version 2009 (build 13219.20004)</span><span class="sxs-lookup"><span data-stu-id="f5b82-179">Version 2009 (Build 13219.20004)</span></span><br/>
 
-<span data-ttu-id="9e1b2-180">**10 août 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-180">**August 10, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-181">Version 2009 (Build 13205.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-181">Version 2009 (Build 13205.20000)</span></span><br/>
+<span data-ttu-id="f5b82-180">**17 août 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-180">**August 17, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-181">Version 2009 (Build 13212.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-181">Version 2009 (Build 13212.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-182">**03 août 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-182">**August 03, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-183">Version 2009 (Build 13130.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-183">Version 2009 (Build 13130.20000)</span></span><br/>
+<span data-ttu-id="f5b82-182">**10 août 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-182">**August 10, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-183">Version 2009 (Build 13205.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-183">Version 2009 (Build 13205.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-184">**29 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-184">**July 29, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-185">Version 2008 (build 13127.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-185">Version 2008 (Build 13127.20002)</span></span><br/>
+<span data-ttu-id="f5b82-184">**03 août 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-184">**August 03, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-185">Version 2009 (Build 13130.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-185">Version 2009 (Build 13130.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-186">**21 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-186">**July 21, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-187">Version 2008 (Build 13117.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-187">Version 2008 (Build 13117.20000)</span></span><br/>
+<span data-ttu-id="f5b82-186">**29 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-186">**July 29, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-187">Version 2008 (build 13127.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-187">Version 2008 (Build 13127.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-188">**16 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-188">**July 16, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-189">Version 2008 (build 13115.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-189">Version 2008 (Build 13115.20000)</span></span><br/>
+<span data-ttu-id="f5b82-188">**21 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-188">**July 21, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-189">Version 2008 (Build 13117.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-189">Version 2008 (Build 13117.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-190">**07 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-190">**July 07, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-191">Version 2008 (build 13102.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-191">Version 2008 (Build 13102.20002)</span></span><br/>
+<span data-ttu-id="f5b82-190">**16 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-190">**July 16, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-191">Version 2008 (build 13115.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-191">Version 2008 (Build 13115.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-192">**01 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-192">**July 01, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-193">Version 2007 (build 13029.20006)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-193">Version 2007 (Build 13029.20006)</span></span><br/>
+<span data-ttu-id="f5b82-192">**07 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-192">**July 07, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-193">Version 2008 (build 13102.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-193">Version 2008 (Build 13102.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-194">**29 Juin 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-194">**June 29, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-195">Version 2007 (build 13025.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-195">Version 2007 (Build 13025.20000)</span></span><br/>
+<span data-ttu-id="f5b82-194">**01 juillet 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-194">**July 01, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-195">Version 2007 (build 13029.20006)</span><span class="sxs-lookup"><span data-stu-id="f5b82-195">Version 2007 (Build 13029.20006)</span></span><br/>
 
-<span data-ttu-id="9e1b2-196">**23 Juin 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-196">**June 23, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-197">Version 2007 (build 13020.20004)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-197">Version 2007 (Build 13020.20004)</span></span><br/>
+<span data-ttu-id="f5b82-196">**29 Juin 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-196">**June 29, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-197">Version 2007 (build 13025.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-197">Version 2007 (Build 13025.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-198">**15 juin 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-198">**June 15, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-199">Version 2007 (build 13012.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-199">Version 2007 (Build 13012.20000)</span></span><br/>
+<span data-ttu-id="f5b82-198">**23 Juin 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-198">**June 23, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-199">Version 2007 (build 13020.20004)</span><span class="sxs-lookup"><span data-stu-id="f5b82-199">Version 2007 (Build 13020.20004)</span></span><br/>
 
-<span data-ttu-id="9e1b2-200">**09 juin 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-200">**June 09, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-201">Version 2007 (build 13006.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-201">Version 2007 (Build 13006.20002)</span></span><br/>
+<span data-ttu-id="f5b82-200">**15 juin 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-200">**June 15, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-201">Version 2007 (build 13012.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-201">Version 2007 (Build 13012.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-202">**03 Juin 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-202">**June 03, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-203">Version 2006 (build 13001.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-203">Version 2006 (Build 13001.20002)</span></span><br/>
+<span data-ttu-id="f5b82-202">**09 juin 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-202">**June 09, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-203">Version 2007 (build 13006.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-203">Version 2007 (Build 13006.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-204">**01 Juin 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-204">**June 01, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-205">Version 2006 (build 12930.20014)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-205">Version 2006 (Build 12930.20014)</span></span><br/>
+<span data-ttu-id="f5b82-204">**03 Juin 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-204">**June 03, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-205">Version 2006 (build 13001.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-205">Version 2006 (Build 13001.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-206">**25 Mai 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-206">**May 25, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-207">Version 2006 (build 12920.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-207">Version 2006 (Build 12920.20000)</span></span><br/>
+<span data-ttu-id="f5b82-206">**01 Juin 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-206">**June 01, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-207">Version 2006 (build 12930.20014)</span><span class="sxs-lookup"><span data-stu-id="f5b82-207">Version 2006 (Build 12930.20014)</span></span><br/>
 
-<span data-ttu-id="9e1b2-208">**18 Mai 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-208">**May 18, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-209">Version 2006 (build 12914.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-209">Version 2006 (Build 12914.20000)</span></span><br/>
+<span data-ttu-id="f5b82-208">**25 Mai 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-208">**May 25, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-209">Version 2006 (build 12920.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-209">Version 2006 (Build 12920.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-210">**11 mai 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-210">**May 11, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-211">Version 2006 (build 12905.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-211">Version 2006 (Build 12905.20000)</span></span><br/>
+<span data-ttu-id="f5b82-210">**18 Mai 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-210">**May 18, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-211">Version 2006 (build 12914.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-211">Version 2006 (Build 12914.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-212">**4 mai 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-212">**May 04, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-213">Version 2006 (build 12829.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-213">Version 2006 (Build 12829.20000)</span></span><br/>
+<span data-ttu-id="f5b82-212">**11 mai 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-212">**May 11, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-213">Version 2006 (build 12905.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-213">Version 2006 (Build 12905.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-214">**29 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-214">**April 29, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-215">Version 2005 (build 12827.20030)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-215">Version 2005 (Build 12827.20030)</span></span><br/>
+<span data-ttu-id="f5b82-214">**4 mai 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-214">**May 04, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-215">Version 2006 (build 12829.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-215">Version 2006 (Build 12829.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-216">**27 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-216">**April 27, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-217">Version 2005 (build 12823.20010)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-217">Version 2005 (Build 12823.20010)</span></span><br/>
+<span data-ttu-id="f5b82-216">**29 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-216">**April 29, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-217">Version 2005 (build 12827.20030)</span><span class="sxs-lookup"><span data-stu-id="f5b82-217">Version 2005 (Build 12827.20030)</span></span><br/>
 
-<span data-ttu-id="9e1b2-218">**22 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-218">**April 22, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-219">Version 2005 (build 12816.20006)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-219">Version 2005 (Build 12816.20006)</span></span><br/>
+<span data-ttu-id="f5b82-218">**27 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-218">**April 27, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-219">Version 2005 (build 12823.20010)</span><span class="sxs-lookup"><span data-stu-id="f5b82-219">Version 2005 (Build 12823.20010)</span></span><br/>
 
-<span data-ttu-id="9e1b2-220">**20 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-220">**April 20, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-221">Version 2005 (build 12816.20000) (restaurée)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-221">Version 2005 (Build 12816.20000) (Rolled back)</span></span> <br/>
+<span data-ttu-id="f5b82-220">**22 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-220">**April 22, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-221">Version 2005 (build 12816.20006)</span><span class="sxs-lookup"><span data-stu-id="f5b82-221">Version 2005 (Build 12816.20006)</span></span><br/>
 
-<span data-ttu-id="9e1b2-222">**14 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-222">**April 14, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-223">Version 2005 (build 12810.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-223">Version 2005 (Build 12810.20002)</span></span><br/>
+<span data-ttu-id="f5b82-222">**20 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-222">**April 20, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-223">Version 2005 (build 12816.20000) (restaurée)</span><span class="sxs-lookup"><span data-stu-id="f5b82-223">Version 2005 (Build 12816.20000) (Rolled back)</span></span> <br/>
 
-<span data-ttu-id="9e1b2-224">**05 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-224">**April 05, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-225">Version 2004 (build 12730.20024)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-225">Version 2004 (Build 12730.20024)</span></span><br/>
+<span data-ttu-id="f5b82-224">**14 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-224">**April 14, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-225">Version 2005 (build 12810.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-225">Version 2005 (Build 12810.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-226">**30 mars 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-226">**March 30, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-227">Version 2004 (build 12725.20006) (restaurée)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-227">Version 2004 (Build 12725.20006) (Rolled back)</span></span> <br/>
+<span data-ttu-id="f5b82-226">**05 avril 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-226">**April 05, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-227">Version 2004 (build 12730.20024)</span><span class="sxs-lookup"><span data-stu-id="f5b82-227">Version 2004 (Build 12730.20024)</span></span><br/>
 
-<span data-ttu-id="9e1b2-228">**23 mars 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-228">**March 23, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-229">Version 2004 (build 12718.20010)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-229">Version 2004 (Build 12718.20010)</span></span><br/>
+<span data-ttu-id="f5b82-228">**30 mars 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-228">**March 30, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-229">Version 2004 (build 12725.20006) (restaurée)</span><span class="sxs-lookup"><span data-stu-id="f5b82-229">Version 2004 (Build 12725.20006) (Rolled back)</span></span> <br/>
 
-<span data-ttu-id="9e1b2-230">**13 mars 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-230">**March 13, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-231">Version 2004 (build 12711.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-231">Version 2004 (Build 12711.20000)</span></span><br/>
+<span data-ttu-id="f5b82-230">**23 mars 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-230">**March 23, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-231">Version 2004 (build 12718.20010)</span><span class="sxs-lookup"><span data-stu-id="f5b82-231">Version 2004 (Build 12718.20010)</span></span><br/>
 
-<span data-ttu-id="9e1b2-232">**9 mars 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-232">**March 09, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-233">Version 2004 (build 12703.20010)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-233">Version 2004 (Build 12703.20010)</span></span><br/>
+<span data-ttu-id="f5b82-232">**13 mars 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-232">**March 13, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-233">Version 2004 (build 12711.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-233">Version 2004 (Build 12711.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-234">**1er mars 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-234">**March 01, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-235">Version 2003 (build 12624.20086)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-235">Version 2003 (Build 12624.20086)</span></span><br/>
+<span data-ttu-id="f5b82-234">**9 mars 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-234">**March 09, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-235">Version 2004 (build 12703.20010)</span><span class="sxs-lookup"><span data-stu-id="f5b82-235">Version 2004 (Build 12703.20010)</span></span><br/>
 
-<span data-ttu-id="9e1b2-236">**24 février 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-236">**February 24, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-237">Version 2003 (build 12619.20002)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-237">Version 2003 (Build 12619.20002)</span></span><br/>
+<span data-ttu-id="f5b82-236">**1er mars 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-236">**March 01, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-237">Version 2003 (build 12624.20086)</span><span class="sxs-lookup"><span data-stu-id="f5b82-237">Version 2003 (Build 12624.20086)</span></span><br/>
 
-<span data-ttu-id="9e1b2-238">**18 février 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-238">**February 18, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-239">Version 2003 (build 12615.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-239">Version 2003 (Build 12615.20000)</span></span><br/>
+<span data-ttu-id="f5b82-238">**24 février 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-238">**February 24, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-239">Version 2003 (build 12619.20002)</span><span class="sxs-lookup"><span data-stu-id="f5b82-239">Version 2003 (Build 12619.20002)</span></span><br/>
 
-<span data-ttu-id="9e1b2-240">**11 Février 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-240">**February 11, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-241">Version 2003 (build 12607.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-241">Version 2003 (Build 12607.20000)</span></span><br/>
+<span data-ttu-id="f5b82-240">**18 février 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-240">**February 18, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-241">Version 2003 (build 12615.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-241">Version 2003 (Build 12615.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-242">**31 janvier 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-242">**January 31, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-243">Version 2002 (build 12527.20040)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-243">Version 2002 (Build 12527.20040)</span></span><br/>
+<span data-ttu-id="f5b82-242">**11 Février 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-242">**February 11, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-243">Version 2003 (build 12607.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-243">Version 2003 (Build 12607.20000)</span></span><br/>
 
-<span data-ttu-id="9e1b2-244">**27 janvier 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-244">**January 27, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-245">Version 2002 (build 12513.20010)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-245">Version 2002 (Build 12513.20010)</span></span><br/>
+<span data-ttu-id="f5b82-244">**31 janvier 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-244">**January 31, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-245">Version 2002 (build 12527.20040)</span><span class="sxs-lookup"><span data-stu-id="f5b82-245">Version 2002 (Build 12527.20040)</span></span><br/>
 
-<span data-ttu-id="9e1b2-246">**14 janvier 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-246">**January 14, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-247">Version 2002 (build 12508.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-247">Version 2002 (Build 12508.20000)</span></span><br/>
+<span data-ttu-id="f5b82-246">**27 janvier 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-246">**January 27, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-247">Version 2002 (build 12513.20010)</span><span class="sxs-lookup"><span data-stu-id="f5b82-247">Version 2002 (Build 12513.20010)</span></span><br/>
 
-<span data-ttu-id="9e1b2-248">**6 janvier 2020**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-248">**January 06, 2020**</span></span><br/>
-<span data-ttu-id="9e1b2-249">Version 2001 (build 12430.20000)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-249">Version 2001 (Build 12430.20000)</span></span><br/>
+<span data-ttu-id="f5b82-248">**14 janvier 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-248">**January 14, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-249">Version 2002 (build 12508.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-249">Version 2002 (Build 12508.20000)</span></span><br/>
 
+<span data-ttu-id="f5b82-250">**6 janvier 2020**</span><span class="sxs-lookup"><span data-stu-id="f5b82-250">**January 06, 2020**</span></span><br/>
+<span data-ttu-id="f5b82-251">Version 2001 (build 12430.20000)</span><span class="sxs-lookup"><span data-stu-id="f5b82-251">Version 2001 (Build 12430.20000)</span></span><br/>
 
 
-## <a name="insider-community"></a><span data-ttu-id="9e1b2-250">Communauté Insider</span><span class="sxs-lookup"><span data-stu-id="9e1b2-250">Insider community</span></span>
 
-<span data-ttu-id="9e1b2-251">![Image montrant la communauté Insider.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-251">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
-<span data-ttu-id="9e1b2-252">**Communauté Office Insider**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-252">**Office Insider community**</span></span><br/> <span data-ttu-id="9e1b2-253">Si vous voulez discuter avec d’autres participants au programme Insider, publiez des posts dans notre communauté.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-253">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="9e1b2-254"> 
-[Visiter la communauté](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-254"> 
+## <a name="insider-community"></a><span data-ttu-id="f5b82-252">Communauté Insider</span><span class="sxs-lookup"><span data-stu-id="f5b82-252">Insider community</span></span>
+
+<span data-ttu-id="f5b82-253">![Image montrant la communauté Insider.</span><span class="sxs-lookup"><span data-stu-id="f5b82-253">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
+<span data-ttu-id="f5b82-254">**Communauté Office Insider**</span><span class="sxs-lookup"><span data-stu-id="f5b82-254">**Office Insider community**</span></span><br/> <span data-ttu-id="f5b82-255">Si vous voulez discuter avec d’autres participants au programme Insider, publiez des posts dans notre communauté.</span><span class="sxs-lookup"><span data-stu-id="f5b82-255">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="f5b82-256"> 
+[Visiter la communauté](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="f5b82-256"> 
 [Visit the community](https://go.microsoft.com/fwlink/?linkid=843493)</span></span><br/> 
 
-<span data-ttu-id="9e1b2-255">![Image montrant l’icône Twitter.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-255">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
-<span data-ttu-id="9e1b2-256">**Office Insider sur Twitter**</span><span class="sxs-lookup"><span data-stu-id="9e1b2-256">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="9e1b2-257">Sur @OfficeInsider, nous publions fréquemment des posts sur les versions Insider et hébergeons des événements spéciaux pour les participants au programme Insider.</span><span class="sxs-lookup"><span data-stu-id="9e1b2-257">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="9e1b2-258"> 
-[Suivez-nous sur Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-258"> 
+<span data-ttu-id="f5b82-257">![Image montrant l’icône Twitter.</span><span class="sxs-lookup"><span data-stu-id="f5b82-257">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
+<span data-ttu-id="f5b82-258">**Office Insider sur Twitter**</span><span class="sxs-lookup"><span data-stu-id="f5b82-258">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="f5b82-259">Sur @OfficeInsider, nous publions fréquemment des posts sur les versions Insider et hébergeons des événements spéciaux pour les participants au programme Insider.</span><span class="sxs-lookup"><span data-stu-id="f5b82-259">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="f5b82-260"> 
+[Suivez-nous sur Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="f5b82-260"> 
 [Follow us on Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span></span><br/> 
 
-<span data-ttu-id="9e1b2-259">[![Image montrant l’icône Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-259">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
+<span data-ttu-id="f5b82-261">[![Image montrant l’icône Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="f5b82-261">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
 
 
-<span data-ttu-id="9e1b2-260">**Obtenir d’abord de nouvelles fonctionnalités**
-[Rejoindre Office Insider](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="9e1b2-260">**Get new features first**
+<span data-ttu-id="f5b82-262">**Obtenir d’abord de nouvelles fonctionnalités**
+[Rejoindre Office Insider](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="f5b82-262">**Get new features first**
 [Join Office Insiders](https://insider.office.com/)</span></span>
