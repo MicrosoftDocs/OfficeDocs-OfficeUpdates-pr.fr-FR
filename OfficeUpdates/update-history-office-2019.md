@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: f1209ee3059dd63e5f5bfd9c5be9230b9a3504ce
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 51483c9e4f31e4ded3f277a8a5a7a16caebd0ce0
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934402"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013225"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -89,12 +89,12 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|
 |:-----|:-----|
+|26 janvier 2021|Version 2101 (Build 13628.20274)|
 |21 janvier 2021|Version 2012 (build 13530.20440)|
 |12 Janvier 2021|Version 2012 (Build 13530.20376)|
 |5 janvier 2021|Version 2012 (build 13530.20316)|
 |21 décembre 2020|Version 2011 (build 13426.20404)|
 |8 décembre 2020|Version 2011 (Build 13426,20332)|
-|2 décembre 2020|Version 2011 (build 13426.20308)|
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU TABLEAU DE VENTE AU DÉTAIL)
@@ -108,6 +108,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|
 |:-----|:-----|
+|2 décembre 2020|Version 2011 (build 13426.20308)|
 |30 novembre 2020|Version 2011 (build 13426.20294)|
 |23 novembre 2020|Version 2011 (build 13426.20274)|
 |17 novembre 2020|Version 2010 (build 13328.20408)|
