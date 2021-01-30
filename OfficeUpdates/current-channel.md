@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 5fab650e5b8ebb66b1507e889a744a95c3322809
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013285"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032299"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -47,8 +47,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
 
-- 
-  **Clients gouvernementaux : Appliquez des étiquettes de sensibilité à vos documents et e-mails :** Les fonctions d'étiquetage de sensibilité sont désormais disponibles pour les clients des environnements GCC et GCC-H (en savoir plus -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -60,22 +59,19 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
 
-- 
-  **Clients gouvernementaux : Appliquez des étiquettes de sensibilité à vos documents et e-mails :** Les fonctions d'étiquetage de sensibilité sont désormais disponibles pour les clients des environnements GCC et GCC-H (en savoir plus -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
 
-- 
-  **Clients gouvernementaux : Appliquez des étiquettes de sensibilité à vos documents et e-mails :** Les fonctions d'étiquetage de sensibilité sont désormais disponibles pour les clients des environnements GCC et GCC-H (en savoir plus -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
 
-- 
-  **Clients gouvernementaux : Appliquez des étiquettes de sensibilité à vos documents et e-mails :** Les fonctions d'étiquetage de sensibilité sont désormais disponibles pour les clients des environnements GCC et GCC-H (en savoir plus -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -89,8 +85,6 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - Correction d'un problème qui empêchait Excel de se lancer ou de se fermer de manière inattendue si certains paramètres de protection contre l'exploitation de Windows Security (SimExec, CallerCheck) étaient utilisés
 
-
-### <a name="excelexe"></a>excel.exe
 
 - Nous avons corrigé un problème qui a entraîné la rupture de certaines macros Excel 4.0 et Excel 5.0 ainsi que de certains appels VBA à dialogsheets.show.
 
@@ -1494,7 +1488,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="outlook"></a>Outlook
 
-- **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Grâce au calendrier épinglé au volet To-Do, rejoignez une réunion d’un simple clic.
+- **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Grâce au calendrier épinglé au volet To-Do, rejoignez une réunion d’un simple clic. [En savoir plus](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **Nouvelles images pour donner vie à vos messages :** des milliers d'images, d'icônes et d'autocollants libres de droits que vous pouvez utiliser dans vos messages . Accédez à Insérer > Images > Images d’archives pour commencer. [En savoir plus](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
