@@ -40,11 +40,11 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Partager dans Teams** : partager un courrier électronique ou une conversation depuis Outlook avec une personne ou un canal dans Teams.
+- **Partager dans Teams** : partagez un e-mail ou une conversation depuis Outlook avec une personne ou un canal dans Teams.
 
 ### <a name="visio"></a>Visio
 
-- **Graphismes prêts à l’élaboration de diagrammes** : faites votre choix parmi une grande bibliothèque d’icônes, d’images de photos de stock, de vignettes de personnes et d’autocollants que vous pouvez ajouter à vos dessins Visio. [En savoir plus](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
+- **Graphiques prédéfinis pour vos diagrammes** : faites votre choix dans une bibliothèque complète d’icônes, d’images de photos stockées, de vignettes de personnes et d’autocollants que vous pouvez ajouter à vos dessins Visio. [En savoir plus](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -56,12 +56,12 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="project"></a>Project
 
-- Correction d’un problème où lorsqu’une ressource de type Coût est affectée à une tâche jalon, le coût de référence n’est pas correctement pris en charge.
+- Correction d’un problème de prise en charge du coût de référence, survenant lors de l’affectation d’une ressource de type Coût à une tâche jalon.
 
 
 ### <a name="word"></a>Word
 
-- Correction d’une défaillance lorsque l’exécution de la macro VBA ExportAsFixedFormat2 échoue avec une erreur indiquant « Présentation (membre inconnu) valeur illégale ».
+- Correction d’une défaillance provoquant un échec de l’exécution de la macro VBA ExportAsFixedFormat2 et l’affichage d’un message d’erreur indiquant « Présentation (membre inconnu) valeur illégale ».
 
 
 
