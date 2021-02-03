@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
-ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
+ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
+ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878737"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50054506"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -31,6 +31,85 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
+## <a name="version-2102-january-29"></a>Version 2102 : 29 janvier
+*Version 2102 (build 13721.20008)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème où Excel s'arrêtait inopinément lorsque vous ajoutiez un nom dans la boîte de dialogue Définir le nom.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui causait l’échec de l’affichage de l’icône de chiffrement pour les messages électroniques envoyés à l’aide de l’option Chiffrer seulement.
+
+### <a name="project"></a>Projet
+
+- Correction d’un problème pour lequel les projets avec de longs noms cyrilliques ne pouvaient pas être ouverts via le Centre de projets.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2102-january-22"></a>Version 2102 : 22 janvier
+*Version 2102 (build 13714.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résout le problème de chargement de certains graphiques utilisant des plages discontinues de cellules lors de la ouverture de fichiers.
+
+
+- Corrige un problème concernant Excel, qui ne se lançait pas ou se bloquait de manière inattendue, si certains paramètres de protection contre les exploitations de la sécurité Windows (SimExec, CallerCheck) étaient utilisés
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème lié à l’affichage des emojis avec de la couleur.
+
+
+### <a name="word"></a>Word
+
+
+- Ceci corrige un problème qui empêchait la restauration de la saisie et de la présence en temps réel après avoir perdu la connectivité Internet pendant un certain temps.
+
+
+- Nous avons résolu un problème de co-création.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
 ## <a name="version-2102-january-15"></a>Version 2102 : 15 janvier
 *Version 2102 (build 13707.20008)*
 
@@ -40,11 +119,11 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Partager dans Teams** : partagez un e-mail ou une conversation depuis Outlook avec une personne ou un canal dans Teams.
+- **Partager dans Teams** : partager un courrier électronique ou une conversation depuis Outlook avec une personne ou un canal dans Teams.
 
 ### <a name="visio"></a>Visio
 
-- **Graphiques prédéfinis pour vos diagrammes** : faites votre choix dans une bibliothèque complète d’icônes, d’images de photos stockées, de vignettes de personnes et d’autocollants que vous pouvez ajouter à vos dessins Visio. [En savoir plus](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
+- **Graphismes prêts à l’élaboration de diagrammes** : faites votre choix parmi une grande bibliothèque d’icônes, d’images de photos de stock, de vignettes de personnes et d’autocollants que vous pouvez ajouter à vos dessins Visio. [En savoir plus](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -56,12 +135,12 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="project"></a>Project
 
-- Correction d’un problème de prise en charge du coût de référence, survenant lors de l’affectation d’une ressource de type Coût à une tâche jalon.
+- Correction d’un problème où lorsqu’une ressource de type Coût est affectée à une tâche jalon, le coût de référence n’est pas correctement pris en charge.
 
 
 ### <a name="word"></a>Word
 
-- Correction d’une défaillance provoquant un échec de l’exécution de la macro VBA ExportAsFixedFormat2 et l’affichage d’un message d’erreur indiquant « Présentation (membre inconnu) valeur illégale ».
+- Correction d’une défaillance lorsque l’exécution de la macro VBA ExportAsFixedFormat2 échoue avec une erreur indiquant « Présentation (membre inconnu) valeur illégale ».
 
 
 
@@ -2333,6 +2412,8 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
@@ -2341,6 +2422,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
