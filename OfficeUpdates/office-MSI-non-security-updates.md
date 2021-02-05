@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: a27f237ebfa45bc00503ae56680c3082c6e05af0
-ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
+ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
+ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756753"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080945"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -26,6 +26,19 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
 
+## <a name="february-2-2021"></a>2 février 2021
+**Office 2016**<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4493189](https://support.microsoft.com/help/4493189)) </br> Mise à jour pour Microsoft Outlook 2016 ([KB4493190](https://support.microsoft.com/help/4493190)) </br> Mise à jour pour Microsoft PowerPoint 2016 ([KB4493164](https://support.microsoft.com/help/4493164)) </br> 
+
+**Office 2013**<br/>
+Mise à jour pour Microsoft Office 2013 ([KB4486684](https://support.microsoft.com/help/4486684)) </br>
+Mise à jour pour Microsoft PowerPoint 2013 ([KB4493169](https://support.microsoft.com/help/4493169)) </br>
+
+**Office 2010**<br/>
+Mise à jour pour Microsoft Office 2010 ([KB4493180](https://support.microsoft.com/help/4493180)) </br>
+Mise à jour pour Microsoft PowerPoint 2010 ([KB4493179](https://support.microsoft.com/help/4493179))</br>
+
+
 ## <a name="january-5-2021"></a>5 janvier 2021
 **Office 2016**</br>
 Mise à jour pour Microsoft Access 2016 ([KB4484509](https://support.microsoft.com/help/4484509)) </br>
@@ -35,7 +48,7 @@ Mise à jour pour Microsoft Project 2016 ([KB4493159](https://support.microsoft
 
 
 ## <a name="december-1-2020"></a>1er décembre 2020
-**Office 2016**<br/>
+**Office 2016**<br/>
 Mise à jour pour Skype Entreprise 2016 ([KB4486745](https://support.microsoft.com/help/4486745)) <br/>
 Mise à jour pour Microsoft Office 2016 ([KB4486746](https://support.microsoft.com/help/4486746)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486747](https://support.microsoft.com/help/4486747)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486668](https://support.microsoft.com/help/4486668)) <br/>
 Mise à jour pour Microsoft Project 2016 ([KB4486749](https://support.microsoft.com/help/4486749)) <br/> Mise à jour pour Microsoft Publisher 2016 ([KB4484334](https://support.microsoft.com/help/4484334)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486716](https://support.microsoft.com/help/4486716)) <br/> Mise à jour pour Microsoft Visio 2016 ([KB4486709](https://support.microsoft.com/help/4486709)) <br/>
