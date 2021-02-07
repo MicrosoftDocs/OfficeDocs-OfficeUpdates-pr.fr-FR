@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101362"
+ms.locfileid: "50105216"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -78,16 +78,11 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 - **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
+
 ### <a name="word"></a>Word
 
 - **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
-
-<br/>
-
-[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+
 
 ## <a name="version-2101-january-18"></a>Version 2101 : 18 janvier
 *Version 2101 (build 13628.20158)*
@@ -122,6 +119,19 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2101-january-13"></a>Version 2021 : 13 janvier
+*Version 2101 (build 13628.20118)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+- **Plus de thèmes :** De nouveaux thèmes sont désormais disponibles pour les clients des ordinateurs de bureau et du web.
+
+- **Partage PPT :** Vue du présentateur dans les équipes Une fois que vous avez sélectionné un fichier PowerPoint dans la zone de partage Teams, la vue du présentateur s'ouvre automatiquement. Vous pouvez voir la diapositive en cours, les notes de la diapositive, et une bande de vignettes de toutes les diapositives du jeu pour une navigation ad-hoc facile. Cette vue est complètement en coulisses, et elle est privée au présentateur qui en a le contrôle. Votre public ne peut voir que votre diapositive actuelle (surlignée dans le grand encadré rouge), ou la diapositive vers laquelle il choisit de naviguer (si la navigation du public n'est pas verrouillée par vous). 
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+<br/>
 
 ## <a name="version-2101-january-09"></a>Version 2101 : 09 janvier
 *Version 2101 (build 13628.20118)*
