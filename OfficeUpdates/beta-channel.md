@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
-ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
+ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50054506"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118384"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,65 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2102-february-05"></a>Version 2102 : 05 février
+*Version 2102 (build 13801.20004)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Les onglets sélectionnés sont désormais plus claires dans Access.
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème pour lequel Excel cessait de répondre après la sélection d’une série de données dans un graphique.
+
+
+- Nous avons résolu un problème pour lequel le fait d’appuyer sur Entrer avec certains claviers sur Android ajoutait une nouvelle ligne plutôt que de passer à la cellule suivante.
+
+
+- Correction d’un problème lié au fait que les images conservent leurs proportions pendant un rognage.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui envoyait les messages électroniques à être signés numériquement après que l’utilisateur a désactivé cette option.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème lié au fait que les images conservent leurs proportions pendant un rognage.
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème lié au fait que les images conservent leurs proportions pendant un rognage.
+
+
+- Nous avons résolu un problème pour lequel le commentaire peut être tronqué avec des liens.
+
+
+- Nous avons résolu un problème de mode conflit lors de la co-édition.
+
+
+- Nous avons résolu un problème d'enregistrement sur SharePoint Online
+
+
+- Nous avons résolu un problème d'exportation de documents Word au format PDF.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction d’un problème pour lequel Office présentait dans certains cas des étiquettes de confidentialité pour un compte signé alors qu’il devait présenter des étiquettes de confidentialité pour un autre compte signé.
+
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
 ## <a name="version-2102-january-29"></a>Version 2102 : 29 janvier
 *Version 2102 (build 13721.20008)*
@@ -2412,6 +2471,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
@@ -2421,5 +2481,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
