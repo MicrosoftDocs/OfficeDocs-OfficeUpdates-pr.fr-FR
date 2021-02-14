@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: 260219b731e1edcb3b02ecc5a45e330b2ac4b0ca
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032315"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173653"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notes de publication pour le Canal Entreprise semestriel
 
@@ -29,6 +29,89 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2008-february-09"></a>Version 2008 : 9 septembre
+*Version 2008 (build 13127.21216)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Résolution d’un problème dans lequel Excel se fermerait de façon inattendue lors de l’ouverture des fichiers UNC qui ont des attributs de fichier non valides (heure de création, heure de modification, etc.)
+
+
+- Nous avons résolu un problème pour lequel les paramètres de séparateurs de décimales et de milliers n’étaient pas pris en compte lors de la copie d’un graphique Excel et du copier-coller dans Word ou PowerPoint.
+
+
+- Nous avons résolu un problème pour lequel les performances d’exécution d’une macro avec la mise en forme de plage de tableau croisé dynamique seraient pire à chaque exécution de la macro.
+
+
+- Nous avons résolu un problème pour lequel les règles de mise en forme conditionnelle étaient abandonnées lors de la copie ou du déplacement de feuilles vers un autre classeur.
+
+
+- Nous avons résolu un problème pour lequel les utilisateurs ne pouvaient pas appliquer d’étiquettes de niveau de sécurité aux fichiers Excel lorsque l’écran d’accueil du démarrage de l’application était désactivé.
+
+
+- Nous avons résolu un problème lors de l’ouverture d’un fichier cloud à partir du dossier de synchronisation OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème : Outlook cessait sporadiquement de fonctionner lors de l’ajout ou de l’enregistrement de pièces jointes.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème dans lequel la commande de taille de police, ajoutée dans QAT, s’exécutait automatiquement à la taille de police définie la plus proche lors de sa mise à jour.
+
+
+- Correction d’un problème pour lequel le copier-coller d’une diapositive avec l’option « Conserver la mise en forme source » copiait parfois le texte sur un nouveau masque des diapositives de façon inattendue
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans le Suivi des Modifications, ce qui peut afficher une boîte de dialogue d’erreur à l’ouverture d’un document Word  .
+
+
+- Nous avons résolu un problème lors de l’ouverture d’un fichier cloud à partir du dossier de synchronisation OneDrive.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction d’un problème qui empêchait la réussite de l’ouverture d’un fichier dans Office.
+
+
+- Correction d’un problème pour lequel des documents contenant des croquis appliqués à des connecteurs via l’application Mise en forme pouvaient être endommagés.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
+
+## <a name="version-2002-february-09"></a>Version 2002 : 9 février
+*Version 2002 (build 12527.21594)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="office-suite"></a>Suite Office
+
+- Correction d’un problème pour lequel des documents contenant des croquis appliqués à des connecteurs via l’application Mise en forme pouvaient être endommagés.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
+
+## <a name="version-1908-february-09"></a>Version 1908 : 9 février
+*Version 1908 (build 11929.21008)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-january-12"></a>Version 2008 : 12 janvier
 *Version 2008 (build 13127.21064)*
@@ -2566,6 +2649,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)

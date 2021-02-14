@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: 51483c9e4f31e4ded3f277a8a5a7a16caebd0ce0
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 6c75ca375c3039bf5dbb11f6831cc5495fa198fc
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013225"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173823"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -47,12 +47,12 @@ Les informations suivantes s’appliquent aux versions d’Office 2019 sous lic
 
 |**Date de sortie**|**Numéro de version**|
 |:-----|:-----|
+|9 février 2021|Version 1808 (build 10371.20060)|
 |12 Janvier 2021|Version 1808 (Build 10370.20052)|
 |8 décembre 2020|Version 1808 (Build 10369,20032)|
 |10 novembre 2020|Version 1808 (build 10368.20035)|
 |13 octobre 2020|Version 1808 (build 10367.20048)|
 |8 septembre 2020|Version 1808 (Build 10366.20016)|
-|11 août 2020|Version 1808 (Build 10364.20059)|
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU TABLEAU VL)
@@ -66,6 +66,7 @@ Les informations suivantes s’appliquent aux versions d’Office 2019 sous lic
 
 |**Date de sortie**|**Numéro de version**|
 |:-----|:-----|
+|11 août 2020|Version 1808 (Build 10364.20059)|
 |14 juillet 2020   |Version 1808 (Build 10363.20015)  |
 |09 juin 2020   |Version 1808 (Build 10361.20002)  |
 |12 mai 2020   |Version 1808 (build 10359.20023)  |

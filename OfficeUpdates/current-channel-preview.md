@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
-ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
+ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
+ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50105216"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50151962"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,106 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2102-february-08"></a>Version 2102 : 08 février
+*Version 2102 (build 13801.20084)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Suggestions de composition (À\Cc\Cci) optimisées par la Recherche Microsoft** La Recherche Microsoft optimise à présent l’ajout de personnes à la ligne À\Cc.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Les onglets sélectionnés sont désormais plus claires dans Access.
+
+
+### <a name="excel"></a>Excel
+
+- Résout le problème de chargement de certains graphiques utilisant des plages discontinues de cellules lors de la ouverture de fichiers.
+
+
+- Correction d'un problème qui empêchait Excel de se lancer ou de se fermer de manière inattendue si certains paramètres de protection contre l'exploitation de Windows Security (SimExec, CallerCheck) sont utilisés.
+
+
+- Nous avons résolu un problème ou Excel cessait de répondre après la sélection d’une série de données dans un graphique.
+
+
+- Nous avons résolu un problème où Excel s'arrêtait inopinément lorsque vous ajoutiez un nom dans la boîte de dialogue Définir le nom.
+
+
+- Correction d’un problème lié au fait que les images conservent leurs proportions pendant un rognage.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui envoyait les messages électroniques à être signés numériquement après que l’utilisateur a désactivé cette option.
+
+
+- Nous avons résolu un problème qui causait l’échec de l’affichage de l’icône de chiffrement pour les e-mails envoyés à l’aide de l’option Chiffrer seulement.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème lié à l’affichage des emojis avec de la couleur.
+
+
+- Correction d’un problème lié au fait que les images conservent leurs proportions pendant un rognage.
+
+
+### <a name="visio"></a>Visio
+
+- Nous avons à présent résolu ce problème de rendu des formes depuis des gabarits de CAO. Les utilisateur constateront que nous avons résolu le problème dans la dernière version.
+
+
+### <a name="word"></a>Word
+
+- Ceci corrige un problème qui empêchait la restauration de la saisie et de la présence en temps réel après une perte de connectivité Internet pendant un certain temps.
+
+
+- Lorsqu’un utilisateur sélectionne du texte dans un commentaire, Word désélectionne à présent le texte sélectionné dans les autres commentaires.
+
+
+- Word autorise à présent la copie du texte d’un commentaire dans Excel.
+
+
+- Nous avons résolu un problème où l’exécution de la macro VBA ExportAsFixedFormat2 échouait avec une erreur indiquant « Présentation (membre inconnu) valeur illégale ».
+
+
+- Correction d’un problème lié au fait que les images conservent leurs proportions pendant un rognage.
+
+
+- Nous avons résolu un problème pour lequel le commentaire peut être tronqué avec des liens.
+
+
+- Nous avons résolu un problème d'enregistrement sur SharePoint Online
+
+
+- Nous avons résolu un problème d'exportation de documents Word au format PDF.
+
+
+- Nous avons résolu un problème avec la Récupération automatique.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Résolution d’un bogue dans PowerPoint : l’insertion de puces sous forme d’images entraînait la disparition des puces. Ce correctif permet un rendu plus fiable.
+
+- Correction d’un problème pour lequel Office présentait dans certains cas des étiquettes de confidentialité pour un compte signé alors qu’il devait présenter des étiquettes de confidentialité pour un autre compte signé.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
 ## <a name="version-2101-february-03"></a>Version 2101 : février 03
 *Version 2101 (Build 13628.20330)*

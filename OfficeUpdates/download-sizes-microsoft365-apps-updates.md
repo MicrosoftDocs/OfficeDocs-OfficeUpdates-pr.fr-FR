@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
-ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
+ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50108016"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173743"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -36,14 +36,13 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+## <a name="february-9-2021"></a>9 février 2021
 
-## <a name="february-4-2021"></a>4 février 2021
-
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 9 février 2021)
 
 ### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
 
-<i>La version prévue est la version 2012 (build 13530.20510).</i>
+La version la plus récente est la version 2012 (build 13530.20528).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -53,7 +52,7 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semi-annuel (préversion)
 
-<i>La version prévue est la version 2008 (build 13127.21184).</i>
+La version la plus récente est la version 2008 (Build 13127.21216).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -63,7 +62,7 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semestriel
 
-<i>La version prévue est la version 2008 (build 13127.21184).</i>
+La version la plus récente est la version 2008 (build 13127.21216).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -71,7 +70,10 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 |Version 2002 (build 12527.21416) <br/> |8 décembre 2020 <br/> |363<br/> |
 
 
-[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU 9 février 2021)
+
+
+
 
 ## <a name="january-26-2021"></a>26 janvier 2021
 
