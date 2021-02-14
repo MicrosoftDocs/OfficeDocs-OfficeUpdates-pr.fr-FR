@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 853e398dab1e6eb040afbf5ccd6dbacd9fe6a9ea
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173743"
+ms.locfileid: "50177926"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -39,6 +39,16 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 ## <a name="february-9-2021"></a>9 février 2021
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 9 février 2021)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2101 (build 13628.20380).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2101 (Build 13628.20274) <br/> |26 janvier 2021 <br/> |62<br/> |
+|Version 2012 (build 13530.20440) <br/> |21 janvier 2021 <br/> |203<br/> |
+
 
 ### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
 
