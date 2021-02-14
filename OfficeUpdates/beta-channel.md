@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
-ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
+ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
+ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50118384"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50242042"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,57 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2103-february-12"></a>Version 2103 : 12 Février
+*Version 2103 (build 13806.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Suggestions de composition (À\Cc\Cci) optimisées par la Recherche Microsoft** La Recherche Microsoft optimise à présent l’ajout de personnes à la ligne À\Cc.
+
+- **La dictée est disponible dans d’autres langues :** dictée prend désormais en charge 7 nouvelles langues : hindi, russe, polonais, portugais (Portugal), coréen, thaï, chinois (Taïwan)
+
+### <a name="word"></a>Word
+
+- **La dictée est disponible dans d’autres langues :** dictée prend désormais en charge 7 nouvelles langues : hindi, russe, polonais, portugais (Portugal), coréen, thaï, chinois (Taïwan)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d'un problème où Excel se fermait parfois de manière inattendue en essayant de montrer la carte des types de données parce qu'il n'était pas possible de récupérer une image.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Résout un problème de boucles d’animations et de signets audio.
+
+### <a name="project"></a>Projet
+
+- Nous avons résolu un problème pour lequel une tâche achevée à 100 % était achevée à 99 %.
+
+- Correction d’un problème pour lequel Project peut se fermer inopinément si vous exécutez JAWS et que vous allez à la boîte de dialogue d’informations sur la tâche.
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans l’écoute automatique.
+
+
+- Nous avons résolu un problème de résolution des conflits lors de la co-édition.
+
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
 ## <a name="version-2102-february-05"></a>Version 2102 : 05 février
 *Version 2102 (build 13801.20004)*
@@ -2471,6 +2522,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
@@ -2480,5 +2532,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
