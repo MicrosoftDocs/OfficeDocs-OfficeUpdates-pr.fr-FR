@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 853e398dab1e6eb040afbf5ccd6dbacd9fe6a9ea
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 255209ce47ba6194b972a8edb908e75b3a18b96e
+ms.sourcegitcommit: 22b0fb80adf158717f43f07a1d6e18ec91618fb4
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177926"
+ms.lasthandoff: 02/17/2021
+ms.locfileid: "50279811"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -35,6 +35,22 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="february-16-2021"></a>16 février 2021
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 17 février 2021)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2101 (Build 13628.20448).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2101 (Build 13628.20380) <br/> |9 février 2021 <br/> |160<br/> |
+|Version 2101 (Build 13628.20274) <br/> |26 janvier 2021 <br/> |63<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU 17 février 2021)
 
 ## <a name="february-9-2021"></a>9 février 2021
 
@@ -542,7 +558,7 @@ La version 2002 est la plus récente (Build 12527.21104).
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Aperçu des canaux de mise à jour pour les applications Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)](update-history-office365-proplus-by-date.md)
 

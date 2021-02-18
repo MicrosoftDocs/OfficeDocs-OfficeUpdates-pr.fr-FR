@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: 5e63a6441de32b956a7e25e6bc0026d6fd485f2a
-ms.sourcegitcommit: 38acc55545cbeccd16603b7f731dc41a26e4a5ea
+ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
+ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49863201"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50263932"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -51,6 +51,66 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 
 
+
+
+
+## <a name="february-16-2021"></a>16 février 2021
+*Version 16.46 (build 21021202)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/fr-FR/microsoft-365/compliance/sensitivity-labels)
+
+- **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
+
+### <a name="outlook"></a>Outlook
+
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/fr-FR/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
+
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/fr-FR/microsoft-365/compliance/sensitivity-labels)
+
+- **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
+
+### <a name="word"></a>Word
+
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/fr-FR/microsoft-365/compliance/sensitivity-labels)
+
+- **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU DES DÉTAILS DE SÉCURITÉ)
+
+
+### <a name="security-updates"></a>Mises à jour de sécurité
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1715)
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
 
 ## <a name="january-13-2021"></a>13 janvier 2021
 *Version 16.45 (build 21011103)*
@@ -935,12 +995,12 @@ Cette version inclut les mises à jour suivantes :
 |Mise à jour automatique Microsoft (AutoUpdate) 4.7 <br/>| Le démon AutoUpdate se lance désormais dans le cadre du processus d’installation. Cela permet de clarifier les boîtes de dialogue de sécurité que les utilisateurs voyaient auparavant. <br/><br/> Les fonctionnalités de sécurité de la mise à jour automatique Microsoft (AutoUpdate) ont été améliorées pour prendre en charge les certificats SHA256. <br/>|<br/> | [Package de mise à jour Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> À partir de la version 16.21, Microsoft Teams sera installé par défaut pour *_les nouvelles_* _ installations. Pour plus d’informations, voir [Installations de Microsoft Teams sur un Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> À partir de la version 16.21, Microsoft Teams sera installé par défaut pour les ***nouvelles*** installations. Pour plus d’informations, consultez l’article [Installations de Microsoft Teams sur un Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 
 
 ## <a name="december-2018-release"></a>Version de décembre 2018
 
- _ *Date de publication :* 11 décembre 2018 
+ **Date de publication :** 11 décembre 2018 
   
  *Version 16.20.0 (build 18120801)* 
   

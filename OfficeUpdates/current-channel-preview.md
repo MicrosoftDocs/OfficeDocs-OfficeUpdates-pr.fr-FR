@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
+ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173633"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50263952"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,45 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2102-february-16"></a>Version 2102 : 16 février
+*Version 2102 (build 13801.20160)*
+* Diverses résolutions de bogues et de performances.
+
+## <a name="version-2102-february-15"></a>Version 2102 : 15 janvier
+*Version 2102 (build 13801.20158)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **La dictée est disponible dans d’autres langues :** dictée prend désormais en charge 7 nouvelles langues : hindi, russe, polonais, portugais (Portugal), coréen, thaï, chinois (Taïwan)
+
+### <a name="word"></a>Word
+
+- **La dictée est disponible dans d’autres langues :** dictée prend désormais en charge 7 nouvelles langues : hindi, russe, polonais, portugais (Portugal), coréen, thaï, chinois (Taïwan)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’exporter un document Excel au format PDF.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème de résolution des conflits lors de la co-édition.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
 ## <a name="version-2102-february-08"></a>Version 2102 : 08 février
 *Version 2102 (build 13801.20084)*
