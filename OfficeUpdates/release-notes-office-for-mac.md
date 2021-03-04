@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
+ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263932"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50425742"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -76,15 +76,11 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 - **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.
 
-- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-
 - **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/fr-FR/microsoft-365/compliance/sensitivity-labels)
 
 - **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
 
 ### <a name="word"></a>Word
-
-- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
 
 - **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/fr-FR/microsoft-365/compliance/sensitivity-labels)
 
@@ -102,13 +98,9 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-1714](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1714)
--   [CVE-2021-1713](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1713)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-24067)
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-24069)
 
-### <a name="word"></a>Word
-
--   [CVE-2021-1716](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1716)
--   [CVE-2021-1715](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2021-1715)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU DÉTAILS DE SÉCURITÉ)
 
