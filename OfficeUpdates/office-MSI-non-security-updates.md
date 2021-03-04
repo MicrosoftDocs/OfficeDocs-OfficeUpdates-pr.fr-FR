@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
-ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
+ms.openlocfilehash: 8627a47ca19b170f0d69e16d4a23cc787cb8a6bd
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080945"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418059"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -25,6 +25,15 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 > - Les informations contenues dans cet article ne s’appliquent pas aux applications Microsoft 365.
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="march-2-2021"></a>2 mars 2021
+**Office 2016**<br/>
+Mise à jour pour Microsoft Access 2016 ([KB4493188](https://support.microsoft.com/help/4493188)) </br> Mise à jour pour Microsoft Office 2016 ([KB4493153](https://support.microsoft.com/help/4493153)) </br> Mise à jour pour Microsoft Outlook 2016 ([KB4493226](https://support.microsoft.com/help/4493226)) </br> Mise à jour pour Microsoft Project 2016 ([KB4493191](https://support.microsoft.com/help/4493191)) </br> 
+
+
+**Office 2013**<br/>
+Mise à jour pour Microsoft Outlook 2013 ([KB4493174](https://support.microsoft.com/help/4493174)) </br> 
+
 
 ## <a name="february-2-2021"></a>2 février 2021
 **Office 2016**<br/>
@@ -48,7 +57,7 @@ Mise à jour pour Microsoft Project 2016 ([KB4493159](https://support.microsoft
 
 
 ## <a name="december-1-2020"></a>1er décembre 2020
-**Office 2016**<br/>
+**Office 2016**<br/>
 Mise à jour pour Skype Entreprise 2016 ([KB4486745](https://support.microsoft.com/help/4486745)) <br/>
 Mise à jour pour Microsoft Office 2016 ([KB4486746](https://support.microsoft.com/help/4486746)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486747](https://support.microsoft.com/help/4486747)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486668](https://support.microsoft.com/help/4486668)) <br/>
 Mise à jour pour Microsoft Project 2016 ([KB4486749](https://support.microsoft.com/help/4486749)) <br/> Mise à jour pour Microsoft Publisher 2016 ([KB4484334](https://support.microsoft.com/help/4484334)) <br/> Mise à jour pour Microsoft Office 2016 ([KB4486716](https://support.microsoft.com/help/4486716)) <br/> Mise à jour pour Microsoft Visio 2016 ([KB4486709](https://support.microsoft.com/help/4486709)) <br/>
