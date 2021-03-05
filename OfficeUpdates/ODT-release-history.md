@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fournit un historique des publications de l’outil Déploiement d’Office (ODT) destiné aux professionnels de l’informatique
-ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177950"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421405"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
 
@@ -28,6 +28,14 @@ L’outil Déploiement d’Office vous permet de bien contrôler l’installatio
  **Instructions d’installation** : téléchargez et exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setup.exe) et un exemple de fichier de configuration (configuration.xml). 
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-25-2021"></a>25 février 2021
+Version 16.0.13628.20476 (setup.exe version 16.0.13628.20462)
+- Correction d’un problème causant l’échec de la validation des fichiers de configuration.xml spécifiant plusieurs douzaines de langues
+- Correction d’un problème où la propriété FORCEAPPSHUTDOWN n’était pas respectée dans les scénarios MigrateArch
+- Correction d’un problème où la spécification de 2 ou plusieurs attributs PIDKEY de l’entité configuration.xml ne parvenait pas à installer les PIDKeys
+
+
 
 ## <a name="february-9-2021"></a>9 février 2021
 Version 16.0.13628.20274 (setup.exe version 16.0.13628.20246)
