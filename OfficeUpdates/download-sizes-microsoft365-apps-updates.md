@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 47c5eee644df956bb6a23b17d8b3159f882da08c
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 60461742e857889e5249688f53c385e649cd7ff0
+ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418079"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50455760"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+
+## <a name="march-4-2021"></a>4 mars 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
+
+<i>La version prévue est la version 2101 (build 13628.20526).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2012 (build 13530.20528) <br/> |9 février 2021 <br/> |203<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semi-annuel (préversion)
+
+<i>La publication prévue est la version 2102 (build 13801.20274).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2008 (build 13127.21216) <br/> |9 février 2021 <br/> |280<br/> |
+|Version 2008 (build 13127.21064) <br/> |12 janvier 2021 <br/> |533<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semi-annuel
+
+<i>La version prévue est la version 2008 (build 13127.21322).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2008 (build 13127.21216) <br/> |9 février 2021 <br/> |382<br/> |
+|Version 2008 (build 13127.21064) <br/> |12 Janvier 2021 <br/> |61<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="march-1-2021"></a>1 mars 2021
 
