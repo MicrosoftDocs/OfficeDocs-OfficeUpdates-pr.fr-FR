@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
+ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418039"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50505666"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,80 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2103-march-05"></a>Version 2103 : 5 mars
+*Version 2103 (Build 13901.20036)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+
+### <a name="word"></a>Word
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d’un problème à cause duquel la police changeait sans raison lors de l’utilisation d’un signe de multiplication ou de division avec une police japonaise. Nous gardons la même police si elle prend en charge le caractère.
+
+
+- Correction d’un problème à cause duquel une mise en forme de tableau croisé dynamique corrompait le classeur lors de l’enregistrement au format .xls ou .xlt.
+
+
+- Correction d’un problème à cause duquel certaines notes étaient inopinément affichées à l’ouverture d’un classeur.
+
+
+### <a name="outlook"></a>Outlook
+
+- Correction d’un problème à l’origine de l’exportation incorrecte des caractères non ASCII lors de l’exportation vers un système CSV.
+
+
+- Correction d’un problème à cause duquel les utilisateurs ne pouvaient pas rechercher un groupe de contacts avec la fonctionnalité Vérifier les noms lors de la rédaction d’un courrier électronique.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème à cause duquel les flèches des graphiques en courbes ne s’affichaient pas comme prévu en mode diaporama sur PowerPoint.
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème à cause duquel l’ouverture d’un fichier protégé à l’aide d’une étiquette Microsoft Information Protection (MIP) pouvait se bloquer indéfiniment si l’utilisateur n’était pas connecté à un compte ayant accès à l’étiquette protégée MIP. L’utilisateur était obligé d’annuler l’ouverture pour afficher l’invite de connexion. L’ouverture ne s’effectuait uniquement après cela. Correction de ce problème en permettant l’affichage de l’invite de connexion lors de l’ouverture ou du téléchargement.
+
+
+- Correction d’un problème lors de l’utilisation de la dictée dans les nouveaux commentaires Word. À présent, le bouton Dictée de la carte de commentaire bascule correctement.
+
+
+- Correction d’un problème à cause duquel des espaces ne s’inserraient pas entre les mots lorsque les utilisateurs dictaient du contenu dans leur document.
+
+
+- Correction d’un problème à cause duquel la publication de commentaires multilignes tapés de droite à gauche entraînait l’alignement sur la gauche des deuxièmes lignes et des suivantes au lieu de la droite.
+
+
+- Correction d’un problème à cause duquel un basculement de la vérification orthographique s’effectuait entre deux menus contextuels de correction orthographique différents.
+
+
+- Correction d’un problème à cause duquel le texte des colonnes pouvait se chevaucher.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2103-february-26"></a>Version 2103 : 26 Février
 *Version 2103 (build 13819.20006)*
@@ -2600,6 +2674,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
@@ -2609,5 +2684,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
