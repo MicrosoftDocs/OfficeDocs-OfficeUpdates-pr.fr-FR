@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242042"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418039"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,84 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2103-february-26"></a>Version 2103 : 26 Février
+*Version 2103 (build 13819.20006)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’exporter un document Excel au format PDF.
+
+
+- Nous avons résolu un problème pour lequel une partie de la mise en forme pouvait être perdue lors de la copie d’une feuille lors de la co-édition.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient les pièces jointes se dupliquer lors de la suppression de la protection DRM.
+
+
+### <a name="project"></a>Project
+
+- Correction d’un problème de fractionnement des tâches lors de l’enregistrement d’un projet à partir de Project Web App dans un fichier local. Cela se produirait si un calendrier des tâches avec des heures de travail non standard était utilisé.
+
+
+- Correction d'un problème où, si la colonne des indicateurs ne se trouve pas dans la première colonne, lorsque vous coupez une tâche de récapitulation, vous n'êtes pas averti que les sous-tâches seront également supprimées.
+
+
+- Correction d’un problème pour lequel si un utilisateur sélectionnait la fonction Se ajouter à une tâche dans sa feuille de temps, les unités de disponibilité des ressources correctement utilisées n’étaient peut-être pas utilisées dans l’affectation créée.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème d’alignement de plusieurs commentaires.
+
+
+- Nous avons résolu un problème dans les raccourcis clavier du volet Lecture à voix haute.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Les places OneDrive sont désormais filtrées selon le paramètre de stratégie de groupe.
+
+
+- Résout un problème lié à la non-réponse qui peut se produire lors du chargement des images EMF.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
+
+## <a name="version-2103-february-19"></a>Version 2103 : 19 février
+*Version 2103 (build 13811.20002)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient les pièces jointes se dupliquer lors de la suppression de la protection DRM.
+
+
+### <a name="project"></a>Project
+
+- Correction d'un problème où, si la colonne des indicateurs ne se trouve pas dans la première colonne, lorsque vous coupez une tâche de récapitulation, vous n'êtes pas averti que les sous-tâches seront également supprimées.
+
+
+- Correction d’un problème pour lequel si un utilisateur sélectionnait la fonction Se ajouter à une tâche dans sa feuille de temps, les unités de disponibilité des ressources correctement utilisées n’étaient peut-être pas utilisées dans l’affectation créée.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème dans les raccourcis clavier du volet Lecture à voix haute.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
 ## <a name="version-2103-february-12"></a>Version 2103 : 12 Février
 *Version 2103 (build 13806.20000)*
@@ -2522,6 +2600,8 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
@@ -2530,6 +2610,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

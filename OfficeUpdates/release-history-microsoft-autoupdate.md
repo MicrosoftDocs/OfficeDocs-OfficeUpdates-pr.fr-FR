@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
-ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
+ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "49943274"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421369"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -29,6 +29,24 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="february-2021-release"></a>Publication en février 2021.
+
+**Date de publication :** 17 février 2021
+
+*Mise à jour automatique Microsoft (AutoUpdate) 4.32*
+
+**Correctifs et Améliorations de bogues:**
+- Mise à jour de la documentation : les descriptions d'indicateurs manquants pour -t, -m et les indicateurs de mise à jour sont maintenant disponibles dans l'interface de ligne de commande de MAU.
+- Mises à jour sur l'accessibilité : Les annonces de la voix-off sont maintenant disponibles pour le téléchargement et l'installation de la barre de progression sur l'interface utilisateur de MAU et la mise à jour des étiquettes des chaînes sur l'interface utilisateur des préférences de MAU.
+- Mise à jour de fonctionnalité : la barre de menus principale de MAU dispose désormais d’une option d’édition permettant d’autoriser les raccourcis clavier.
+- Autres mises à jour : l’année du copyright de MAU a été mise à jour vers 2021.
+
+[Télécharger le paquet Microsoft Auto Update 4.32 ](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.32.21021202_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash :**
+
+CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 ## <a name="january-2021-release"></a>Version de janvier 2021.
 

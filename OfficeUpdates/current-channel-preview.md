@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263952"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421401"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,88 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2102-march-03"></a>Version 2102 : 03 mars
+*Version 2102 (build 13801.20274)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="word"></a>Word
+
+- Résout un problème avec les informations de thème appliquées aux icônes et graphiques SVG.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
+
+## <a name="version-2102-march-01"></a>Version 2102 : 1er mars
+*Version 2102 (build 13801.20266)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Partager dans Teams** : partager un courrier électronique ou une conversation depuis Outlook avec une personne ou un canal dans Teams.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui a entraîné l’apparition de groupes de calendriers en double pour les utilisateurs suite à la création d’un groupe.
+
+
+- Nous avons résolu un problème pour qui les utilisateurs des améliorations du calendrier partagé ne pouvaient pas définir la couleur d’un calendrier sur jaune ou marron.
+
+
+- Nous avons résolu un problème qui causait l’arrêt de l’application à certains utilisateurs lors de la fermeture des fenêtres de message.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient les signatures contenant du contenu unicode être endommagées.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de la traduction en ligne de soumettre leurs commentaires.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
+
+## <a name="version-2102-february-21"></a>Version 2102 : 21 février
+*Version 2102 (build 13801.20182)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Brouillons de messages avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales, le signe de ponctuation automatique, etc. pour rédiger des messages.
+
+### <a name="word"></a>Word
+
+- **Brouillons de documents avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales et le signe de ponctuation automatique dans les brouillons de documents.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème pour lequel les images étaient plus petites que prévu lors de l’utilisation de l’option Coller une image liée.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
 ## <a name="version-2102-february-16"></a>Version 2102 : 16 février
 *Version 2102 (build 13801.20160)*
@@ -67,6 +149,22 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
+
+
+## <a name="version-2102-february-11"></a>Version 2102 : 11 février
+*Version 2102 (build 13801.20158)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Vidéo 2x2 sur les navigateurs Edge et Chrome sur Windows et Mac** Les utilisateurs peuvent afficher jusqu’à 4 vidéos de participants dans les réunions Teams dans les navigateurs Edge et Chrome sur Windows et Mac. [En savoir plus](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
 
 ## <a name="version-2102-february-08"></a>Version 2102 : 08 février
 *Version 2102 (build 13801.20084)*
@@ -270,6 +368,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - **Plus de thèmes :** De nouveaux thèmes sont désormais disponibles pour les clients des ordinateurs de bureau et du web.
 
 - **Partage PPT :** Vue du présentateur dans les équipes Une fois que vous avez sélectionné un fichier PowerPoint dans la zone de partage Teams, la vue du présentateur s'ouvre automatiquement. Vous pouvez voir la diapositive en cours, les notes de la diapositive, et une bande de vignettes de toutes les diapositives du jeu pour une navigation ad-hoc facile. Cette vue est complètement en coulisses, et elle est privée au présentateur qui en a le contrôle. Votre public ne peut voir que votre diapositive actuelle (surlignée dans le grand encadré rouge), ou la diapositive vers laquelle il choisit de naviguer (si la navigation du public n'est pas verrouillée par vous). 
+
+- **Inclure un son sur un ordinateur lorsque vous partagez un Bureau ou une fenêtre sur Mac** Lorsque vous partagez un bureau ou une fenêtre de Teams on Mac, vous pouvez désormais inclure le son de votre ordinateur afin que les personnes qui ont participé à la réunion puissent entendre l'audio qui sort de votre ordinateur.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 <br/>
