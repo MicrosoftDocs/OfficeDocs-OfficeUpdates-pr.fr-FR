@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
-ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
+ms.openlocfilehash: ea8524fb21d263985793d12806c8a2e1401edf10
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50271787"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418049"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -32,6 +32,104 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2102-march-01"></a>Version 2102 :1er mars
+*Version 2102 (build 13801.20266)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Afficher plusieurs feuilles en même temps :** vous n’avez plus besoin d’afficher une feuille à la fois. vous pouvez ainsi afficher plusieurs feuilles masquées à la fois. [En savoir plus](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Amélioration des boîtes de dialogue de mise en forme conditionnelle :** les boîtes de dialogue de mise en forme conditionnelle sont à présent redimensionnables, et vous pouvez dupliquer la règle d’un simple clic. [En savoir plus](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+- **Exiger que les utilisateurs appliquent des étiquettes de confidentialité :** les utilisateurs sont invités à appliquer une étiquette de confidentialité si la stratégie de leur organisation l’exige.
+
+### <a name="outlook"></a>Outlook
+
+- **Affichage de la liste des contacts mis à jour :** la liste des contacts indique désormais les adresses électroniques et la taille des photos et du texte mis à jour.
+
+- **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Dans un message, cliquez avec le bouton droit pour traduire certain mots, des expressions ou tout le message. [En savoir plus](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Exiger que les utilisateurs appliquent des étiquettes de confidentialité :** les utilisateurs sont invités à appliquer une étiquette de confidentialité si la stratégie de leur organisation l’exige.
+
+### <a name="teams"></a>Teams
+
+- **Mode Présentateur lors du partage d’un fichier PowerPoint :** lors du partage d’un fichier PowerPoint dans une réunion, le présentateur peut désormais utiliser une bande miniature de toutes les diapositives dans l’ensemble de présentations pour faciliter la navigation ad hoc entre les diapositives.
+
+- **Mises à jour du thème et des icônes :** nous avons apporté des mises à jour aux couleurs du thème par défaut et sombres, ainsi qu’à l’icône.
+
+- **Prise en charge du présentateur d’événements en direct sur iPad :** vous pouvez présenter dans un événement en direct sur votre appareil iPad pris en charge.
+
+- **Sondage des participants à une réunion à l’aide de Microsoft Forms :** Sondages pour les réunions Teams est une expérience facile à découvrir et transparente qui vous aide à diriger des réunions plus attrayantes et productives. Grâce à Sondages avec par Microsoft Forms, les présentateurs de réunions peuvent préparer, lancer et évaluer les sondages avant, pendant et après les réunions, respectivement, le tout à partir d'un seul endroit sous un onglet dans la réunion Teams. En tant que présentateur de réunion, vous pouvez ajouter l’application Forms sous la forme d’un onglet dans la réunion Teams, puis créer, lancer et évaluer vos sondages à partir d’un seul endroit. Créez des sondages à lancer pendant la réunion, avant même le début de la réunion. À l’issue de la réunion, vous pouvez choisir d’évaluer les réponses dans l’onglet, dans un classeur Excel exporté, ou sur le web dans l'application Forms. Les présentateurs ont différents contrôles, tels que l’activation des réponses anonymes, la fermeture des sondages et l’exportation de résultats vers Excel. Les participants à partir de n’importe quel point de terminaison (mobile, web, ordinateur de bureau) peuvent afficher les sondages et y répondre en temps réel dans l’écran de la réunion ou dans la conversation de réunion, ainsi que consulter des résultats de sondage non anonymes en temps réel.
+
+- **Réactions de réunion :** Les réactions de réunion constituent une nouvelle façon d’interagir dans les réunions. Les participants peuvent envoyer des réactions et il sont présentés sous forme de flux sur le contenu partagé et sur la personne qui a envoyé la réaction si elle est affichée lors de la réunion.
+
+- **Menu Historique pour le client de bureau :** menu Historique dans le client de bureau Teams vous permet de revenir facilement aux emplacements récemment visités. Il suffit de survoler les options de navigation avant ou arrière dans le client de bureau, puis de sélectionner l'emplacement. Un raccourci clavier est également disponible pour ouvrir le menu.
+
+- **Cortana dans les Salles Microsoft Teams pour les États-Unis :** l’assistance vocale Cortana dans les Salles Microsoft Teams vous permet d’appeler sans écran un numéro de votre salle de conférence, de joindre ou de mettre fin à une réunion, ou d’ajouter un numéro à une réunion.
+
+- **Masquage de numéros de téléphone :** nous avons publié un nouveau paramètre d'administration permettant de masquer les numéros de téléphone des participants lorsqu'ils se rejoignent une réunion. Les administrateurs peuvent choisir de masquer les numéros de téléphone de toutes les personnes présentes à la réunion (à l'exception de l'organisateur), des personnes externes uniquement ou de masquer les numéros de téléphone. Si les administrateurs décident de désactiver ce paramètre, les numéros de téléphone seront entièrement affichés dans la réunion.  (publication privée jusqu’à la fin du mois d’octobre)
+
+- **Partage de calendrier :** nous avons ajouté la possibilité d’ajouter un canal à un onglet de calendrier.
+
+- **Présentation de nouvelles scènes en mode Ensemble :** Teams a désormais la possibilité pour les organisateurs de réunion ou présentateurs de modifier la scène du mode Ensemble, permettant aux participants d’apparaître dans différentes expériences ensemble.
+
+### <a name="word"></a>Word
+
+- **Suggestions d’écriture en un clic :** appliquez des suggestions d’écriture d’un simple clic. Le volet Éditeur mis à jour simplifie la navigation entre les suggestions. [En savoir plus](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/microsoft-editor-gets-an-upgrade)
+
+- **Exiger que les utilisateurs appliquent des étiquettes de confidentialité :** les utilisateurs sont invités à appliquer une étiquette de confidentialité si la stratégie de leur organisation l’exige.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Nous avons résolu un problème pour lequel les utilisateurs avaient une boîte de dialogue d’erreur « État du curseur non valide ».
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui empêchait les utilisateurs d’exporter un document Excel au format PDF.
+
+
+- Nous avons résolu un problème pour lequel les images étaient plus petites que prévu lors de l’utilisation de l’option Coller une image liée.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème pour qui les utilisateurs des améliorations du calendrier partagé ne pouvaient pas définir la couleur d’un calendrier sur jaune ou marron.
+
+
+- Nous avons résolu un problème qui a entraîné l’apparition de groupes de calendriers en double pour les utilisateurs suite à la création d’un groupe.
+
+
+- Nous avons résolu un problème qui causait l’arrêt de l’application à certains utilisateurs lors de la fermeture des fenêtres de message.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient les signatures contenant du contenu unicode être endommagées.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de la traduction en ligne de soumettre leurs commentaires.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème de résolution des conflits lors de la co-édition.
 
 
 
@@ -1574,7 +1672,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Résolution d’un problème qui entraînait l’arrêt d’Excel dans certains cas après la copie d’une feuille de calcul contenant un tableau croisé dynamique.
 
-- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies par l’utilisateur.
+- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies pour l’utilisateur.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1988,6 +2086,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
@@ -1997,5 +2096,4 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
