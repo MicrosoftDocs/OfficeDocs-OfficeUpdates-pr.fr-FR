@@ -1,5 +1,5 @@
 ---
-title: Notes de publication pour les versions du canal semi-annuel (ciblé) dans 2017
+title: Notes de publication Semi-Annual canal de publication (ciblé) en 2017
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal semi-annuel (ciblé) pour Office 365 ProPlus dans 2017
-ms.openlocfilehash: 44f6c4b86f88419f97bee4e89b99b5a4a46133c9
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: Fournit aux professionnels de l’informatique les notes de publication Semi-Annual canal de publication (ciblé) pour Office 365 ProPlus en 2017
+ms.openlocfilehash: 51a272f29ba9e68682285cb1de05e3964340d0f2
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370092"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735169"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Notes de publication pour les versions du canal semi-annuel (ciblé) dans 2017
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Notes de publication Semi-Annual canal de publication (ciblé) en 2017
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité incluses dans les mises à jour du canal semi-annuel (ciblé) vers Office 365 ProPlus dans 2017.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non de sécurité incluses dans les mises à jour du canal Semi-Annual (ciblé) vers Office 365 ProPlus en 2017.
  
 > [!NOTE]
 > - Ce qui suit fournit également des informations sur les nouvelles fonctionnalités, les mises à jour de sécurité et les mises à jour non relatives à la sécurité pour Visio Pro pour Office 365 et le client de bureau Project Online.
 > - Ces informations s’appliquent également à Office 365 Business, qui est la version d’Office fournie avec certaines offres Office 365, comme Business Premium.
-> - Le canal semi-annuel (ciblé) a été nommé First Release pour le canal différé avant le 2017 septembre.
+> - Semi-Annual Canal (ciblé) a été nommé First Release pour Canal différé avant septembre 2017.
 
-## <a name="version-1708-december-12"></a>Version 1708:12 décembre
+## <a name="version-1708-december-12"></a>Version 1708 : 12 décembre
 *Version 1708 (Build 8431.2131)*
 
  ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
@@ -52,7 +52,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1708-november-14"></a>Version 1708:14 novembre
+## <a name="version-1708-november-14"></a>Version 1708 : 14 novembre
 *Version 1708 (Build 8431.2110)*
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
@@ -105,7 +105,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1708-october-10"></a>Version 1708:10 octobre
+## <a name="version-1708-october-10"></a>Version 1708 : 10 octobre
 *Version 1708 (Build 8431.2107)*
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
@@ -151,7 +151,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1708-september-12"></a>Version 1708:12 septembre
+## <a name="version-1708-september-12"></a>Version 1708 : 12 septembre
 *Version 1708 (Build 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
@@ -194,7 +194,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Configuration de nouveaux comptes :** définition de nouveaux comptes avec un nouvel assistant qui nécessite moins d’étapes manuelles.
 -   **Boîte de dialogue permettant de joindre des liens :** lorsque vous joignez un lien à l’aide de l’option Joindre un fichier sur le ruban, vous pouvez choisir d’ajouter le fichier en tant que lien ou en tant que pièce jointe. Si vous ne souhaitez pas afficher cette boîte de dialogue à chaque fois, accédez à Fichier \> Options \> Général et spécifiez la manière dont vous souhaitez joindre les liens sous « Options des pièces jointes ».
 -   **Prise en charge des pièces jointes en local :** les fichiers provenant d’un serveur local SharePoint apparaissent comme des fichiers récents sous Message \> Joindre un fichier, les sites d’équipe locaux OneDrive Entreprise et SharePoint apparaissent sous Joindre un fichier \> Parcourir les emplacements web et les fichiers locaux peuvent être téléchargés vers les sites locaux OneDrive Entreprise.
--   **Secteurs d’activité pour les groupes :**  un niveau de secteur d’activité défini par l’administrateur de clients, par exemple Confidentiel, peut être affecté lorsque vous créez ou modifiez un groupe, et le secteur s’affiche dans l’en-tête de groupe.
+-   **Secteurs d’activité pour les groupes :**  Un niveau de secteur d’activité défini par l’administrateur de clients, par exemple Confidentiel, peut être affecté lorsque vous créez ou modifiez un groupe, et le secteur s’affiche dans l’en-tête de groupe.
 -   **Accès invité à des groupes Office 365 :** collaborez avec des personnes en dehors de l’organisation en leur accordant l’accès à des conversations de groupe, à des fichiers, à des invitations de calendrier et au bloc-notes de groupes. [Plus d’informations](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **Messages appelant une action :** les développeurs peuvent créer des messages afin que les utilisateurs puissent exécuter facilement des actions simples ou rapides directement à partir d’Outlook sans avoir à basculer vers un site web externe ou une application distincte. [Plus d’informations](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
@@ -248,7 +248,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Exécution de code à distance du composant Graphics Microsoft
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
--   Ajout d’une boîte de dialogue expliquant pourquoi un utilisateur ne parvient pas à participer à une réunion lorsque certains ports sont bloqués ou que certaines adresses IP ne sont pas mises sur liste verte.
+-   Ajoutez une boîte de dialogue expliquant pourquoi un utilisateur ne peut pas participer à une réunion lorsque certains ports sont bloqués ou que les IP ne sont pas autorisées.
 -   Résolution d’un problème : les messages non lus des salles de conversation permanente étaient marqués comme lus lorsque vous cliquiez sur les onglets de conversation par messagerie instantanée.
 -   Résolution d’un problème : les toasts de messagerie instantanée entrante présentaient un retard de plusieurs secondes.
 -   Résolution d’un problème : dans AD, le numéro de téléphone était affiché au lieu du nom du contact lorsque la synchronisation avec Exchange était désactivée.
@@ -273,9 +273,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème où la fenêtre de conversation vide ne s’affiche pas tant qu’un utilisateur n’a pas rejoint une réunion correctement.
 -   Résolution d’un problème où les informations du champ Département dans une carte de visite sont vides dans les résultats de recherche si le champ de titre est vide.
 -   Résolution des échecs de connexion pour les utilisateurs migrés d’un environnement local vers un environnement en ligne en raison de règles de pare-feu.
--   Ajoutez une nouvelle clé de Registre DWORD pour résoudre un problème lors duquel le client réinitialise la clé de Registre OAuthUsed sur false lorsqu’un utilisateur se connecte à un client sur un réseau externe exécutant LyncAutoD. Pour résoudre le problème, définissez la valeur sur 1 pour EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket sous HKEY \_ Current \_ User \\ Software \\ Microsoft \\ Office \\ 16,0 \\ Lync \\ \<SipID\> .
+-   Ajoutez une nouvelle clé de Registre DWORD pour résoudre un problème lors duquel le client réinitialise la clé de Registre OAuthUsed sur false lorsqu’un utilisateur se connecte à un client sur un réseau externe exécutant LyncAutoD. Pour résoudre le problème, définissez la valeur sur 1 pour EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket sous HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>.
 
-### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
+### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalités
 -   **Création de diagrammes à partir de données Excel :** créez automatiquement un diagramme de flux simple ou un diagramme de flux fonctionnel croisé à partir de données Excel à l’aide de nouveaux modèles de visualiseur de données. [Plus d’informations](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **Liens fiables :** quand un utilisateur clique sur un lien, la protection avancée contre les menaces d’Office 365 inspecte le lien pour déterminer s’il est malveillant. Si le lien est considéré comme malveillant, l’utilisateur est redirigé vers une page d’avertissement au lieu de l’URL cible d’origine. [Plus d’informations](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
@@ -313,10 +313,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1705-august-8"></a>Version 1705:8 août
+## <a name="version-1705-august-8"></a>Version 1705 : 8 août
 *Version 1705 (Build 8201.2171)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème dû au glissement de la barre de défilement pour se déplacer dans une liste de messages.
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
@@ -325,10 +325,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1705-july-27"></a>Version 1705:27 juillet
+## <a name="version-1705-july-27"></a>Version 1705 : 27 juillet
 *Version 1705 (Build 8201.2158)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : des erreurs apparaissaient lors de la tentative d’enregistrement de modifications apportées à des documents synchronisés avec le client OneDrive.
 -   Résolution d’un problème concernant le blocage d’Excel lorsque vous ajoutez des données de feuille de calcul à un modèle de données et que le thème de contraste élevé est défini sur noir.
 
@@ -346,7 +346,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1705-july-13"></a>Version 1705:13 juillet
+## <a name="version-1705-july-13"></a>Version 1705 : 13 juillet
 *Version 1705 (Build 8201.2136)*
 
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
@@ -375,12 +375,12 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570) : Vulnérabilité d’exécution de code à distance Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
--   Résolution d’un problème : des mises à niveau sans assistance d’Office 2013 vers Office 2016 échouent lors de l’utilisation du gestionnaire de configuration.
+-   Résoudre un problème qui entraîne l’échec des mises à niveau sans surveillance d’Office 2013 vers Office 2016 lors de l’utilisation de Configuration Manager.
 -   Résolution d’un problème : les compléments hérités déployés depuis le Store dans le catalogue d’entreprise ne se chargent pas.
 
 
 
-## <a name="version-1705-june-13"></a>Version 1705:13 juin
+## <a name="version-1705-june-13"></a>Version 1705 : 13 juin
 *Version 1705 (Build 8201.2102)*
 
 ### <a name="access-feature-updates"></a>Access : Mises à jour de fonctionnalité
@@ -388,7 +388,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Prise en charge du type Grand nombre (bigint) :** utilisez le type de données Grand nombre dans les tables Access pour calculer des grands nombres, ainsi que pour créer des liens vers des bases de données externes qui utilisent un type de données équivalent, tel que bigint dans SQL Server, ou effectuer des importations à partir de telles bases de données. [Plus d’informations](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows (WIP) :**    Excel est désormais une application d’aide à la décision, qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :**   Excel est désormais une application améliorée qui peut faire la différence entre les données professionnelles et personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
 -   **Obtenir et transformer des améliorations :** dans l’éditeur de requête, créez une colonne en fournissant des exemples de valeurs. Lors de la saisie, Excel détecte les transformations requises et affiche un aperçu de la nouvelle colonne.
 -   **Insérer des liens récents :** joignez facilement des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Personnaliser la disposition du tableau croisé dynamique par défaut :** configurez un tableau croisé dynamique comme vous le souhaitez et utilisez cette disposition chaque fois que vous créez un nouveau tableau croisé dynamique. [Plus d’informations](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -402,7 +402,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Utiliser un stylet pour sélectionner et modifier des objets :** Prenez des objets par leur poignée avec un stylet numérique pour les redimensionner, les faire pivoter, les déplacer et bien plus encore.
 -   **Graphique de carte :** comparer des valeurs et afficher des catégories dans différentes régions géographiques. [Plus d’informations](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des classeurs. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insérer des icônes :**   Utilisez des icônes à partir d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en accédant à insérer des \> icônes d’illustration \> . [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertion d’icônes :** utiliser les icônes d’une bibliothèque de fichiers SVG standard en accédant à Insertion \> Illustrations \> Icônes. [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Enregistrement dans les dossiers récents :** enregistrer un classeur dans un dossier récemment utilisé à l’aide de l’onglet Récent lorsque vous accédez à Fichier \> Enregistrer sous.
 -   **Améliorations en matière d’accessibilité :** prise en charge améliorée pour l’utilisation du clavier, du Narrateur et d’autres technologies d’assistance pour la lecture et la modification de classeurs. [Plus d’informations](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -429,7 +429,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème où la zone de dessin OneNote masque du contenu ou des mises à jour lorsque de nombreux paragraphes sont affichés.
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows (WIP) :**    Outlook est désormais une application acsante et peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :**   Outlook est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
 -   **Insérer des liens récents :** joignez des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [Plus d’informations](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Suppression d’arrière-plan :** supprimez une image d’arrière-plan avec un outil de dessin au format libre.
@@ -437,9 +437,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Définition d’autorisations sur les pièces jointes :** pour les pièces jointes OneDrive ou SharePoint, l’utilisateur peut déterminer si les destinataires, dans l’organisation ou en externe, disposent d’autorisations de lecture ou de modification sur la pièce jointe.
 -   **Volet des tâches épinglable :** Laissez le volet des tâches de complément ouvert lorsque vous passez d’un message à l’autre dans une boîte aux lettres. [Plus d’informations](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des messages électroniques. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insérer des icônes :**   Utilisez des icônes à partir d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en accédant à insérer des \> icônes d’illustration \> .  [ Informations supplémentaires](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertion d’icônes :** utiliser les icônes d’une bibliothèque de fichiers SVG standard en accédant à Insertion \> Illustrations \> Icônes. [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
+### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Vulnérabilité d’exécution de code à distance Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): Vulnérabilité de contournement de la fonctionnalité de sécurité Microsoft Office
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): Exécution de code à distance Microsoft Office
@@ -454,14 +454,14 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution du problème où une image dans un message est noircie en cas d’envoi à partir d’un ordinateur en haute résolution.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows (WIP) :**    PowerPoint est désormais une application à l’aide de laquelle il est possible de faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :**   PowerPoint est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
 -   **Insérer des liens récents :** joignez des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Déploiement centralisé des compléments**: les administrateurs peuvent déployer et mettre à jour des compléments pour des utilisateurs ou des groupes à partir du Centre d’administration Office 365. [Plus d’informations](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [Plus d’informations](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Suppression d’arrière-plan :** supprimez une image d’arrière-plan avec un outil de dessin au format libre.
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des présentations. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insérer des icônes :**   Utilisez des icônes à partir d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en accédant à insérer des \> icônes d’illustration \> . [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Typage réel lors de la co-création :** Voir où d’autres personnes travaillent dans la présentation et affichent les modifications au fur et à mesure qu’elles sont tapées. [Plus d’informations](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Insertion d’icônes :** utiliser les icônes d’une bibliothèque de fichiers SVG standard en accédant à Insertion \> Illustrations \> Icônes. [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Saisie en temps réel lors de la co-auteur :** Voir où d’autres personnes travaillent dans la présentation et afficher les modifications à mesure qu’elles tapent. [Plus d’informations](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Enregistrement dans les dossiers récents :** enregistrer une présentation dans un dossier récemment utilisé à l’aide de l’onglet Récent lorsque vous accédez à Fichier \> Enregistrer sous.
 -   **Création de formes manuscrites précises :** Faites glisser la gomme à segments pour éliminer les excès d’encre jusqu’à la ligne la plus proche.
 -   **Sélectionner et manipuler des objets avec un stylet :** Utilisez un stylet numérique pour déplacer, redimensionner ou faire pivoter des objets à l’aide de leurs poignées, ou utilisez les boutons de stylet pris en charge par sélectionner par lasso l’encre.
@@ -473,9 +473,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="project-feature-updates"></a>Project : Mises à jour de fonctionnalité
 -   **Liste déroulante pour configurer rapidement des prédécesseurs :** utilisez la liste déroulante du diagramme de Gantt pour choisir les prédécesseurs ou successeurs que vous souhaitez lier à une tâche.
--   **Nom de la tâche récapitulative :**   Champ de tâche en lecture seule qui affiche le nom de la tâche récapitulative de la tâche.  
+-   **Nom de la tâche récapitulative :**  champ de tâche en lecture seule présentant le nom de la tâche récapitulative de la tâche.  
 
-### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
+### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : la boîte de dialogue Créer un site de projet affichait un emplacement erroné pour le site depuis que chaque modèle de projet d’entreprise dans Project Online a sa propre URL pour les sites de projet.
 -   Résolution du problème où l’événement BeforeClose VBA se déclenche avant l’invite Enregistrer et où vous ne disposez d’aucun moyen de programmation pour déterminer la réponse de l’utilisateur à l’invite d’enregistrement.
 -   Résolution du problème où % physique achevé ne se répète pas correctement pour les tâches commençant après la date d’état du projet.
@@ -515,7 +515,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-feature-updates"></a>Skype Entreprise : Mises à jour de fonctionnalité
 -   **Insérer un lien :** ajoutez un lien dans les messages instantanés et les conversations de groupe, et entrez un texte convivial pour le lien plutôt que l’URL complète.
 -   **Notification de partage d’écran :** une notification s’affiche dans la fenêtre de conversation lorsque vous partagez un écran dans une conversation par messagerie instantanée ou lorsque le partage d’écran continue lorsque vous quittez une réunion. La notification vous rappelle que vous partagez toujours votre écran et facilite l’arrêt du partage à l’aide du bouton « Arrêter le partage ».
--   **Prise en charge de la protection des informations Windows :** Skype Entreprise est désormais pris en charge sous la forme d’une application « WIP uniquement ».Le fait d’ajouter Skype à votre liste d’applications autorisées indique à Windows que Skype ne traite pas de données personnelles.Windows protège les données de la part de Skype entreprise.   [Informations supplémentaires](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :** Skype Entreprise est désormais pris en charge sous la forme d’une application « WIP uniquement ». Le fait d’ajouter Skype à votre liste d’applications autorisées indique à Windows que Skype ne traite pas de données personnelles. Windows protégera les données pour le compte Skype Entreprise.  [Plus d’informations](https://aka.ms/wiptechnet)
 -   **Option de réinitialisation de mot de passe :** un lien de réinitialisation apparaît dans la fenêtre de connexion lorsqu’un utilisateur ne parvient pas à se connecter au moins une fois.
 
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
@@ -564,15 +564,15 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Extraits de diapositive :** prenez des extraits d’un dessin Visio et exportez-les sous forme de diapositives dans PowerPoint.[Plus d’informations](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows (WIP) :**    Word est désormais une application acsante et peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.   [Informations supplémentaires](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :**   Word est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
 -   **Insérer des liens récents :** joignez des liens hypertexte à des fichiers dans le cloud ou à des sites web récents, et créez facilement des noms d’affichage significatifs pour les personnes qui utilisent des lecteurs d’écran. [Plus d’informations](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **Déploiement centralisé des compléments**: les administrateurs peuvent déployer et mettre à jour des compléments pour des utilisateurs ou des groupes à partir du centre d’administration Office 365.   [Informations supplémentaires](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **Déploiement centralisé des compléments**: les administrateurs peuvent déployer et mettre à jour des compléments pour des utilisateurs ou des groupes à partir du Centre d’administration Office 365.  [Plus d’informations](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Police Dubaï :** famille de polices qui prend en charge des langues européennes occidentales ainsi que les principales langues utilisant le script arabe. [Plus d’informations](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Suppression d’arrière-plan :** supprimez une image d’arrière-plan avec un outil de dessin au format libre.
 -   **Côte à côte :** parcourez les pages en mode Page en les faisant glisser côte à côte comme une pile de feuilles de papier. [Plus d’informations](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **Utiliser un stylet pour sélectionner et modifier des objets :** Prenez des objets par leur poignée avec un stylet numérique pour les redimensionner, les faire pivoter, les déplacer et bien plus encore.
 -   **Images SVG :** insérer et modifier des graphiques vectoriels évolutifs (SVG) dans des documents. [Plus d’informations](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Insérer des icônes :**   Utilisez des icônes à partir d’une bibliothèque standard de fichiers SVG (Scalable Vector Graphics) en accédant à insérer des \> icônes d’illustration \> .  [ Informations supplémentaires](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Insertion d’icônes :** utiliser les icônes d’une bibliothèque de fichiers SVG standard en accédant à Insertion \> Illustrations \> Icônes. [Plus d’informations](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Enregistrement dans les dossiers récents :** enregistrer un document dans un dossier récemment utilisé à l’aide de l’onglet Récent lorsque vous accédez à Fichier \> Enregistrer sous.
 -   **Lecture améliorée avec les outils d’apprentissage :** les nouvelles commandes en mode Lecture améliorent grandement les capacités de lecture en ajustant l’espacement du texte, en affichant les sauts entre les syllabes et en mettant en surbrillance chaque mot au fil de la lecture à voix haute du document. [Plus d’informations](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Reconnaissance de forme :** transformez automatiquement vos dessins en formes à l’aide de Dessiner \> Convertir en forme.[Plus d’informations](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -581,8 +581,8 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnérabilité d’exécution de code à distance Microsoft Office
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Vulnérabilité d’exécution de code à distance Windows PDF 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Vulnérabilité d’exécution de code à distance Microsoft Office  
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292): Vulnérabilité d’exécution de code à distance Windows PDF 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): Vulnérabilité d’exécution de code à distance Microsoft Office  
 
 ### <a name="word-non-security-updates"></a>Word : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème dans lequel l’utilisateur ne peut pas effectuer une recherche dans des fichiers PST.
@@ -599,10 +599,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1701-may-9"></a>Version 1701:9 mai
+## <a name="version-1701-may-9"></a>Version 1701 : 9 mai
 *Version 1701 (Build 7766.2084)*
 
-### <a name="outlook-non-security-updates"></a>Outlook : mises à jour non relatives à la sécurité
+### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème qui entraîne l’apparition par intermittence et de façon inattendue de la sélection dans la liste des messages lorsque les utilisateurs suppriment des messages.
 -   Résolution d’un problème qui entraîne des blocages intermittents.
 -   Ajout de la clé de Registre HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Outlook\\Options\\General\\DisableSupportBackstage pour autoriser les administrateurs à masquer le choix de prise en charge sous l’onglet Fichier.
@@ -625,10 +625,10 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1701-april-11"></a>Version 1701:11 avril
+## <a name="version-1701-april-11"></a>Version 1701 : 11 avril
 *Version 1701 (Build 7766.2076)*
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème dans lequel une nouvelle fenêtre apparaît grisée lorsqu’un classeur .xls est ouvert.
 
 ### <a name="outlook-security-updates"></a>Outlook : Mises à jour de sécurité
@@ -649,7 +649,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1701-march-14"></a>Version 1701:14 mars
+## <a name="version-1701-march-14"></a>Version 1701 : 14 mars
 *Version 1701 (Build 7766.2071)*
 
 ### <a name="access-non-security-updates"></a>Access : Mises à jour non relatives à la sécurité
@@ -688,7 +688,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 
-## <a name="version-1701-february-22"></a>Version 1701:22 février
+## <a name="version-1701-february-22"></a>Version 1701 : 22 février
 *Version 1701 (Build 7766.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
@@ -789,7 +789,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="skype-for-business-feature-updates"></a>Skype Entreprise : Mises à jour de fonctionnalité
 -   **Style de notification Windows :** Modifications apportées à la présentation des notifications pour les appels entrants et les conversations. [Plus d’informations](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **Transfert consultatif :** À partir d’un appel, contactez un autre utilisateur via un message instantané ou un appel avant de transférer l’appel à cet utilisateur. [Plus d’informations](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **Transfert consultatif :** À partir d’un appel, consultez un autre utilisateur via un messagerie instantanée ou un appel avant de transférer l’appel à cet utilisateur. [Plus d’informations](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Notifications pour le microphone :** affichage d’une notification dans la fenêtre de conversation lorsque le microphone est en mode muet dans le système d’exploitation ou si le microphone ne reçoit pas toutes les séquences audio.
 -   **Désactivation de « Mon numéro » :** utiliser l’entrée de Registre DisableDisplayMyNumber pour désactiver « Mon numéro » sous le pavé de numérotation.
 
@@ -820,7 +820,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème de détection de microphone lors d’un appel si vous utilisez un appareil Polycom CX100.
 -   Résolution d’un problème : la sélection d’un lien au format \\\\servername ou file:// dans un message instantané entraîne un message d’erreur au lieu d’ouvrir l’emplacement du message.
 -   Résolution d’un problème : dans une infrastructure VDI (Virtual Desktop Infrastructure) utilisant le routage basé sur un emplacement, l’utilisateur ne peut pas émettre ni recevoir d’appels sur RTC, car le serveur considère que l’emplacement de l’utilisateur n’est pas valide pour les appels sur RTC.
--   Modifier la ligne d’objet du message électronique envoyé pour un message manqué, lorsque le statut de l’utilisateur est défini sur ne pas déranger ou présenter, de « conversation manquée avec \<name\> » à « \<Name\> vous avez envoyé un message dans Skype entreprise ».
+-   Modifiez la ligne d’objet de l’e-mail envoyé pour un message manqué, lorsque l’état de l’utilisateur est définie sur Ne pas déranger ou Présenter, de « Conversation manquée avec » à « Envoyé un message dans Skype Entreprise \<name\> \<Name\> ».
 -   Démarrez la capture d’horodatage lors de la première connexion sur le périphérique en tant que [données de recensement](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices)pour vous aider à identifier les tendances de fiabilité de connexion.
 -   Résolution d’un problème où l’option de partage d’un moniteur secondaire n’apparaît pas avec certaines configurations de moniteur sur Windows 10 Version 1607 (également appelé Mise à jour anniversaire).
 -   Résolution d’un problème à cause duquel Skype Entreprise se bloque quand l’utilisateur effectue un zoom sur du contenu partagé si la personne qui le partage utilise une implémentation tierce de RDP.
@@ -909,16 +909,16 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : après avoir inséré une image SVG dans un document Office, celle-ci disparaît lorsque le document est enregistré, puis rouvert.
 -   Résolution d’un problème où Office affiche le message d’erreur suivant lors de l’activation pour les utilisateurs dont la langue de préférence n’est pas l’anglais : « La longueur maximale de la clé de produit est de 25 caractères. »
 -   Résolution du problème de formulaires VBA susceptibles de causer l’arrêt du fonctionnement ou l’affichage incorrect de l’ordre de plan des cadres.
--   Résolution d’un problème : une mise à jour déclenchée par le gestionnaire de configuration remplace le paramètre UpdateChannel dans le registre par une valeur qui n’est pas un canal de mise à jour valide.
+-   Résoudre un problème où une mise à jour truquée par Configuration Manager modifie le paramètre UpdateChannel dans le Registre en quelque chose qui n’est pas un canal de mise à jour valide.
 
 
 
-## <a name="version-1609-january-10"></a>Version 1609:10 janvier
+## <a name="version-1609-january-10"></a>Version 1609 : 10 janvier
 *Version 1609 (Build 7369.2102)*
 
-Remarque : les mises à jour de sécurité décrites dans le bulletin de sécurité Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) ne s’appliquent pas à la version de Word dans cette version de canal.
+Remarque : les mises à jour de sécurité couvertes dans le Bulletin de sécurité Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) ne s’appliquent pas à la version de Word dans cette version de canal.
 
-### <a name="excel-non-security-updates"></a>Excel : mises à jour non relatives à la sécurité
+### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème à cause duquel l’utilisation d’une boîte de dialogue Modifier la mesure entraîne le blocage d’Excel.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint : Mises à jour non relatives à la sécurité

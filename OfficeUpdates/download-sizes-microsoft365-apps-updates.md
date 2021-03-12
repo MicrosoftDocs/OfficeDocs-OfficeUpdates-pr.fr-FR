@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 60461742e857889e5249688f53c385e649cd7ff0
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: 5ffdf62947e83412588e8b1ea8eb2c419672b59c
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455760"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595578"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -36,42 +36,53 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+## <a name="march-9-2021"></a>9 mars 2021
 
-## <a name="march-4-2021"></a>4 mars 2021
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 9 mars 2021)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2102 (Build 13801.20294).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2102 (Build 13801.20266) <br/> |1er mars 2021 <br/> |56<br/> |
+|Version 2101 (Build 13628.20448) <br/> |16 février 2021 <br/> |193<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
 
-<i>La version prévue est la version 2101 (build 13628.20526).</i>
+La version la plus récente est la version 2101 (build 13628.20528).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 2012 (build 13530.20528) <br/> |9 février 2021 <br/> |203<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semi-annuel (préversion)
 
-<i>La publication prévue est la version 2102 (build 13801.20274).</i>
+La version la plus récente est la version 2102 (Build 13801.20294).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
 |Version 2008 (build 13127.21216) <br/> |9 février 2021 <br/> |280<br/> |
-|Version 2008 (build 13127.21064) <br/> |12 janvier 2021 <br/> |533<br/> |
+|Version 2008 (build 13127.21064) <br/> |12 Janvier 2021 <br/> |534<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semi-annuel
 
-<i>La version prévue est la version 2008 (build 13127.21322).</i>
+La version la plus récente est la version 2008 (build 13127.21348).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
-|Version 2008 (build 13127.21216) <br/> |9 février 2021 <br/> |382<br/> |
+|Version 2008 (build 13127.21216) <br/> |9 février 2021 <br/> |43<br/> |
 |Version 2008 (build 13127.21064) <br/> |12 Janvier 2021 <br/> |61<br/> |
 
 
-[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU 9 mars 2021)
+
+
+
 
 ## <a name="march-1-2021"></a>1 mars 2021
 
@@ -611,7 +622,7 @@ La version 2002 est la plus récente (Build 12527.21104).
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Aperçu des canaux de mise à jour pour les applications Microsoft 365](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)](update-history-office365-proplus-by-date.md)
 

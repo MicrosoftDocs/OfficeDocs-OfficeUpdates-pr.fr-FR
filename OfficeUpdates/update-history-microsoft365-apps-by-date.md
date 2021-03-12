@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
-ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
+ms.openlocfilehash: 5da2b7c6add96801fb1548a68ae0ba0378cf6c21
+ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "50515325"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50603004"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -36,13 +36,12 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2102<br/>|13801.20266<br/>|1er mars 2021<br/>|Publication de la version 2103<br/>|
-|Canal Entreprise mensuel<br/>|2012<br/>|13530.20528<br/>|9 février 2021<br/>|13 avril 2021<br/>|
-|Canal Entreprise mensuel<br/>|2011<br/>|13426.20658<br/>|9 février 2021<br/>|9 mars 2021<br/>|
-|Canal d’entreprise semestriel (version d’évaluation)<br/>|2008<br/>|13127.21216<br/>|9 février 2021<br/>|9 mars 2021<br/>|
-|Canal Entreprise semestriel<br/>|2008<br/>|13127.21216<br/>|9 février 2021<br/>|Mars 8, 2022<br/>|
-|Canal Entreprise semestriel<br/>|2002<br/>|12527.21594<br/>|9 février 2021<br/>|14 septembre 2021<br/>|
-|Canal Entreprise semestriel<br/>|1908<br/>|11929.21008<br/>|9 février 2021<br/>|9 mars 2021<br/>|
+|Canal actuel<br/>|2102<br/>|13801.20294<br/>|9 mars 2021<br/>|Publication de la version 2103<br/>|
+|Canal Entreprise mensuel<br/>|2101<br/>|13628.20528<br/>|9 mars 2021<br/>|11 mai 2021<br/>|
+|Canal Entreprise mensuel<br/>|2012<br/>|13530.20628<br/>|9 mars 2021<br/>|13 avril 2021<br/>|
+|Canal Entreprise semi-annuel (aperçu)<br/>|2102<br/>|13801.20294<br/>|9 mars 2021<br/>|14 septembre 2021<br/>|
+|Canal Entreprise semestriel<br/>|2008<br/>|13127.21348<br/>|9 mars 2021<br/>|Mars 8, 2022<br/>|
+|Canal Entreprise semestriel<br/>|2002<br/>|12527.21686<br/>|9 mars 2021<br/>|14 septembre 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -56,8 +55,9 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|9 mars|[Version 2102 (Build 13801.20294)](current-channel.md#version-2102-march-09)|[Version 2101 (Build 13628.20528)](monthly-enterprise-channel.md#version-2101-march-09)<br/>[Version 2012 (Build 13530.20628)](monthly-enterprise-channel.md#version-2012-march-09)|[Version 2102 (Build 13801.20294)](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[Version 2008 (Build 13127.21348)](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[Version 2002 (Build 12527.21686)](semi-annual-enterprise-channel.md#version-2002-march-09)|
 |2021|1 mars|[Version 2102 (Build 13801.20266)](current-channel.md#version-2102-march-01)| | | |
-|2021|16 février|[Version 2101 (Build 13628.20448)](current-channel.md#version-2101-february-17)| | | |
+|2021|16 février|[Version 2101 (Build 13628.20448)](current-channel.md#version-2101-february-16)| | | |
 |2021|09 février|[Version 2101 (build 13628.20380)](current-channel.md#version-2101-february-09)|[Version 2012 (build 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[Version 2011 (build 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[Version 2008 (build 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[Version 2008 (build 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[Version 2002 (build 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[Version 1908 (build 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|26 janvier |[Version 2101 (Build 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021|21 janvier|[Version 2012 (build 13530.20440)](current-channel.md#version-2012-january-21)| | | |

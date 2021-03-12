@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173653"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595688"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notes de publication pour le Canal Entreprise semestriel
 
@@ -30,7 +30,47 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2008-february-09"></a>Version 2008 : 9 septembre
+## <a name="version-2008-march-09"></a>Version 2008 : 9 mars
+*Version 2008 (build 13127.21348)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème pour lequel Excel cessait de répondre après la sélection d’une série de données dans un graphique.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème qui pouvait entraîner la fermeture inattendue de l’application en cas d’échec de la sauvegarde d’un document.
+
+
+- Résout un problème où la sélection d’une idée de conception supprime l’étiquette de classification des données de la présentation, dans certains cas
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème qui pouvait entraîner la fermeture inattendue de l’application en cas d’échec de la sauvegarde d’un document.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Résolution d’un problème dans lequel le copier-coller dans des messages Skype Entreprise a entraîné l’affichage d’une boîte de dialogue « Un problème est survenu lors du collage de votre contenu ».
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2002-march-09"></a>Version 2002 : 9 mars
+*Version 2002 (build 12527.21686)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-2008-february-09"></a>Version 2008 : 9 février
 *Version 2008 (build 13127.21216)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -114,7 +154,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-january-12"></a>Version 2008 : 12 janvier
-*Version 2008 (build 13127.21064)*
+*Version 2008 (Build 13127.21064)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -2649,6 +2689,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)

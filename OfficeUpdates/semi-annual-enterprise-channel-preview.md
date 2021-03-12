@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel (ciblé) de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: bc3878099fa34b75437ce800250d711cb0f5bd0c
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: d6ea5c4806d3c330611aada74259db7dc19e9c11
+ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173833"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50603014"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notes de publication pour le Canal Entreprise semestriel (préversion)
 
@@ -24,7 +24,389 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 > Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 
-## <a name="version-2008-february-09"></a>Version 2008 : 9 février
+## <a name="version-2102-march-09"></a>Version 2102 : 9 mars
+*Version 2102 (Build 13801.20294)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Lasso et gomme dans la Boîte à outils d’encre :** lorsque vous utilisez les outils de dessin, le lasso et la gomme sont désormais disponibles dans la Boîte à outils d’encre.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
+
+- **Créer une connexion au format PDF :** connectez-vous à des données, importez-les ou actualisez-les à partir d’un fichier PDF. [En savoir plus](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Créer des variables à utiliser dans les formules :** améliorer les performances, la lisibilité et la composabilité avec la fonction LET. Cette fonction vous permet de créer des variables nommées dans des formules nouvelles ou préexistantes. [En savoir plus](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
+
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office.  Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Obtenir des données d’organisation à partir de Power BI à l’aide de types de données :** les types de données Excel de Power BI sont désormais déployés pour les Insiders dans les organisations avec Office 365 / Microsoft 365 et le plan de service Power BI Pro. Il est essentiel de récupérer les informations dont vous avez besoin et de les actualiser facilement dans de nombreux flux de travail quotidiens. Nous vous donnons accès aux informations sur votre entreprise ou organisation à partir de Power BI sous la forme d'un type de données dans Excel, ce qui vous permet d'introduire des informations liées dans vos feuilles de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+
+- **Créez des diagrammes Visio soignés dans Excel :** créez des diagrammes basés sur des données, tels que des diagrammes de flux ou des organigrammes à partir des données d’une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="outlook"></a>Outlook
+
+- **Contribuez à protéger les données de votre groupe :** l’étiquette Sensibilité que vous sélectionnez lors de la création d’un groupe est appliquée aux e-mails, documents et sites d’équipe de ce groupe.
+
+- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Créer des sondages dans Outlook avec le sondage rapide :** créer facilement un sondage, collecter des votes et afficher les résultats dans un courrier électronique [En savoir plus](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+
+- **Nouvelle recherche de salles :** rechercher des salles de conférence selon différentes fonctionnalités.
+
+- **Recherchez-la façon dont vous le diriez :** utilisez un langage quotidien tel que « rendez-vous la semaine dernière » pour filtrer et affiner votre recherche.
+
+- **Option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente :** nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/automatically-restore-windows-in-outlook)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Lasso et gomme dans la Boîte à outils d’encre :** lorsque vous utilisez les outils de dessin, le lasso et la gomme sont désormais disponibles dans la Boîte à outils d’encre.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
+
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office.  Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="visio"></a>Visio
+
+- **Nouveaux pochoirs et formes Azure :** Nous avons ajouté de nombreux autres pochoirs pour vous aider à créer des diagrammes Azure actualisés. [En savoir plus](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="word"></a>Word
+
+- **Lasso et gomme dans la Boîte à outils d’encre :** lorsque vous utilisez les outils de dessin, le lasso et la gomme sont désormais disponibles dans la Boîte à outils d’encre.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
+
+- **Gardez vos outils à portée de main :** dans la boîte à outils de dessin, trouvez le stylet intelligent qui vous permet d’ajouter des gestes d’entrée manuscrite au texte. [En savoir plus](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
+
+- **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office.  Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="office-suite"></a>Suite Office
+
+- **Volets à onglets :** vous pouvez désormais basculer entre plusieurs volets à l’aide d’une interface utilisateur d’onglet présente sur le côté droit de l’application. L’interface utilisateur n’est visible que lorsque vous avez ouvert au moins deux volets.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Accès
+
+- Nous avons résolu un problème lors de l’utilisation de DAO à partir d’applications non-Office, provoquant la fermeture inattendue de l’application.
+
+
+- Nous avons corrigé un problème pour lequel les utilisateurs avaient une boîte de dialogue d’erreur « État du curseur non valide ».
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons corrigé un problème qui a entraîné la rupture de certaines macros Excel 4.0 et Excel 5.0 ainsi que de certains appels VBA à dialogsheets.show.
+
+
+- Résolution d’un problème dans lequel Excel se ferme de manière inattendue lors de l’utilisation du menu « Afficher les valeurs » pour un tableau croisé dynamique.
+
+
+- Nous avons corrigé un problème qui empêchait les utilisateurs d’exporter un document Excel au format PDF.
+
+
+- Nous avons corrigé un problème qui rendait les images plus petites que prévu lors de l’utilisation de l’option Coller une image liée.
+
+
+- Nous avons corrigé un problème à cause duquel une mise en forme de tableau croisé dynamique corrompait le classeur lors de l’enregistrement au format .xls ou .xlt.
+
+
+- Nous avons corrigé un problème pour lequel Excel laisse les macros désactivées sans qu’une invite s’affiche lorsque vous ouvrez un fichier de complément Excel contenant des macros 4.0 Excel.
+
+
+- Résolution d’un problème dans lequel Excel affichait incorrectement une barre de messages indiquant qu’une nouvelle version du fichier était disponible, puis obligeait l’utilisateur à enregistrer ses modifications dans une copie du classeur ou à ignorer ses modifications.
+
+
+- Nous avons corrigé un problème dans lequel certains utilisateurs voyaient incorrectement une barre de message les informant d'une nouvelle version d'un fichier lors de la co-création.
+
+
+- Correction d'un problème qui empêchait Excel de se lancer ou de se fermer de manière inattendue si certains paramètres de protection contre l'exploitation de Windows Security (SimExec, CallerCheck) sont utilisés.
+
+
+- Nous avons résolu un problème ou Excel cessait de répondre après la sélection d’une série de données dans un graphique.
+
+
+- Ce changement répond à un problème d'affichage correct des polices dans les équations.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à accorder l’autorisation éditeur à leurs délégués.
+
+
+- Nous avons résolu un problème qui occasionnait la fermeture inattendue d’outlook chez des utilisateurs lors de certains scénarios de recherche.
+
+
+- Nous avons corrigé un problème qui faisait que les utilisateurs ayant des boîtes aux lettres partagées ou déléguées avec de grandes hiérarchies dans leur profil se heurtaient à des blocages.
+
+
+- Nous avons corrigé un problème qui entraînait l’envoi d’e-mails générés automatiquement avec un corps vide lorsque la ligne d'objet était vide.
+
+
+- Nous avons corrigé un problème lors duquel des utilisateurs observaient que Outlook démarrait de manière inattendue dans un état hors ligne.
+
+
+- Nous avons résolu un problème qui empêchait les délégués de voir les défaillances intermittentes lors de l’ouverture de dossiers partagés dans une autre boîte aux lettres.
+
+
+- Nous avons corrigé un problème qui entraînait l’arrêt inopiné de l’application lors de la sélection d’un résultat de recherche.
+
+
+- Nous avons corrigé un problème qui causait à certains clients un blocage lors du chargement de leurs calendriers.
+
+
+- Nous avons corrigé un problème qui faisait que les participants originaux de certaines réunions recevaient une annulation lorsqu'un autre participant faisait suivre la réunion.
+
+
+- Nous avons résolu un problème qui a entraîné l’apparition de groupes de calendriers en double pour les utilisateurs suite à la création d’un groupe.
+
+
+- Nous avons résolu un problème pour qui les utilisateurs des améliorations du calendrier partagé ne pouvaient pas définir la couleur d’un calendrier sur jaune ou marron.
+
+
+- Nous avons corrigé un problème qui causait aux utilisateurs de voir les calendriers nouvellement ajoutés qui n’apparaissaient pas dans le panneau de navigation jusqu’à ce que Outlook ait été redémarré
+
+
+- Nous avons résolu un problème à l’origine du retour de recherche sans résultat lors de la recherche de calendriers partagés non mis en cache.
+
+
+- Nous avons corrigé un problème qui causait l’arrêt de l’application à certains utilisateurs lors de la fermeture des fenêtres de message.
+
+
+- Nous avons résolu un problème dans lequel le champ À : était vide lors de l’envoi du rapport d’état des tâches.
+
+
+- Nous avons résolu un problème à l’origine de l’interruption de l’événement MailItem.BeforeAttachmentAdd.
+
+
+- Nous avons corrigé un problème qui occasionnait la fermeture inattendue d’Outlook chez des utilisateurs lors de certains scénarios de recherche.
+
+
+- Nous avons corrigé un problème qui causait la fermeture inattendue de l’application lorsque les utilisateurs recherchaient dans Outlook.
+
+
+- Nous avons corrigé un problème qui provoquait un blocage des utilisateurs des paramètres Cloud lors de la mise à jour des paramètres.
+
+
+- Nous avons corrigé un problème qui empêchait la sauvegarde d'une signature modifiée après avoir invité l'utilisateur à le faire.
+
+
+- Nous avons résolu un problème où des utilisateurs ne voyaient aucune signature dans la liste déroulante de signatures en dépit de la configuration d’une ou de plusieurs signatures.
+
+
+- Nous avons corrigé un problème qui empêchait l’activation par défaut des paramètres cloud pour les utilisateurs.
+
+
+- Nous avons corrigé un problème qui a provoqué l’échec de l’enregistrement des modifications apportées à la signature d’un utilisateur.
+
+
+- Nous avons corrigé un problème à cause duquel Outlook créait une deuxième signature vide pour les personnes qui avaient activé les paramètres cloud.
+
+
+- Nous avons corrigé un problème qui causait des difficultés pour afficher la bonne signature par défaut dans OWA.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient les signatures contenant du contenu unicode être endommagées.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de la traduction en ligne de soumettre leurs commentaires.
+
+
+- Nous avons résolu un problème à l’origine de la lecture des en-têtes de messages chinois lors de la réponse ou du transfert.
+
+
+- Nous avons résolu un problème dans lequel les caractères chinois sont remplacés par des points d’interrogation lors de l’enregistrement sous la forme d’un fichier OFT.
+
+
+- Nous avons ajouté une regkey qui permet aux clients de désactiver l’inclusion d’éléments filetime pour les pièces jointes dans les opérations IDataObject (par exemple, glisser-déplacer, presse-papiers).  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = les horodatages sont exclus.  1 = (par défaut) les horodatages sont inclus.
+
+
+- Nous avons résolu un problème qui entraînait la disparition des images incorporées lorsque l’utilisateur répondait un message disposant d’une étiquette de protection Azure Information Protection.
+
+
+- Nous avons corrigé un problème qui faisait que l'icône de cryptage ne s'affichait pas sur les e-mails envoyés en utilisant l'option de cryptage uniquement.
+
+
+- Nous avons résolu un problème qui envoyait les messages électroniques à être signés numériquement après que l’utilisateur a désactivé cette option.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème qui pouvait entraîner la fermeture inattendue de l’application en cas d’échec de la sauvegarde d’un document.
+
+
+- Correction d’un problème concernant le copier/coller d’une équation à partir de Word vers PowerPoint.
+
+
+- Cette modification corrige un problème avec le remplissage du chemin d’accès lors de l’application des opérations Combiner les formes avec certaines géométries.
+
+
+- Ce changement répond à un problème d'affichage correct des polices dans les équations.
+
+
+- Cette modification corrige un problème lié à la gestion des erreurs susceptibles de se produire pendant le chargement vidéo.
+
+
+- Nous avons corrigé un problème VBA où Slide.Shapes.AddMediaObject2 se fermerait inopinément avec les formats vidéo hérités (MPG-1,Mpeg-2).
+
+
+- Nous avons corrigé un problème dans lequel la commande de taille de police, ajoutée dans QAT, s’exécutait automatiquement à la taille de police définie la plus proche lors de sa mise à jour.
+
+
+- Nous avons corrigé un problème à l’origine d’une erreur lors de l’enregistrement du fichier après la duplication d’une diapositive contenant un fichier audio nouvellement enregistré.
+
+
+- Nous avons corrigé un problème dans lequel le complément contenu de Formulaires ne s’affiche pas après l’insertion, jusqu’à ce que l’utilisateur clique sur une autre diapositive pour l’afficher.
+
+
+- Nous avons corrigé un problème qui désactivait les protections IRM lors de l’ouverture d’un fichier PowerPoint en mode protégé.
+
+
+- Correction d'un problème entraînant une co-édition lente des fichiers contenant un grand nombre d'objets de données d'un certain type (E2o).
+
+
+- Correction pour résoudre un problème liés à l’utilisation de la gestion des droits relatifs à l’information ou de documents protégés pendant une erreur de fusion.
+
+
+- Ce correctif résout le problème suivant : l’invite Enregistrer s’affiche en boucle pendant la fermeture du document lorsqu’un complément écoute l’événement PresentationBeforeClose et vérifie la propriété Presentation.Saved comme partie du gestionnaire d’événements.
+
+
+- Nous avons corrigé un problème concernant certains fichiers PowerPoint corrompus qui ne s’ouvraient pas correctement, même après une opération de réparation de document.
+
+
+- Résout un problème où la sélection d’une idée de conception supprime l’étiquette de classification des données de la présentation, dans certains cas.
+
+
+### <a name="project"></a>Project
+
+- Résolution d’un problème où lorsque vous enregistrez un projet de PWA dans un fichier MPP local, ProjectBeforeTaskChangeEvent se déclenche pour les données qui n’ont pas été réellement modifiées par l’utilisateur.
+
+
+- Nous avons résolu un problème dans lequel la NewVal de l’événement ProjectBeforeTaskChange ne possède pas la valeur correcte si un décalage est modifié dans un affichage de type Formulaire Tâche.
+
+
+- Correction d'un problème où si vous avez un code d'événement en cours d'exécution et que vous essayez d'effectuer des changements par le biais d'une vue du formulaire des tâches, le fait de cliquer sur le bouton OK peut ne pas valider les changements.
+
+
+- Résolution d’un problème où Project peut s’arrêter de manière inattendue à l’ouverture des fichiers dans lesquels les contours de ressources ont été spécifiés d’une certaine manière.
+
+
+- Résolution d'un problème qui permettait d'ouvrir des projets spécifiques en cas de problème avec le fichier de projet dans une partie spécifique de la charge.
+
+
+- Correction d’un problème pour lequel les bordures n’étaient pas présentes pour les tâches dans l’affichage Planificateur d’équipe.
+
+
+- Correction d'un problème où le glisser-déposer ne fonctionnait pas pour les tâches dans la vue du Planificateur d'équipe.
+
+
+- Correction d'un problème où, lorsqu'une ressource de coût était assignée à une tâche d'étape, le coût de base ne s'additionnait pas correctement.
+
+
+### <a name="visio"></a>Visio
+
+- Nous avons résolu un problème et les utilisateurs pourront créer des lignes droites à l’aide de connecteurs dans Visio pour Office 365 pour les gabarits Visio personnalisés et les modèles intégrés.
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème qui pouvait entraîner la fermeture inattendue de l’application en cas d’échec de la sauvegarde d’un document.
+
+
+- Correction d’un problème concernant le copier/coller d’une équation à partir de Word vers PowerPoint.
+
+
+- Cette modification résout un problème de curseur lors de la modification d’un document.
+
+
+- Corrige un problème avec les couleurs appliquées aux icônes et aux graphiques SVG à l’aide d’effets 3D.
+
+
+- Nous avons corrigé un problème avec le Narrateur qui peut passer d’un paragraphe à l’autre.
+
+
+- Nous avons corrigé un problème avec les contrôles de contenu en texte enrichi.
+
+
+- Nous avons corrigé un problème lié à la boîte de dialogue Galerie de styles.
+
+
+- Nous avons corrigé un problème de résolution des conflits lors de la co-édition.
+
+
+- Nous avons corrigé un problème concernant le remplacement des styles de document par d’autres styles à partir du modèle.
+
+
+- Corriger un bug d'assertion exposé par des portes optimisées affectant Word.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème à l’origine de l’échec d’une tentative d’enregistrement de fichiers qui sont passés de la version synchronisée à la version serveur uniquement.
+
+
+- Nous avons corrigé un problème concernant la tentative d’enregistrement, avec Enregistrer sous, qui échouait dans certains scénarios.
+
+
+- Nous avons corrigé un problème où SaveRequestManagerCam provoquait la fermeture de l’application au lieu de renvoyer une erreur.
+
+
+- Correction de la séquence de fermeture des fichiers afin que tous les éléments interdépendants soient fermés de manière irréprochable.
+
+
+- Correction d’un problème de fichier qui serait ouvert en tant que non SyncBacked lorsque l’URL du cache et de l’URL de OneDrive ne correspond pas.
+
+
+- Résolution d’un bogue dans lequel le copier-coller dans des messages Skype Entreprise a entraîné l’affichage d’une boîte de dialogue « Un problème est survenu lors du collage de votre contenu ».
+
+
+- Résolution d’un problème dans lequel une erreur se produisait lorsque vous copiez-collez un texte de commentaire dans Excel.
+
+
+- Corriger un incident qui pouvait se produire lors de l’utilisation du narrateur dans un texte qui contient des équations mathématiques.
+
+
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
+
+
+- Nous avons résolu un problème où l'installation d'une version plus récente d'Office par rapport à certaines versions plus anciennes peut entraîner une fonctionnalité réduite (comme l'impossibilité d'utiliser Power Query) en raison d'entrées de registre manquantes.
+
+
+- Nous avons corrigé un problème dans lequel Point de terminaison protection contre la perte de données Microsoft 365 n’a pas pu classifier des documents Office sur disque.
+
+
+- Nous avons corrigé un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
+
+
+- Résout un problème lié aux notifications d’événement de contrôleur multimédia.
+
+
+- Résout un problème lié au minutage du moteur du lecteur multimédia.
+
+
+- Taille binaire optimisée.
+
+
+- Anaheim WebView ne prend pas encore en charge la Protection des informations Windows (WIP). Avec ce correctif, la plateforme de complément Office revient à la vue web de niveau inférieur dans l’environnement activé par la Protection des informations Windows. Il peut s’agir de la vue web Edge Spartan ou Trident, en fonction de l’environnement de la machine du client. Les deux vues web de niveau inférieur prennent en charge la protection des informations Windows.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2008-february-09"></a>Version 2008 : 9 septembre
 *Version 2008 (build 13127.21216)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -86,7 +468,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2008-january-12"></a>Version 2008 : 12 janvier
-*Version 2008 (build 13127.21064)*
+*Version 2008 (Build 13127.21064)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -1497,6 +1879,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)

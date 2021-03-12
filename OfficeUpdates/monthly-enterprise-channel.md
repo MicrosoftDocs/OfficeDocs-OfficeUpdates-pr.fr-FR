@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455780"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595568"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
@@ -26,6 +26,70 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 [//]: # (NE PAS SUPPRIMER)
 
 
+
+## <a name="version-2101-march-09"></a>Version 2101 : 09 mars
+*Version 2101 (build 13628.20528)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d'un problème qui empêchait Excel de se lancer ou de se fermer de manière inattendue si certains paramètres de protection contre l'exploitation de Windows Security (SimExec, CallerCheck) étaient utilisés
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons corrigé un problème qui faisait que l'icône de cryptage ne s'affichait pas sur les e-mails envoyés en utilisant l'option de cryptage uniquement.
+
+
+- Nous avons corrigé un problème qui envoyait les messages électroniques à être signés numériquement après que l’utilisateur a désactivé cette option.
+
+
+- Nous avons corrigé un problème qui causait des difficultés pour afficher la bonne signature par défaut dans OWA.
+
+
+- Nous avons corrigé un problème qui provoquait un blocage des utilisateurs des paramètres Cloud lors de la mise à jour des paramètres.
+
+
+- Nous avons corrigé un problème qui causait la fermeture inattendue de l’application lorsque les utilisateurs recherchaient dans Outlook.
+
+
+- Nous avons corrigé un problème qui faisait que les utilisateurs ayant des boîtes aux lettres partagées ou déléguées avec de grandes hiérarchies dans leur profil se heurtaient à des blocages.
+
+
+- Nous avons corrigé un problème qui causait la fermeture inattendue d’Outlook chez des utilisateurs lors de certains scénarios de recherche.
+
+
+### <a name="project"></a>Project
+
+- Correction d’un problème où lorsqu’une ressource de type Coût est affectée à une tâche jalon, le coût de référence n’est pas correctement pris en charge.
+
+
+- Correction d’un problème pour lequel les bordures n’étaient pas présentes pour les tâches dans l’affichage Planificateur d’équipe.
+
+
+- Correction d'un problème où le glisser-déposer ne fonctionnait pas pour les tâches dans la vue du Planificateur d'équipe.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Résout un problème lié aux notifications d’événement de contrôleur multimédia.
+
+
+- Résout un problème lié au minutage du moteur du lecteur multimédia.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2012-march-09"></a>Version 2012 : 9 mars
+*Version 2012 (Build 13530.20628)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2012-february-09"></a>Version 2012 : 9 février
 *Version 2012 (build 13530.20528)*
@@ -1387,6 +1451,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
