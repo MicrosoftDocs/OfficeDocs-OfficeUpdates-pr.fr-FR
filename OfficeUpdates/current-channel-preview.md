@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
+ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421401"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50741637"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,238 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2103-march-11"></a>Version 2103 : 11 mars
+*Version 2103 (Build 13901.20148)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+
+### <a name="outlook"></a>Outlook
+
+- **Nouvelle expérience de réservation de salle de conférence et d’espace de travail :** L’expérience de réservation de salle de conférence a été revue. Nous avons ajouté des fonctionnalités qui vous permettent de planifier des espaces de travail individuels également.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+
+### <a name="visio"></a>Visio
+
+- **Nouvelle apparence des icônes Office :** Nous avons modernisé les icônes de ce produit pour mieux refléter la simplicité, l’efficacité et l’intelligence de l’expérience Office. [En savoir plus](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+
+### <a name="word"></a>Word
+
+- **Mode sombre pour les documents Word :** Le mode sombre permet de réduire la fatigue des yeux et de composer avec la sensibilité à la lumière de chacun dans le cadre du travail sur les documents Word.
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
+
+
+- Correction d’un problème qui empêchait l’ordinateur de s’éteindre tant qu’une application externe demandait une interface d’accessibilité.
+
+
+### <a name="excel"></a>Excel
+
+- Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
+
+
+- Correction d'un problème où Excel se fermait parfois de manière inattendue en essayant de montrer la carte des types de données parce qu'il n'était pas possible de récupérer une image.
+
+
+- Correction d’un problème à cause duquel la police changeait sans raison lors de l’utilisation d’un signe de multiplication ou de division avec une police japonaise. Nous gardons la même police si elle prend en charge le caractère.
+
+
+- Nous avons corrigé un problème qui empêchait les utilisateurs d’exporter un document Excel au format PDF.
+
+
+- Nous avons corrigé un problème qui rendait les images plus petites que prévu lors de l’utilisation de l’option Coller une image liée.
+
+
+- Correction d’un problème qui pouvait causer la perte d’informations de formatage à la copie d’une feuille co-éditée.
+
+
+- Correction d’un problème d’affichage inopiné de notes à l’ouverture d’un classeur.
+
+
+- Correction d’un problème qui pouvait causer la corruption d’un classeur avec certaines mises en forme PivotTable lors de l’enregistrement aux formats .xls et .xlt.
+
+
+### <a name="outlook"></a>Outlook
+
+- Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
+
+
+- Nous avons résolu un problème qui a entraîné l’apparition de groupes de calendriers en double pour les utilisateurs suite à la création d’un groupe.
+
+
+- Nous avons résolu un problème pour qui les utilisateurs des améliorations du calendrier partagé ne pouvaient pas définir la couleur d’un calendrier sur jaune ou marron.
+
+
+- Nous avons corrigé un problème qui causait aux utilisateurs de voir les calendriers nouvellement ajoutés qui n’apparaissaient pas dans le panneau de navigation jusqu’à ce que Outlook ait été redémarré
+
+
+- Correction d’un problème d’encodage incorrect des caractères non-ASCII lors de l’exportation au format CSV.
+
+
+- Correction d’un problème qui pouvait empêcher certains utilisateurs d’accéder à des signatures associées à des comptes de courrier électronique secondaires.
+
+
+- Correction d’un problème de la fonctionnalité Paramètres du cloud qui causait le remplacement des paramètres personnels d’un utilisateur par les paramètres par défaut à la configuration d’Outlook sur un nouvel appareil.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient les signatures contenant du contenu unicode être endommagées.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de la traduction en ligne de soumettre leurs commentaires.
+
+
+- Correction d’un problème qui affichait un doublon des pièces-jointes dont la protection DRM était retirée.
+
+
+- Correction d’un problème à cause duquel les utilisateurs ne pouvaient pas rechercher un groupe de contacts avec la fonctionnalité Vérifier les noms lors de la rédaction d’un courrier électronique.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
+
+
+- Correction d’un problème du mode diaporama de PowerPoint dans lequel les flèches n’apparaissaient pas dans les graphiques en courbes.
+
+
+- Résout un problème de boucles d’animations et de signets audio.
+
+
+### <a name="project"></a>Projet
+
+- Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
+
+
+- Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
+
+
+- Nous avons résolu un problème pour lequel une tâche achevée à 100 % était achevée à 99 %.
+
+
+- Correction d’un problème pour lequel Project peut se fermer inopinément si vous exécutez JAWS et que vous allez à la boîte de dialogue d’informations sur la tâche.
+
+
+- Correction d'un problème où, si la colonne des indicateurs ne se trouve pas dans la première colonne, lorsque vous coupez une tâche de récapitulation, vous n'êtes pas averti que les sous-tâches seront également supprimées.
+
+
+- Correction d’un problème pour lequel si un utilisateur sélectionnait la fonction Se ajouter à une tâche dans sa feuille de temps, les unités de disponibilité des ressources correctement utilisées n’étaient peut-être pas utilisées dans l’affectation créée.
+
+
+- Correction d’un problème de fractionnement des tâches lors de l’enregistrement d’un projet à partir de Project Web App dans un fichier local. Cela se produirait si un calendrier des tâches avec des heures de travail non standard était utilisé.
+
+
+### <a name="publisher"></a>Publisher
+
+- Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
+
+
+### <a name="visio"></a>Visio
+
+- Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
+
+
+- Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème à cause duquel l’ouverture d’un fichier protégé à l’aide d’une étiquette Microsoft Information Protection (MIP) pouvait se bloquer indéfiniment si l’utilisateur n’était pas connecté à un compte ayant accès à l’étiquette protégée MIP. L’utilisateur était obligé d’annuler l’ouverture pour afficher l’invite de connexion. L’ouverture ne s’effectuait uniquement après cela. Correction de ce problème en permettant l’affichage de l’invite de connexion lors de l’ouverture ou du téléchargement.
+
+
+- Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
+
+
+- Correction d’un problème lors de l’utilisation de la dictée dans les nouveaux commentaires Word. À présent, le bouton Dictée de la carte de commentaire bascule correctement.
+
+
+- Lors de la co-édition d’un document, le brouillon actif n’est plus vidé de son contenu lorsque l’ordre des commentaire est changé.
+
+
+- Correction d’un problème d’oubli d’ajout d’espaces entre les mots dictés par un utilisateur dans son document.
+
+
+- Correction d’un problème de rendu de pipeline dans le contexte de défilement de calques contenant des animations de défilement ou de zoom.
+
+
+- Correction d’un problème avec les couleurs appliquées aux icônes et aux graphiques SVG avec des effets 3D.
+
+
+- Correction d’un problème de l’enregistrement automatique.
+
+
+- Correction d’un problème dans les notes de bas de page.
+
+
+- Correction d’un problème à cause duquel la publication de commentaires multilignes tapés de droite à gauche entraînait l’alignement sur la gauche des deuxièmes lignes et des suivantes au lieu de la droite.
+
+
+- Nous avons résolu un problème d’alignement de plusieurs commentaires.
+
+
+- Nous avons résolu un problème dans les raccourcis clavier du volet Lecture à voix haute.
+
+
+- Correction d’un problème du Narrateur qui pouvait sauter un paragraphe.
+
+
+- Correction d’un problème de la vérification automatique qui basculait entre deux différents menus contextuels de correction orthographique.
+
+
+- Correction d’un problème de contrôles de contenu de texte enrichi.
+
+
+- Correction d’un problème qui pouvait provoquer le blocage de l’application lorsque l’utilisateur tapait du texte à la fin d’un paragraphe masqué.
+
+
+- Correction d’un problème de chevauchement de texte dans les colonnes.
+
+
+- Correction d’un problème relatif aux favoris.
+
+
+- Correction d’un problème de résolution de conflit lors de la co-édition.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Les places OneDrive sont désormais filtrées selon le paramètre de stratégie de groupe.
+
+
+- Correction d’un problème du Narrateur lorsque le texte contenait des équations mathématiques.
+
+
+- Correction d’un problème de fiabilité lié au support d’applications Office exécutées dans la session 0.
+
+
+- Correction d’un problème de fiabilité lié au support d’applications Office exécutées dans la session 0.
+
+
+- Résout un problème lié à la non-réponse qui peut se produire lors du chargement des images EMF.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
 ## <a name="version-2102-march-03"></a>Version 2102 : 03 mars
 *Version 2102 (build 13801.20274)*
@@ -1690,7 +1922,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème dans la boîte de dialogue Compresser l’image dans laquelle certains paramètres ppp sélectionnés par l’utilisateur n’étaient pas conservés.
 
 
-- Cette modification corrige un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
+- Cette modification corrige un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
 
 
 
