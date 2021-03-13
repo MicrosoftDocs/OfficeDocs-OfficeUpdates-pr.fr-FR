@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus
-ms.openlocfilehash: 9947b1ffc822b5f9fd578bb991cb1b5898c2a560
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: ac826a441d961f8215a9d6f088fe7e5429ff8425
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760723"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735208"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>Notes de publication archivées pour le Canal Entreprise semestriel
 
@@ -1600,7 +1600,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-8696): Exécution de code à distance du composant Graphics Microsoft
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
--   Ajout d’une boîte de dialogue expliquant pourquoi un utilisateur ne parvient pas à participer à une réunion lorsque certains ports sont bloqués ou que certaines adresses IP ne sont pas mises sur liste verte.
+-   Ajout d’une boîte de dialogue expliquant pourquoi un utilisateur ne peut pas participer à une réunion lorsque certains ports sont bloqués ou que certaines adresses IP ne sont pas autorisées.
 -   Résolution d’un problème : les messages non lus des salles de conversation permanente étaient marqués comme lus lorsque vous cliquiez sur les onglets de conversation par messagerie instantanée.
 -   Résolution d’un problème : les toasts de messagerie instantanée entrante présentaient un retard de plusieurs secondes.
 -   Résolution d’un problème : dans AD, le numéro de téléphone était affiché au lieu du nom du contact lorsque la synchronisation avec Exchange était désactivée.

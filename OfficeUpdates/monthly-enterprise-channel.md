@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595568"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735189"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
@@ -122,6 +122,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Toutes les réunions en ligne :** Mettez à jour les paramètres de votre calendrier pour que chaque réunion que vous créez soit une réunion d'équipes par défaut, de sorte que vous n'ayez plus besoin de vous souvenir de cliquer sur l'option Réunion d'équipes.
 
+- **Nouvelle recherche de salles :** rechercher des salles de conférence selon différentes fonctionnalités.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/svg-content-office-third-party-apps)
@@ -129,6 +131,10 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
 
 - **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="visio"></a>Visio
+
+- **Nouveaux pochoirs et formes Azure :** Nous avons ajouté de nombreux autres pochoirs pour vous aider à créer des diagrammes Azure actualisés. [En savoir plus](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
@@ -241,6 +247,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Vidéothèque :** Améliorez vos documents grâce à une bibliothèque de vidéos libres de droits et conservées dans l'application.
@@ -348,6 +355,11 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2010-january-12"></a>Version 2010 : 12 janvier
+*Version 2010 (Build 13328.20550)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2010-december-08"></a>Version 2010:08 décembre
 *Version 2010 (Build 13328.20478)*
@@ -656,6 +668,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - **Créer une connexion au format PDF :** connectez-vous à des données, importez-les ou actualisez-les à partir d’un fichier PDF. [En savoir plus](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 

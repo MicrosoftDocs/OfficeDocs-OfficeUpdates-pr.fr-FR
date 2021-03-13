@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du Canal semi-annuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: 62c342fc8e2d8829398377dd0611e101f4a01fac
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 87396dc4b6c0b6ba955d76eb8ce9e486073b1016
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370122"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735179"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notes de publication pour les publications du Canal semi-annuel en 2018
 
@@ -822,7 +822,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Configuration de nouveaux comptes :** définition de nouveaux comptes avec un nouvel assistant qui nécessite moins d’étapes manuelles.
 -   **Boîte de dialogue permettant de joindre des liens :** lorsque vous joignez un lien à l’aide de l’option Joindre un fichier sur le ruban, vous pouvez choisir d’ajouter le fichier en tant que lien ou en tant que pièce jointe. Si vous ne souhaitez pas afficher cette boîte de dialogue à chaque fois, accédez à Fichier \> Options \> Général et spécifiez la manière dont vous souhaitez joindre les liens sous « Options des pièces jointes ».
 -   **Prise en charge des pièces jointes en local :** les fichiers provenant d’un serveur local SharePoint apparaissent comme des fichiers récents sous Message \> Joindre un fichier, les sites d’équipe locaux OneDrive Entreprise et SharePoint apparaissent sous Joindre un fichier \> Parcourir les emplacements web et les fichiers locaux peuvent être téléchargés vers les sites locaux OneDrive Entreprise.
--   **Secteurs d’activité pour les groupes :**  un niveau de secteur d’activité défini par l’administrateur de clients, par exemple Confidentiel, peut être affecté lorsque vous créez ou modifiez un groupe, et le secteur s’affiche dans l’en-tête de groupe.
+-   **Secteurs d’activité pour les groupes :**  Un niveau de secteur d’activité défini par l’administrateur de clients, par exemple Confidentiel, peut être affecté lorsque vous créez ou modifiez un groupe, et le secteur s’affiche dans l’en-tête de groupe.
 -   **Accès invité à des groupes Office 365 :** collaborez avec des personnes en dehors de l’organisation en leur accordant l’accès à des conversations de groupe, à des fichiers, à des invitations de calendrier et au bloc-notes de groupes. [Plus d’informations](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **Messages appelant une action :** les développeurs peuvent créer des messages afin que les utilisateurs puissent exécuter facilement des actions simples ou rapides directement à partir d’Outlook sans avoir à basculer vers un site web externe ou une application distincte. [Plus d’informations](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
@@ -894,7 +894,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-8696): Exécution de code à distance du composant Graphics Microsoft
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
--   Ajout d’une boîte de dialogue expliquant pourquoi un utilisateur ne parvient pas à participer à une réunion lorsque certains ports sont bloqués ou que certaines adresses IP ne sont pas mises sur liste verte.
+-   Ajout d’une boîte de dialogue expliquant pourquoi un utilisateur ne peut pas participer à une réunion lorsque certains ports sont bloqués ou que certaines adresses IP ne sont pas autorisées.
 -   Résolution d’un problème : les messages non lus des salles de conversation permanente étaient marqués comme lus lorsque vous cliquiez sur les onglets de conversation par messagerie instantanée.
 -   Résolution d’un problème : les toasts de messagerie instantanée entrante présentaient un retard de plusieurs secondes.
 -   Résolution d’un problème : dans AD, le numéro de téléphone était affiché au lieu du nom du contact lorsque la synchronisation avec Exchange était désactivée.
@@ -970,7 +970,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-11825): Vulnérabilité d’exécution de code à distance Microsoft Office
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2017-11882) : Vulnérabilité de corruption de mémoire de Microsoft Office
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2018-0795): Vulnérabilité d’exécution de code à distance Microsoft Office
--   [Avis 180003](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/ADV180003) : Mise à jour de protection fiable pour Microsoft Office
+-   [Avis 180003](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/ADV180003) : Mise à jour de protection fiable pour Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Suite Office : Mises à jour non relatives à la sécurité
 -   Ajoutez la prise en charge de l’authentification unique (SSO) pour les utilisateurs de domaine pour les plans Office 365 Germany où l’identité est fédérée avec Active Directory local.

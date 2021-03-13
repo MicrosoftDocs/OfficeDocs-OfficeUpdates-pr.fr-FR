@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 95b197a91dda728899ddebc6825fcd042180e805
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: f6d99e8a1f14403d96f481db795362c56448c8bc
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595648"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735159"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -88,7 +88,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Affichage de la liste des contacts mis à jour :** la liste des contacts indique désormais les adresses électroniques et la taille des photos et du texte mis à jour.
 
-- **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Dans un message, cliquez avec le bouton droit pour traduire certain mots, des expressions ou tout le message. [En savoir plus](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+- **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Vous pouvez désormais utiliser le traducteur intelligent pour Outlook. Lorsque vous recevez un message dans une langue différente que votre langue par défaut, une invite s’affiche en haut vous demandant si vous voulez le faire traduire par Outlook.
+Vous pouvez également cliquer avec le bouton droit pour traduire des mots, des phrases ou tout le message. [En savoir plus](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -344,9 +345,15 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Vos paramètres Outlook dans le cloud :** choisissez vos paramètres Outlook pour Windows tels que Réponses automatiques, Boîte de réception Prioritaire et Confidentialité, puis accédez à ces paramètres sur n’importe quel PC.
 
+- **Nouvelle recherche de salles :** rechercher des salles de conférence selon différentes fonctionnalités.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Exercez-vous sur votre présentation avec l’Assistant de Présentation :** Bénéficiez de conseils sur tout ce qui contribue à entretenir une audience, par exemple les déplacements, la hauteur de la voix, les mots de remplissage, les expressions délicates et bien plus encore. [En savoir plus](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+### <a name="visio"></a>Visio
+
+- **Nouveaux pochoirs et formes Azure :** Nous avons ajouté de nombreux autres pochoirs pour vous aider à créer des diagrammes Azure actualisés. [En savoir plus](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -964,6 +971,8 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ### <a name="excel"></a>Excel
 
 - **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1705,7 +1714,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Résolution d’un problème qui entraînait l’arrêt d’Excel dans certains cas après la copie d’une feuille de calcul contenant un tableau croisé dynamique.
 
-- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies par l’utilisateur.
+- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies pour l’utilisateur.
 
 ### <a name="outlook"></a>Outlook
 

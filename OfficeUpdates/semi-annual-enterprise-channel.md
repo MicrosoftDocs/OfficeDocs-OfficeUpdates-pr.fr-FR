@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: 9e642912dd77ac1e61683ce3021a2d5ee2c5ec56
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
+ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595688"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50741647"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notes de publication pour le Canal Entreprise semestriel
 
@@ -70,7 +70,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
-## <a name="version-2008-february-09"></a>Version 2008 : 9 février
+## <a name="version-2008-february-09"></a>Version 2008 : 9 septembre
 *Version 2008 (build 13127.21216)*
 
 Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -190,7 +190,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Faites glisser le message vers un groupe dont vous êtes propriétaire :** déplacer et copier les messages et les conversations en les faisant glisser à partir de votre boîte de réception. Les messages que vous faites glisser sont partagés avec tous les membres du groupe.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)
 
-- **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Grâce au calendrier épinglé au volet To-Do, rejoignez une réunion d’un simple clic. [En savoir plus](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
+- **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Lorsque le calendrier est épinglé sur le volet de tâches, les comptes d’utilisateurs hébergés sur Exchange Server 2019 ou Exchange Online peuvent rejoindre les réunions d’un seul clic. [En savoir plus](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
