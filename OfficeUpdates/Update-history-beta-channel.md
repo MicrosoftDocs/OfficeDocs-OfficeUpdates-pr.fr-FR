@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider rapide pour ordinateur de bureau Windows
-ms.openlocfilehash: 40844d6062ba320c180e00588da5619dcd92166c
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: c29090ba68f60cbe6d04637523a66e908a0e2b21
+ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595678"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837502"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historique des mises à jour pour le canal bêta d’Office
 
@@ -31,12 +31,15 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versions et builds du canal bêta d’Office
 
-Si vous êtes inscrit au programme Insider, vous recevez fréquemment des mises à jour offrant de nouvelles fonctionnalités et améliorations. La liste suivante énumère les versions et builds du canal bêta, **du plus récent au plus ancien**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents.
+Si vous êtes inscrit au programme Insider, vous recevez fréquemment des mises à jour offrant de nouvelles fonctionnalités et améliorations. La liste suivante énumère les versions et builds du canal bêta, **du plus récent au plus ancien**. Les nouvelles builds incluent toutes les mises à jour contenues dans les builds précédentes.
 
 Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NE PAS SUPPRIMER)
+
+**16 mars 2021**<br/>
+Version 2104 (Build 13913.20000)<br/>
 
 **9 mars 2021**<br/>
 Version 2104 (Build 13906.20000)<br/>
