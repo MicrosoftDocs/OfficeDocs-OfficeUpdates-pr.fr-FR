@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: f2b162d7f9195efb4ad58d37ce15642307b5696b
+ms.sourcegitcommit: f17a5deca413fadd5cd18bca76e9d4e740715a07
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741637"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50829228"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,38 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2103-march-15"></a>Version 2103 : 15 mars
+*Version 2103 (build 13901.20170)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="project"></a>Project
+
+- Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
+
+
+### <a name="visio"></a>Visio
+
+- Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2103-march-12"></a>Version 2103 : 12 mars
+*Version 2103 (Build 13901.20148)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Statut Absent(e) du bureau** Configurez un message pour faire savoir à d’autres personnes que vous ne travaillez pas ou que vous êtes en congés, si bien que vous n’êtes pas disponible pour répondre lorsqu’ils vous envoient un message de conversation. Votre calendrier Outlook synchronise également votre statut Absent(e) du bureau avec les réponses automatiques.
+
+[//]: # (NE PAS SUPPRIMER)
+
 
 ## <a name="version-2103-march-11"></a>Version 2103 : 11 mars
 *Version 2103 (Build 13901.20148)*
@@ -1178,7 +1210,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -1922,7 +1954,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème dans la boîte de dialogue Compresser l’image dans laquelle certains paramètres ppp sélectionnés par l’utilisateur n’étaient pas conservés.
 
 
-- Cette modification corrige un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
+- Cette modification corrige un problème avec la boîte de dialogue Compresser l’image qui ne conservait pas certains paramètres utilisateur.
 
 
 
@@ -2079,7 +2111,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -3166,7 +3198,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
