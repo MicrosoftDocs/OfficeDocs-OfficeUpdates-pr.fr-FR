@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 5da2b7c6add96801fb1548a68ae0ba0378cf6c21
-ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
+ms.openlocfilehash: d993a73632974765870844af68ecb0d0591e9f36
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50603004"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902149"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -36,7 +36,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2102<br/>|13801.20294<br/>|9 mars 2021<br/>|Publication de la version 2103<br/>|
+|Canal actuel<br/>|2102<br/>|13801.20360<br/>|18 mars 2021<br/>|Publication de la version 2103<br/>|
 |Canal Entreprise mensuel<br/>|2101<br/>|13628.20528<br/>|9 mars 2021<br/>|11 mai 2021<br/>|
 |Canal Entreprise mensuel<br/>|2012<br/>|13530.20628<br/>|9 mars 2021<br/>|13 avril 2021<br/>|
 |Canal Entreprise semi-annuel (aperçu)<br/>|2102<br/>|13801.20294<br/>|9 mars 2021<br/>|14 septembre 2021<br/>|
@@ -55,6 +55,7 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|18 mars|[Version 2102 (build 13801.20360)](current-channel.md#version-2102-march-18)| | | |
 |2021|9 mars|[Version 2102 (Build 13801.20294)](current-channel.md#version-2102-march-09)|[Version 2101 (Build 13628.20528)](monthly-enterprise-channel.md#version-2101-march-09)<br/>[Version 2012 (Build 13530.20628)](monthly-enterprise-channel.md#version-2012-march-09)|[Version 2102 (Build 13801.20294)](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[Version 2008 (Build 13127.21348)](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[Version 2002 (Build 12527.21686)](semi-annual-enterprise-channel.md#version-2002-march-09)|
 |2021|1 mars|[Version 2102 (Build 13801.20266)](current-channel.md#version-2102-march-01)| | | |
 |2021|16 février|[Version 2101 (Build 13628.20448)](current-channel.md#version-2101-february-16)| | | |
