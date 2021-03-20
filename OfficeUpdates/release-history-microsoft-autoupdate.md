@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421369"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902193"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -29,6 +29,22 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 > - La mise à jour automatique Microsoft (AutoUpdate) fournit des mises à jour pour différents produits Mac auprès de Microsoft. Par conséquent, vous pouvez recevoir une notification pour mettre à jour la mise à jour automatique Microsoft (AutoUpdate), même si vous n’utilisez pas Office pour Mac.
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2021-release"></a>Version de mars 2021.
+
+**Date de publication :** 17 mars 2021
+
+*Mise à jour automatique Microsoft (AutoUpdate) 4.33*
+
+**Correctifs et Améliorations de bogues:**
+- Le bouton « Vérification ». sur l’interface graphique de la mise à jour automatique Microsoft (MAU) est désormais désactivé lorsque la recherche de mises à est en cours.
+- L’invite « Une mise à jour est déjà en cours » contient désormais des informations supplémentaires.
+- L’interface utilisateur de la mise à jour automatique Microsoft affiche les tailles de mise à jour correctes lors du téléchargement des mises à jour.
+- La mise à jour automatique Microsoft peut désormais être installée sur les appareils macOS avec M1 sans Rosetta.
+
+[Téléchargez le package Mise à jour automatique 4.33 de Microsoft](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
 
 ## <a name="february-2021-release"></a>Publication en février 2021.
 
@@ -55,7 +71,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 *Mise à jour automatique Microsoft (AutoUpdate) 4.31*
 
 **Résolution de bogues et améliorations :**
-- Pour les appareils qui n’utilisent pas les mises à jour automatiques, la mise à jour automatique Microsoft (AutoUpdate) est désormais informé des nouvelles mises à jour via une notification au lieu d’ouvrir l’interface utilisateur de Microsoft Auto Update.
+- Pour les appareils qui n’utilisent pas les mises à jour automatiques, la mise à jour automatique Microsoft (AutoUpdate) informe désormais des nouvelles mises à jour via une notification au lieu d’ouvrir l’interface utilisateur de la mise à jour automatique Microsoft (AutoUpdate).
 
 [Télécharger le package Microsoft Auto Update 4.31](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
 <br/>
@@ -178,8 +194,8 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 **Résolution de bogues et améliorations :**
 - Détecter l'arrêt de l'application et supprimer automatiquement la boîte de dialogue affichée liée à « ouvrir l'application ».
 - La fonctionnalité introduite dans la version d'avril a été rétablie : les utilisateurs dont les mises à jour automatiques sont désactivées ne verront l'interface utilisateur de Microsoft AutoUpdate qu'une fois par semaine.
-- Résolution d'un problème où l'Assistant de mise à jour s'arrêtait avant le début de l'installation, après le chargement des mises à jour.
-- Résolution d’un problème dans lequel l’Assistant Mise à jour ne s’est pas arrêté après une durée prolongée lorsque les notifications de l’utilisateur étaient en attente.
+- Résolution d'un problème où l'assistant de mise à jour s'arrêtait de manière inattendue avant le début de l'installation, après le téléchargement des mises à jour.
+- Résolution d’un problème où l’assistant de mise à jour ne se fermait pas après une durée prolongée de notifications de l’utilisateur en attente.
 - Résolution d'un problème où l'interface utilisateur MAU se rouvrait (ou ne se rouvrait pas) après l'installation. L’interface utilisateur doit s’ouvrir après l’installation si la mise à jour est lancée à partir de l’interface utilisateur MAU proprement dite, ou si une mise à jour est déclenchée explicitement par l’utilisateur (via Finder, terminal, etc.).
 
 **Code de hachage SHA-256 :**

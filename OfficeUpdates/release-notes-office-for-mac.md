@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d62ae78e877444b44b16b7107a1417ad2c68b286
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837522"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902190"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -68,7 +68,7 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 - **Obtenir des données d’organisation depuis Power BI à l’aide de types de données Excel :** vous pouvez insérer des données de votre organisation à l’aide de types de données Excel. Convertissez une cellule de votre classeur, obtenez des informations supplémentaires, puis actualisez les données à tout moment.
 
-### <a name="powerpoint-mac"></a>PowerPoint Mac
+### <a name="powerpoint"></a>PowerPoint
 
 - **Enregistrer vos présentations avec le nouvelle fonction Enregistrer le diaporama :** la fonction Enregistrer le diaporama prend à présent en charge l’enregistrement vidéo du présentateur, l’enregistrement d’entrée manuscrite et l’enregistrement du pointeur laser.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/record-slide-show-updates-powerpoint-mac)
 
