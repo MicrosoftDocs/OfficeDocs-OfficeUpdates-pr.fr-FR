@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: f2b162d7f9195efb4ad58d37ce15642307b5696b
-ms.sourcegitcommit: f17a5deca413fadd5cd18bca76e9d4e740715a07
+ms.openlocfilehash: e12cd2ef1015a6f561d186ace737e96548dc5d18
+ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50829228"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51030764"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,20 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2103-march-22"></a>Version 2103 : 22 mars
+*Version 2103 (Build 13901.20230)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui faisait voir aux utilisateurs un nombre de signatures plus important que prévu.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2103-march-15"></a>Version 2103 : 15 mars
 *Version 2103 (build 13901.20170)*
@@ -1210,7 +1224,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2111,7 +2125,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -3198,7 +3212,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
