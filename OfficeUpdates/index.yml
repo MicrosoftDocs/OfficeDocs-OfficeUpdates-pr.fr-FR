@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: 8d6eb89310b8a5ab94b530928f069caadcea6818
-  ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+  ms.openlocfilehash: eaf433d25fee013316e143f3c1beef45c2ace997
+  ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
   ms.translationtype: HT
   ms.contentlocale: fr-FR
-  ms.lasthandoff: 01/07/2021
-  ms.locfileid: "49780742"
+  ms.lasthandoff: 03/24/2021
+  ms.locfileid: "51170223"
 landingContent:
 - title: Microsoft 365 Apps
   linkLists:
@@ -48,13 +48,13 @@ landingContent:
   - linkListType: overview
     links:
     - text: Mises à jour d’Exchange Server
-      url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
+      url: /Exchange/new-features/build-numbers-and-release-dates
     - text: Mise à jour de Project Server
       url: project-server-updates.md
     - text: Mises à jour de SharePoint Server
       url: sharepoint-updates.md
     - text: Mises à jour de Skype Entreprise Server
-      url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
+      url: /SkypeForBusiness/sfb-server-updates
 - title: Office (licence perpétuelle)
   linkLists:
   - linkListType: overview
@@ -84,7 +84,7 @@ landingContent:
   - linkListType: overview
     links:
     - text: Informations sur les versions de Windows 10
-      url: https://aka.ms/windows/releaseinfo
+      url: /windows/release-health/release-information
     - text: Politique de cycle de vie Microsoft
       url: https://support.microsoft.com/lifecycle
     - text: Guide des mises à jour de sécurité Microsoft

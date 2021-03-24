@@ -48,14 +48,14 @@
 ## [Mises à jour d’Office non liées à la sécurité (MSI)](office-MSI-non-security-updates.md)
 ## [Fichiers .msp Office 2016](msp-files-office-2016.md)
 ## [Fichiers .msp Office 2013](msp-files-office-2013.md)
-## [Mises à jour de Skype Entreprise (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
+## [Mises à jour de Skype Entreprise (MSI)](/SkypeForBusiness/sfb-client-updates)
 
 # Produits Office Server
-## [Mises à jour d’Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+## [Mises à jour d’Exchange Server](/Exchange/new-features/build-numbers-and-release-dates)
 ## [Mises à jour de Project Server](project-server-updates.md)
 ## [Mises à jour de SharePoint](sharepoint-updates.md)
-## [Mises à jour de Skype Entreprise Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
+## [Mises à jour de Skype Entreprise Server](/SkypeForBusiness/sfb-server-updates)
 
 # Liens associés
-## [Versions de Windows 10](https://aka.ms/windows/releaseinfo)
+## [Versions de Windows 10](/windows/release-health/release-information)
 ## [Politique de cycle de vie Microsoft](https://support.microsoft.com/lifecycle)
