@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions du canal mensuel pour Office 365 ProPlus en 2018
-ms.openlocfilehash: bcf8417d7dfe8796f3e67e6cf1950320e5c9019a
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: d4cca950f63a31f9f57583c62781893bf6e6fbf3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369892"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169783"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notes de publication pour les publications du canal mensuel en 2018
 
@@ -125,7 +125,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Nouveaux outils de relecture :** ne stressez pas à propos des mots que vous utilisez. PowerPoint propose désormais des suggestions de grammaire et d’écriture.
 - **Vous esquissez, nous perfectionnons :** nous modifions le texte dessiné à la main et l’insérons dans des diagrammes optimisés. Il vous suffit de sélectionner vos traits pour commencer. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalités 
+### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité 
 
 - **Affichez ce qui se trouve derrière un document :** placez une image dans une feuille de calcul, sélectionnez votre préréglage et observez le changement de transparence. Et voilà ! [En savoir plus](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Regardez vos documents s’animer :** insérez des graphiques 3D animés pour voir un battement de cœur, une orbite de planète et le déchaînement d’un T-Rex sur la page. [En savoir plus](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
@@ -304,7 +304,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 - **Améliorations apportées au vérificateur d’accessibilité :** le vérificateur d’accessibilité a mis à jour la prise en charge des recommandations et des normes internationales pour rendre vos messages plus accessibles. [En savoir plus](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalités
+### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 - **Prise en charge améliorée des SVG :** vous pouvez insérer des SVG auxquels des filtres sont appliqués. [En savoir plus](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Donnez un titre à vos diapositives avec un stylet :** utilisez votre stylet pour écrire un titre, puis regardez PowerPoint le convertir en texte. [En savoir plus](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -367,7 +367,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="excel-feature-updates"></a>Excel : Mises à jour de fonctionnalité
  - **Discutez avec les co-auteurs pendant la modification :** collaborez plus efficacement en discutant avec vos co-auteurs sans quitter Excel. Notez que cette fonctionnalité n’est pas disponible dans certaines régions. [En savoir plus](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
-### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalités
+### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
  - **Saisie mains libres :** utilisez votre voix pour créer des messages électroniques en dictant simplement ce que vous voulez écrire. Vous n’avez pas besoin de taper au clavier. [En savoir plus](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Affichez trois fuseaux horaires :** vous devez planifier une réunion sur plusieurs fuseaux horaires ? Ajoutez plusieurs fuseaux horaires à votre calendrier pour voir facilement la disponibilité des participants et choisissez un horaire qui convient à tout le monde. [En savoir plus](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **Partage de calendriers simplifié :** le partage de vos calendriers est plus simple et les calendriers partagés à partir de la version de bureau d’Outlook sont désormais disponibles dans Outlook Mobile également. [En savoir plus](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
@@ -426,7 +426,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Écoutez vos messages électroniques :** Outlook peut lire vos messages électroniques à haute voix et mettre en surbrillance le texte à mesure qu’il est lu. [En savoir plus](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **Ne ratez aucun rappel :** configurez les rappels de sorte qu’ils s’affichent dans une fenêtre contextuelle par-dessus les fenêtres sur lesquelles vous travaillez. Sinon, Outlook clignotera dans la barre des tâches pour attirer votre attention. [En savoir plus](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marquez les éléments supprimés comme lus :** vous pouvez à présent définir les messages que vous supprimez comme lus. Pour ce faire, accédez à Fichier \> Options \> Courrier \> Autre.
--   **Option de chiffrement :** les utilisateurs de chiffrement de messages Office 365 peuvent chiffrer un message et l’envoyer à n’importe quel destinataire, qu’il soit situé à l’intérieur ou à l’extérieur de leur organisation. L’option de chiffrement apparaît sous Options \> Autorisation lors de la création d’un message. [En savoir plus](https://aka.ms/omeoverview)
+-   **Option de chiffrement :** les utilisateurs de chiffrement de messages Office 365 peuvent chiffrer un message et l’envoyer à n’importe quel destinataire, qu’il soit situé à l’intérieur ou à l’extérieur de leur organisation. L’option de chiffrement apparaît sous Options \> Autorisation lors de la création d’un message. [En savoir plus](/microsoft-365/compliance/ome)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 -   **Convertissez vos documents manuscrits :** prenez des notes et gribouillez des dessins, puis convertissez-les en texte lisible et en formes nettes afin de créer une présentation soignée. [En savoir plus](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -601,7 +601,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Ajoutez un bouton de transfert d’appel dans l’interface utilisateur toast des appels RTC entrants.
 -   Informez les utilisateurs que les appels et les conversations sont envoyés aux équipes lorsque ChatDefaultClient et CallDefaultClient sont définis sur la valeur Équipes.
 -   Affichez les informations de présence d’un utilisateur comme Hors connexion lorsque celui-ci est absent d’une réunion et qu’il n’est pas connecté à Skype Entreprise, et que l’expérience de participation aux réunions est définie sur Client limité natif.
--   Désactivez toutes les options à l’exception des options Ouvrir et Quitter lorsque Skype Entreprise est réduit à la zone de notification. 
+-   Désactivez toutes les options à l’exception des options Ouvrir et Quitter lorsque Skype Entreprise est réduit à la zone de notification. 
 -   Supprimez les nouveaux appels et conversations en cas de couplage avec des téléphones Aries et lorsque RedirectClient est activé.
 -   Résolution d’un problème : la recherche de messages par date dans PChat échouait lorsque la date n’était pas au format des États-Unis (mm/jj/aa).
 -   Résolution d’un problème : lorsque la stratégie EnableExternalP2PFileTransfer était définie sur False, les utilisateurs avaient toujours la possibilité de joindre des fichiers dans les réunions.

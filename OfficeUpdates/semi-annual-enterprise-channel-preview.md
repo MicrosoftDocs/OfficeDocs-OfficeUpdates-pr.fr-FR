@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal semi-annuel (ciblé) de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: d6ea5c4806d3c330611aada74259db7dc19e9c11
-ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
+ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50603014"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170213"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notes de publication pour le Canal Entreprise semestriel (préversion)
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du Canal d’enterprise semi-annuel (préversion) de Microsoft 365 Apps for enterprise, de Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
 
 
 ## <a name="version-2102-march-09"></a>Version 2102 : 9 mars
 *Version 2102 (Build 13801.20294)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -45,7 +45,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Obtenir des données d’organisation à partir de Power BI à l’aide de types de données :** les types de données Excel de Power BI sont désormais déployés pour les Insiders dans les organisations avec Office 365 / Microsoft 365 et le plan de service Power BI Pro. Il est essentiel de récupérer les informations dont vous avez besoin et de les actualiser facilement dans de nombreux flux de travail quotidiens. Nous vous donnons accès aux informations sur votre entreprise ou organisation à partir de Power BI sous la forme d'un type de données dans Excel, ce qui vous permet d'introduire des informations liées dans vos feuilles de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Créez des diagrammes Visio soignés dans Excel :** créez des diagrammes basés sur des données, tels que des diagrammes de flux ou des organigrammes à partir des données d’une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -57,13 +57,13 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Créer des sondages dans Outlook avec le sondage rapide :** créer facilement un sondage, collecter des votes et afficher les résultats dans un courrier électronique [En savoir plus](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Nouvelle recherche de salles :** rechercher des salles de conférence selon différentes fonctionnalités.
 
 - **Recherchez-la façon dont vous le diriez :** utilisez un langage quotidien tel que « rendez-vous la semaine dernière » pour filtrer et affiner votre recherche.
 
-- **Option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente :** nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/automatically-restore-windows-in-outlook)
+- **Option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente :** nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -71,7 +71,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office.  Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="visio"></a>Visio
 
@@ -85,7 +85,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Enregistrer dans les dossiers épinglés :** code confidentiel vos dossiers facilitent l’enregistrement des fichiers Office.  Nous avons reçu des commentaires indiquant que les utilisateurs ont besoin d’un contrôle accru sur les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. [En savoir plus](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="office-suite"></a>Suite Office
 
@@ -409,7 +409,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2008-february-09"></a>Version 2008 : 9 septembre
 *Version 2008 (build 13127.21216)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -470,7 +470,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2008-january-12"></a>Version 2008 : 12 janvier
 *Version 2008 (Build 13127.21064)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -542,7 +542,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2008-december-08"></a>Version 2008 : 8 décembre
 *Version 2008 (Build 13127.20910)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -643,7 +643,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2008-november-10"></a>Version 2008 : 10 novembre
 *Version 2008 (Build 13127.20760).*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -691,7 +691,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Nous avons résolu un problème à l’origine du brouillage des en-têtes de messages chinois lors de la réponse ou du transfert.
 
-- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.  <br />Voir détails dans le [billet de blog](https://developer.microsoft.com/fr-FR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.  <br />Voir détails dans le [billet de blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -712,7 +712,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2008-october-13"></a>Version 2008 : 13 octobre
 *Version 2008 (build 13127.20638)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -791,7 +791,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2008-september-08"></a>Version 2008 : 8 septembre
 *Version 2008 (build 13127.20408)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -829,7 +829,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Grâce au calendrier épinglé au volet To-Do, rejoignez une réunion d’un simple clic. [En savoir plus](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Recevez des suggestions par email lorsque vous recherchez une personne :** lorsque vous tapez le nom d’une personne dans la zone de recherche, les e-mails les plus pertinents seront inclus avec vos suggestions de recherche. [En savoir plus](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1137,7 +1137,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-august-11"></a>Version 2002 : 11 août
 *Version 2002 (Build 12527.20988)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1174,7 +1174,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-july-14"></a>Version 2002 : 14 juillet
 *Version 2002 (build 12527.20880)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1245,7 +1245,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-june-09"></a>Version 2002 : 09 juin
 *Version 2002 (build 12527.20720)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1295,7 +1295,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-may-12"></a>Version 2002 : 12 mai
 *Version 2002 (Build 12527.20612)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1389,7 +1389,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-april-14"></a>Version 2002 : 14 avril
 *Version 2002 (Build 12527.20442)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
@@ -1397,8 +1397,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Tapez une formule qui renvoie plusieurs valeurs :** Vous pouvez désormais taper rapidement une formule renvoyant plusieurs valeurs qui se répandent automatiquement dans les cellules adjacentes. [En savoir plus](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **Six fonctions puissantes :** nous avons ajouté les six nouvelles fonctions ci-dessous pour optimiser vos feuilles de calcul : FILTRE, TRI, TRI.PAR, UNIQUE, SEQUENCE et TABLEAU.ALEAT.  [En savoir plus](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **Où que vous regardiez, à gauche comme à droite... XLOOKUP est là ! :** ligne par ligne, trouvez tout ce dont vous avez besoin au sein d’un tableau ou d’une plage grâce à XLOOKUP.  
-  [En savoir plus](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **Où que vous regardiez, à gauche comme à droite... XLOOKUP est là ! :** ligne par ligne, trouvez tout ce dont vous avez besoin au sein d’un tableau ou d’une plage grâce à XLOOKUP.  [En savoir plus](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -1458,7 +1457,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-march-10"></a>Version 2002 : 10 mars
 *Version 2002 (Build 12527.20278)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -1770,7 +1769,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-february-11"></a>Version 1908 : 11 février
 *Version 1908 (Build 11929.20606)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1838,7 +1837,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-january-14"></a>Version 1908 : 14 janvier
 *Version 1908 (build 11929.20562)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication pour les publication du canal mensuel pour Office 365 ProPlus en 2017
-ms.openlocfilehash: a41d4c959b108995e0a4d1d8601cf1635b2c594d
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735199"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169813"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notes de publication pour les publication du canal mensuel en 2017
 
@@ -323,7 +323,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Blocage des extensions dangereuses :** l’activation des extensions considérées comme étant à risque élevé et incorporées sous forme d’objets de package OLE est bloquée par défaut. Par exemple, pour les extensions .exe, .vbs et .js. [En savoir plus](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
--   Ajoutez une boîte de dialogue expliquant pourquoi un utilisateur ne peut pas participer à une réunion lorsque certains ports sont bloqués ou que les IP ne sont pas autorisées.
+-   Ajout d’une boîte de dialogue expliquant pourquoi un utilisateur ne peut pas participer à une réunion lorsque certains ports sont bloqués ou que certaines adresses IP ne sont pas autorisées.
 -   Résolution d’un problème : les messages non lus des salles de conversation permanente étaient marqués comme lus lorsque vous cliquiez sur les onglets de conversation par messagerie instantanée.
 -   Résolution d’un problème : les toasts de messagerie instantanée entrante présentaient un retard de plusieurs secondes.
 -   Résolution d’un problème : dans AD, le numéro de téléphone était affiché au lieu du nom du contact lorsque la synchronisation avec Exchange était désactivée.
@@ -601,22 +601,22 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   **Partager des requêtes** : exportez une définition de requête vers un fichier de connexion de base de données Office (.odc), puis partagez-le avec les classeurs ou avec d’autres personnes.
 -   **Charger les données :** chargez les données d’une requête directement dans des tableaux croisés dynamiques ou des graphiques croisés dynamiques sans avoir à enregistrer les données dans le modèle de données.
 -   **Obtenir et transformer des améliorations :** dans l’éditeur de requête, créez une colonne en fournissant des exemples de valeurs. Lors de la saisie, Excel détecte les transformations requises et affiche un aperçu de la nouvelle colonne.
--   **Prise en charge de la protection des informations Windows :**   Excel est désormais une application améliorée qui peut faire la différence entre les données professionnelles et personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :**   Excel est désormais une application améliorée qui peut faire la différence entre les données professionnelles et personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution du problème où l’option Fusionner et centrer ne fonctionne pas dans les feuilles de calcul regroupées.
 
 ### <a name="onenote-feature-updates"></a>OneNote : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows :** OneNote est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées. [Plus d’informations](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :** OneNote est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées. [Plus d’informations](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
--   **Prise en charge de la protection des informations Windows :** Outlook est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées. [Plus d’informations](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :** Outlook est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées. [Plus d’informations](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **Boîte de dialogue permettant de joindre des liens :** lorsque vous joignez un lien à l’aide de l’option Joindre un fichier sur le ruban, vous pouvez choisir d’ajouter le fichier en tant que lien ou en tant que pièce jointe. Si vous ne souhaitez pas afficher cette boîte de dialogue à chaque fois, accédez à Fichier \> Options \> Général et spécifiez la manière dont vous souhaitez joindre les liens sous « Options des pièces jointes ».
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint : Mises à jour de fonctionnalité
 -   **Sous-titres pour les vidéos :** ajoutez des sous-titres à une vidéo pour élargir sa visibilité. [Plus d’informations](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Améliorations du concepteur :** le concepteur suggère désormais des idées de conception pour les graphiques ajoutés à vos diapositives.
--   **Prise en charge de la protection des informations Windows :**   PowerPoint est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :**   PowerPoint est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="project-non-security-updates"></a>Project : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : la boîte de dialogue Créer un site de projet affichait un emplacement erroné pour le site depuis que chaque modèle de projet d’entreprise dans Project Online a sa propre URL pour les sites de projet.
@@ -631,7 +631,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="skype-for-business-feature-updates"></a>Skype Entreprise : Mises à jour de fonctionnalité
 -   **Insérer un lien :** ajoutez un lien dans les messages instantanés et les conversations de groupe, et entrez un texte convivial pour le lien plutôt que l’URL complète.
 -   **Notification de partage d’écran :** une notification s’affiche dans la fenêtre de conversation lorsque vous partagez un écran dans une conversation par messagerie instantanée ou lorsque le partage d’écran continue lorsque vous quittez une réunion. La notification vous rappelle que vous partagez toujours votre écran et facilite l’arrêt du partage à l’aide du bouton « Arrêter le partage ».
--   **Prise en charge de la protection des informations Windows :** Skype Entreprise est désormais pris en charge sous la forme d’une application « WIP uniquement ». Le fait d’ajouter Skype à votre liste d’applications autorisées indique à Windows que Skype ne traite pas de données personnelles. Windows protégera les données pour le compte Skype Entreprise.  [Plus d’informations](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :** Skype Entreprise est désormais pris en charge sous la forme d’une application « WIP uniquement ». Le fait d’ajouter Skype à votre liste d’applications autorisées indique à Windows que Skype ne traite pas de données personnelles. Windows protégera les données pour le compte Skype Entreprise.  [Plus d’informations](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype Entreprise : Mises à jour non relatives à la sécurité
 -   Modifiez le message pour les tentatives d’appel aux utilisateurs avec l’audio désactivé par la stratégie, message passant de « L’appel ne peut pas aboutir » à « L’appel ne peut pas aboutir car un administrateur informatique a désactivé l’audio ». Essayez plutôt d’utiliser la messagerie électronique ou la messagerie instantanée, et demandez vérification auprès de votre administrateur informatique.
@@ -646,7 +646,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="word-feature-updates"></a>Word : Mises à jour de fonctionnalité
 -   **Amélioration de l’aide à la rédaction avec le volet Éditeur :** utilisez le volet Éditeur pour obtenir des recommandations avancées relatives à l’orthographe, à la grammaire et au style rédactionnel. Il est conçu pour être accessible avec une meilleure prise en charge des technologies d’assistance.
 -   **Création d’un texte de remplacement :** un service cloud génère automatiquement un texte de remplacement pour les images d’un document.
--   **Prise en charge de la protection des informations Windows :**   Word est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](https://aka.ms/wiptechnet)
+-   **Prise en charge de la protection des informations Windows :**   Word est désormais une application améliorée qui peut faire la différence entre les données professionnelles ou personnelles, en déterminant correctement lesquelles protéger, en fonction des stratégies configurées.  [Plus d’informations](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ## <a name="version-1704-june-1"></a>Version 1704 : 1er juin
 *Version 1704 (Build 8067.2157)*
@@ -821,13 +821,13 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 *Version 1702 (Build 7870.2024)*
 
 ### <a name="excel-security-updates"></a>Excel : Mises à jour de sécurité
--   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
+-   Bulletin de sécurité Microsoft [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype Entreprise : Mises à jour de sécurité
--   Bulletin de sécurité Microsoft [MS17-013](https://technet.microsoft.com/library/security/ms17-013): Mise à jour de sécurité pour le composant de graphique Microsoft (4013075)
+-   Bulletin de sécurité Microsoft [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013): Mise à jour de sécurité pour le composant de graphique Microsoft (4013075)
 
 ### <a name="word-security-updates"></a>Word : Mises à jour de sécurité
--   Bulletin de sécurité Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
+-   Bulletin de sécurité Microsoft [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014) : Mise à jour de sécurité pour Microsoft Office (3217868)
 
 
 
@@ -1007,7 +1007,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème où OneNote se bloque lors de l’impression d’une image plus grande que la page.
 
 ### <a name="outlook-feature-updates"></a>Outlook : Mises à jour de fonctionnalité
--   **Volet des tâches épinglable :** Laissez le volet des tâches de complément ouvert lorsque vous passez d’un message à l’autre dans une boîte aux lettres. [Plus d’informations](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **Volet des tâches épinglable :** Laissez le volet des tâches de complément ouvert lorsque vous passez d’un message à l’autre dans une boîte aux lettres. [Plus d’informations](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 
 ### <a name="outlook-non-security-updates"></a>Outlook : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème : lorsque vous cliquez avec le bouton droit de la souris sur une pièce jointe dans la liste des pièces jointes pour une conversation, tous les éléments de menu contextuel sont visibles, au lieu des éléments de menu applicables uniquement.
@@ -1044,7 +1044,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 -   Résolution d’un problème : la sélection d’un lien au format \\\\servername ou file:// dans un message instantané entraîne un message d’erreur au lieu d’ouvrir l’emplacement du message.
 -   Résolution d’un problème : dans une infrastructure VDI (Virtual Desktop Infrastructure) utilisant le routage basé sur un emplacement, l’utilisateur ne peut pas émettre ni recevoir d’appels sur RTC, car le serveur considère que l’emplacement de l’utilisateur n’est pas valide pour les appels sur RTC.
 -   Modifiez la ligne d’objet de l’e-mail envoyé pour un message manqué, lorsque l’état de l’utilisateur est définie sur Ne pas déranger ou Présenter, de « Conversation manquée avec » à « Envoyé un message dans Skype Entreprise \<name\> \<Name\> ».
--   Démarrez la capture d’horodatage lors de la première connexion sur le périphérique en tant que [données de recensement](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices)pour vous aider à identifier les tendances de fiabilité de connexion.
+-   Démarrez la capture d’horodatage lors de la première connexion sur le périphérique en tant que [données de recensement](/skypeforbusiness/legal-and-regulatory/data-collection-practices)pour vous aider à identifier les tendances de fiabilité de connexion.
 
 ### <a name="visio-feature-updates"></a>Visio : Mises à jour de fonctionnalité
 -   **Améliorations en matière d’accessibilité :** Prise en charge améliorée pour l’utilisation du clavier, du Narrateur et d’autres technologies d’assistance pour travailler avec des formes, des modifications avec d’autres utilisateurs et bien plus encore.
@@ -1065,7 +1065,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-1611-january-4"></a>Version 1611 : 4 janvier
 *Version 1611 (Build 7571.2109)*
 
-Remarque : les mises à jour de sécurité couvertes dans le Bulletin de sécurité Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) ne s’appliquent pas à la version de Word dans cette version de canal.
+Remarque : les mises à jour de sécurité couvertes dans le Bulletin de sécurité Microsoft [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) ne s’appliquent pas à la version de Word dans cette version de canal.
 
 ### <a name="excel-non-security-updates"></a>Excel : Mises à jour non relatives à la sécurité
 -   Résolution d’un problème où des valeurs de cellule contenant du texte et des guillemets ne sont pas exportées correctement lorsque vous enregistrez le fichier au format CSV ou CSV UTF-8.

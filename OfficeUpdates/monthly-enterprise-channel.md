@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735189"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169723"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du Canal Entreprise mensuel publiées en 2020 pour Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
 
 [//]: # (NE PAS SUPPRIMER)
 
@@ -30,7 +30,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-2101-march-09"></a>Version 2101 : 09 mars
 *Version 2101 (build 13628.20528)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -89,12 +89,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2012-march-09"></a>Version 2012 : 9 mars
 *Version 2012 (Build 13530.20628)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2012-february-09"></a>Version 2012 : 9 février
 *Version 2012 (build 13530.20528)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -106,7 +106,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
 
-- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -118,7 +118,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Toutes les réunions en ligne :** Mettez à jour les paramètres de votre calendrier pour que chaque réunion que vous créez soit une réunion d'équipes par défaut, de sorte que vous n'ayez plus besoin de vous souvenir de cliquer sur l'option Réunion d'équipes.
 
-- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
 
 - **Toutes les réunions en ligne :** Mettez à jour les paramètres de votre calendrier pour que chaque réunion que vous créez soit une réunion d'équipes par défaut, de sorte que vous n'ayez plus besoin de vous souvenir de cliquer sur l'option Réunion d'équipes.
 
@@ -126,11 +126,11 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/svg-content-office-third-party-apps)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
 
-- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="visio"></a>Visio
 
@@ -142,7 +142,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
 
-- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -214,12 +214,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2011-february-09"></a>Version 2011 : 09 février
 *Version 2011 (build 13426.20658)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2011-january-12"></a>Version 2011 : 12 janvier
 *Version 2011 (Build 13426.20526)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -359,12 +359,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2010-january-12"></a>Version 2010 : 12 janvier
 *Version 2010 (Build 13328.20550)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2010-december-08"></a>Version 2010:08 décembre
 *Version 2010 (Build 13328.20478)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -384,7 +384,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
 
-- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/export-animated-gifs-transparent-backgrounds)
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -483,12 +483,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2009-december-08"></a>Version 2009:08 décembre
 *Version 2009 (Build 13231.20620)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2009-november-10"></a>Version 2009 : 10 novembre
 *Version 2009 (build 13231.20514)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -581,7 +581,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2008-november-10"></a>Version 2008 : 10 novembre
 *Version 2008 (Build 13127.20760).*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -629,7 +629,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 - Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à accorder l’autorisation éditeur à leurs délégués.
 
 
-- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.<br />Voir détails dans le [billet de blog](https://developer.microsoft.com/fr-FR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.<br />Voir détails dans le [billet de blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -653,7 +653,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2008-october-13"></a>Version 2008 : 13 octobre
 *Version 2008 (build 13127.20638)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -842,7 +842,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2007-october-13"></a>Version 2007 : 13 octobre
 *Version 2007 (build 13029.20708)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -859,7 +859,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2007-september-08"></a>Version 2007 : 8 septembre
 *Version 2007 (build 13029.20534)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -968,12 +968,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2006-september-08"></a>Version 2006 : 8 septembre
 *Version 2006 (Build 13001.20648)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2006-august-11"></a>Version 2006 : 11 août
 *Version 2006 (Build 13001.20520)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -1076,12 +1076,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2005-august-11"></a>Version 2005 : 11 août
 *Version 2005 (build 12827.20656)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2005-july-14"></a>Version 2005 : 14 juillet
 *Version 2005 (Build 12827.20538)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1179,12 +1179,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2004-july-14"></a>Version 2004 : 14 juillet
 *Version 2004 (Build 12730.20602)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2004-june-09"></a>Version 2004 : 09 juin
 *Version 2004 (build 12730.20430)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1289,7 +1289,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2003-june-09"></a>Version 2003 : 09 juin
 *Version 2003 (build 12624.20708)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1304,7 +1304,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2003-may-12"></a>Version 2003 : 12 mai
 *Version 2003 (build 12624.20588)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)

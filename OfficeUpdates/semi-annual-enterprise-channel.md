@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du canal semestriel des applications de Microsoft 365 disponibles en 2020
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741647"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169612"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notes de publication pour le Canal Entreprise semestriel
 
 Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du canal d’entreprise semi-annuel des applications Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ## <a name="version-2008-march-09"></a>Version 2008 : 9 mars
 *Version 2008 (build 13127.21348)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -68,12 +68,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-march-09"></a>Version 2002 : 9 mars
 *Version 2002 (build 12527.21686)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-february-09"></a>Version 2008 : 9 septembre
 *Version 2008 (build 13127.21216)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -134,7 +134,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-february-09"></a>Version 2002 : 9 février
 *Version 2002 (build 12527.21594)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -151,12 +151,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-february-09"></a>Version 1908 : 9 février
 *Version 1908 (build 11929.21008)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-january-12"></a>Version 2008 : 12 janvier
 *Version 2008 (Build 13127.21064)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -192,7 +192,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Lorsque le calendrier est épinglé sur le volet de tâches, les comptes d’utilisateurs hébergés sur Exchange Server 2019 ou Exchange Online peuvent rejoindre les réunions d’un seul clic. [En savoir plus](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Recevez des suggestions par email lorsque vous recherchez une personne :** lorsque vous tapez le nom d’une personne dans la zone de recherche, les e-mails les plus pertinents seront inclus avec vos suggestions de recherche. [En savoir plus](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -839,7 +839,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-january-12"></a>Version 2002 : 12 janvier
 *Version 2002 (build 12527.21504)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -864,7 +864,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-january-12"></a>Version 1908 : 12 janvier
 *Version 1908 (build 11929.20994)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -881,7 +881,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-december-08"></a>Version 2002 : 8 décembre
 *Version 2002 (Build 12527.21416)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -925,12 +925,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-december-08"></a>Version 1908 : 8 décembre
 *Version 1908 (Build 11929.20984)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-november-10"></a>Version 2002 : 10 novembre
 *Version 2002 (Build 12527.21330)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -967,12 +967,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-november-10"></a>Version 1908 du 10 novembre
 *Version 1908 (Build 11929.20974)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-october-13"></a>Version 2002 : 13 octobre
 *Version 2002 (build 12527.21236)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1012,7 +1012,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-october-13"></a>Version 1908 : 13 octobre
 *Version 1908 (build 11929.20966)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1029,7 +1029,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-september-08"></a>Version 2002 : 8 septembre
 *Version 2002 (Build 12527.21104)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1059,12 +1059,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-september-08"></a>Version 1908 : 8 septembre
 *Version 1908 (Build 11929.20946)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-august-11"></a>Version 2002 : 11 août
 *Version 2002 (Build 12527.20988)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1099,12 +1099,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-august-11"></a>Version 1908 : 11 août
 *Version 1908 (Build 11929.20934)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1902-august-11"></a>Version 1902 : 11 août
 *Version 1902 (Build 11328.20644)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1115,7 +1115,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-2002-july-14"></a>Version 2002 : 14 juillet
 *Version 2002 (build 12527.20880)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1631,7 +1631,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-july-14"></a>Version 1908 : 14 juillet
 *Version 1908 (Build 11929.20904)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1811,7 +1811,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - Nous rencontrons un problème dans lequel la synchronisation de dossiers de calendrier partagés avec le fichier OST génère des erreurs d'autorisation lorsque l'utilisateur tente d'interagir avec ces dossiers.
 
-- Résout un problème qui entraînait une expérience de blocage chez des utilisateurs lors de l’affichage de plus de 30 calendriers dans un environnement Citrix. Vous trouverez [ici](https://support.microsoft.com/fr-FR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) la base de connaissances (KB) individuelle dans laquelle les versions précédentes sont documentées.
+- Résout un problème qui entraînait une expérience de blocage chez des utilisateurs lors de l’affichage de plus de 30 calendriers dans un environnement Citrix. Vous trouverez [ici](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen) la base de connaissances (KB) individuelle dans laquelle les versions précédentes sont documentées.
 
 - Nous avons résolu un problème de sélection de l’algorithme SMIME.
 
@@ -1969,12 +1969,12 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-july-14"></a>Version 1902 : 14 juillet
 *Version 1902 (Build 11328.20624)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1908-june-09"></a>Version 1908 : 9 juin
 *Version 1908 (Build 11929.20838)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2002,7 +2002,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-june-09"></a>Version 1902 : 09 juin
 *Version 1902 (Build 11328.20602)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2021,7 +2021,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-may-12"></a>Version 1908 : 12 mai
 *Version 1908 (build 11929.20776)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2046,7 +2046,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-may-12"></a>Version 1902 : 12 mai
 *Version 1902 (build 11328.20586)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2064,7 +2064,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-may-04"></a>Version 1908 : 04 mai
 *Version 1908 (build 11929.20752)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-april-26"></a>Version 1908 : 26 avril
 *Version 1908 (Build 11929.20736)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1908-april-14"></a>Version 1908 : 14 avril
 *Version 1908 (Build 11929.20708)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -2145,14 +2145,14 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-april-14"></a>Version 1902 : 14 avril
 *Version 1902 (Build 11328.20564)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-march-10"></a>Version 1908 : 10 mars
 *Version 1908 (Build 11929.20648)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2186,14 +2186,14 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-march-10"></a>Version 1902 : 10 mars
 *Version 1902 (Build 11328.20554)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-february-11"></a>Version 1908 : 11 février
 *Version 1908 (Build 11929.20606)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2261,7 +2261,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-february-11"></a>Version 1902 : 11 février
 *Version 1902 (Build 11328.20526)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2283,14 +2283,14 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1808-february-11"></a>Version 1808 : 11 février
 *Version 1808 (Build 10730.20438)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-1908-january-14"></a>Version 1908 : 14 janvier
 *Version 1908 (build 11929.20562)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -2409,11 +2409,11 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 
 - **Enregistrez les modifications au fur et à mesure :** chargez vos fichiers sur OneDrive pour vous assurer que vos mises à jour sont enregistrées automatiquement.
 
-- **Contrôles de confidentialité :** Des contrôles nouveaux, mis à jour et améliorés pour les données de diagnostic et les expériences connectées. [En savoir plus](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **Contrôles de confidentialité :** Des contrôles nouveaux, mis à jour et améliorés pour les données de diagnostic et les expériences connectées. [En savoir plus](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Nouvelle apparence des icônes Office** : nous avons modernisé les icônes Office pour mieux refléter la simplicité, l’efficacité et l’intelligence de l’expérience utilisateur.
 
-- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les installations existantes d’Office 365 ProPlus. [En savoir plus](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Installation de Microsoft Teams :** Microsoft Teams est installé par défaut pour les installations existantes d’Office 365 ProPlus. [En savoir plus](/DeployOffice/teams-install)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -2652,7 +2652,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1902-january-14"></a>Version 1902 : 14 janvier
 *Version 1902 (build 11328.20512)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2680,7 +2680,7 @@ Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/offi
 ## <a name="version-1808-january-14"></a>Version 1808 : 14 janvier
 *Version 1808 (build 10730.20432)*
 
-Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 

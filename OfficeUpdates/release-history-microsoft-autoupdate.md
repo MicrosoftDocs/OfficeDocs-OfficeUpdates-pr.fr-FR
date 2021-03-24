@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902193"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169713"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -262,7 +262,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Les ordinateurs macOS disposant de disques SSD peuvent bénéficier de mises à jour plus rapides et d’une interruption d’application négligeable en raison de mises à jour.
 
 
-Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0984)
+Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **Code de hachage SHA-256 :**
 
@@ -393,7 +393,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **Mises à jour des fonctionnalités :**
 
 - Modifications de la confidentialité pour AutoUpdate : un avis de collecte de données requises sera présenté aux utilisateurs finaux dans le cadre de la politique de conformité.
-- Date d’échéance de la mise à jour d’AutoUpdate : les administrateurs Mac peuvent désormais fixer une date d’échéance dans AutoUpdate afin d’appliquer les mises à jour auprès des utilisateurs Mac. [En savoir plus](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- Date d’échéance de la mise à jour d’AutoUpdate : les administrateurs Mac peuvent désormais fixer une date d’échéance dans AutoUpdate afin d’appliquer les mises à jour auprès des utilisateurs Mac. [En savoir plus](/deployoffice/mac/mau-deadline)
 - Correctifs de bogues et de performances divers.
 
 **Code de hachage SHA-256:**
@@ -440,7 +440,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **Mises à jour des fonctionnalités :**
 
 - Modifications de la confidentialité pour AutoUpdate : un avis de collecte de données requises sera présenté aux utilisateurs finaux dans le cadre de la politique de conformité.
-- Date d’échéance de la mise à jour d’AutoUpdate : les administrateurs Mac peuvent désormais fixer une date d’échéance dans AutoUpdate afin d’appliquer les mises à jour auprès des utilisateurs Mac. [En savoir plus](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- Date d’échéance de la mise à jour d’AutoUpdate : les administrateurs Mac peuvent désormais fixer une date d’échéance dans AutoUpdate afin d’appliquer les mises à jour auprès des utilisateurs Mac. [En savoir plus](/deployoffice/mac/mau-deadline)
 - Correctifs de bogues et de performances divers.
 
 **Code de hachage SHA-256 :**
@@ -512,4 +512,4 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 ## <a name="related-articles"></a>Articles connexes
 
 - [Historique mises à jour pour Office pour Mac](update-history-office-for-mac.md)
-- [Notes de mise à jour pour Office pour Mac](release-notes-office-for-mac.md) 
+- [Notes de mise à jour pour Office pour Mac](release-notes-office-for-mac.md)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 3bb4ff52e0a13b05b6e698ae87e59576fb7bfdc9
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 9b2cc9b894417da7e161b97fd273956167e7a2b3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902159"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169852"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -26,8 +26,8 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 
 > [!IMPORTANT]
-> - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
+> - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](/deployoffice/name-change). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
 
 
 > [!NOTE]
@@ -638,9 +638,9 @@ La version 2002 est la plus récente (Build 12527.21104).
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Présentation des canaux de mise à jour de Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)](update-history-office365-proplus-by-date.md)
+- [Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)](./update-history-microsoft365-apps-by-date.md)
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).

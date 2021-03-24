@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: d993a73632974765870844af68ecb0d0591e9f36
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c1e99728c8928e7f014f46fc5598102f8f92f72d
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902149"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170203"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
 Ces numéros de version et de build s’appliquent à Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et aux versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](https://go.microsoft.com/fwlink/p/?linkid=2123420). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
+> - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](/deployoffice/name-change). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
 
 > [!NOTE]
 > - Le tableau est classé par date de publication, la publication la plus récente apparaissant en premier.
-> - Pour plus d’informations sur les canaux de mise à jour, consultez [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+> - Pour plus d’informations sur les canaux de mise à jour, consultez [Présentation des canaux de mise à jour de Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 Le tableau suivant répertorie la version prise en charge et le numéro de build le plus récent pour chaque canal de mise à jour. La date de publication est celle de la dernière parution de la build.
 
@@ -45,7 +45,7 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 [//]: # (EOSTABLEEND)
 
-Pour plus d’informations sur la taille approximative du téléchargement lors de la mise à jour d’une version précédente de Microsoft 365 Apps vers la version la plus récente, consultez [Tailles de téléchargement des mises à jour de Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
+Pour plus d’informations sur la taille approximative du téléchargement lors de la mise à jour d’une version précédente de Microsoft 365 Apps vers la version la plus récente, consultez [Tailles de téléchargement des mises à jour de Microsoft 365 Apps](./download-sizes-microsoft365-apps-updates.md).
 
 Le tableau suivant fournit la liste des numéros de version et de build des différentes mises à jour de Microsoft 365 Apps publiées dans les canaux de mise à jour suivants : Actuel, Entreprise mensuel, Entreprise semestriel (préversion) et Entreprise semestriel. Chaque entrée du tableau contient un lien d’accès direct aux notes de publication de la version correspondante. Ces notes de publication fournissent des informations sur les fonctionnalités, mises à jour de sécurité et autres mises à jour incluses dans la mise à jour de Microsoft 365 Apps.
 
@@ -139,10 +139,10 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 |2019|25 mars |[Version 1902 (build 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
 |2019|12 mars |[Version 1902 (build 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[Version 1902 (build 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |[Version 1808 (build 10730.20304)](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
 |2019|4 mars  |[Version 1902 (build 11328.20146)](monthly-channel-archived.md#version-1902-march-4)| | | |
-|2019|12 février |[Version 1901 (build 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[Version 1808 (Build 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[Version 1808 (Build 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [Version 1803 (build 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [Version 1708 (Build 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
+|2019|12 février |[Version 1901 (build 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[Version 1808 (Build 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[Version 1808 (Build 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [Version 1803 (build 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [Version 1708 (Build 8431.2372)](./microsoft365-apps-security-updates.md#february-12-2019) |
 |2019|31 janvier   |[Version 1901 (build 11231.20130)](monthly-channel-archived.md#version-1901-january-31)| | | |
 |2019|14 janvier   |[Version 1812 (build 11126.20266)](monthly-channel-archived.md#version-1812-january-14)| | | |
-|2019|8 janvier |[Version 1812 (build 11126.20196 )](monthly-channel-archived.md#version-1812-january-8)| |[Version 1808 (build 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[Version 1808 (build 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [Version 1803 (build 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [Version 1708 (build 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019|8 janvier |[Version 1812 (build 11126.20196 )](monthly-channel-archived.md#version-1812-january-8)| |[Version 1808 (build 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[Version 1808 (build 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [Version 1803 (build 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [Version 1708 (build 8431.2366)](./microsoft365-apps-security-updates.md#january-8-2019) |
 |2019|3 janvier   |[Version 1812 (build 11126.20188)](monthly-channel-archived.md#version-1812-january-3)| | | |
 |2018|11 décembre |[Version 1811 (build 11029.20108)](monthly-channel-2018.md#version-1811-december-11)| |[Version 1808 (Build 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Version 1803 (build 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Version 1708 (build 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27 novembre   |[Version 1811 (build 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | | |
@@ -225,9 +225,9 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour de Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Informations sur la publication des mises à jour de Microsoft 365 Apps](release-notes-office365-proplus.md)
-- [Tailles de téléchargement des mises à jour de Microsoft 365 Apps](download-sizes-office365-proplus-updates.md)
+- [Présentation des canaux de mise à jour de Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Informations sur la publication des mises à jour de Microsoft 365 Apps](./release-notes-microsoft365-apps.md)
+- [Tailles de téléchargement des mises à jour de Microsoft 365 Apps](./download-sizes-microsoft365-apps-updates.md)
 
 > [!NOTE]
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
