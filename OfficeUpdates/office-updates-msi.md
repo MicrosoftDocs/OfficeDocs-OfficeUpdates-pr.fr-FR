@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 39d497c714588d5ca31e8c4fbf8e3157545b4e90
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a0bc255deaf46ffab63899468deaab9289689d47
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595498"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169693"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -41,7 +41,7 @@ Utilisez les liens fournis sur cette page pour en savoir plus sur les dernières
    
 ## <a name="office-2010-updates"></a>Mises à jour d’Office 2010
 > [!IMPORTANT]
-> La prise en charge d’Office 2010 prend fin le 13 octobre 2020. Si vous n’avez pas encore commencé la mise à niveau de votre environnement Office 2010, nous vous recommandons de le faire dès maintenant. Pour plus d’informations, voir [Feuille de route de la fin de la prise en charge d’Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> La prise en charge d’Office 2010 prend fin le 13 octobre 2020. Si vous n’avez pas encore commencé la mise à niveau de votre environnement Office 2010, nous vous recommandons de le faire dès maintenant. Pour plus d’informations, voir [Feuille de route de la fin de la prise en charge d’Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
 
 |**Produits et versions**|**Dernier Service Pack (SP)**|**Dernière mise à jour publique (PU)**|
 |:-----|:-----|:-----|:-----|

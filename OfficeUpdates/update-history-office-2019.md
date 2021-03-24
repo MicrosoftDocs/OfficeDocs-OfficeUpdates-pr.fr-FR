@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: 32c769a8c7c365dd1562fb89cc1d628968e0dbfb
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 5c6326711323caf1e4eb170bd0d636fff5e2eb40
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902179"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169483"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -35,8 +35,8 @@ Les nouvelles versions contiennent toutes les mises à jour contenues dans les v
 
 
  > [!NOTE]
-> - Depuis le 11 août 2020, les mises à jour de sécurité (articles CVE) pour Office 2016 et 2019 sont listées sur la [page de mise à jour de sécurité](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates), plutôt que sur cette page. 
-> - Office 2016 et 2019 sont pris en charge dans le cadre de la [stratégie de cycle de vie fixe](https://docs.microsoft.com/lifecycle/policies/fixed). Seules les versions les plus récentes des licences en volume et des versions commerciales répertoriées ci-dessous sont prises en charge.
+> - Depuis le 11 août 2020, les mises à jour de sécurité (articles CVE) pour Office 2016 et 2019 sont listées sur la [page de mise à jour de sécurité](./microsoft365-apps-security-updates.md), plutôt que sur cette page. 
+> - Office 2016 et 2019 sont pris en charge dans le cadre de la [stratégie de cycle de vie fixe](/lifecycle/policies/fixed). Seules les versions les plus récentes des licences en volume et des versions commerciales répertoriées ci-dessous sont prises en charge.
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>Versions d’Office 2019 sous licence en volume
@@ -153,9 +153,3 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 
 </details>
-
-
-
-
-
-

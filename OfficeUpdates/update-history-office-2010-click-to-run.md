@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2010 qui utilisent la technologie « Démarrer en un clic »
-ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: c99f3b4602deb5c72cea8b5b813101ef5af5f86a
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989933"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170193"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Historique des mises à jour pour les produits « Démarrer en un clic » Office 2010
 
 > [!IMPORTANT]
-> La prise en charge d’Office 2010 a pris fin le 13 octobre 2020. Si vous n’avez pas encore commencé la mise à niveau de votre environnement Office 2010, nous vous recommandons de le faire dès maintenant. Pour plus d’informations, voir [Feuille de route de la fin de la prise en charge d’Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> La prise en charge d’Office 2010 se termine le 13 octobre 2020. Si vous n’avez pas encore commencé la mise à niveau de votre environnement Office 2010, nous vous recommandons de le faire dès maintenant. Pour plus d’informations, voir [Feuille de route de la fin de la prise en charge d’Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
 
 
 Les produits Office 2010 suivants sont tenus à jour automatiquement à l’aide d’une technologie appelée « Démarrer en un clic ».
@@ -33,7 +33,7 @@ Les produits Office 2010 suivants sont tenus à jour automatiquement à l’aid
 Si vous utilisez l’un de ces produits, et que vous souhaitez vérifier que vous êtes à jour, cherchez votre numéro de version Office et mettez manuellement à jour Office si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2010 est **14.0.7261.5000** , qui a été publiée le 13 octobre 2020.
+> La version la plus récente d’Office 2010 est **la version 14.0.7261.5000,** publiée le 13 octobre 2020.
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -41,7 +41,7 @@ Pour vérifier votre version d’Office, procédez comme suit :
     
 2. Sélectionnez **Fichier** > **Aide**.
     
-3. Sous **Mises à jour du produit Office « Démarrer en un clic »** , notez le numéro de version indiqué.
+3. Sous **Mises à jour du produit Office « Démarrer en un clic »**, notez le numéro de version indiqué.
     
     Si le numéro de version correspond à la version la plus récente, vous êtes à jour. Si ce n’est pas le cas, vous pouvez effectuer la mise à jour manuellement pour obtenir la dernière version d’Office 2010. Pour mettre à jour Office, [procédez comme expliqué ici](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
     
@@ -132,9 +132,9 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
 ||8 avril  <br/> |14.0.7122.5000  <br/> |[KB2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||12 février  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |14 mai  <br/> |14.0.6137.5006  <br/> |[KB2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |9 octobre  <br/> |14.0.6126.5003  <br/> |[Bulletin de sécurité Microsoft MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Bulletin de sécurité Microsoft MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Mise à jour de définition pour Office 2010  <br/> |
+|2012  <br/> |9 octobre  <br/> |14.0.6126.5003  <br/> |[Bulletin de sécurité Microsoft MS12-064](/security-updates/SecurityBulletins/2012/ms12-064) <br/> [Bulletin de sécurité Microsoft MS12-066](/security-updates/SecurityBulletins/2012/ms12-066) <br/> Mise à jour de définition pour Office 2010  <br/> |
 ||13 mars  <br/> |14.0.6117.5002  <br/> |Mise à jour de définition pour Office 2010  <br/> |
-|2011  <br/> |13 décembre  <br/> |14.0.6114.5002  <br/> |[Bulletin de sécurité Microsoft MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Mise à jour pour le filtre anti-courrier indésirable Outlook 2010  <br/> |
+|2011  <br/> |13 décembre  <br/> |14.0.6114.5002  <br/> |[Bulletin de sécurité Microsoft MS11-089](/security-updates/SecurityBulletins/2011/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Mise à jour pour le filtre anti-courrier indésirable Outlook 2010  <br/> |
 ||12 avril  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Mise à jour de définition pour Office 2010  <br/> |
 ||9 février  <br/> |14.0.5130.5004  <br/> |Mise à jour de définition pour Office 2010  <br/> |
 |2010  <br/> |14 décembre  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Mise à jour de définition pour Office 2010  <br/> |
@@ -147,5 +147,3 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
 |2009  <br/> |8 décembre  <br/> |14.0.4541.1000 (bêta)  <br/> |Il s’agit d’une version bêta d’Office 2010.  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
 ||18 novembre  <br/> |14.0.4536.1000  <br/> |Il s’agit d’une version bêta d’Office 2010.  <br/> |
    
-  
-
