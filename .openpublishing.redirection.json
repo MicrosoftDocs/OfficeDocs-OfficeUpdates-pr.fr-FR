@@ -2,27 +2,27 @@
   "redirections": [ 
     {
         "source_path": "OfficeUpdates/update-history-office365-proplus-by-version.md",
-        "redirect_url": "https://docs.microsoft.com/officeupdates/update-history-microsoft365-apps-by-date",
+        "redirect_url": "/officeupdates/update-history-microsoft365-apps-by-date",
         "redirect_document_id": true 
     },
 {
         "source_path": "OfficeUpdates/download-sizes-office365-proplus-updates.md",
-        "redirect_url": "https://docs.microsoft.com/officeupdates/download-sizes-microsoft365-apps-updates",
+        "redirect_url": "/officeupdates/download-sizes-microsoft365-apps-updates",
         "redirect_document_id": true 
     },
 {
         "source_path": "OfficeUpdates/office365-proplus-security-updates.md",
-        "redirect_url": "https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates",
+        "redirect_url": "/officeupdates/microsoft365-apps-security-updates",
         "redirect_document_id": true 
     },
 {
         "source_path": "OfficeUpdates/release-notes-office365-proplus.md",
-        "redirect_url": "https://docs.microsoft.com/officeupdates/release-notes-microsoft365-apps",
+        "redirect_url": "/officeupdates/release-notes-microsoft365-apps",
         "redirect_document_id": true 
     },
 {
         "source_path": "OfficeUpdates/update-history-office365-proplus-by-date.md",
-        "redirect_url": "https://docs.microsoft.com/officeupdates/update-history-microsoft365-apps-by-date",
+        "redirect_url": "/officeupdates/update-history-microsoft365-apps-by-date",
         "redirect_document_id": false
     }
    ] 
