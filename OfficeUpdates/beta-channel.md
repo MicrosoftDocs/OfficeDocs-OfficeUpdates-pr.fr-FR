@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: f8d234b83d6b08b1f6fd15630055bb150441322b
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 1ee65ac506208e6c4005b40ad50fdeebf044d917
+ms.sourcegitcommit: 856b82b3d51fd4bcee3ecf516dc30e05d5ba0921
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169953"
+ms.lasthandoff: 03/26/2021
+ms.locfileid: "51383774"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,31 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2104-march-26"></a>Version 2104 : 26 mars
+*Version 2104 (Build 13919.20002)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui occasionnait la fermeture inattendue d’outlook lors de la synchronisation de modifications de hiérarchie d’un dossier.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème de différence de styles copier et coller dans un texte collé.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème de performance lié à l’itération d’un texte.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2104-march-19"></a>Version 2104 : 19 mars
 *Version 2104 (Build 13913.20000)*
@@ -675,7 +700,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 ### <a name="word"></a>Word
 
-- **Améliorez la collaboration grâce aux commentaires modernes :** Ajoutez des commentaires aux objets, @mentionner des collègues et résolvez les fils de commentaires pour améliorer l’expérience de collaboration. [En savoir plus](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/modern-commenting-in-word)
+- **Améliorez la collaboration grâce aux commentaires modernes :** Ajoutez des commentaires aux objets, @mentionner des collègues et résolvez les fils de commentaires pour améliorer l’expérience de collaboration. [En savoir plus](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/modern-commenting-in-word)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1618,19 +1643,19 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -2736,6 +2761,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
@@ -2745,5 +2771,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
