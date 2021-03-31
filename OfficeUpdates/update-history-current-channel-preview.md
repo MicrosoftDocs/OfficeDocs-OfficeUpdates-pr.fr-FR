@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: e897f5cbe2f4533b4a357ece4a4c412f5f63ba01
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 578a6940c75add13c10463dca8bbea7e38cf6f76
+ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170233"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408057"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour le canal actuel d’Office (Preview) pour Windows
 
@@ -24,7 +24,7 @@ Pour plus d’informations sur le programme Insider, cliquez [ici](https://insid
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versions et builds du canal actuel Office actuel (Preview)
 
 Si vous êtes inscrit au niveau canal actuel (Preview), autrefois appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds suivant contenant des correctifs importants ou des mises à jour de sécurité. La liste suivante répertorie les versions et builds récentes des canaux actuels (Preview), avec **la build la plus récemment publiée répertoriée en premier**. Les nouvelles builds incluent toutes les mises à jour contenues dans les builds précédentes.
-Pour rechercher des notes de publication, [voir](./current-channel-preview.md). De plus, vous pouvez voir [nouveautés pour les utilisateurs du site Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Pour rechercher des notes de publication, [voir](./current-channel-preview.md). De plus, vous pouvez voir [nouveautés pour les utilisateurs du site Office Insider](https://insider.office.com/fr-FR/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -38,6 +38,9 @@ Pour rechercher des notes de publication, [voir](./current-channel-preview.md). 
 
 
 [//]: # (NE PAS SUPPRIMER)
+
+**28 mars 2021**<br/>
+Version 2103 (build 13901.20306)<br/>
 
 **22 mars 2021**<br/>
 Version 2103 (Build 13901.20230)<br/>
