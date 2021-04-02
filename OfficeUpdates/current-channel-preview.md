@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
-ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
+ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
+ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408047"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440709"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,10 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="version-2103-march-30"></a>Version 2103 : 30 mars
+*Version 2103 (Build 13901.20312)*
+* Diverses résolutions de bogues et de performances.
 
 ## <a name="version-2103-march-28"></a>Version 2103 : 28 mars
 *Version 2103 (build 13901.20306)*
