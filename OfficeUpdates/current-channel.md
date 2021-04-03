@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
+ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169943"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51487248"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -32,6 +32,126 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2103-march-30"></a>Version 2103 : 30 mars
+*Version 2103 (build 13901.20312)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Gagnez du temps lors de la rédaction de messages :** Outlook vous présente comment rédiger des suggestions pour vous permettre de composer rapidement des messages. Pour accepter la suggestion, utilisez simplement la touche Tab.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/fr-FR/blog/text-predictions-in-word-outlook)
+
+- **Nouvelle expérience de réservation de salle de conférence et d’espace de travail :** L’expérience de réservation de salle de conférence a été revue. Nous avons ajouté des fonctionnalités qui vous permettent de planifier des espaces de travail individuels également.
+
+- **Sélectionner l’emplacement de la recherche :** La liste déroulante de la nouvelle étendue de recherche vous permet de modifier plus facilement votre recherche et de basculer entre le Dossier actuel et la Boîte aux lettres actuelle. Nous vous remercions tous ceux qui ont fourni des commentaires sur la nouvelle expérience de Recherche en haut dans Bientôt disponible. Cette conception et cette mise à jour sont issues de ces commentaires.
+
+- **Recevoir des suggestions de réunion lorsque vous recherchez une personne :** lorsque vous tapez le nom d’une personne dans la zone de recherche, vos suggestions de recherche incluent l’e-mail le plus pertinent contenant des invitations de calendrier.
+
+- **Partager dans Teams** : partager des messages depuis Outlook avec une personne ou un canal dans Teams.
+
+- **Brouillons de messages avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales, le signe de ponctuation automatique, et bien plus encore pour rédiger des messages.
+
+### <a name="teams"></a>Teams
+
+- **Réactions en cours de réunion :** les réactions en cours de réunion constituent une nouvelle façon d’interagir dans les réunions. Les participants peuvent envoyer des réactions et il sont présentés sous forme de flux sur le contenu partagé et sur la personne qui a envoyé la réaction si elle est affichée lors de la réunion.
+
+- **Amélioration de la gestion des autorisations audio des participants dans une réunion Teams :** les présentateurs et organisateurs de réunion peuvent à présent autoriser les participants à activer le son, même s’ils n’ont pas levé la main. Auparavant, les participants à la réunion qui ne pouvaient pas activer le son (micro désactivé) devaient lever la main pour être autorisés à le faire.
+
+- **Amélioration de la gestion des autorisations audio des participants à une réunion Teams :** auparavant, les présentateurs ou organisateurs de réunion ne pouvaient pas désactiver le micro d’un seul participant à une réunion. L’organisateur ou le présentateur pouvait seulement désactiver l’option « Autoriser les participants à activer le son », ce qui désactivait les micros de chaque participant. Avec cette modification, les présentateurs et organisateurs de réunions peuvent empêcher les participants individuels d’activer le son d’une manière ad-hoc pendant une réunion Teams.
+
+- **Expérience améliorée dans la liste de présence des participants à la réunion :** nous modifions à présent le mode d’affichage de la liste des participants dans une réunion Teams pour les sections Salle d’attente, Réunion, Présentateurs et Participants. La vue initiale affiche au maximum 20 participants pour chacune des sections, avec une option permettant d’explorer, puis d’afficher davantage de participants dans la section concernée. Pour la salle d’attente, vous pouvez passer en revue la liste complète avant d’admettre tout le monde dans la réunion. La liste de présence affiche les détails de la plupart des participants actifs à la réunion organisés par ordre alphabétique. Le menu d’action des participants ne subit aucune modification.
+
+- **Rechercher des participants à la réunion depuis la liste de présence :** dans la zone de recherche de la liste de présence, les utilisateurs peuvent à présent effectuer des recherches parmi les participants à la réunion pour savoir si une personne spécifique a rejoint la réunion. Ils peuvent continuer à rechercher des participants extérieurs à la réunion, puis leur demander de rejoindre la réunion.
+
+- **Partager dans Teams depuis Outlook :** le partage dans Teams depuis Outlook vous permet d’envoyer une copie des e-mails ou des conversations, y compris des pièces jointes, dans des conversations et dans des canaux Teams. Vous trouverez l’option Partager dans Teams dans le ruban Outlook ou dans le menu d’actions d’un e-mail. L’option Partager dans Teams prend en charge Outlook sur le web, Outlook pour Windows et le nouvel Outlook pour Mac Preview.
+
+- **Minuteur pour les salles pour petit groupe et rétention de l’affectation de la salle :** les organisateurs peuvent à présent définir un minuteur pour les salles pour petit groupe via les paramètres de salle pour petit groupe. Une fois le délai du minuteur arrivé à expiration, les salles se ferment automatiquement, puis les participants reviennent à la réunion principale. La rétention des affectations de salle permet de conserver la configuration et l’affectation des salles sur plusieurs sessions. Grâce à la fonctionnalité de réaffectation des participants, l’organisateur peut à présent déplacer plusieurs participants entre les salles et la réunion principale également lorsque les salles sont ouvertes.
+
+- **Accès hors connexion aux fichiers :** les utilisateurs peuvent à présent accéder aux fichiers ouverts précédemment, même sans connexion Internet.
+
+- **Affichage en mode grille lors du partage d’un fichier PowerPoint :** lors du partage d’un fichier PowerPoint dans une réunion, les utilisateurs peuvent à présent utiliser un affichage en mode grille de toutes les diapositives de la série pour faciliter la navigation ad hoc entre les diapositives.
+
+### <a name="word"></a>Word
+
+- **Brouillons de documents avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales et le signe de ponctuation automatique dans les brouillons de documents.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Cette modification résout un problème où dans certains cas, lors de l’exécution d’une requête SQL Server, peut entraîner un message d’erreur indiquant un « état du curseur non valide ».
+
+- Correction d’un problème qui empêchait l’ordinateur de s’éteindre tant qu’une application externe demandait une interface d’accessibilité.
+
+### <a name="project"></a>Project
+
+- Correction d’un bogue : seule l’icône des commandes désactivées dans le ruban Office apparaissait en grisé, mais pas le texte en thème Office gris foncé.
+
+### <a name="excel"></a>Excel
+
+- Correction d’un bogue : seule l’icône des commandes désactivées dans le ruban Office apparaissait en grisé, mais pas le texte en thème Office gris foncé.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui occasionnait la fermeture inattendue d’outlook lors de la synchronisation de modifications de hiérarchie d’un dossier.
+
+
+- Nous avons résolu un problème qui a provoqué l’échange de calendriers principal et secondaire de certains utilisateurs dans le volet de navigation.
+
+
+- Nous avons résolu un problème qui faisait voir aux utilisateurs un nombre de signatures plus important que prévu.
+
+
+- Correction d’un problème qui pouvait empêcher certains utilisateurs d’accéder à des signatures associées à des comptes de courrier électronique secondaires.
+
+
+- Correction d’un problème de la fonctionnalité Paramètres du cloud qui causait le remplacement des paramètres personnels d’un utilisateur par les paramètres par défaut à la configuration d’Outlook sur un nouvel appareil.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un bogue : seule l’icône des commandes désactivées dans le ruban Office apparaissait en grisé, mais pas le texte en thème Office gris foncé.
+
+
+### <a name="visio"></a>Visio
+
+- Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
+
+
+### <a name="word"></a>Word
+
+- Lors de la co-édition d’un document, le programme ne vide pas le brouillon actif de son contenu en cas de modification de l’ordre des commentaires.
+
+
+- Correction d’un bogue : seule l’icône des commandes désactivées dans le ruban Office apparaissait en grisé, mais pas le texte en thème Office gris foncé.
+
+
+- Nous avons résolu un problème de copier/coller.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction d’un bogue lié à la dictée désactivée pour les utilisateurs du Cloud de la communauté du secteur public
+
+
+- Correction d’un bogue qui pouvait parfois rendre un texte transparent dans Outlook, et donc illisible.
+
+
+- Correction d’un problème de fiabilité lié au support d’applications Office exécutées dans la session 0.
 
 
 
@@ -155,7 +275,7 @@ Vous pouvez également cliquer avec le bouton droit pour traduire des mots, des 
 
 ### <a name="word"></a>Word
 
-- **Suggestions d’écriture en un clic :** appliquez des suggestions d’écriture d’un simple clic. Le volet Éditeur mis à jour simplifie la navigation entre les suggestions. [En savoir plus](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)
+- **Suggestions d’écriture en un clic :** appliquez des suggestions d’écriture d’un simple clic. Le volet Éditeur mis à jour simplifie la navigation entre les suggestions. [En savoir plus](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/microsoft-editor-gets-an-upgrade)
 
 - **Exiger que les utilisateurs appliquent des étiquettes de confidentialité :** les utilisateurs sont invités à appliquer une étiquette de confidentialité si la stratégie de leur organisation l’exige.
 
@@ -563,9 +683,9 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/svg-content-office-third-party-apps)
 
-- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Compte et sélectionnez « Utiliser le paramètre système » dans la liste déroulante Thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -700,19 +820,19 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données. [En savoir plus](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Voir détails dans le [billet de blog](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
 - **Effectuez des modifications rapides à l’aide du stylet d’action :** avec le stylet d’action, vous pouvez écrire manuellement directement dans les cellules, en décrivant les données à l’aide d’entrées manuscrites automatiquement converties en données Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
-- **La vérification de la grammaire vous soutient :** Outlook signale les fautes de grammaire au cours de la frappe. Vous pouvez ainsi appliquer des suggestions d’un simple clic. [En savoir plus](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **La vérification de la grammaire vous soutient :** Outlook signale les fautes de grammaire au cours de la frappe. Vous pouvez ainsi appliquer des suggestions d’un simple clic. [En savoir plus](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/grammar-and-style-suggestions-available-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="teams"></a>Équipes
 
@@ -726,7 +846,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="word"></a>Word
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2127,7 +2247,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - **Optimisez votre présentation pour tout :** le vérificateur d’accessibilité vous permet d’organiser les objets sur vos diapositives avec les lecteurs d’écran à l’esprit.
 
-- **GIF en quelques secondes :** une diapositive, un cadre. Créez facilement des images GIF en boucle dans PowerPoint. [En savoir plus](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIF en quelques secondes :** une diapositive, un cadre. Créez facilement des images GIF en boucle dans PowerPoint. [En savoir plus](https://support.office.com/fr-FR/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -2164,6 +2284,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
@@ -2173,5 +2294,4 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
-ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
+ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
+ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440709"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "51582080"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,22 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 > - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2103-april-02"></a>Version 2103 : 02 avril
+*Version 2103 (build 13901.20336)*
+* Diverses résolutions de bogues et de performances.
+
+## <a name="version-2103-april-1"></a>Version 2103 : 1 avril
+*Version 2103 (Build 13901.20148)*
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Format date/heure** Avec cette mise à jour, les formats date/heure dans Teams correspondent aux paramètres régionaux du système d’exploitation Mac et Windows. Auparavant, Teams afficherait uniquement les date/heure dans le format correspondant à la langue de l’application. Il est important de noter que seul le calendrier grégorien est pris en charge quel que soit le paramètre de calendrier du système d’exploitation. 
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
 ## <a name="version-2103-march-30"></a>Version 2103 : 30 mars
 *Version 2103 (Build 13901.20312)*
@@ -79,27 +95,11 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 - Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
 
-
-
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2103-march-12"></a>Version 2103 : 12 mars
-*Version 2103 (Build 13901.20148)*
-
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="teams"></a>Teams
-
-- **Statut Absent(e) du bureau** Configurez un message pour faire savoir à d’autres personnes que vous ne travaillez pas ou que vous êtes en congés, si bien que vous n’êtes pas disponible pour répondre lorsqu’ils vous envoient un message de conversation. Votre calendrier Outlook synchronise également votre statut Absent(e) du bureau avec les réponses automatiques.
-
-[//]: # (NE PAS SUPPRIMER)
-
-
 ## <a name="version-2103-march-11"></a>Version 2103 : 11 mars
 *Version 2103 (Build 13901.20148)*
-
-[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
@@ -114,6 +114,10 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 - **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
 
+### <a name="teams"></a>Teams
+
+- **Statut Absent(e) du bureau** Configurez un message pour faire savoir à d’autres personnes que vous ne travaillez pas ou que vous êtes en congés, si bien que vous n’êtes pas disponible pour répondre lorsqu’ils vous envoient un message de conversation. Votre calendrier Outlook synchronise également votre statut Absent(e) du bureau avec les réponses automatiques.
+
 ### <a name="visio"></a>Visio
 
 - **Nouvelle apparence des icônes Office :** Nous avons modernisé les icônes de ce produit pour mieux refléter la simplicité, l’efficacité et l’intelligence de l’expérience Office. [En savoir plus](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
@@ -123,7 +127,6 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - **Mode sombre pour les documents Word :** Le mode sombre permet de réduire la fatigue des yeux et de composer avec la sensibilité à la lumière de chacun dans le cadre du travail sur les documents Word.
 
 - **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
-
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1245,7 +1248,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2146,7 +2149,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -3233,7 +3236,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
