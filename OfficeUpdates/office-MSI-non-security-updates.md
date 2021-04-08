@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique des liens vers les dernières informations sur les mises à jour non liées à la sécurité pour les versions définitives d’Office 2016, Office 2013 et Office 2010
-ms.openlocfilehash: 8627a47ca19b170f0d69e16d4a23cc787cb8a6bd
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: e254de1835dfd13550f6614f841777d519529d31
+ms.sourcegitcommit: 515409b0baa38e7da8e00be3b54ea6789755f11b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418059"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51598115"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Dernières mises à jour non liées à la sécurité pour les versions d’Office qui utilisent Windows Installer (MSI)
 
@@ -25,6 +25,11 @@ Cette page répertorie les mises à jour non liées à la sécurité pour Office
 > - Les informations contenues dans cet article ne s’appliquent pas aux applications Microsoft 365.
 > - Pour plus d’informations sur l’installation des mises à jour d’Office, consultez l’article [Installer les mises à jour d’Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+
+## <a name="april-6-2021"></a>6 avril 2021
+**Office 2016**<br/>
+Mise à jour pour Microsoft Office 2016 ([KB4486672](https://support.microsoft.com/help/4486672)) </br> 
 
 ## <a name="march-2-2021"></a>2 mars 2021
 **Office 2016**<br/>
@@ -80,23 +85,5 @@ Mise à jour pour Microsoft Project 2016 ([KB4484502](https://support.microsoft
 Mise à jour pour Microsoft Visio 2016 ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
 Mise à jour pour Skype Entreprise 2016 ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
-## <a name="september-1-2020"></a>1 septembre 2020
-**Office 2016**<br/>
-Mise à jour pour Microsoft Office 2016 ([KB4484251](https://support.microsoft.com/help/4484251))<br/>
-Mise à jour pour Microsoft Office 2016 ([KB4484395](https://support.microsoft.com/help/4484395))<br/> Mise à jour pour Microsoft Office 2016 ([KB4484500](https://support.microsoft.com/help/4484500)) <br/>
-Mise à jour pour Microsoft Outlook 2016 ([KB4484511](https://support.microsoft.com/help/4484511)) <br/>
-Mise à jour pour Skype Entreprise 2016 ([KB4484501](https://support.microsoft.com/help/4484501)) <br/>
-
-**Office 2013**<br/>
-Mise à jour pour Microsoft Visio 2013 ([KB4484355](https://support.microsoft.com/help/4484355))<br/>
-
-## <a name="august-4-2020"></a>4 août 2020
-
-**Office 2016**<br/>
-Mise à jour pour Microsoft Office 2016 ([KB4484418](https://support.microsoft.com/help/4484418))<br/> Mise à jour pour Microsoft Project 2016 ([KB4484477](https://support.microsoft.com/help/4484477))<br/>
-Mise à jour pour Skype Entreprise 2016 ([KB4484464](https://support.microsoft.com/help/4484464))<br/> 
-
-**Office 2010**<br/>
-Mise à jour pour Microsoft Office 2010 ([KB4484454](https://support.microsoft.com/help/4484454))<br/> Mise à jour pour Microsoft PowerPoint 2010 ([KB4092435](https://support.microsoft.com/help/4092435))<br/> 
 
 </br>
