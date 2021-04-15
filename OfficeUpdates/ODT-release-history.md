@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fournit un historique des publications de l’outil Déploiement d’Office (ODT) destiné aux professionnels de l’informatique
-ms.openlocfilehash: 046054dfb781c3cd19ca6505e5ae5f2f362f6a86
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 8e2387e11eb7327d0fe2148f2fe43633aad8c725
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169962"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748952"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
 
@@ -29,6 +29,12 @@ L’outil Déploiement d’Office vous permet de bien contrôler l’installatio
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+## <a name="april-13-2021"></a>13 avril 2021
+Version 16.0.13901.20336 (setup.exe version 16.0.13901.20328)
+- Correctifs de la fiabilité des opérations de configuration exécutées sur des appareils sur lesquels Office est déjà installé.
+- Correctifs pour éviter d'afficher des doublons dans l'interface de progression dans certains scénarios.
+- Améliorations apportées à la précision du code d’erreur affichés dans l'interface utilisateur
+- Correctifs de fiabilité pour les plateformes ARM
 
 ## <a name="march-23-2021"></a>23 mars 2021
 Version 16.0.13801.20360 (setup.exe version 16.0.13801.20340)

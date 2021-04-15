@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 725469db260183cf94e67560d8c729c268b43725
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 7b0f88e47caed3d6391794ff4a770bc0976c65de
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589866"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749182"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
@@ -36,12 +36,12 @@ Le tableau suivant répertorie la version prise en charge et le numéro de build
 
 |**Canal**|**Version**|**Build**|**Date de publication**|**Version prise en charge jusqu’au**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal actuel<br/>|2103<br/>|13901.20336<br/>|2 avril 2021<br/>|Publication de la version 2104<br/>|
-|Canal Entreprise mensuel<br/>|2101<br/>|13628.20528<br/>|9 mars 2021<br/>|11 mai 2021<br/>|
-|Canal Entreprise mensuel<br/>|2012<br/>|13530.20628<br/>|9 mars 2021<br/>|13 avril 2021<br/>|
-|Canal Entreprise semi-annuel (aperçu)<br/>|2102<br/>|13801.20294<br/>|9 mars 2021<br/>|14 septembre 2021<br/>|
-|Canal Entreprise semestriel<br/>|2008<br/>|13127.21348<br/>|9 mars 2021<br/>|Mars 8, 2022<br/>|
-|Canal Entreprise semestriel<br/>|2002<br/>|12527.21686<br/>|9 mars 2021<br/>|14 septembre 2021<br/>|
+|Canal actuel<br/>|2103<br/>|13901.20400<br/>|13 avril 2021<br/>|Publication de la version 2104<br/>|
+|Canal Entreprise mensuel<br/>|2102<br/>|13801.20506<br/>|13 avril 2021<br/>|8 juin 2021<br/>|
+|Canal Entreprise mensuel<br/>|2101<br/>|13628.20664<br/>|13 avril 2021<br/>|11 mai 2021<br/>|
+|Canal Entreprise semi-annuel (aperçu)<br/>|2102<br/>|13801.20506<br/>|13 avril 2021<br/>|14 septembre 2021<br/>|
+|Canal Entreprise semestriel<br/>|2008<br/>|13127.21506<br/>|13 avril 2021<br/>|Mars 8, 2022<br/>|
+|Canal Entreprise semestriel<br/>|2002<br/>|12527.21814<br/>|13 avril 2021<br/>|14 septembre 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -55,6 +55,7 @@ Le tableau suivant fournit la liste des numéros de version et de build des diff
 
 |**Année**|**Date de publication**|**Canal Actuel**|**Canal Entreprise mensuel**|**Canal Entreprise semestriel (préversion)**|**Canal Entreprise semestriel**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|13 avril|[Version 2103 (build 13901.20400)](current-channel.md#version-2103-april-13)|[Version 2102 (build 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[Version 2101 (build 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[Version 2102 (build 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[Version 2008 (build 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[Version 2002 (build 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021|2 avril|[Version 2103 (build 13901.20336)](current-channel.md#version-2103-april-02)| | | |
 |2021|30 mars|[Version 2103 (Build 13901.20312)](current-channel.md#version-2103-march-30)| | | |
 |2021|18 mars|[Version 2102 (build 13801.20360)](current-channel.md#version-2102-march-18)| | | |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux clients des notes de publication pour l’historique des mises à jour pour les Applications Microsoft 365 pour Windows 7
-ms.openlocfilehash: 06a5467d0ea72650d5696f56ba637e385d6be4f2
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170163"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749132"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Historique des mises à jour pour les Applications Microsoft 365 sur Windows 7 
 
@@ -38,6 +38,9 @@ Si vous gérez les mises à jour à l’aide de Microsoft Endpoint Configuration
 ## <a name="update-history"></a>Historique des mises à jour
 
 [//]: # (NE PAS SUPPRIMER)
+
+**13 avril 2021**<br/>
+Version 2002 (build 12527.21814)<br/>
 
 **9 mars 2021**<br/>
 Version 2002 (Build 12527.21686)<br/>

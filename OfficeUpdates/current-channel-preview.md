@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
-ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
+ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "51582080"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749062"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -30,6 +30,44 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2103-april-10"></a>Version 2103 : 10 avril
+*Version 2103 (build 13901.20400)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d'un problème potentiel de contention des ressources dans Word lors du dessin d'une image.
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient par erreur un message « Cela peut prendre du temps » lors de l'ajout d'un calendrier.
+
+- Nous avons résolu un problème qui causait l’apparition des délégués en tant qu’organisateur de réunions créées sur des calendriers nouvellement ajoutés.  Les réunions dans cet état ne figuraient pas sur le calendrier du principal.
+
+- Correction d'un problème potentiel de contention des ressources dans Word lors du dessin d'une image.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d'un problème potentiel de contention des ressources dans Word lors du dessin d'une image.
+
+### <a name="word"></a>Word
+
+- Correction d'un problème potentiel de contention des ressources dans Word lors du dessin d'une image.
+
+- Correction d&apos;un problème de réactivité lors de l’aperçu avant impression.
+
+- Met à jour le texte sur la légende d’enregistrement automatique pour les fichiers enregistrés localement.
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction du problème d'échec de renommage lors de l'ouverture d'un fichier synchronisé en mode hors connexion puis du renommage du fichier dans l'application avant de l'enregistrer.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2103-april-02"></a>Version 2103 : 02 avril
 *Version 2103 (build 13901.20336)*
@@ -1248,7 +1286,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2149,7 +2187,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -3236,7 +3274,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 

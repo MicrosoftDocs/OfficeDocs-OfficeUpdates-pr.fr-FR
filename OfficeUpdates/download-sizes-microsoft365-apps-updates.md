@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: fd0201ce7ec5cb64809556c01ed27fabfd461f62
-ms.sourcegitcommit: 94b7247497c7498627f408aa6d08ea32b4af7eb0
+ms.openlocfilehash: cfd36039c62847e317eecfd5d66f1b26dfab75b5
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645036"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749092"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -36,14 +36,23 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 [//]: # (NE PAS SUPPRIMER)
 
-[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+## <a name="april-13-2021"></a>13 avril 2021
 
-## <a name="april-8-2021"></a>8 avril 2021
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 13 avril 2021)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2103 (Build 13901.20400).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2103 (build 13901.20336) <br/> |2 avril 2021 <br/> |65<br/> |
+|Version 2103 (build 13901.20312) <br/> |30 mars 2021 <br/> |284<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
 
-<i>La publication prévue est la version 2102 (build 13801.20490).</i>
+La version la plus récente est la version 2102 (Build 13801.20506).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semi-annuel (aperçu)
 
-<i>La publication prévue est la version 2102 (build 13801.20454).</i>
+La version la plus récente est la version 2102 (Build 13801.20506).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -63,7 +72,7 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semi-annuel
 
-<i>La version prévue est la version 2008 (build 13127.21474).</i>
+La version la plus récente est la version 2008 (build 13127.21506).
 
 |**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
 |:-----|:-----|:-----|
@@ -71,7 +80,10 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 |Version 2008 (build 13127.21216) <br/> |9 février 2021 <br/> |62<br/> |
 
 
-[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU 13 avril 2021)
+
+
+
 
 ## <a name="april-2-2021"></a>2 avril 2021
 

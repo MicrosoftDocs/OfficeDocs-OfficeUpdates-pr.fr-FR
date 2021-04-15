@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique les notes de publication des versions du Canal mensuel de Microsoft 365 Apps disponibles en 2020
-ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589886"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749082"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -32,6 +32,51 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2103-april-13"></a>Version 2103 : 13 avril
+*Version 2103 (build 13901.20400)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d'un problème potentiel de contention des ressources dans Word lors du dessin d'une image.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient par erreur un message « Cela peut prendre du temps » lors de l'ajout d'un calendrier.
+
+- Nous avons résolu un problème qui causait l’apparition des délégués en tant qu’organisateur de réunions créées sur des calendriers nouvellement ajoutés.  Les réunions dans cet état ne figuraient pas sur le calendrier du principal.
+
+- Correction d'un problème potentiel de contention des ressources dans Word lors du dessin d'une image.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d'un problème potentiel de contention des ressources dans Word lors du dessin d'une image.
+
+
+### <a name="word"></a>Word
+
+- Correction d'un problème potentiel de contention des ressources dans Word lors du dessin d'une image.
+
+- Correction d&apos;un problème de réactivité lors de l’aperçu avant impression.
+
+- Met à jour le texte sur la légende d’enregistrement automatique pour les fichiers enregistrés localement.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction du problème d'échec de renommage lors de l'ouverture d'un fichier synchronisé en mode hors connexion puis du renommage du fichier dans l'application avant de l'enregistrer.
 
 
 
@@ -1879,7 +1924,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème qui entraînait l’arrêt d’Excel dans certains cas après la copie d’une feuille de calcul contenant un tableau croisé dynamique.
 
-- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies pour l’utilisateur.
+- La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies par l’utilisateur.
 
 ### <a name="outlook"></a>Outlook
 
@@ -2293,6 +2338,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
@@ -2302,5 +2348,4 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

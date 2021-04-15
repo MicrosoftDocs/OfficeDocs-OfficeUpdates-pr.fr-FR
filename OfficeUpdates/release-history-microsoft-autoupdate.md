@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique un historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
-ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
+ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169713"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755406"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Historique des versions pour la mise à jour automatique Microsoft (AutoUpdate)
  
@@ -30,6 +30,23 @@ Le tableau suivant fournit des informations sur l’historique des versions de l
 
 Pour afficher les notes de publication, voir [Notes de publication.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="april-2021-release"></a>Publication d’avril 2021
+
+**Date de publication :** 13 avril 2021
+
+*Mise à jour automatique Microsoft (AutoUpdate) 4.34*
+
+**Correctifs et Améliorations de bogues:**
+- Les notifications de mise à jour discrètes indiquent désormais la disponibilité des mises à jour, plutôt que les invites classiques de notification du système d’exploitation, pour les utilisateurs en mode mises à jour manuelles.
+
+[Télécharger le package Microsoft Auto Update 4.34](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.34.21041102_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash :**
+
+98C6821D939A3FA78BE21B11919625A48EAE2A3CC87CB104BF06637D9B850D9C
+
+<br/><br/>
+
 ## <a name="march-2021-release"></a>Version de mars 2021.
 
 **Date de publication :** 17 mars 2021
@@ -44,7 +61,11 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 
 [Téléchargez le package Mise à jour automatique 4.33 de Microsoft](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
 <br/>
-**SHA-256 Hash:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+**SHA-256 Hash :**
+
+ 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+
+<br/><br/>
 
 ## <a name="february-2021-release"></a>Publication en février 2021.
 
@@ -63,6 +84,8 @@ Pour afficher les notes de publication, voir [Notes de publication.](release-not
 **SHA-256 Hash :**
 
 CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
+
+<br/><br/>
 
 ## <a name="january-2021-release"></a>Version de janvier 2021.
 
@@ -262,7 +285,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Les ordinateurs macOS disposant de disques SSD peuvent bénéficier de mises à jour plus rapides et d’une interruption d’application négligeable en raison de mises à jour.
 
 
-Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
+Consultez [CVE-2020-0984](https://portal.msrc.microsoft.com/fr-FR/security-guidance/advisory/CVE-2020-0984)
 
 **Code de hachage SHA-256 :**
 

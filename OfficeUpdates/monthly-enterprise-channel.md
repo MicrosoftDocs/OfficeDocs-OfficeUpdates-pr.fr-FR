@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens les notes de publication des versions du Canal Entreprise mensuel de Microsoft 365 Apps publiées en 2020
-ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169723"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749172"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
 
@@ -26,6 +26,157 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 [//]: # (NE PAS SUPPRIMER)
 
 
+
+## <a name="version-2102-april-13"></a>Version 2102 : 13 avril
+*Version 2102 (build 13801.20506)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Utiliser la boîte de dialogue Avancées pour créer des types de données :** la boîte de dialogue Avancé vous permet de sélectionner manuellement les colonnes qui combinent le type de données en cours de création.
+
+- **Afficher plusieurs feuilles en même temps :** vous n’avez plus besoin d’afficher une feuille à la fois. vous pouvez ainsi afficher plusieurs feuilles masquées à la fois. [En savoir plus](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="outlook"></a>Outlook
+
+- **Les paramètres de la boîte de réception prioritaire restent sur plusieurs appareils :** vos préférences de boîte de réception prioritaire sont désormais stockées dans le Cloud. Profitez de la même expérience lorsque vous utilisez Outlook pour Windows sur n’importe quel ordinateur et Outlook sur le web. [En savoir plus](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **Vos paramètres Outlook dans le cloud :** choisissez vos paramètres Outlook pour Windows tels que Réponses automatiques, Boîte de réception Prioritaire et Confidentialité, puis accédez à ces paramètres sur n’importe quel PC.
+
+- **Sélectionner l’emplacement de la recherche :** La liste déroulante de la nouvelle étendue de recherche vous permet de modifier plus facilement votre recherche et de basculer entre le Dossier actuel et la Boîte aux lettres actuelle. Nous vous remercions tous ceux qui ont fourni des commentaires sur la nouvelle expérience de Recherche en haut dans Bientôt disponible. Cette conception et cette mise à jour sont issues de ces commentaires.
+
+- **Brouillons de messages avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales, le signe de ponctuation automatique, etc. pour rédiger des messages.
+
+### <a name="word"></a>Word
+
+- **Brouillons de documents avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales et le signe de ponctuation automatique dans les brouillons de documents.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Résolution d’un problème où dans certains cas, lors de l’exécution d’une requête SQL Server, peut entraîner un message d’erreur indiquant un « état du curseur non valide ».
+
+
+- Nous avons corrigé un problème pour lequel les utilisateurs avaient une boîte de dialogue d’erreur « État du curseur non valide ».
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un bogue pour lequel la validation des données pouvait être appliquée inopinément à des cellules après l’ajout de lignes à un tableau dans une autre feuille.
+
+
+- Nous avons résolu un problème pour lequel la fonction Afficher dans les feuilles de dialogue ne fonctionnait pas sur les versions 32 bits d’Excel
+
+
+- Nous avons corrigé un problème qui rendait les images plus petites que prévu lors de l’utilisation de l’option Coller une image liée.
+
+
+- Nous avons corrigé un problème à cause duquel une mise en forme de tableau croisé dynamique corrompait le classeur lors de l’enregistrement au format .xls ou .xlt.
+
+
+- Nous avons corrigé un problème qui empêchait les utilisateurs d’exporter un document Excel au format PDF.
+
+
+- Résolution d’un problème pour lequel seule l’icône des commandes désactivées dans le ruban Office apparaissait en grisé, mais pas le texte en thème Office gris foncé.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de la traduction en ligne de soumettre leurs commentaires.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient les signatures contenant du contenu unicode être endommagées.
+
+
+- Nous avons résolu un problème qui faisait voir aux utilisateurs un nombre de signatures plus important que prévu.
+
+
+- Nous avons résolu un problème qui provoquait le plantage d'Outlook lorsqu'il était inactif.
+
+
+- Nous avons corrigé un problème qui causait l’arrêt de l’application à certains utilisateurs lors de la fermeture des fenêtres de message.
+
+
+- Nous avons résolu un problème pour qui les utilisateurs des améliorations du calendrier partagé ne pouvaient pas définir la couleur d’un calendrier sur jaune ou marron.
+
+
+- Nous avons résolu un problème qui a entraîné l’apparition de groupes de calendriers en double pour les utilisateurs suite à la création d’un groupe.
+
+
+- Nous avons corrigé un problème qui causait l’échec de l’apparition des calendriers nouvellement ajoutés dans le volet de navigation avant le redémarrage d’Outlook.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Résolution d’un problème pour lequel seule l’icône des commandes désactivées dans le ruban Office apparaissait en grisé, mais pas le texte en thème Office gris foncé.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème de résolution des conflits lors de la co-édition.
+
+
+- Correction d’un problème de contrôles de contenu de texte enrichi.
+
+
+- Correction d’un problème qui pouvait provoquer le blocage de l’application lorsque l’utilisateur tapait du texte à la fin d’un paragraphe masqué.
+
+
+- Correction d’un problème du Narrateur qui pouvait sauter un paragraphe.
+
+
+- Nous avons résolu un problème de copier/coller.
+
+
+- Correction d’un problème avec les couleurs appliquées aux icônes et aux graphiques SVG avec des effets 3D.
+
+
+- Résolution d’un problème pour lequel seule l’icône des commandes désactivées dans le ruban Office apparaissait en grisé, mais pas le texte en thème Office gris foncé.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction d’un problème de fiabilité lié au support des applications Office exécutées dans la session 0.
+
+
+- Correction d’un problème qui pouvait parfois rendre un texte transparent dans Outlook, et donc illisible.
+
+
+- Correction d’un problème du Narrateur lorsque le texte contenait des équations mathématiques.
+
+
+- Correction d’un problème du Narrateur lorsque le texte contenait des équations mathématiques.
+
+
+- Correction d’un problème lié à la dictée désactivée pour les utilisateurs du Cloud de la communauté du secteur public
+
+
+- Correction d’un problème où les utilisateurs ne pouvaient pas enregistrer un fichier, et lorsqu’ils ouvraient un fichier avec des modifications non enregistrées, le fichier était supprimé. Une fois le correctif apporté, les utilisateurs obtiennent un message convivial les informant que le fichier est supprimé. L’utilisateur peut donc choisir d’ignorer les modifications ou d’enregistrer le fichier.
+
+
+- Correction du problème d'échec de renommage lors de l'ouverture d'un fichier synchronisé en mode hors connexion puis du renommage du fichier dans l'application avant de l'enregistrer.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2101-april-13"></a>Version 2101 : 13 janvier
+*Version 2101 (build 13628.20664)*
+
+Mises à jour de sécurité répertoriées [ici](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2101-march-09"></a>Version 2101 : 09 mars
 *Version 2101 (build 13628.20528)*
@@ -91,6 +242,22 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Exiger que les utilisateurs appliquent des étiquettes de confidentialité :** les utilisateurs sont invités à appliquer une étiquette de confidentialité si la stratégie de leur organisation l’exige.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Exiger que les utilisateurs appliquent des étiquettes de confidentialité :** les utilisateurs sont invités à appliquer une étiquette de confidentialité si la stratégie de leur organisation l’exige.
+
+### <a name="word"></a>Word
+
+- **Exiger que les utilisateurs appliquent des étiquettes de confidentialité :** les utilisateurs sont invités à appliquer une étiquette de confidentialité si la stratégie de leur organisation l’exige.
+
+
 ## <a name="version-2012-february-09"></a>Version 2012 : 9 février
 *Version 2012 (build 13530.20528)*
 
@@ -124,9 +291,12 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - **Nouvelle recherche de salles :** rechercher des salles de conférence selon différentes fonctionnalités.
 
+- **Nouvelle expérience de réservation de salle de conférence et d’espace de travail :** L’expérience de réservation de salle de conférence a été revue. Nous avons ajouté des fonctionnalités qui vous permettent de planifier des espaces de travail individuels également.
+
+
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/svg-content-office-third-party-apps)
 
 - **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
 
@@ -384,7 +554,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
 
-- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -629,7 +799,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 - Nous avons résolu un problème à l’origine de l’incapacité des utilisateurs à accorder l’autorisation éditeur à leurs délégués.
 
 
-- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.<br />Voir détails dans le [billet de blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Nous avons résolu un problème de blocage du chargement des compléments web par des expériences connectées facultatives.<br />Voir détails dans le [billet de blog](https://developer.microsoft.com/fr-FR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1465,6 +1635,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
