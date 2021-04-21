@@ -1,7 +1,7 @@
 ---
 title: Notes de publication canal actuel (Preview)
 ms.author: anankani
-author: v-lislo
+author: anankani
 manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
+ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875735"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51887317"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -30,6 +30,154 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2104-april-19"></a>Version 2104 : 19 mars
+*Version 2104 (build 13929.20216)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Importer des données à partir de tableaux dynamiques :** vous pouvez à présent importer, modeler et actualiser des données à partir de tableaux dynamiques du carnet de données actuel. [En savoir plus](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+### <a name="outlook"></a>Outlook
+
+- **Recherche de calendrier améliorée :** des améliorations ont été apportées à la recherche par calendrier, la plus importante étant la possibilité de trouver plus facilement la prochaine occurrence d'une série dans les résultats de recherche.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Cette modification résout un problème où dans certains cas, lors de l’exécution d’une requête SQL Server, peut entraîner un message d’erreur indiquant un « état du curseur non valide ».
+
+
+- Correction d’un problème qui empêchait l’ordinateur de s’éteindre tant qu’une application externe demandait une interface d’accessibilité.
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui empêchait la possibilité de coller en tant que formules sur une feuille protégée.
+
+
+- Nous avons résolu un problème de fonctionnement incorrect des liens hypertexte créés en utilisation la fonction HYPERLINK si le fichier est enregistré en tant que document PDF.
+
+
+- Nous avons résolu un problème pour lequel un symbole d’opérateur implicite (@) était ajouté à la formule avec une référence à une plage vide et donnerait le résultat incorrect.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui occasionnait la fermeture inattendue d’outlook lors de la synchronisation de modifications de hiérarchie d’un dossier.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient par erreur un message « Cela peut prendre du temps » lors de l'ajout d'un calendrier.
+
+
+- Nous avons résolu un problème qui causait l’apparition des délégués en tant qu’organisateur de réunions créées sur des calendriers nouvellement ajoutés.  Les réunions dans cet état ne figuraient pas sur le calendrier du principal.
+
+
+- Nous avons résolu un problème qui causait un incident aux utilisateurs lors de la recherche.
+
+
+- Nous avons résolu un incident lié à la recherche.
+
+
+- Nous avons résolu un problème qui causait aux utilisateurs une disparition inattendue des signatures.
+
+
+- Nous avons résolu un problème qui pouvait entraîner la perte du focus de l’interface utilisateur dans le message en cours de rédaction.
+
+
+- Nous avons résolu un problème qui a entraîné le remplacement des préférences de boîte de réception Prioritaire configurées dans OWA.
+
+
+- Correction d’un problème de la fonctionnalité Paramètres du cloud qui causait le remplacement des paramètres personnels d’un utilisateur par les paramètres par défaut à la configuration d’Outlook sur un nouvel appareil.
+
+
+- Correction d’un problème qui pouvait empêcher certains utilisateurs d’accéder à des signatures associées à des comptes de courrier électronique secondaires.
+
+
+- Nous avons résolu un problème qui provoque l’échec de la résolution des noms lors de l’envoi au nom d’un autre utilisateur et de la résolution à l’aide d’un carnet d’adresses qui n’est pas la liste d’adresses globale.
+
+
+- Nous avons résolu un problème qui provoque l’échec de la résolution des noms lors de l’envoi au nom d’un autre utilisateur et de la résolution à l’aide d’un carnet d’adresses qui n’est pas la liste d’adresses globale.
+
+
+### <a name="project"></a>Project
+
+- Correction d’un problème où si le format de date est W4/4, le sélecteur de dates peut afficher un jour et une année erronés.
+
+
+### <a name="visio"></a>Visio
+
+- Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
+
+
+- Correction de la fonctionnalité « Rechercher une forme » pour afficher tous les résultats
+
+
+
+### <a name="word"></a>Word
+
+- Dans ce bogue, des stratégies spécifiques n’ont pas été respecter par Office (un groupe de modèles étaient affichés sur la page d’accueil alors qu’ils auraient dû être désactivés). Avec ce correctif, les stratégies sont respectées.
+
+
+- Lors de la co-édition d’un document, le programme ne vide pas le brouillon actif de son contenu en cas de modification de l’ordre des commentaires.
+
+
+- Correction d’un bogue dans la fonction Commentaire moderne où les signes de ponctuation et les nombres s’afficheraient du côté erroné pour certaines langues internationales.
+
+
+- Correction d’un problème pour lequel la combinaison de « B » et de « ) » se transformait automatiquement en emoji portant des lunettes de soleil et restait alors en tant que caractères individuels.
+
+
+- Met à jour le texte sur la légende d’enregistrement automatique pour les fichiers enregistrés localement.
+
+
+- Nous avons résolu un problème de commentaires pendant la co-création.
+
+
+- Nous avons résolu un problème relatif à l’icône de commentaire.
+
+
+- Nous avons résolu un problème de différence de styles copier et coller dans un texte collé.
+
+
+- Optimise les conditions pour les prédictions de texte à offrir.
+
+
+- Nous avons résolu un problème relatif au lien hypertexte.
+
+
+- Certains sélectionnent du texte qui n’est pas visible lorsque vous utilisez un thème darkmode en mode lecture.
+
+
+- Correction d’un problème de l’enregistrement automatique.
+
+
+- Nous avons apporté un correctif dans Application.OnTime qui ne se déclenche pas correctement.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème de performance lié à l’itération d’un texte.
+
+
+- Résout un problème de prise en charge de GDI+ LineJoinMiterClipped dans Office.
+
+
+- Cette version améliore la gestion du contenu sensible en ligne lorsque le mot clé se trouve sur la première ligne d’un document.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2103-april-13"></a>Version 2103 : 13 avril
 *Version 2103 (build 13901.20400)*
