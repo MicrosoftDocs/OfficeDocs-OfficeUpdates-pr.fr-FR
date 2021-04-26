@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875725"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995731"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,57 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2105-april-23"></a>Version 2105 : 23 avril
+*Version 2105 (build 14014.20002)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Importer des données à partir de tableaux dynamiques :** vous pouvez à présent importer, modeler et actualiser des données à partir de tableaux dynamiques du carnet de données actuel. [En savoir plus](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème de prise en charge de la compatibilité descendante avec les versions antérieures d’Excel. Ce problème peut empêcher un fichier enregistré dans une version plus récente d’Excel de se charger dans les versions antérieures d’Excel suite à l’ajout de fonctions comme IFERROR et XLOOKUP à Excel depuis Office 2007.
+
+
+- Nous avons résolu un problème : certains fichiers ne s’ouvraient pas toujours dans la vue protégée.
+
+
+- Nous avons résolu un problème : la barre d’état n’indiquait pas l’état Prêt pour certains utilisateurs.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui provoque l’échec de la résolution des noms lors de l’envoi au nom d’un autre utilisateur et de la résolution à l’aide d’un carnet d’adresses qui n’est pas la liste d’adresses globale.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème : le texte de l’espace réservé n’apparaissait plus dans les commentaires lors de l’utilisation de langues s’écrivant de droite à gauche.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème : les liens hypertexte, y compris les chiffres, étaient tronqués lors de la rédaction d’un message dans Outlook dans une langue s’écrivant de droite à gauche.
+
+
+- Nous avons résolu un problème de rendu incorrect de certains graphiques vectoriels évolutif (SVG).
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2105-april-16"></a>Version 2105 : 16 avril
 *Version 2105 (build 14007.20002)*
@@ -1134,7 +1185,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2422,7 +2473,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
@@ -2842,6 +2893,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
@@ -2851,5 +2903,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
