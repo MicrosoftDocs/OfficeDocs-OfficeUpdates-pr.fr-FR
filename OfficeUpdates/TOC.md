@@ -10,6 +10,7 @@
 
 ## Canal Entreprise mensuel
 ### [Notes de publication](monthly-enterprise-channel.md)
+### [Notes de publication archivées](monthly-enterprise-channel-archived.md)
 
 ## Canal Entreprise semi-annuel
 ### [Notes de publication](semi-annual-enterprise-channel.md)
