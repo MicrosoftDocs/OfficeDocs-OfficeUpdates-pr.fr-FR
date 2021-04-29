@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens des notes de version des versions du canal entreprise mensuel de Microsoft 365 Apps
-ms.openlocfilehash: 66ee8ab5a7a3a855992efdc6e29e23f997675ad0
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: fbfcc2b35e049ebf7bc38860a58ab33e582aa31b
+ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026349"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52058748"
 ---
-# <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notes de publication pour les versions du Canal Entreprise mensuel publiées en 2020
+# <a name="release-notes-for-monthly-enterprise-channel"></a>Notes de versions sur le Canal Entreprise mensuel
 
-Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité qui sont incluses dans les mises à jour du Canal Entreprise mensuel publiées en 2020 pour Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
+Ces notes de publication fournissent des informations sur les nouvelles fonctionnalités et les mises à jour non liées à la sécurité incluses dans les mises à jour du Canal d’Entreprise mensuel de Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et des versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
 > Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
