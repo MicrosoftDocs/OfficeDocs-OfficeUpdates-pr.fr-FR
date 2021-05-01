@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: bb14136d385d11187c26552bd61c321338ce2f36
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995731"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52108236"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,92 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2105-april-30"></a>Version 2105 : 30 avril
+*Version 2105 (build 14026.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Vérification de l'accessibilité lors de l'envoi de courriels à un large public, à des utilisateurs externes :** nous avons ajouté une fonction permettant d'être averti automatiquement, par une info-message, d'une violation de l'accessibilité lors de la rédaction d'un courriel destiné à un large public, à des utilisateurs externes, etc. Ces paramètres se trouvent dans la section Facilité d'accès
+
+### <a name="visio"></a>Visio
+
+- **Gabarits et formes AWS :** nous avons désormais des gabarits qui ont les dernières formes AWS pour vous aider à créer des diagrammes. [En savoir plus](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+### <a name="word"></a>Word
+
+- **Rédaction des objectifs :** écriture des objectifs pour WinWord
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui provoque la fermeture inattendue d’Excel lors du passage des commentaires dans le volet Commentaires.
+
+
+- Nous avons résolu un problème qui causait un affichage incorrect de la mise en forme des dates dans certaines langues lors de l’utilisation des modules linguistiques.
+
+
+- Nous avons résolu un problème qui pouvait entraîner la fermeture inattendue d'Excel lors de l'utilisation de la fonction Coller spécial avec des formats dans certaines situations.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème pour lequel les modifications apportées via les Assistants Planification n’étaient pas toujours capturées par les événements de modification.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de supprimer des objets de la liste de ressources partagées.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème pour lequel la mise en forme du texte restait après la suppression des liens hypertexte.
+
+
+- Nous avons résolu un problème pour lequel les commentaires n’étaient pas affichés après filtrage par les personnes.
+
+
+- Nous avons résolu un problème pour lequel Word ne pouvait pas effectuer de fusion et publipostage avec une base de données Access.
+
+
+- Nous avons résolu un problème qui contenait la possibilité de réduire les marges dans un document contenant plusieurs colonnes.
+
+
+- Nous avons résolu un problème pour lequel certains caractères ne s’affichent pas correctement dans les cellules du tableau lorsque le document contient des commentaires.
+
+
+- Nous avons résolu un problème pour lequel les modifications de format de fichier s’étaient produites lors de l’enregistrement de documents avec le ajouter AIP activé.
+
+
+- Nous avons résolu un problème pour lequel Word ne répondait plus lors de la modification des champs.
+
+
+- Nous avons résolu un problème pour lequel les utilisateurs ne étaient pas invités à enregistrer des documents lors de l’utilisation d’une commande (plutôt que du raccourci clavier Ctrl+S).
+
+
+- Nous avons résolu un problème pour lequel l’étiquette de critère de critère de sécurité disparaît d’un fichier dans Word après son chargement vers SharePoint Online.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème qui causait une erreur d’alignée du bouton Dictée lors de l’ajout de commentaires à un document.
+
+
+- Nous avons résolu un problème pour lequel l’utilisation du mode Contraste élevé pendant de longues périodes entraînerait la fermeture inattendue d’Outlook.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2105-april-23"></a>Version 2105 : 23 avril
 *Version 2105 (build 14014.20002)*
@@ -151,7 +237,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 ### <a name="word"></a>Word
 
-- Dans ce bogue, des stratégies spécifiques n’ont pas été respecter par Office (un groupe de modèles étaient affichés sur la page d’accueil alors qu’ils auraient dû être désactivés). Avec ce correctif, les stratégies sont respectées.
+- Dans ce bogue, des stratégies spécifiques n’ont pas été respecter par Office (un groupe de modèles étaient affichés sur la page d’accueil alors qu’ils auraient dû être désactivés). Grâce à ce correctif, les stratégies sont respectées.
 
 
 - Correction d’un problème de l’enregistrement automatique.
@@ -1185,7 +1271,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -1627,7 +1713,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 - Nous avons résolu un problème qui affichait l’alerte suivante lorsque vous ouvriez un fichier contenant la fonction LET : « Désolé... Nous avons trouvé un problème dans le contenu de « votre fichier.xlsx », mais nous pouvons essayer de récupérer le maximum de contenu. Si la source de ce classeur est fiable, cliquez sur Oui. ».
 - Nous avons corrigé un blocage lié aux plages nommées et aux références de complément XLAM.
 - Nous avons résolu un problème qui faisait que les utilisateurs ne pouvaient pas modifier un filtre de tableau croisé dynamique, car il était défini sur une valeur qui n’était plus présente dans une base de données Analysis Services.
-- Nous avons résolu un problème qui faisait que lorsqu’un utilisateur appliquait un style personnalisé à un tableau dynamique, il obtenait l’erreur suivante : « Vous ne pouvez pas modifier une partie de matrice. ». Il s’agissait d’une restriction héritée qui a été supprimée.
+- Nous avons résolu un problème qui faisait que lorsqu’un utilisateur appliquait un style personnalisé à un tableau dynamique, il obtenait l’erreur suivante : « Vous ne pouvez pas modifier une partie de tableau. ». Il s’agissait d’une restriction héritée qui a été supprimée.
 - Nous avons résolu un problème à l’origine de la perte de la barre de formule Excel après la connexion à un appareil (par exemple, connexion/déconnexion d’une session distante ou modification d’un moniteur).
 
 ### <a name="outlook"></a>Outlook
@@ -2014,7 +2100,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="outlook"></a>Outlook
 
 - Nous avons résolu un problème dans lequel la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec des résolutions différentes.
-- Nous avons résolu un problème à l’origine de l’erreur qui s’est produite lors de la fermeture d’un rendez-vous qui a été enregistré précédemment : «l’élément ne peut pas être enregistré parce qu’il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous effectuer une copie dans le dossier par défaut de l’élément ?»
+- Nous avons résolu un problème à l’origine de l’erreur qui s’est produite lors de la fermeture d’un rendez-vous qui a été enregistré précédemment : « L’élément ne peut pas être enregistré parce qu’il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous faire une copie dans le dossier par défaut pour l’élément ? »
 - Nous avons résolu un problème dans lequel les dates du mini-calendrier n’ont pas pu s’afficher en gras pour les utilisateurs résidant au Japon.
 - Nous avons résolu un problème qui empêchait les rappels de calendrier de représenter les horaires exacts pour les réunions en moins d’une semaine.
 
@@ -2305,7 +2391,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier. [En savoir plus](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents deviennent plus élégants. [En savoir plus](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -2370,9 +2456,9 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 - Résolution d’un problème qui avait pour effet que l’insertion de commentaires sur un document en mode collaboration ne fonctionnait pas toujours.
 - Cette modification résout un problème qui avait pour effet que la carte Participants clignotait en cas de clic sur @mention.
-- Résolution d’un problème qui avait pour effet que la fermeture d’un document contenant des brouillons de commentaires entraînait l’affichage d’une invite demandant à l’utilisateur s’il voulait fermer le document sans enregistrer les brouillons de commentaires. L’annulation de l’invite avait pour effet de fermer le document au lieu de le laisser ouvert.
+- Résolution d’un problème qui avait pour effet que la fermeture d’un document contenant des brouillons de commentaires entraînait l’affichage d’une invite demandant à l’utilisateur s’il voulait fermer le document sans enregistrer les brouillons de commentaires. L’annulation de l’invite fermera le document au lieu de le laisser ouvert.
 - Résolution d’un problème qui avait pour effet que la traduction d’un commentaire publié générait l’erreur « Nous n’avons pas pu insérer le texte traduit ».
-- Dans l’affichage web ou le lecteur immersif, cliquer sur un conseil entraînait le défilement de la page vers le haut, même si le conseil était déjà visible. Ce problème a été résolu.
+- Dans l’affichage web ou le lecteur immersif, cliquer sur un conseil entraînait le défilement de la page vers le haut, même si le conseil était déjà visible. Ce problème est résolu.
 - Nous avons résolu un problème qui avait pour effet que, lors de la tentative d’enregistrement d’un fichier contenant une macro sous un nouveau nom, le fichier était enregistré sous le nom WRO0004.docx, quel que soit son auteur, rendant le document inutilisable.
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -2473,7 +2559,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
@@ -2780,7 +2866,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 ### <a name="word"></a>Word
 - Résolution d’un problème dans lequel une carte commentaire n'est pas toujours mise en surbrillance lorsqu’un pointeur de souris la survole.
-- Lors d'une session de collaboration sur un document actif, l'ajout direct d'une image dans une carte commentaire peut entraîner l'adjonction d'une balise. Le problème a été corrigé.
+- Lors d'une session de collaboration sur un document actif, l'ajout direct d'une image dans une carte commentaire peut entraîner l'adjonction d'une balise. Ce problème est résolu.
 
 ### <a name="office-suite"></a>Suite Office
 - Lorsque vous utilisez des propriétés de type choix multiple/recherche/gestion des métadonnées avec des documents Word/Excel/PowerPoint et que vous enregistrez ceux-ci dans une bibliothèque de documents SharePoint, ces propriétés étaient auparavant limitées à 255 caractères. Lorsque ces propriétés dépassaient 255 caractères, de tels documents n’étaient pas enregistrés. Grâce à cette modification, cette limite a été augmentée sur 2 048 caractères.
@@ -2851,7 +2937,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="access"></a>Access
 
-- Cette mise à jour corrige un problème lors de l’utilisation d’un ADODB. L'objet enregistreur dans le code VB peut signaler une erreur de façon incorrecte.
+- Cette mise à jour corrige un problème lié à l’utilisation d’une base de données ActiveX Data Objects (ADODB). L’objet enregistreur en code VB peut signaler une erreur de manière incorrecte.
 
 - Cette mise à jour corrige un problème pouvant empêcher Microsoft Access d’identifier une colonne d’identité dans une table liée SQL Server, ce qui peut provoquer un signalement de lignes supprimées de manière incorrecte.
 
@@ -2893,6 +2979,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
@@ -2902,5 +2989,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

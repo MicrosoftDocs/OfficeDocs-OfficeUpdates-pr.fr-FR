@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
-ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
+ms.openlocfilehash: 81b0fd214752a3218809f860db9ad97f34d3ad0c
+ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51887317"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52058738"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -30,6 +30,37 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2104-april-26"></a>Version 2104 : 26 avril
+*Version 2104 (Build 13929.20254)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Activer les améliorations apportées aux calendriers partagés :** pour les calendriers partagés dans Office 365, Outlook peut mettre à jour ces calendriers à l’aide de l’API REST. Activez l’aperçu pour obtenir des mises à jour plus rapides et plus fiables sur les calendriers partagés.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème où certains fichiers ne s’ouvraient pas toujours en mode protégé.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui a entraîné le remplacement des préférences de boîte de réception Prioritaire configurées dans OWA.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2104-april-19"></a>Version 2104 : 19 mars
 *Version 2104 (build 13929.20216)*
@@ -1676,7 +1707,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème à l’origine de la lecture des en-têtes de messages chinois lors de la réponse ou du transfert.
+- Nous avons résolu un problème d’impossibilité de lecture des en-têtes de messages chinois lors d’une réponse ou d’un transfert.
 
 
 - Nous avons résolu un problème dans lequel les caractères chinois sont remplacés par des points d’interrogation lors de l’enregistrement sous la forme d’un fichier OFT.

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des notes de version des versions du canal mensuel de Microsoft 365 Apps
-ms.openlocfilehash: 392523dca2dd2f0c0078747e1d25a93b9d0a85b2
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 3148b1744d6df9108f2a8beda7ca7c6f160fb5fa
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026269"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079298"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -45,7 +45,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Correction d'un problème qui empêchait le chargement de certains compléments d'automatisation pour Excel.
+- Les modules d’automatisation pour Excel ne se chargent pas après l’installation de la mise à jour de sécurité d’avril 2021. Veuillez utiliser la solution de rechange fournie pour les utilisateurs qui ne se trouvent pas dans le canal actuel [En savoir plus](https://support.microsoft.com/fr-FR/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb). 
 
 
 ### <a name="outlook"></a>Outlook

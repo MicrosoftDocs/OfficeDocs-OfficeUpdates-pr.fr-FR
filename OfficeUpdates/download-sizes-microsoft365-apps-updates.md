@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995747"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091852"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -22,7 +22,7 @@ Dans la mesure du possible, notre objectif est de fournir à l’avance des info
 
 Les tableaux suivants indiquent la taille de téléchargement approximative lors de la mise à jour entre la version précédente de Microsoft 365 Apps et la version la plus récente. Les tailles de téléchargement réelles peuvent varier d’environ 50 Mo. Si vous effectuez la mise à jour d’une version antérieure à la version actuelle, votre téléchargement est susceptible d’être plus volumineux.
 
-Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour pourrait être beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum.
+Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) au canal semi-annuel, votre mise à jour sera beaucoup plus volumineuse que la taille indiquée dans le tableau. Cela pourrait entraîner un téléchargement complet, d’une taille de 1 Go minimum par exemple.
 
 
 > [!IMPORTANT]
@@ -35,6 +35,22 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="april-29-2021"></a>29 avril 2021
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU29 avril 2021)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2104 (Build 13929.20296).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2103 (build 13901.20462) <br/> |23 avril 2021 <br/> |167<br/> |
+|Version 2103 (build 13901.20400) <br/> |13 avril 2021 <br/> |167<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU29 avril 2021)
 
 ## <a name="april-23-2021"></a>23 avril 2021
 

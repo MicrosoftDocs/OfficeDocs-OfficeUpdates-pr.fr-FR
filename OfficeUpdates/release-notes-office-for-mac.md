@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: dc4b8459637d0e285d8b5b9e5f40fa3c49aabea2
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749192"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079288"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -67,6 +67,13 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 ### <a name="excel"></a>Excel
 
 - **Afficher plusieurs feuilles en même temps :** vous n’avez plus besoin d’afficher une feuille à la fois. Vous pouvez afficher plusieurs feuilles masquées à la fois. [En savoir plus](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="msteams"></a>MSTeams
+
+- **Affichage dynamique :** L’affichage dynamique optimise automatiquement le contenu partagé et les participants aux vidéos dans les réunions Teams. Les nouveaux contrôles vous permettent de personnaliser l’affichage en fonction de vos préférences et besoins, tels que la possibilité d’afficher du contenu partagé et des participants spécifiques côte-à-côte.
+
+- **Statut Absent(e) du bureau** : Configurez un message pour faire savoir que vous ne travaillez pas ou que vous êtes en congés, si bien que vous n’êtes pas disponible pour répondre lorsqu’ils vous envoient un message de conversation. Votre statut d’absence se synchronisera également avec les réponses automatiques dans votre calendrier Outlook.
 
 ### <a name="powerpoint"></a>PowerPoint
 
