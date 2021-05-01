@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 81b0fd214752a3218809f860db9ad97f34d3ad0c
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: 059b95f05ba9f91466dd02e56663f4c3e9631d7e
+ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058738"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52081227"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -30,6 +30,54 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2104-april-28"></a>Version 2104 : 28 avril
+*Version 2104 (Build 13929.20296)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Sélecteur d’emoji développé :** la mise à jour des emojis développée offre aux utilisateurs davantage de divertissement et d’expression dans Teams. Elle présente également un large éventail de diversité et de représentation. Le jeu d’emojis s’est développé de 85 à 800 emojis, avec un sélecteur de catégorie, un sélecteur de teint et un sélecteur de code court.
+
+- **Microsoft Teams : expérience Partage en réunion révisée :** l’interface utilisateur pour la fonctionnalité Partage en réunion dans Microsoft Teams a été reconçue pour permettre aux présentateurs de rechercher plus rapidement et facilement le contenu souhaité.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d'un problème qui empêchait le chargement de certains compléments d'automatisation pour Excel.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui provoquait des blocages pour les utilisateurs des paramètres d’itinérance.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème concernant les images liées.
+
+
+### <a name="project"></a>Project
+
+- Nous avons corrigé un problème qui empêchait les utilisateurs de supprimer des objets de la liste de ressources partagées.
+
+
+### <a name="word"></a>Word
+
+- Nous avons apporté des modifications sur l’édition de l’objet OLE.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2104-april-26"></a>Version 2104 : 26 avril
 *Version 2104 (Build 13929.20254)*
@@ -157,7 +205,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="word"></a>Word
 
-- Dans ce bogue, des stratégies spécifiques n’ont pas été respecter par Office (un groupe de modèles étaient affichés sur la page d’accueil alors qu’ils auraient dû être désactivés). Avec ce correctif, les stratégies sont respectées.
+- Dans ce bogue, des stratégies spécifiques n’ont pas été respecter par Office (un groupe de modèles étaient affichés sur la page d’accueil alors qu’ils auraient dû être désactivés). Grâce à ce correctif, les stratégies sont respectées.
 
 
 - Lors de la co-édition d’un document, le programme ne vide pas le brouillon actif de son contenu en cas de modification de l’ordre des commentaires.
@@ -1030,7 +1078,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Le problème s’est produit suite à une régression récente. Nous avons résolu le problème. La boîte de dialogue « Enregistrer en tant que page web » présente désormais les champs correctement renseignés, en fonction des entrées utilisateur, et les utilisateurs peuvent enregistrer leurs fichiers en toute transparence en tant que pages web.
 
 
-- Le problème a été corrigé. Vous pouvez désormais incorporer des fichiers Visio en tant qu’objets dans d’autres applications Office, telles que PowerPoint et Word, et y accéder en toute transparence à partir de ces applications.
+- Vous pouvez désormais incorporer des fichiers Visio en tant qu’objets dans d’autres applications Office, telles que PowerPoint et Word, et y accéder en toute transparence à partir de ces applications.
 
 
 ### <a name="word"></a>Word
@@ -1707,7 +1755,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème d’impossibilité de lecture des en-têtes de messages chinois lors d’une réponse ou d’un transfert.
+- Nous avons résolu un problème à l’origine de la lecture des en-têtes de messages chinois lors de la réponse ou du transfert.
 
 
 - Nous avons résolu un problème dans lequel les caractères chinois sont remplacés par des points d’interrogation lors de l’enregistrement sous la forme d’un fichier OFT.
@@ -2099,7 +2147,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Correction d’un blocage lié aux plages nommées et aux références de complément XLAM.
 
 
-- Nous avons résolu un problème qui faisait que lorsqu’un utilisateur appliquait un style personnalisé à un tableau dynamique, il obtenait l’erreur suivante : « Vous ne pouvez pas modifier une partie de matrice. ». Il s’agissait d’une restriction héritée qui a été supprimée.
+- Nous avons résolu un problème qui faisait que lorsqu’un utilisateur appliquait un style personnalisé à un tableau dynamique, il obtenait l’erreur suivante : « Vous ne pouvez pas modifier une partie de tableau. ». Il s’agissait d’une restriction héritée qui a été supprimée.
 
 
 - Correction d’un problème à cause duquel les macros affectées à des boutons ont été rompues après la restauration d’une version antérieure du fichier.
@@ -2643,7 +2691,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 - Nous avons résolu un problème qui empêchait les délégués de recevoir une erreur lors de la modification d’un rendez-vous existant dans le calendrier d’un responsable.
 
 
-- Nous avons résolu un problème à l’origine de l’erreur qui s’est produite lors de la fermeture d’un rendez-vous qui a été enregistré précédemment «l’élément ne peut pas être enregistré parce qu’il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous effectuer une copie dans le dossier par défaut de l’élément ?»
+- Nous avons résolu un problème à l’origine de l’erreur qui s’est produite lors de la fermeture d’un rendez-vous qui a été enregistré précédemment « L’élément ne peut pas être enregistré parce qu’il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous faire une copie dans le dossier par défaut pour l’élément ? »
 
 
 - Correction d'un problème qui entraînait l'absence de l'option « Autoriser le transfert » dans les réunions du calendrier partagé « Options de réponse » lorsque l'option « Télécharger le dossier partagé » n'a PAS été activée.
@@ -2820,7 +2868,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="access"></a>Access
 
-- Ce problème est désormais résolu. Veuillez le faire savoir à l’équipe si vous rencontrez d’autres problèmes dans le cadre de ce processus.
+- Veuillez le faire savoir à l’équipe si vous rencontrez d’autres problèmes dans le cadre de ce processus.
 
 
 ### <a name="outlook"></a>Outlook
@@ -3119,7 +3167,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="office-suite"></a>Suite Office
 
-- L’hôte Office a cessé de fonctionner dans Windows, lorsqu’un complément est activé alors que la clé de Registre HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth est définie sur zéro. Cette modification peut résoudre ce problème.
+- L’hôte Office a cessé de fonctionner dans Windows, lorsqu’un complément est activé alors que la clé de Registre HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth est définie sur zéro.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -3278,7 +3326,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - L’activation de l’option « Afficher les signets » n’affichait pas les signets. Ce problème a été résolu.
 
-- Résolution d’un problème qui avait pour effet que la fermeture d’un document contenant des brouillons de commentaires entraînait l’affichage d’une invite demandant à l’utilisateur s’il voulait fermer le document sans enregistrer les brouillons de commentaires. L’annulation de l’invite avait pour effet de fermer le document au lieu de le laisser ouvert.
+- Résolution d’un problème qui avait pour effet que la fermeture d’un document contenant des brouillons de commentaires entraînait l’affichage d’une invite demandant à l’utilisateur s’il voulait fermer le document sans enregistrer les brouillons de commentaires. L’annulation de l’invite fermera le document au lieu de le laisser ouvert.
 
 - Nous avons résolu un problème lors du copier-coller des titres.
 
@@ -3286,7 +3334,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Cette modification résout un problème dans lequel le texte contenant des liens hypertexte risquait de ne pas s’afficher lorsque l’option « Afficher les codes de champ plutôt que leurs valeurs » était activée.
 
-- Dans l’affichage web ou le lecteur immersif, cliquer sur un conseil entraînait le défilement de la page vers le haut, même si le conseil était déjà visible. Ce problème a été résolu.
+- Dans l’affichage web ou le lecteur immersif, cliquer sur un conseil entraînait le défilement de la page vers le haut, même si le conseil était déjà visible. Ce problème est résolu.
 
 - Nous avons résolu un problème qui avait pour effet que, lors de la tentative d’enregistrement d’un fichier contenant une macro sous un nouveau nom, le fichier était enregistré sous le nom WRO0004.docx, quel que soit son auteur, rendant le document inutilisable.
 
@@ -3319,7 +3367,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.  [En savoir plus](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents deviennent plus élégants. [En savoir plus](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -3860,7 +3908,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="visio"></a>Visio
 
-- Le volet Informations sur la forme affichait dans la section Données de forme des informations non cohérentes avec le contenu affiché par le fichier lorsque celui-ci était ouvert dans la version de bureau de Visio. Ce problème a été résolu.
+- Le volet Informations sur la forme affichait dans la section Données de forme des informations non cohérentes avec le contenu affiché par le fichier lorsque celui-ci était ouvert dans la version de bureau de Visio. Ce problème est maintenant résolu.
 
 - Les images bitmap importées dans les versions antérieures à la version 2016 n’apparaissaient pas suite à certains contrôles de sécurité. Nous avons résolu ce problème dans l’abonnement Visio.
 
@@ -3872,7 +3920,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
 
-- Lors d'une session de collaboration sur un document actif, l'ajout direct d'une image dans une carte commentaire peut entraîner l'adjonction d'une balise. Le problème a été corrigé.
+- Lors d'une session de collaboration sur un document actif, l'ajout direct d'une image dans une carte commentaire peut entraîner l'adjonction d'une balise. Ce problème est résolu.
 
 - L’insertion d’un contrôle (par exemple, un contrôle de contenu de texte) dans une équation, puis l’enregistrement et l’ouverture du fichier généraient une erreur de contenu non lisible.
 
@@ -4025,7 +4073,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Les modèles Access cessent de provoquer l’échec des colonnes de pièces jointes dans une base de données. Une fois un modèle instancié, vous pouvez désormais ajouter un champ Pièce jointe à votre base de données.
 
-- Cette mise à jour corrige un problème lors de l’utilisation d’un ADODB. L'objet enregistreur dans le code VB peut signaler une erreur de façon incorrecte.
+- Cette mise à jour corrige un problème lié à l’utilisation d’une base de données ActiveX Data Objects (ADODB). L’objet enregistreur en code VB peut signaler une erreur de manière incorrecte.
 
 - Cette mise à jour corrige un problème pouvant empêcher Microsoft Access d’identifier une colonne d’identité dans une table liée SQL Server, ce qui peut provoquer un signalement de lignes supprimées de manière incorrecte.
 
