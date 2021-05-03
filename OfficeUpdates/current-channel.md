@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des notes de version des versions du canal mensuel de Microsoft 365 Apps
-ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: fr-FR
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091793"
+ms.locfileid: "52108216"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -51,7 +51,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 - **Affichage dynamique :** L’affichage dynamique optimise automatiquement le contenu partagé et les participants aux vidéos dans les réunions Teams. Les nouveaux contrôles vous permettent de personnaliser l’affichage en fonction de vos préférences et besoins, tels que la possibilité d’afficher du contenu partagé et des participants spécifiques côte-à-côte.
 
-- **Statut Absent(e) du bureau** : Configurez un message pour faire savoir que vous ne travaillez pas ou que vous êtes en congés, si bien que vous n’êtes pas disponible pour répondre lorsqu’ils vous envoient un message de conversation. Votre statut d’absence se synchronisera également avec les Réponses automatiques dans votre calendrier Outlook.
+- **Statut Absent(e) du bureau** : Configurez un message pour faire savoir que vous ne travaillez pas ou que vous êtes en congés, si bien que vous n’êtes pas disponible pour répondre lorsqu’ils vous envoient un message de conversation. Votre statut d’absence se synchronisera également avec les réponses automatiques dans votre calendrier Outlook.
 
 ### <a name="visio"></a>Visio
 
@@ -111,7 +111,7 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème de mises à jour de texte sur la légende d’enregistrement automatique pour les fichiers enregistrés localement.
+- Nous avons résolu un problème relatif au texte de mises à jour sur la légende d’enregistrement automatique pour les fichiers enregistrés sur site.
 
 
 - Nous avons résolu un problème avec certaines sélections de textes non visibles lorsque vous utilisez un mode sombre en mode lecture.
