@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: ed59e962bd4767dbded3801ec18c4c329a4cb1b3
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091852"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264752"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE DÉBUT DU CONTENU)
+
+## <a name="may-6-2021"></a>6 mai 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Entreprise mensuel
+
+<i>La version prévue est la version 2103 (build 13901.20506).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2102 (Build 13801.20506) <br/> |13 avril 2021 <br/> |137<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Entreprise semi-annuel (aperçu)
+
+<i>La version prévue est la version 2102 (build 13801.20626).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2102 (Build 13801.20506) <br/> |13 avril 2021 <br/> |45<br/> |
+|Version 2102 (Build 13801.20294) <br/> |9 mars 2021 <br/> |72<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Entreprise semi-annuel
+
+<i>La version prévue est la version 2008 (build 13127.21614).</i>
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.21506) <br/> |13 avril 2021 <br/> |55<br/> |
+|Version 2008 (build 13127.21348) <br/> |9 mars 2021 <br/> |61<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA PRÉVISION DE FIN DU CONTENU)
 
 ## <a name="april-29-2021"></a>29 avril 2021
 

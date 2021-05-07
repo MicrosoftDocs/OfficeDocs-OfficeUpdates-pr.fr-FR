@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider rapide pour ordinateur de bureau Windows
-ms.openlocfilehash: 6079dae053bd17e46381a456ed4793df98b93194
-ms.sourcegitcommit: d6bf34f5a6630f91967f1b3355eba006ecc8fdde
+ms.openlocfilehash: bb76a9d7bea20fc325b2913c83a6e3d9084e2c57
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52077394"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236904"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historique des mises à jour pour le canal bêta d’Office
 
@@ -31,12 +31,15 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versions et builds du canal bêta d’Office
 
-Si vous êtes inscrit au programme Insider, vous recevez fréquemment des mises à jour offrant de nouvelles fonctionnalités et améliorations. La liste suivante énumère les versions et builds du canal bêta, **du plus récent au plus ancien**. Les nouvelles builds incluent toutes les mises à jour contenues dans les builds précédentes.
+Si vous êtes inscrit au niveau Insider, vous recevez des mises à jour fréquentes avec de nouvelles fonctionnalités et des améliorations. La liste suivante affiche un historique des derniers builds et versions du Canal Bêta, avec **le dernier build publié en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents.
 
 Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de publication Insider concernant Office pour ordinateur de bureau Windows](./beta-channel.md).
 
 
 [//]: # (NE PAS SUPPRIMER)
+
+**4 mai 2021**<br/>
+Version 2106 (Build 14029.20000)<br/>
 
 **28 avril 2021**<br/>
 Version 2105 (Build 14026.20000)<br/>
