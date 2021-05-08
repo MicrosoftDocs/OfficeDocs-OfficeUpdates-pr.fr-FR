@@ -9,20 +9,21 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique une liste complète des versions de Microsoft 365 Apps, organisées par date, avec des liens vers les notes de publication
-ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: 0a42b5bc49ae042c9ea6c656e1f0f79c577b4a6f
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091823"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264742"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)
 
 Ces numéros de version et de build s’appliquent à Microsoft 365 Apps for enterprise, Microsoft 365 Apps for business et aux versions avec abonnement des applications de bureau pour Project et Visio.
 
 > [!IMPORTANT]
-> - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
-> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](/deployoffice/name-change). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
+> - Nous apportons des modifications aux canaux de mise à jour pour Microsoft 365 Apps, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants.  Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004.  Pour en savoir plus, [lisez cet article](/deployoffice/name-change).  Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
+
 
 > [!NOTE]
 > - Le tableau est classé par date de publication, la publication la plus récente apparaissant en premier.

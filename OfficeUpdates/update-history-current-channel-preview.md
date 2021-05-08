@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: ff7bb864ac52a6d5b0adde4f8f80cb296645aabf
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 006da8254a332b54fd0cbe875dccf6a7d630ed87
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278091"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236964"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour le canal actuel d’Office (Preview) pour Windows
 
@@ -22,7 +22,12 @@ Bonjour, chers participants au programme Insider ! Si vous vous demandez si vou
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versions et builds du canal actuel Office actuel (Preview)
 
-Si vous êtes inscrit au niveau Canal actuel (préversion), anciennement appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds ultérieurs contenant d’importants correctifs ou mises à jour de sécurité. La liste suivante indique les derniers versions et builds Canal actuel (préversion), avec **le dernier build publié qui apparaît en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents. Pour rechercher les notes de publication, [consultez](./current-channel-preview.md). De plus, vous pouvez consulter la rubrique [Nouveautés pour les participants au programme Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Si vous êtes inscrit au niveau Canal actuel (préversion), anciennement appelé Insider Slow, vous obtenez une nouvelle mise à jour des fonctionnalités d’Office environ une fois par mois, ainsi que les builds ultérieurs contenant d’importants correctifs ou mises à jour de sécurité. La liste suivante indique les derniers versions et builds Canal actuel (préversion), avec **le dernier build publié qui apparaît en premier**. Les nouveaux builds incluent toutes les mises à jour contenues dans les builds précédents. Pour rechercher les notes de publication, [consultez](./current-channel-preview.md). De plus, vous pouvez consulter la rubrique [Nouveautés pour les participants au programme Office Insider](https://insider.office.com/fr-FR/releasenotes/windows/slow).
+
+
+> [!IMPORTANT]
+> - Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus est renommé Applications Microsoft 365 pour les grandes entreprises, à partir de la version 2004. Pour en savoir plus, [lisez cet article](/deployoffice/name-change). Dans notre documentation, nous l’appelons habituellement Applications Microsoft 365, tout simplement.
 
 > [!NOTE]
 > - L’historique de mise à jour ici répertorie tous les builds publiés
