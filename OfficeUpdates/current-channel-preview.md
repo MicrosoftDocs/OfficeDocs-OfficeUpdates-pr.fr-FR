@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 059b95f05ba9f91466dd02e56663f4c3e9631d7e
-ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
+ms.openlocfilehash: fdb00cda7c1eb30a470843c4637e8cae1828d7f3
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52081227"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236954"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -30,6 +30,160 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2105-may-03"></a>Version 2105 : 03 mai
+*Version 2105 (build 14026.20052)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Mettre en évidence plusieurs utilisateurs simultanément dans une réunion :** organisateurs et présentateurs peuvent désormais mettre en évidencer plusieurs participants simultanément pendant les réunions. La scène de la réunion mettra en évidence ces participants, avec leurs vidéos ou avatars, pour tous les participants à la réunion.
+
+- **Présenter de PowerPoint à Teams :** présenter vos diapositives directement à partir de l’application PowerPoint dans une réunion d’équipes via PowerPoint Live.
+
+- **Nouvelle expérience de gestion des balises et autres améliorations :** les balises dans Teams permettent aux utilisateurs d'atteindre rapidement un groupe de personnes sans avoir à @mentionner ou à taper le nom de chacun. L'expérience de gestion des balises est désormais un onglet. Les balises disposent également d'un champ de description qui vous permet d'ajouter des détails à une balise. Le nouvel onglet Balises sera la page d’accueil des notifications de balise et recherche des balises, qui sera également prochainement disponible.
+
+- **Haut-parleurs intelligents :** les haut-parleurs intelligents sont des périphériques intelligents pour les Salles Microsoft Teams sur Windows. Ils apporteront aux participants de la salle de réunion la transcription des attributions des haut-parleurs, ce qui permettra aux participants de passer moins de temps à prendre des notes et de suivre facilement qui a dit quoi dans la salle.
+
+- **Modification de notification par défaut en mode natif à partir des équipes violet pour les nouveaux utilisateurs : les notifications natives offrent un grand nombre d’avantages tels que la prise en charge du centre de notifications, l’accessibilité et la prise en charge du mode d’assistance au focus etc. Le style de notification par défaut pour un nouvel utilisateur dans Microsoft Teams est Teams Violet.** Avec cette modification, la notification par défaut du nouvel utilisateur passe à la notification native.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui entraînait une fermeture inattendue d’Excel lors de l’utilisation de la mise à jour 32 bits d’Office sur Windows 64 bits.
+
+
+- Nous avons résolu un problème qui provoquait la fermeture inattendue d’Excel lors du passage des commentaires dans le volet Commentaires.
+
+
+- Correction d'un problème qui empêchait le chargement de certains compléments d'automatisation pour Excel.
+
+
+- Correction d’un problème à cause duquel Narrateur lisait de manière incorrecte des propriétés de deux boutons sous l’onglet En-tête/Pied de page dans la boîte de dialogue Mise en page.
+
+
+- Nous avons résolu un problème qui causait la fermeture de certains livres liés dans d’autres applications Office sans enregistrer les modifications lors de l’exécution du lien de mise à jour.
+
+
+- Correction d’un problème pour lequel lecomplément Analysis ToolPak ne fonctionne pas pour certains utilisateurs.
+
+
+- Nous avons résolu un problème où certains fichiers ne s’ouvraient pas toujours en mode protégé.
+
+
+- Nous avons résolu un problème qui causait un affichage incorrect de la mise en forme des dates dans certaines langues lors de l’utilisation des modules linguistiques.
+
+
+- Nous avons résolu un problème : la barre d’état n’indiquait pas l’état Prêt pour certains utilisateurs.
+
+
+- Nous avons apporté une modification pour permettre au Gestionnaire de noms s’ouvrir dans les livres avec un grand nombre de noms masqués.
+
+
+- Nous avons résolu un problème de prise en charge de la compatibilité descendante avec les versions antérieures d’Excel. Ce problème peut empêcher un fichier enregistré dans une version plus récente d’Excel de se charger dans les versions antérieures d’Excel suite à l’ajout de fonctions comme IFERROR et XLOOKUP à Excel depuis Office 2007.
+
+
+- Nous avons résolu un problème qui pouvait entraîner la fermeture inattendue d'Excel lors de l'utilisation de la fonction Coller spécial avec des formats dans certaines situations.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui a entraîné le remplacement des préférences de boîte de réception Prioritaire configurées dans OWA.
+
+
+- Nous avons résolu un problème qui provoquait des blocages pour les utilisateurs des paramètres d’itinérance.
+
+
+- Nous avons résolu un problème qui provoque la désactivation de la résolution des noms lors de l’envoi au nom d’un autre utilisateur et de la résolution à l’aide d’un carnet d’adresses qui n’est pas la liste d’adresses globale.
+
+
+- Nous avons résolu un problème qui causait à certains utilisateurs de la fonctionnalité d’amélioration du partage de calendrier des problèmes d’interaction avec leur calendrier dans le volet de navigation.
+
+
+- Nous avons résolu un problème pour lequel l’utilisation du mode Contraste élevé pendant de longues périodes entraînerait la fermeture inattendue d’Outlook.
+
+
+- Nous avons résolu un problème : les liens hypertexte, y compris les chiffres, étaient désactivés lors de la rédaction d’un message dans Outlook dans une langue s’écrivant de droite à gauche.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d’un problème concernant les images liées.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème pour lequel les modifications apportées via les Assistants Planification n’étaient pas toujours capturées par les événements de modification.
+
+
+- Nous avons résolu un problème qui empêchait les utilisateurs de supprimer des objets de la liste de ressources partagées.
+
+
+### <a name="visio"></a>Visio
+
+- Nous avons résolu un problème qui causait la fermeture inattendue de Visio suite à la build récente.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème pour lequel la mise en forme du texte restait après la suppression des liens hypertexte.
+
+
+- Nous avons résolu un problème : le texte de l’espace réservé n’apparaissait plus dans les commentaires lors de l’utilisation de langues s’écrivant de droite à gauche.
+
+
+- Nous avons résolu un problème pour lequel les commentaires n’étaient pas affichés après filtrage par les personnes.
+
+
+- Nous avons résolu un problème pour lequel Word ne pouvait pas effectuer de fusion et publipostage avec une base de données Access.
+
+
+- Nous avons résolu un problème qui contenait la possibilité de réduire les marges dans un document contenant plusieurs colonnes.
+
+
+- Nous avons résolu un problème pour lequel certains caractères ne s’affichent pas correctement dans les cellules du tableau lorsque le document contient des commentaires.
+
+
+- Nous avons résolu un problème pour lequel les modifications de format de fichier s’étaient produites lors de l’enregistrement de documents avec le ajouter AIP activé.
+
+
+- Nous avons résolu un problème pour lequel Word ne répondait plus lors de la modification des champs.
+
+
+- Nous avons résolu un problème pour lequel l’étiquette de critère de critère de sécurité disparaît d’un fichier dans Word après son chargement vers SharePoint Online.
+
+
+- Nous avons résolu un problème pour lequel les utilisateurs ne étaient pas invités à enregistrer des documents lors de l’utilisation d’une commande (plutôt que du raccourci clavier Ctrl+S).
+
+
+- Corrige un problème pouvant entraîner la fermeture inattendue de Word lors d'une fermeture due à la fermeture de la session ou au redémarrage de l'ordinateur par l'utilisateur.
+
+
+- Nous avons résolu un problème pour lequel la mise en forme du texte restait après la suppression des liens hypertexte.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème qui causait une erreur d’alignée du bouton Dictée lors de l’ajout de commentaires à un document.
+
+
+- Correction d'un problème lors de l'analyse d'une chaîne pour le traitement des emoji qui entraînait la fermeture inattendue de l'application lors de la lecture en dehors des limites d'un tableau.
+
+
+- Nous avons résolu un problème de rendu incorrect de certains graphiques vectoriels évolutif (SVG).
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2104-april-28"></a>Version 2104 : 28 avril
 *Version 2104 (Build 13929.20296)*
