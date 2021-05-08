@@ -9,19 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: fdb00cda7c1eb30a470843c4637e8cae1828d7f3
-ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
+ms.openlocfilehash: 1b6f0758a770724411cd1a50cbf8aa25a65447d1
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52236954"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278061"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
 Cet article contient les notes de publication relatives aux versions Canal actuel (préversion) de Word, Excel, PowerPoint, Outlook, Access, Project et Teams sur ordinateur de bureau Windows. Chaque semaine, nous mettrons en avant les nouvelles fonctionnalités intéressantes, les correctifs majeurs et les éventuels problèmes importants dont nous tenons à vous informer. Notez que nous déployons régulièrement des fonctionnalités (et parfois même des correctifs) via le Canal actuel (Preview) sur une période donnée. Cela nous permet de nous assurer que tout fonctionne correctement avant de publier les fonctionnalités à un public plus large. Par conséquent, si vous ne voyez pas un élément mentionné ci-dessous, ne vous inquiétez pas, vous finirez par l’avoir.  
 
-> [!IMPORTANT]
-> Nous apportons des modifications aux canaux de mise à jour pour les applications Microsoft 365, y compris l’ajout d’un nouveau canal de mise à jour (canal entreprise mensuelle) et la modification des noms des canaux de mise à jour existants. Pour en savoir plus, [lisez cet article](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
@@ -1677,7 +1675,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2578,7 +2576,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -3665,7 +3663,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
