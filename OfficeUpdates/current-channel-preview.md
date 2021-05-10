@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 1b6f0758a770724411cd1a50cbf8aa25a65447d1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
+ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278061"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52285975"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,47 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2105-may-07"></a>Version 2105 : 07 mai
+*Version 2105 (build 14026.20138)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Présentation des dispositions des réunions Teams :** vous pouvez à présent apparaître au-dessus du contenu pour une présentation et une utilisation plus immersives.
+
+- **Désactiver la caméra pour des participants spécifiques : :** Les organisateurs et les présentateurs de réunions peuvent désactiver les caméras de participants spécifiques dans une réunion Teams pour veiller à ce qu’ils ne partagent pas la vidéo pendant la réunion.
+
+- **Désactiver la caméra pour tous les participants : :** Les organisateurs et les présentateurs de réunions peuvent désactiver les caméras de tous les participants dans une réunion Teams pour veiller à ce qu’ils ne partagent pas la vidéo pendant la réunion.
+
+- **Les utilisateurs anonymes peuvent effectuer des présentations :** Lors de l’hébergement d’un événement en direct Teams, nous avons ajouté la possibilité, pour les utilisateurs anonymes, de rejoindre un événement en direct pour pouvoir également effectuer des présentations pendant l’événement.
+
+- **Gérer les balises dans Teams par programme. Les API de balises Microsoft Teams sont à présent en préversion publique :** Cet ensemble d’API permet d’attribuer par programme des balises aux utilisateurs d’une équipe, ce qui accélère et facilite la création et la maintenance des balises.  Les balises dans Teams permettent aux utilisateurs d’atteindre rapidement un groupe de personnes sans avoir à mentionner (@mention) ou à entrer le nom de chaque personne. Si vous souhaitez en savoir plus sur les balises dans Teams, veuillez consulter la section Utiliser les balises dans Teams. À l’aide de ces nouvelles API, les développeurs peuvent à présent créer des balises dans une équipe, puis affecter aux utilisateurs une liste de balises dans une équipe. Mettre à jour des balises Supprimer des balises.
+
+- **Présenter des diapos de PowerPoint dans Teams :** présentez vos diapositives directement de l’application PowerPoint dans une réunion Teams via PowerPoint Live.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="word"></a>Word
+
+- Corrige un problème : le volet Éditeur ne s’ouvre pas.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- RelNotesNotNeeded
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2105-may-03"></a>Version 2105 : 03 mai
 *Version 2105 (build 14026.20052)*
@@ -1675,7 +1716,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2576,7 +2617,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -3663,7 +3704,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
