@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Recherchez et gérez les mises à jour pour SharePoint Server 2016, SharePoint 2013 et SharePoint 2010 au même endroit. Utilisez les liens figurant sur cette page pour obtenir plus d’informations sur les mises à jour et les télécharger.
-ms.openlocfilehash: b24c83f4b23e217a6c01aa31ed66556d4f5a78ee
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: bdc40f8690529b2f70ac1f934c006d4458132b21
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748882"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322314"
 ---
 # <a name="sharepoint-updates"></a>Mises à jour de SharePoint
 
@@ -36,16 +36,17 @@ Pour connaître les dernières mises à jour de SharePoint Online et de Microsof
 
 |**Nom du package**|**Numéro KB**|**Version**|**Date de sortie**|
 |:-----|:-----|:-----|:-----|
-|SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4504716](https://support.microsoft.com/help/4504716)<br/>[KB 4504715](https://support.microsoft.com/help/4504715)<br/>|16.0.10373.20000|Avril 2021|
+|SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 5001916](https://support.microsoft.com/help/5001916)<br/>[KB 5001915](https://support.microsoft.com/help/5001915)<br/>|16.0.10374.20000|Mai 2021|
+|SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4504716](https://support.microsoft.com/help/4504716)<br/>[KB 4504715](https://support.microsoft.com/help/4504715)<br/>|16.0.10373.20000|Avril 2021|
 |SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4493230](https://support.microsoft.com/help/4493230)<br/>[KB 4493231](https://support.microsoft.com/help/4493231)<br/>|16.0.10372.20060|Mars 2021|
 |SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4493194](https://support.microsoft.com/help/4493194)<br/>[KB 4493193](https://support.microsoft.com/help/4493193)<br/>|16.0.10371.20043|Février 2021|
 |SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4493162](https://support.microsoft.com/help/4493162)<br/>[KB 4493161](https://support.microsoft.com/help/4493161)<br/>|16.0.10370.20001|Janvier 2021|
 |SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4486751](https://support.microsoft.com/help/4486751)<br/>[KB 4486752](https://support.microsoft.com/help/4486752)<br/>|16.0.10369.20000|Décembre 2020|
-|SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4486714 ](https://support.microsoft.com/help/4486714)<br/>[KB 4486715](https://support.microsoft.com/help/4486715)<br/>|16.0.10368.20022|Novembre 2020|
-|SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4486676](https://support.microsoft.com/help/4486676)<br/>[KB 4486675](https://support.microsoft.com/help/4486675)<br/>|16.0.10367.20000|Octobre 2020|
+|SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4486714 ](https://support.microsoft.com/help/4486714)<br/>[KB 4486715](https://support.microsoft.com/help/4486715)<br/>|16.0.10368.20022|Novembre 2020|
+|SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4486676](https://support.microsoft.com/help/4486676)<br/>[KB 4486675](https://support.microsoft.com/help/4486675)<br/>|16.0.10367.20000|Octobre 2020|
 |SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4484505](https://support.microsoft.com/help/4484505)<br/>[KB 4484504](https://support.microsoft.com/help/4484504)<br/>|16.0.10366.12106|Septembre 2020|
-|SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[KB 4484472](https://support.microsoft.com/help/4484472) <br/>[KB 4484471](https://support.microsoft.com/help/4484471) <br/>|16.0.10364.20001| Août 2020 <br/>|
-|SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[KB 4484453](https://support.microsoft.com/help/4484453) <br/> [KB 4484452](https://support.microsoft.com/help/4484452) <br/> |16.0.10363.12107|Juillet 2020  <br/> |
+|SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[KB 4484472](https://support.microsoft.com/help/4484472) <br/>[KB 4484471](https://support.microsoft.com/help/4484471) <br/>|16.0.10364.20001| Août 2020 <br/>|
+|SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[KB 4484453](https://support.microsoft.com/help/4484453) <br/> [KB 4484452](https://support.microsoft.com/help/4484452) <br/> |16.0.10363.12107|Juillet 2020  <br/> |
 |SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[KB 4484400](https://support.microsoft.com/help/4484400) <br/> [KB 4484404](https://support.microsoft.com/help/4484404) <br/> |16.0.10361.12114|Juin 2020  <br/> |
 |SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[KB 4484332](https://support.microsoft.com/help/4484332) <br/> [KB 4484331](https://support.microsoft.com/help/4484331) <br/> |16.0.10359.20000|Mai 2020  <br/> |
 |SharePoint Server 2019  <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/> |[KB 4484292](https://support.microsoft.com/help/4484292) <br/> [KB 4484291](https://support.microsoft.com/help/4484291) <br/> |16.0.10358.20000|Avril 2020  <br/> |
@@ -73,6 +74,7 @@ Pour connaître les dernières mises à jour de SharePoint Online et de Microsof
 
 |**Nom du package**|**Numéro KB**|**Version**|**Date de sortie**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>|[KB 5001917](https://support.microsoft.com/help/5001917) <br/>|16.0.5161.1000 <br/>|Mai 2021|
 |SharePoint Server 2016  <br/>Correctif langue/interface utilisateur multilingue de SharePoint Server 2016  <br/> |[KB 4504719](https://support.microsoft.com/help/4504719) <br/>[KB 4504723](https://support.microsoft.com/help/4504723) <br/>|16.0.5149.1000 <br/>|Avril 2021|
 |SharePoint Server 2016  <br/>Correctif langue/interface utilisateur multilingue de SharePoint Server 2016  <br/> |[KB 4493232](https://support.microsoft.com/help/4493232) <br/>[KB 4493199](https://support.microsoft.com/help/4493199) <br/>|16.0.5134.1001 <br/>|Mars 2021|
 |SharePoint Server 2016  <br/> |[KB 4493195](https://support.microsoft.com/help/4493195) <br/> |16.0.5122.1000 <br/>|Février 2021|
@@ -149,6 +151,7 @@ Les packages suivants sont fournis pour les mises à jour cumulatives :
     
 |**Nom du package**|**Numéro KB**|**Version**|**Date de sortie**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001929](https://support.microsoft.com/help/5001929) <br/>[KB 5001933](https://support.microsoft.com/help/5001933) <br/>|15.0.5345.1000|Mai 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4504730](https://support.microsoft.com/help/4504730) <br/>[KB 4504732](https://support.microsoft.com/help/4504732) <br/>|15.0.5337.1000|Avril 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4493235](https://support.microsoft.com/help/4493235) <br/>[KB 4493237](https://support.microsoft.com/help/4493237) <br/>|15.0.5327.1001|Mars 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4493205](https://support.microsoft.com/help/4493205) <br/>[KB 4493209](https://support.microsoft.com/help/4493209) <br/>|15.0.5319.1000|Février 2021|

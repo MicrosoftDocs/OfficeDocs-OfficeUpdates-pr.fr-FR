@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des notes de version des versions du canal mensuel de Microsoft 365 Apps
-ms.openlocfilehash: c80fc6be7ba427eb11cc1e141d44e12ed30cdb2c
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52277911"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322444"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -29,6 +29,55 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2104-may-11"></a>Version 2104 : 11 mai
+*Version 2104 (Build 13929.20372)*
+
+Mises à jour de sécurité répertoriées [ici](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d'un problème où le retour en arrière d'une version majeure pouvait entraîner des arrêts de travail lors de l'ouverture d'un fichier.
+
+
+- Correction d'un problème pour lequel le complément Analysis ToolPak ne fonctionnait pas pour certains utilisateurs.
+
+
+- Nous avons corrigé un problème qui entraînait l'affichage incorrect du formatage de la date dans certaines langues lors de l'utilisation de compléments.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui causait à certains utilisateurs de la fonctionnalité d’amélioration du partage de calendrier des problèmes d’interaction avec leur calendrier dans le volet de navigation.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d'un problème où le retour en arrière d'une version majeure pouvait entraîner des arrêts de travail lors de l'ouverture d'un fichier.
+
+
+- Correction d'un problème où l'option Réutiliser les diapositives n'était pas disponible pour quelques utilisateurs.
+
+
+### <a name="word"></a>Word
+
+- Correction d'un problème où le retour en arrière d'une version majeure pouvait entraîner des arrêts de travail lors de l'ouverture d'un fichier.
+
+
+- Corrige un problème pouvant entraîner la fermeture inattendue de Word lors d'une fermeture due à la fermeture de la session ou au redémarrage de l'ordinateur par l'utilisateur.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Cette modification analyse le nouvel attribut TenantId envoyé dans les réponses Cobalt et le stocke dans la table centrale.
 
 
 
@@ -746,6 +795,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
@@ -755,5 +805,4 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

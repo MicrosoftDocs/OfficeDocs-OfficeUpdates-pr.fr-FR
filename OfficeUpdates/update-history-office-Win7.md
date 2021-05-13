@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux clients des notes de publication pour l’historique des mises à jour pour les Applications Microsoft 365 pour Windows 7
-ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749132"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330451"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Historique des mises à jour pour les Applications Microsoft 365 sur Windows 7 
 
@@ -26,7 +26,7 @@ ms.locfileid: "51749132"
 
 La version 2002 est la dernière version de Microsoft 365 Apps disponible pour les appareils exécutant Windows 7. La version 2002 est disponible dans tous les canaux de mise à jour pour Microsoft 365 Apps.
 
-Les versions sur canal Entreprise semestriel sont généralement disponibles pour 14 mois seulement. Mais, nous créons une exception pour la version 2002 uniquement pour l’aligner sur la durée de disponibilité des mises à jour de sécurité étendues (ESU) pour Windows 7.
+Les versions du canal semi-annuel pour entreprises ne sont généralement disponibles que pendant 14 mois. Mais nous faisons une exception pour la version 2002 afin de nous aligner sur la durée de disponibilité des mises à jour de sécurité étendues (ESU) pour Windows 7.
 
 Cette extension de la disponibilité de la version 2002 s’applique également à d’autres canaux de mise à jour, tels que le canal actuel, mais uniquement aux appareils exécutant Windows 7.
 
@@ -38,6 +38,9 @@ Si vous gérez les mises à jour à l’aide de Microsoft Endpoint Configuration
 ## <a name="update-history"></a>Historique des mises à jour
 
 [//]: # (NE PAS SUPPRIMER)
+
+**11 mai 2021**<br/>
+Version 2002 (Build 12527.21912)<br/>
 
 **13 avril 2021**<br/>
 Version 2002 (build 12527.21814)<br/>
