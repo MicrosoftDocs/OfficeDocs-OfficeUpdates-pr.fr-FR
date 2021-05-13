@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
-ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
+ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285975"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470768"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,36 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2105-may-12"></a>Version 2105 : 12 mai
+*Version 2105 (build 14026.20164)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Paramètre de préférence utilisateur pour ouvrir les fichiers par défaut dans le Bureau (ou) le Navigateur (ou) Teams :** les utilisateurs peuvent définir leur préférence par défaut en tant sur Navigateur, Bureau ou Teams lors de l’ouverture de fichiers Office (Word, Excel et Power Point) partagés dans Teams. Le paramètre Bureau peut être sélectionné si les derniers clients Office sont installés et activés
+
+- **Mode Reporter et Side-by-Side dans les réunions Teams :** Vous pouvez désormais apparaître à côté de votre contenu pour une présentation et une expérience de consommation plus intéressantes
+
+- **Disponibilité générale des fonctionnalités du webinaire Teams :** Planifiez et diffusez des webinaires pour 1 000 personnes avec la même application Teams que vous utilisez pour les réunions. Les fonctionnalités de webinaire prennent en charge la création de pages d’inscription, la confirmation par e-mail pour les inscrits, la gestion des hôtes pour la vidéo et l’audio des participants, les rapports des participants, ainsi que des fonctionnalités interactives comme les sondages, les conversations et les réactions.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="word"></a>Word
+
+- Correction d’un problème concernant les cartes contextuelles de canevas pour l’orthographe et la grammaire, qui affichent des boutons d’icônes, mais ces boutons n’ont pas d’infobulles.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2105-may-07"></a>Version 2105 : 07 mai
 *Version 2105 (build 14026.20138)*

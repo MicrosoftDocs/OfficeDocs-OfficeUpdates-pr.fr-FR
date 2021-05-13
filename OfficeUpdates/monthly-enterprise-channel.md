@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux informaticiens des notes de version des versions du canal entreprise mensuel de Microsoft 365 Apps
-ms.openlocfilehash: 45717c3a57ea169f7c243f0db1a318f3f5aeebe7
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278041"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322324"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Notes de versions sur le Canal Entreprise mensuel
 
@@ -24,6 +24,179 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 [//]: # (NE PAS SUPPRIMER)
 
 
+
+## <a name="version-2103-may-11"></a>Version 2103 : 11 mai
+*Version 2103 (Build 13901.20516)*
+
+Mises à jour de sécurité répertoriées [ici](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Utiliser automatiquement les nouveaux types de données** : lorsque vous tapez une valeur de données qui ressemble à un emplacement ou un emplacement géographique, Excel propose de le convertir en type de données connecté approprié (stocks ou géographie). [Si vous souhaitez en savoir plus](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+
+- **Types de données liées : de vraies données pour la vie réelle :** Les nouveaux types de données liées vous apportent des faits et des données sur des centaines de sujets pour vous permettre d’accomplir vos objectifs directement dans Excel.
+
+### <a name="outlook"></a>Outlook
+
+- **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Vous pouvez désormais utiliser le traducteur intelligent pour Outlook. Lorsque vous recevez un message dans une langue différente que votre langue par défaut, une invite s’affiche en haut vous demandant si vous voulez le faire traduire par Outlook.
+Vous pouvez également cliquer avec le bouton droit pour traduire des mots, des phrases ou tout le message. [En savoir plus](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="visio"></a>Visio
+
+- **Graphismes prêts à l’élaboration de diagrammes** : faites votre choix parmi une grande bibliothèque d’icônes, d’images de photos de stock, de vignettes de personnes et d’autocollants que vous pouvez ajouter à vos dessins Visio. [En savoir plus](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/access-illustrations-icons-in-visio)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Accès
+
+- Correction d’un problème qui empêchait l’ordinateur de s’éteindre tant qu’une application externe demandait une interface d’accessibilité.
+
+
+- Cette modification résout un problème où dans certains cas, lors de l’exécution d’une requête SQL Server, peut entraîner un message d’erreur indiquant un « état du curseur non valide ».
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons corrigé un problème qui entraînait l'affichage incorrect du formatage de la date dans certaines langues lors de l'utilisation de compléments.
+
+
+- Correction d'un problème pour lequel le complément Analysis ToolPak ne fonctionnait pas pour certains utilisateurs.
+
+
+- Correction d'un blocage potentiel dans Word lors du dessin d'une image.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui provoque l’échec de la résolution des noms lors de l’envoi au nom d’un autre utilisateur et de la résolution à l’aide d’un carnet d’adresses qui n’est pas la liste d’adresses globale.
+
+
+- Nous avons corrigé un problème qui faisait qu' Outlook remplaçait les préférences de boîte de réception focalisée configurées dans OWA.
+
+
+- Nous avons corrigé un problème qui empêchait certaines personnes d'accéder aux signatures associées aux comptes de messagerie secondaires.
+
+
+- Nous avons corrigé un problème qui faisait que les utilisateurs voyaient plus de signatures que prévu.
+
+
+- Nous avons corrigé un problème qui faisait que certains utilisateurs voyaient leur calendrier principal et secondaire changer de place dans le volet de navigation.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient par erreur un message « Cela peut prendre du temps » lors de l'ajout d'un calendrier.
+
+
+- Nous avons résolu un problème qui causait l’apparition des délégués en tant qu’organisateur de réunions créées sur des calendriers nouvellement ajoutés.  Les réunions dans cet état ne figuraient pas sur le calendrier du principal.
+
+
+- Nous avons corrigé un problème dans un composant d'Outlook qui est utilisé par les applications compatibles MAPI sur les ordinateurs équipés de processeurs ARM. Le problème peut entraîner l'échec de la recherche ou une charge supplémentaire sur l'ordinateur car les applications d'arrière-plan redémarrent de manière répétée.
+
+
+- Nous avons corrigé un problème qui provoquait la fermeture inattendue d'Outlook chez certains utilisateurs lors de la synchronisation des changements de hiérarchie de dossiers.
+
+
+- Correction d'un blocage potentiel dans Word lors du dessin d'une image.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème concernant les images liées.
+
+
+- Correction d'un blocage potentiel dans Word lors du dessin d'une image.
+
+
+### <a name="project"></a>Project
+
+- Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
+
+
+### <a name="visio"></a>Visio
+
+- Correction d’un problème qui pouvait provoquer le blocage de Visio lors de sa fermeture.
+
+
+### <a name="word"></a>Word
+
+- Correction d'un problème permettant d'optimiser les conditions pour que les prédictions de texte soient proposées.
+
+
+- Correction d'un problème de mise à jour du texte sur l'appel de l'enregistrement automatique pour les fichiers enregistrés localement.
+
+
+- Correction d'un problème lors de la co-autorisation d'un document, le brouillon actif n'est pas effacé lorsque l'ordre des commentaires change.
+
+
+- Corrige un problème où l'aperçu avant impression se fermait de manière inattendue.
+
+
+- Correction d'un blocage potentiel dans Word lors du dessin d'une image.
+
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction d'un problème de fiabilité lié à la prise en charge des applications Office exécutées en session 0.
+
+
+- Correction d'un problème pour lequel le renommage ne répondait pas lorsqu'on ouvrait un fichier synchronisé hors ligne et qu'on renommait le fichier dans l'application avant de l'enregistrer.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU DE BUGDETAILS FIN)
+
+## <a name="version-2102-may-11"></a>Version 2102 : 11 mai
+*Version 2102 (Build 13801.20638)*
+
+Mises à jour de sécurité répertoriées [ici](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons corrigé un problème qui entraînait l'affichage incorrect du formatage de la date dans certaines langues lors de l'utilisation des compléments.
+
+
+- Nous avons corrigé un problème qui empêchait la possibilité de coller des formules sur une feuille protégée.
+
+
+### <a name="outlook"></a>Outlook
+
+- Cela permet aux utilisateurs finaux de configurer Outlook pour ajouter une réunion en ligne à chaque réunion qu'ils créent.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème concernant les images liées.
+
+
+### <a name="word"></a>Word
+
+- Corrige un problème dans Wordmail où quelqu'un ne peut pas envoyer cet élément' lorsque le 2084ème caractère d'un lien est un caractère échappé.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction d'un problème qui entraînait la fermeture inattendue de Word lors de l'impression de longs documents.
+
+
+- Avant cette modification, les modèles Office s'affichaient même si le GPO permettant de les désactiver était activé. Grâce à cette modification, les modèles respectent désormais correctement la GPO et s'affichent ou se cachent comme demandé.
+
+
+
+[//]: # (NE PAS SUPPRIMER LE CONTENU DE BUGDETAILS FIN)
 
 ## <a name="version-2102-april-13"></a>Version 2102 : 13 avril
 *Version 2102 (build 13801.20506)*
@@ -289,7 +462,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/svg-content-office-third-party-apps)
 
 - **Journalisation d’audit pour les étiquettes de confidentialité :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité leurs documents et courriers électroniques, ces informations sont désormais disponibles aux administrateurs dans les journaux d’audit Microsoft 365.
 
@@ -538,6 +711,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
@@ -547,5 +721,4 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
