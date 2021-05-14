@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel (ciblé) pour ordinateur de bureau Windows
-ms.openlocfilehash: f8b50148f80bd9e77ec274722b3590cd9894ec5d
-ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
+ms.openlocfilehash: e90ddc6ec65088469dd9d63c43fca5712012c810
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285985"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470788"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Historique des mises à jour pour le canal actuel d’Office (Preview) pour Windows
 
@@ -31,6 +31,9 @@ Si vous êtes inscrit au niveau Canal actuel (préversion), anciennement appelé
 
 
 [//]: # (NE PAS SUPPRIMER)
+
+**12 mai 2021**<br/>
+Version 2105 (Build 14026.20164)<br/>
 
 **07 mai 2021**<br/>
 Version 2105 (build 14026.20138)<br/>
