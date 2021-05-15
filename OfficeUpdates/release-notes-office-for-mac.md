@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 84cf474575a5d5a4568b752336e9ea763f7af574
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330511"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470758"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -84,9 +84,9 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 ### <a name="teams"></a>Équipes
 
-- **Suppression du bruit basée sur l'IA pour les utilisateurs de MAC :** Lorsque votre micro est activé lors d'une réunion ou d'un appel Teams, les bruits de fond autour de vous (papiers qui traînent, portes qui claquent, chiens qui aboient, etc.) peuvent distraire les autres. Teams propose quatre niveaux de suppression du bruit (automatique, faible, élevé et désactivé) pour aider les participants aux réunions à rester concentrés. Cette fonction est désormais disponible pour tous les utilisateurs de MAC, à l'exception de ceux qui disposent des nouveaux MAC équipés du processeur ARM M1.
+- **Suppression du bruit basée sur l'IA pour les utilisateurs de Mac :** Lorsque votre micro est activé lors d'une réunion ou d'un appel Teams, les bruits de fond autour de vous (brassage de papiers, claquement de portes, aboiement de chiens, etc.) peuvent distraire les autres. Teams propose quatre niveaux de suppression du bruit (automatique, faible, élevé et désactivé) pour permettre aux participants d’une réunion de rester concentrés. Cette fonction est désormais disponible pour tous les utilisateurs de Mac, à l'exception de ceux qui disposent des nouveaux Mac équipés d’Apple silicon.
 
-- **Attribution du locuteur pour les sous-titres en direct et la transcription en direct dans les réunions Teams dans GCC :** Les sous-titres en direct des réunions Teams dans les clouds GCC seront désormais attribués au locuteur de l'énoncé.
+- **Attribution du locuteur pour les sous-titres en direct et la transcription en direct dans les réunions Teams dans GCC :** Les sous-titres en direct des réunions Teams dans les clouds GCC seront désormais attribués au locuteur de l'énoncé.
 
 - **Répondre dans la conversation :** Possibilité de répondre à un message spécifique dans une conversation.
 
