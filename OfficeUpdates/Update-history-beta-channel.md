@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux participants au programme Insider un historique des mises à jour pour les versions Canal mensuel Insider rapide pour ordinateur de bureau Windows
-ms.openlocfilehash: 2b6f4207988a620657b23b0a748ec52bf3ef9503
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: d5b3501c6f7888e99d830aa08115d944d768cbb8
+ms.sourcegitcommit: 82c58639acc2f9bceb8f26967ef6464ac675f6bd
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322474"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52568500"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Historique des mises à jour pour le canal bêta d’Office
 
-Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Insider, vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.
+Bonjour, chers participants au programme Insider ! Si vous vous demandez si vous avez installé la dernière mise à jour ou si vous recherchez une liste des derniers builds Insider, vous êtes au bon endroit. Cliquez [ici](https://insider.office.com/) pour plus d’informations sur le programme Office Insider.
 
 > [!NOTE]
 >
@@ -34,31 +34,34 @@ Pour rechercher des notes de publication, reportez-vous à la rubrique [Notes de
 
 [//]: # (NE PAS SUPPRIMER)
 
+**18 mai 2021**<br/>
+Version 2106 (Build 14117.20000)<br/>
+
 **11 mai 2021**<br/>
 Version 2106 (Build 14107.20000)<br/>
 
-**4 mai 2021**<br/>
+**4 mai 2021**<br/>
 Version 2106 (Build 14029.20000)<br/>
 
 **28 avril 2021**<br/>
 Version 2105 (Build 14026.20000)<br/>
 
-**26 avril 2021**<br/>
+**26 avril 2021**<br/>
 Version 2105 (Build 14021.20000)<br/>
 
-**20 avril 2021**<br/>
+**20 avril 2021**<br/>
 Version 2105 (Build 14014.20002)<br/>
 
-**13 avril 2021**<br/>
+**13 avril 2021**<br/>
 Version 2105 (build 14007.20002)<br/>
 
-**06 avril 2021**<br/>
+**06 avril 2021**<br/>
 Version 2105 (Build 14002.20000)<br/>
 
 **01 avril 2021**<br/>
-Version 2104 (Build 13929.20016)<br/>
+Version 2104 (Build 13929.20016)<br/>
 
-**30 mars 2021**<br/>
+**30 mars 2021**<br/>
 Version 2104 (Build 13926.20000)<br/>
 
 **23 mars 2021**<br/>
@@ -67,14 +70,14 @@ Version 2104 (Build 13919.20002)<br/>
 **23 mars 2021**<br/>
 Version 2104 (Build 13919.20000)<br/>
 
-**16 mars 2021**<br/>
+**16 mars 2021**<br/>
 Version 2104 (Build 13913.20000)<br/>
 
 **9 mars 2021**<br/>
-Version 2104 (Build 13906.20000)<br/>
+Version 2104 (Build 13906.20000)<br/>
 
 **4 mars 2021**<br/>
-Version 2103 (Build 13901.20036)<br/>
+Version 2103 (Build 13901.20036)<br/>
 
 **1 mars 2021**<br/>
 Version 2103 (Build 13827.20004)<br/>
@@ -82,16 +85,16 @@ Version 2103 (Build 13827.20004)<br/>
 **22 février 2021**<br/>
 Version 2103 (Build 13819.20006)<br/>
 
-**16 février 2021**<br/>
+**16 février 2021**<br/>
 Version 2103 (build 13811.20002)<br/>
 
-**09 février 2021**<br/>
+**09 février 2021**<br/>
 Version 2103 (build 13806.20000)<br/>
 
-**3 février 2021**<br/>
+**3 février 2021**<br/>
 Version 2102 (Build 13801.20004)<br/>
 
-**1er février 2021**<br/>
+**1er février 2021**<br/>
 Version 2102 (build 13729.20000)<br/>
 
 **26 janvier 2021**<br/>
@@ -100,71 +103,71 @@ Version 2102 (Build 13721.20008)<br/>
 **19 Janvier 2021**<br/>
 Version 2102 (Build 13714.20000)<br/>
 
-**11 janvier 2021**<br/>
-Version 2102 (build 13707.20008)<br/>
+**11 janvier 2021**<br/>
+Version 2102 (build 13707.20008)<br/>
 
-**06 janvier 2021**<br/>
+**06 janvier 2021**<br/>
 Version 2102 (build 13704.20000)<br/>
 
 **4 janvier, 2021**<br/>
 Version 2101 (build 13628.20000)<br/>
 
-**28 décembre 2020**<br/>
-Version 2101 (build 13624.20002)<br/>
+**28 décembre 2020**<br/>
+Version 2101 (build 13624.20002)<br/>
 
-**21 décembre 2020**<br/>
+**21 décembre 2020**<br/>
 Version 2101 (build 13617.20002)<br/>
 
-**14 décembre 2020**<br/>
-Version 2101 (build 13610.20002)<br/>
+**14 décembre 2020**<br/>
+Version 2101 (build 13610.20002)<br/>
 
-**07 décembre 2020**<br/>
+**07 décembre 2020**<br/>
 Version 2101 (build 13604.20000)<br/>
 
-**02 décembre 2020**<br/>
+**02 décembre 2020**<br/>
 Version 2012 (build 13530.20000)<br/>
 
 **30 novembre 2020**<br/>
 Version 2012 (build 13524.20004)<br/>
 
-**23 novembre 2020**<br/>
+**23 novembre 2020**<br/>
 Version 2012 (build 13519.20000)<br/>
 
-**16 novembre 2020**<br/>
+**16 novembre 2020**<br/>
 Version 2012 (build 13512.20000)<br/>
 
-**11 novembre 2020**<br/>
+**11 novembre 2020**<br/>
 Version 2012 (Build 13510.20004)<br/>
 
-**9 Novembre 2020**<br/>
-Version 2012 (build 13505.20004)<br/>
+**9 Novembre 2020**<br/>
+Version 2012 (build 13505.20004)<br/>
 
-**2 novembre 2020**<br/>
-Version 2012 (build 13430.20000)<br/>
+**2 novembre 2020**<br/>
+Version 2012 (build 13430.20000)<br/>
 
-**28 octobre 2020**<br/>
-Version 2011 (build 13426.20004)<br/>
+**28 octobre 2020**<br/>
+Version 2011 (build 13426.20004)<br/>
 
-**26 octobre 2020**<br/>
-Version 2011 (build 13422.20000)<br/>
+**26 octobre 2020**<br/>
+Version 2011 (build 13422.20000)<br/>
 
-**19 octobre 2020**<br/>
-Version 2011 (build 13415.20002)<br/>
+**19 octobre 2020**<br/>
+Version 2011 (build 13415.20002)<br/>
 
-**12 octobre 2020**<br/>
-Version 2011 (build 13408.20000)<br/>
+**12 octobre 2020**<br/>
+Version 2011 (build 13408.20000)<br/>
 
-**Octobre 07 2020**<br/>
-Version 2011 (build 13406.20000)<br/>
+**Octobre 07 2020**<br/>
+Version 2011 (build 13406.20000)<br/>
 
-**5 octobre 2020**<br/>
-Version 2011 (build 13402.20004)<br/>
+**5 octobre 2020**<br/>
+Version 2011 (build 13402.20004)<br/>
 
 **30 septembre 2020**<br/>
-Version 2010 (Build 13328.20000)<br/>
+Version 2010 (Build 13328.20000)<br/>
 
 **28 septembre 2020**<br/>
-Version 2010 (Build 13324.20000)<br/>
+Version 2010 (Build 13324.20000)<br/>
 
 **21 septembre 2020**<br/>
 Version 2010 (Build 13318.20000)<br/>
@@ -172,125 +175,125 @@ Version 2010 (Build 13318.20000)<br/>
 **15 septembre 2020**<br/>
 Version 2010 (Build 13312.20006)<br/>
 
-**Septembre 07, 2020**<br/>
-Version 2010 (build 13304.20000)<br/>
+**Septembre 07, 2020**<br/>
+Version 2010 (build 13304.20000)<br/>
 
-**02 septembre 2020**<br/>
+**02 septembre 2020**<br/>
 Version 2010 (Build 13301.20004)<br/>
 
 **31 août 2020**<br/>
 Version 2009 (Build 13226.20002)<br/>
 
 **24 août 2020**<br/>
-Version 2009 (build 13219.20004)<br/>
+Version 2009 (build 13219.20004)<br/>
 
-**17 août 2020**<br/>
-Version 2009 (Build 13212.20000)<br/>
+**17 août 2020**<br/>
+Version 2009 (Build 13212.20000)<br/>
 
-**10 août 2020**<br/>
-Version 2009 (Build 13205.20000)<br/>
+**10 août 2020**<br/>
+Version 2009 (Build 13205.20000)<br/>
 
 **03 août 2020**<br/>
-Version 2009 (Build 13130.20000)<br/>
+Version 2009 (Build 13130.20000)<br/>
 
-**29 juillet 2020**<br/>
-Version 2008 (build 13127.20002)<br/>
+**29 juillet 2020**<br/>
+Version 2008 (build 13127.20002)<br/>
 
 **21 juillet 2020**<br/>
 Version 2008 (Build 13117.20000)<br/>
 
-**16 juillet 2020**<br/>
-Version 2008 (build 13115.20000)<br/>
+**16 juillet 2020**<br/>
+Version 2008 (build 13115.20000)<br/>
 
-**07 juillet 2020**<br/>
-Version 2008 (build 13102.20002)<br/>
+**07 juillet 2020**<br/>
+Version 2008 (build 13102.20002)<br/>
 
-**01 juillet 2020**<br/>
-Version 2007 (build 13029.20006)<br/>
+**01 juillet 2020**<br/>
+Version 2007 (build 13029.20006)<br/>
 
-**29 Juin 2020**<br/>
-Version 2007 (build 13025.20000)<br/>
+**29 Juin 2020**<br/>
+Version 2007 (build 13025.20000)<br/>
 
-**23 Juin 2020**<br/>
-Version 2007 (build 13020.20004)<br/>
+**23 Juin 2020**<br/>
+Version 2007 (build 13020.20004)<br/>
 
 **15 juin 2020**<br/>
-Version 2007 (build 13012.20000)<br/>
+Version 2007 (build 13012.20000)<br/>
 
-**09 juin 2020**<br/>
-Version 2007 (build 13006.20002)<br/>
+**09 juin 2020**<br/>
+Version 2007 (build 13006.20002)<br/>
 
-**03 Juin 2020**<br/>
-Version 2006 (build 13001.20002)<br/>
+**03 Juin 2020**<br/>
+Version 2006 (build 13001.20002)<br/>
 
-**01 Juin 2020**<br/>
-Version 2006 (build 12930.20014)<br/>
+**01 Juin 2020**<br/>
+Version 2006 (build 12930.20014)<br/>
 
-**25 Mai 2020**<br/>
-Version 2006 (build 12920.20000)<br/>
+**25 Mai 2020**<br/>
+Version 2006 (build 12920.20000)<br/>
 
-**18 Mai 2020**<br/>
-Version 2006 (build 12914.20000)<br/>
+**18 Mai 2020**<br/>
+Version 2006 (build 12914.20000)<br/>
 
-**11 mai 2020**<br/>
+**11 mai 2020**<br/>
 Version 2006 (build 12905.20000)<br/>
 
 **4 mai 2020**<br/>
-Version 2006 (build 12829.20000)<br/>
+Version 2006 (build 12829.20000)<br/>
 
-**29 avril 2020**<br/>
-Version 2005 (build 12827.20030)<br/>
+**29 avril 2020**<br/>
+Version 2005 (build 12827.20030)<br/>
 
 **27 avril 2020**<br/>
-Version 2005 (build 12823.20010)<br/>
+Version 2005 (build 12823.20010)<br/>
 
-**22 avril 2020**<br/>
-Version 2005 (build 12816.20006)<br/>
+**22 avril 2020**<br/>
+Version 2005 (build 12816.20006)<br/>
 
-**20 avril 2020**<br/>
-Version 2005 (build 12816.20000) (restaurée) <br/>
+**20 avril 2020**<br/>
+Version 2005 (build 12816.20000) (restaurée) <br/>
 
-**14 avril 2020**<br/>
-Version 2005 (build 12810.20002)<br/>
+**14 avril 2020**<br/>
+Version 2005 (build 12810.20002)<br/>
 
 **05 avril 2020**<br/>
-Version 2004 (build 12730.20024)<br/>
+Version 2004 (build 12730.20024)<br/>
 
-**30 mars 2020**<br/>
+**30 mars 2020**<br/>
 Version 2004 (build 12725.20006) (restaurée) <br/>
 
-**23 mars 2020**<br/>
-Version 2004 (build 12718.20010)<br/>
+**23 mars 2020**<br/>
+Version 2004 (build 12718.20010)<br/>
 
-**13 mars 2020**<br/>
-Version 2004 (build 12711.20000)<br/>
+**13 mars 2020**<br/>
+Version 2004 (build 12711.20000)<br/>
 
-**9 mars 2020**<br/>
-Version 2004 (build 12703.20010)<br/>
+**9 mars 2020**<br/>
+Version 2004 (build 12703.20010)<br/>
 
-**1er mars 2020**<br/>
-Version 2003 (build 12624.20086)<br/>
+**1er mars 2020**<br/>
+Version 2003 (build 12624.20086)<br/>
 
 **24 février 2020**<br/>
-Version 2003 (build 12619.20002)<br/>
+Version 2003 (build 12619.20002)<br/>
 
 **18 février 2020**<br/>
-Version 2003 (build 12615.20000)<br/>
+Version 2003 (build 12615.20000)<br/>
 
 **11 Février 2020**<br/>
-Version 2003 (build 12607.20000)<br/>
+Version 2003 (build 12607.20000)<br/>
 
 **31 janvier 2020**<br/>
-Version 2002 (build 12527.20040)<br/>
+Version 2002 (build 12527.20040)<br/>
 
-**27 janvier 2020**<br/>
-Version 2002 (build 12513.20010)<br/>
+**27 janvier 2020**<br/>
+Version 2002 (build 12513.20010)<br/>
 
 **14 janvier 2020**<br/>
-Version 2002 (build 12508.20000)<br/>
+Version 2002 (build 12508.20000)<br/>
 
-**6 janvier 2020**<br/>
-Version 2001 (build 12430.20000)<br/>
+**6 janvier 2020**<br/>
+Version 2001 (build 12430.20000)<br/>
 
 
 

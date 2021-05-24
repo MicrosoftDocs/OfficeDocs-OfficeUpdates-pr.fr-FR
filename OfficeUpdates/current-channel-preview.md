@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
+ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470768"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52574299"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -23,25 +23,61 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 > [!NOTE]
 > - La date de sortie des notes de publication peut ne pas correspondre à la date de publication de la version.
-> - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
+> - Les fonctionnalités de Microsoft Teams peuvent différer de la dernière version de la préversion du Canal actuel publiée, car elles sont plus fréquentes.
 
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2105-may-12"></a>Version 2105 : 12 mai
-*Version 2105 (build 14026.20164)*
+## <a name="version-2105-may-19"></a>Version 2105 : 19 mai
+*Version 2105 (build 14026.20202)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="teams"></a>Teams
 
-- **Paramètre de préférence utilisateur pour ouvrir les fichiers par défaut dans le Bureau (ou) le Navigateur (ou) Teams :** les utilisateurs peuvent définir leur préférence par défaut en tant sur Navigateur, Bureau ou Teams lors de l’ouverture de fichiers Office (Word, Excel et Power Point) partagés dans Teams. Le paramètre Bureau peut être sélectionné si les derniers clients Office sont installés et activés
+- **Les webinaires Teams s'intègrent à Dynamics 365 Marketing pour permettre la maturation des prospects :** avec cette fonctionnalité, les organisateurs de webinaires peuvent favoriser l’engagement post-événement auprès de registres en tirant parti de D365 Marketing. Les données relatives à l'engagement des participants se synchronisent avec D365 Marketing org et permettent d'automatiser les parcours des utilisateurs.
 
-- **Mode Reporter et Side-by-Side dans les réunions Teams :** Vous pouvez désormais apparaître à côté de votre contenu pour une présentation et une expérience de consommation plus intéressantes
+- **Haut-parleurs intelligents :** les haut-parleurs intelligents sont des périphériques intelligents pour les Salles Microsoft Teams sur Windows. Ils apporteront aux participants de la salle de réunion la transcription des attributions des haut-parleurs, ce qui permettra aux participants de passer moins de temps à prendre des notes et de suivre facilement qui a dit quoi dans la salle.
 
-- **Disponibilité générale des fonctionnalités du webinaire Teams :** Planifiez et diffusez des webinaires pour 1 000 personnes avec la même application Teams que vous utilisez pour les réunions. Les fonctionnalités de webinaire prennent en charge la création de pages d’inscription, la confirmation par e-mail pour les inscrits, la gestion des hôtes pour la vidéo et l’audio des participants, les rapports des participants, ainsi que des fonctionnalités interactives comme les sondages, les conversations et les réactions.
+- **Permettre aux utilisateurs de Teams d'acheter des applications Teams via le client Teams :** les utilisateurs de Teams ont désormais la possibilité d’acheter des abonnements à l’application Teams sur le magasin Teams.
+
+- **Créez Teams avec des modèles d'équipe :** avec des modèles dans Teams, les utilisateurs peuvent choisir parmi un large éventail de modèles personnalisables lors de la création d’une équipe, afin d’en faciliter la prise en main. Les administrateurs de l’informatique peuvent également créer des modèles personnalisés pour leur organisation, leur permettant ainsi de standardiser la structure des équipes, les applications pertinentes et d’adapter les pratiques recommandées. Les administrateurs informatiques peuvent choisir les modèles d’équipe à montrer aux utilisateurs finaux dans le Centre d’administration Teams et préconfigurer les onglets d’un site web en ajoutant des URL à un onglet de site web dans un modèle d’équipe.
+
+- **Utiliser un pointeur laser et des annotations manuscrites dans PowerPoint Live in Teams :** nous présentons le pointeur laser virtuel et les annotations pour que les présentateurs partagent efficacement du contenu et impliquent leur public en attirer l’attention sur certaines sections de l’ensemble de présentation PowerPoint. Tout comme vous utiliseriez un point laser physique dans une pièce, PowerPoint Live vous permet de pointer efficacement à différents endroits afin que le public puisse suivre facilement ce qui se trouve sur la diapositive.
+
+- **Recommandations en matière de flux Power Automate avec les modèles d’équipe 1P :** modèles de flux Surface Power Automate pour les équipes créés à partir de modèles d’équipe 1P
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui causait l’impossibilité d’afficher l’option de commentaires pour les utilisateurs titulaires d’une licence pour la durée des droits de propriété intellectuelle d’Office 2021 préversion.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2105-may-12"></a>Version 2105 : 12 mai
+*Version 2105 (build 14026.20164)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Paramètre de préférence utilisateur pour ouvrir les fichiers par défaut dans le Bureau (ou) le Navigateur (ou) Teams :** les utilisateurs peuvent définir leur préférence par défaut en tant sur Navigateur, Bureau ou Teams lors de l’ouverture de fichiers Office (Word, Excel et Power Point) partagés dans Teams. Le paramètre Bureau peut être sélectionné si les derniers clients Office sont installés et activés
+
+- **Mode Reporter et Side-by-Side dans les réunions Teams :** Vous pouvez désormais apparaître à côté de votre contenu pour une présentation et une expérience de consommation plus intéressantes
+
+- **Disponibilité générale des fonctionnalités du webinaire Teams :** Planifiez et diffusez des webinaires pour 1 000 personnes avec la même application Teams que vous utilisez pour les réunions. Les fonctionnalités de webinaire prennent en charge la création de pages d’inscription, la confirmation par e-mail pour les inscrits, la gestion des hôtes pour la vidéo et l’audio des participants, les rapports des participants, ainsi que des fonctionnalités interactives comme les sondages, les conversations et les réactions.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -59,25 +95,25 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2105-may-07"></a>Version 2105 : 07 mai
-*Version 2105 (build 14026.20138)*
+## <a name="version-2105-may-07"></a>Version 2105 : 07 mai
+*Version 2105 (build 14026.20138)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="teams"></a>Teams
 
-- **Présentation des dispositions des réunions Teams :** vous pouvez à présent apparaître au-dessus du contenu pour une présentation et une utilisation plus immersives.
+- **Présentation des dispositions des réunions Teams :** vous pouvez à présent apparaître au-dessus du contenu pour une présentation et une utilisation plus immersives.
 
-- **Désactiver la caméra pour des participants spécifiques : :** Les organisateurs et les présentateurs de réunions peuvent désactiver les caméras de participants spécifiques dans une réunion Teams pour veiller à ce qu’ils ne partagent pas la vidéo pendant la réunion.
+- **Désactiver la caméra pour des participants spécifiques : :** Les organisateurs et les présentateurs de réunions peuvent désactiver les caméras de participants spécifiques dans une réunion Teams pour veiller à ce qu’ils ne partagent pas la vidéo pendant la réunion.
 
-- **Désactiver la caméra pour tous les participants : :** Les organisateurs et les présentateurs de réunions peuvent désactiver les caméras de tous les participants dans une réunion Teams pour veiller à ce qu’ils ne partagent pas la vidéo pendant la réunion.
+- **Désactiver la caméra pour tous les participants : :** Les organisateurs et les présentateurs de réunions peuvent désactiver les caméras de tous les participants dans une réunion Teams pour veiller à ce qu’ils ne partagent pas la vidéo pendant la réunion.
 
-- **Les utilisateurs anonymes peuvent effectuer des présentations :** Lors de l’hébergement d’un événement en direct Teams, nous avons ajouté la possibilité, pour les utilisateurs anonymes, de rejoindre un événement en direct pour pouvoir également effectuer des présentations pendant l’événement.
+- **Les utilisateurs anonymes peuvent effectuer des présentations :** Lors de l’hébergement d’un événement en direct Teams, nous avons ajouté la possibilité, pour les utilisateurs anonymes, de rejoindre un événement en direct pour pouvoir également effectuer des présentations pendant l’événement.
 
-- **Gérer les balises dans Teams par programme. Les API de balises Microsoft Teams sont à présent en préversion publique :** Cet ensemble d’API permet d’attribuer par programme des balises aux utilisateurs d’une équipe, ce qui accélère et facilite la création et la maintenance des balises.  Les balises dans Teams permettent aux utilisateurs d’atteindre rapidement un groupe de personnes sans avoir à mentionner (@mention) ou à entrer le nom de chaque personne. Si vous souhaitez en savoir plus sur les balises dans Teams, veuillez consulter la section Utiliser les balises dans Teams. À l’aide de ces nouvelles API, les développeurs peuvent à présent créer des balises dans une équipe, puis affecter aux utilisateurs une liste de balises dans une équipe. Mettre à jour des balises Supprimer des balises.
+- **Gérer les balises dans Teams par programme. Les API de balises Microsoft Teams sont à présent en préversion publique :** Cet ensemble d’API permet d’attribuer par programme des balises aux utilisateurs d’une équipe, ce qui accélère et facilite la création et la maintenance des balises.  Les balises dans Teams permettent aux utilisateurs d’atteindre rapidement un groupe de personnes sans avoir à mentionner (@mention) ou à entrer le nom de chaque personne. Si vous souhaitez en savoir plus sur les balises dans Teams, veuillez consulter la section Utiliser les balises dans Teams. À l’aide de ces nouvelles API, les développeurs peuvent à présent créer des balises dans une équipe, puis affecter aux utilisateurs une liste de balises dans une équipe. Mettre à jour des balises Supprimer des balises.
 
-- **Présenter des diapos de PowerPoint dans Teams :** présentez vos diapositives directement de l’application PowerPoint dans une réunion Teams via PowerPoint Live.
+- **Présenter des diapos de PowerPoint dans Teams :** présentez vos diapositives directement de l’application PowerPoint dans une réunion Teams via PowerPoint Live.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -89,7 +125,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="word"></a>Word
 
-- Corrige un problème : le volet Éditeur ne s’ouvre pas.
+- Corrige un problème : le volet Éditeur ne s’ouvre pas.
 
 
 ### <a name="office-suite"></a>Suite Office
@@ -100,7 +136,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2105-may-03"></a>Version 2105 : 03 mai
+## <a name="version-2105-may-03"></a>Version 2105 : 03 mai
 *Version 2105 (build 14026.20052)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -108,13 +144,13 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="teams"></a>Teams
 
-- **Mettre en évidence plusieurs utilisateurs simultanément dans une réunion :** organisateurs et présentateurs peuvent désormais mettre en évidencer plusieurs participants simultanément pendant les réunions. La scène de la réunion mettra en évidence ces participants, avec leurs vidéos ou avatars, pour tous les participants à la réunion.
+- **Mettre en évidence plusieurs utilisateurs simultanément dans une réunion :** organisateurs et présentateurs peuvent désormais mettre en évidencer plusieurs participants simultanément pendant les réunions. La scène de la réunion mettra en évidence ces participants, avec leurs vidéos ou avatars, pour tous les participants à la réunion.
 
-- **Présenter de PowerPoint à Teams :** présenter vos diapositives directement à partir de l’application PowerPoint dans une réunion d’équipes via PowerPoint Live.
+- **Présenter de PowerPoint à Teams :** présenter vos diapositives directement à partir de l’application PowerPoint dans une réunion d’équipes via PowerPoint Live.
 
-- **Nouvelle expérience de gestion des balises et autres améliorations :** les balises dans Teams permettent aux utilisateurs d'atteindre rapidement un groupe de personnes sans avoir à @mentionner ou à taper le nom de chacun. L'expérience de gestion des balises est désormais un onglet. Les balises disposent également d'un champ de description qui vous permet d'ajouter des détails à une balise. Le nouvel onglet Balises sera la page d’accueil des notifications de balise et recherche des balises, qui sera également prochainement disponible.
+- **Nouvelle expérience de gestion des balises et autres améliorations :** les balises dans Teams permettent aux utilisateurs d'atteindre rapidement un groupe de personnes sans avoir à @mentionner ou à taper le nom de chacun. L'expérience de gestion des balises est désormais un onglet. Les balises disposent également d'un champ de description qui vous permet d'ajouter des détails à une balise. Le nouvel onglet Balises sera la page d’accueil des notifications de balise et recherche des balises, qui sera également prochainement disponible.
 
-- **Haut-parleurs intelligents :** les haut-parleurs intelligents sont des périphériques intelligents pour les Salles Microsoft Teams sur Windows. Ils apporteront aux participants de la salle de réunion la transcription des attributions des haut-parleurs, ce qui permettra aux participants de passer moins de temps à prendre des notes et de suivre facilement qui a dit quoi dans la salle.
+- **Haut-parleurs intelligents :** les haut-parleurs intelligents sont des périphériques intelligents pour les Salles Microsoft Teams sur Windows. Ils apporteront aux participants de la salle de réunion la transcription des attributions des haut-parleurs, ce qui permettra aux participants de passer moins de temps à prendre des notes et de suivre facilement qui a dit quoi dans la salle.
 
 - **Modification de notification par défaut en mode natif à partir des équipes violet pour les nouveaux utilisateurs : les notifications natives offrent un grand nombre d’avantages tels que la prise en charge du centre de notifications, l’accessibilité et la prise en charge du mode d’assistance au focus etc. Le style de notification par défaut pour un nouvel utilisateur dans Microsoft Teams est Teams Violet.** Avec cette modification, la notification par défaut du nouvel utilisateur passe à la notification native.
 
@@ -128,7 +164,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Nous avons résolu un problème qui entraînait une fermeture inattendue d’Excel lors de l’utilisation de la mise à jour 32 bits d’Office sur Windows 64 bits.
+- Nous avons résolu un problème qui entraînait une fermeture inattendue d’Excel lors de l’utilisation de la mise à jour 32 bits d’Office sur Windows 64 bits.
 
 
 - Nous avons résolu un problème qui provoquait la fermeture inattendue d’Excel lors du passage des commentaires dans le volet Commentaires.
@@ -152,13 +188,13 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui causait un affichage incorrect de la mise en forme des dates dans certaines langues lors de l’utilisation des modules linguistiques.
 
 
-- Nous avons résolu un problème : la barre d’état n’indiquait pas l’état Prêt pour certains utilisateurs.
+- Nous avons résolu un problème : la barre d’état n’indiquait pas l’état Prêt pour certains utilisateurs.
 
 
 - Nous avons apporté une modification pour permettre au Gestionnaire de noms s’ouvrir dans les livres avec un grand nombre de noms masqués.
 
 
-- Nous avons résolu un problème de prise en charge de la compatibilité descendante avec les versions antérieures d’Excel. Ce problème peut empêcher un fichier enregistré dans une version plus récente d’Excel de se charger dans les versions antérieures d’Excel suite à l’ajout de fonctions comme IFERROR et XLOOKUP à Excel depuis Office 2007.
+- Nous avons résolu un problème de prise en charge de la compatibilité descendante avec les versions antérieures d’Excel. Ce problème peut empêcher un fichier enregistré dans une version plus récente d’Excel de se charger dans les versions antérieures d’Excel suite à l’ajout de fonctions comme IFERROR et XLOOKUP à Excel depuis Office 2007.
 
 
 - Nous avons résolu un problème qui pouvait entraîner la fermeture inattendue d'Excel lors de l'utilisation de la fonction Coller spécial avec des formats dans certaines situations.
@@ -181,7 +217,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème pour lequel l’utilisation du mode Contraste élevé pendant de longues périodes entraînerait la fermeture inattendue d’Outlook.
 
 
-- Nous avons résolu un problème : les liens hypertexte, y compris les chiffres, étaient désactivés lors de la rédaction d’un message dans Outlook dans une langue s’écrivant de droite à gauche.
+- Nous avons résolu un problème : les liens hypertexte, y compris les chiffres, étaient désactivés lors de la rédaction d’un message dans Outlook dans une langue s’écrivant de droite à gauche.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -207,7 +243,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème pour lequel la mise en forme du texte restait après la suppression des liens hypertexte.
 
 
-- Nous avons résolu un problème : le texte de l’espace réservé n’apparaissait plus dans les commentaires lors de l’utilisation de langues s’écrivant de droite à gauche.
+- Nous avons résolu un problème : le texte de l’espace réservé n’apparaissait plus dans les commentaires lors de l’utilisation de langues s’écrivant de droite à gauche.
 
 
 - Nous avons résolu un problème pour lequel les commentaires n’étaient pas affichés après filtrage par les personnes.
@@ -254,17 +290,17 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2104-april-28"></a>Version 2104 : 28 avril
-*Version 2104 (Build 13929.20296)*
+## <a name="version-2104-april-28"></a>Version 2104 : 28 avril
+*Version 2104 (Build 13929.20296)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="teams"></a>Teams
 
-- **Sélecteur d’emoji développé :** la mise à jour des emojis développée offre aux utilisateurs davantage de divertissement et d’expression dans Teams. Elle présente également un large éventail de diversité et de représentation. Le jeu d’emojis s’est développé de 85 à 800 emojis, avec un sélecteur de catégorie, un sélecteur de teint et un sélecteur de code court.
+- **Sélecteur d’emoji développé :** la mise à jour des emojis développée offre aux utilisateurs davantage de divertissement et d’expression dans Teams. Elle présente également un large éventail de diversité et de représentation. Le jeu d’emojis s’est développé de 85 à 800 emojis, avec un sélecteur de catégorie, un sélecteur de teint et un sélecteur de code court.
 
-- **Microsoft Teams : expérience Partage en réunion révisée :** l’interface utilisateur pour la fonctionnalité Partage en réunion dans Microsoft Teams a été reconçue pour permettre aux présentateurs de rechercher plus rapidement et facilement le contenu souhaité.
+- **Microsoft Teams : expérience Partage en réunion révisée :** l’interface utilisateur pour la fonctionnalité Partage en réunion dans Microsoft Teams a été reconçue pour permettre aux présentateurs de rechercher plus rapidement et facilement le contenu souhaité.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -302,7 +338,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2104-april-26"></a>Version 2104 : 26 avril
+## <a name="version-2104-april-26"></a>Version 2104 : 26 avril
 *Version 2104 (Build 13929.20254)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -310,7 +346,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Activer les améliorations apportées aux calendriers partagés :** pour les calendriers partagés dans Office 365, Outlook peut mettre à jour ces calendriers à l’aide de l’API REST. Activez l’aperçu pour obtenir des mises à jour plus rapides et plus fiables sur les calendriers partagés.
+- **Activer les améliorations apportées aux calendriers partagés :** pour les calendriers partagés dans Office 365, Outlook peut mettre à jour ces calendriers à l’aide de l’API REST. Activez l’aperçu pour obtenir des mises à jour plus rapides et plus fiables sur les calendriers partagés.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -333,19 +369,19 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2104-april-19"></a>Version 2104 : 19 mars
-*Version 2104 (build 13929.20216)*
+## <a name="version-2104-april-19"></a>Version 2104 : 19 mars
+*Version 2104 (build 13929.20216)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Importer des données à partir de tableaux dynamiques :** vous pouvez à présent importer, modeler et actualiser des données à partir de tableaux dynamiques du carnet de données actuel. [En savoir plus](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+- **Importer des données à partir de tableaux dynamiques :** vous pouvez à présent importer, modeler et actualiser des données à partir de tableaux dynamiques du carnet de données actuel. [En savoir plus](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
 
 ### <a name="outlook"></a>Outlook
 
-- **Recherche de calendrier améliorée :** des améliorations ont été apportées à la recherche par calendrier, la plus importante étant la possibilité de trouver plus facilement la prochaine occurrence d'une série dans les résultats de recherche.
+- **Recherche de calendrier améliorée :** des améliorations ont été apportées à la recherche par calendrier, la plus importante étant la possibilité de trouver plus facilement la prochaine occurrence d'une série dans les résultats de recherche.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -437,7 +473,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Correction d’un bogue dans la fonction Commentaire moderne où les signes de ponctuation et les nombres s’afficheraient du côté erroné pour certaines langues internationales.
 
 
-- Correction d’un problème pour lequel la combinaison de « B » et de « ) » se transformait automatiquement en emoji portant des lunettes de soleil et restait alors en tant que caractères individuels.
+- Correction d’un problème pour lequel la combinaison de « B » et de « ) » se transformait automatiquement en emoji portant des lunettes de soleil et restait alors en tant que caractères individuels.
 
 
 - Met à jour le texte sur la légende d’enregistrement automatique pour les fichiers enregistrés localement.
@@ -481,7 +517,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2103-april-13"></a>Version 2103 : 13 avril
+## <a name="version-2103-april-13"></a>Version 2103 : 13 avril
 *Version 2103 (build 13901.20400)*
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
@@ -491,7 +527,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2103-april-10"></a>Version 2103 : 10 avril
+## <a name="version-2103-april-10"></a>Version 2103 : 10 avril
 *Version 2103 (build 13901.20400)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -529,12 +565,12 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2103-april-02"></a>Version 2103 : 02 avril
+## <a name="version-2103-april-02"></a>Version 2103 : 02 avril
 *Version 2103 (build 13901.20336)*
 * Diverses résolutions de bogues et de performances.
 
-## <a name="version-2103-april-1"></a>Version 2103 : 1 avril
-*Version 2103 (Build 13901.20148)*
+## <a name="version-2103-april-1"></a>Version 2103 : 1 avril
+*Version 2103 (Build 13901.20148)*
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="teams"></a>Teams
@@ -543,11 +579,11 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2103-march-30"></a>Version 2103 : 30 mars
+## <a name="version-2103-march-30"></a>Version 2103 : 30 mars
 *Version 2103 (Build 13901.20312)*
 * Diverses résolutions de bogues et de performances.
 
-## <a name="version-2103-march-28"></a>Version 2103 : 28 mars
+## <a name="version-2103-march-28"></a>Version 2103 : 28 mars
 *Version 2103 (build 13901.20306)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -564,7 +600,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2103-march-22"></a>Version 2103 : 22 mars
+## <a name="version-2103-march-22"></a>Version 2103 : 22 mars
 *Version 2103 (Build 13901.20230)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -578,8 +614,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2103-march-15"></a>Version 2103 : 15 mars
-*Version 2103 (build 13901.20170)*
+## <a name="version-2103-march-15"></a>Version 2103 : 15 mars
+*Version 2103 (build 13901.20170)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -596,21 +632,21 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
-## <a name="version-2103-march-11"></a>Version 2103 : 11 mars
-*Version 2103 (Build 13901.20148)*
+## <a name="version-2103-march-11"></a>Version 2103 : 11 mars
+*Version 2103 (Build 13901.20148)*
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
 
 ### <a name="outlook"></a>Outlook
 
-- **Nouvelle expérience de réservation de salle de conférence et d’espace de travail :** L’expérience de réservation de salle de conférence a été revue. Nous avons ajouté des fonctionnalités qui vous permettent de planifier des espaces de travail individuels également.
+- **Nouvelle expérience de réservation de salle de conférence et d’espace de travail :** L’expérience de réservation de salle de conférence a été revue. Nous avons ajouté des fonctionnalités qui vous permettent de planifier des espaces de travail individuels également.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
 
 ### <a name="teams"></a>Teams
 
@@ -618,13 +654,13 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="visio"></a>Visio
 
-- **Nouvelle apparence des icônes Office :** Nous avons modernisé les icônes de ce produit pour mieux refléter la simplicité, l’efficacité et l’intelligence de l’expérience Office. [En savoir plus](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+- **Nouvelle apparence des icônes Office :** Nous avons modernisé les icônes de ce produit pour mieux refléter la simplicité, l’efficacité et l’intelligence de l’expérience Office. [En savoir plus](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
 
 ### <a name="word"></a>Word
 
-- **Mode sombre pour les documents Word :** Le mode sombre permet de réduire la fatigue des yeux et de composer avec la sensibilité à la lumière de chacun dans le cadre du travail sur les documents Word.
+- **Mode sombre pour les documents Word :** Le mode sombre permet de réduire la fatigue des yeux et de composer avec la sensibilité à la lumière de chacun dans le cadre du travail sur les documents Word.
 
-- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus (informations complémentaires : https://aka.ms/mipcoauth).
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -722,7 +758,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Correction d’un problème qui pouvait causer la fermeture inopinée de l’application lorsqu’un disque dur externe était retiré.
 
 
-- Nous avons résolu un problème pour lequel une tâche achevée à 100 % était achevée à 99 %.
+- Nous avons résolu un problème pour lequel une tâche achevée à 100 % était achevée à 99 %.
 
 
 - Correction d’un problème pour lequel Project peut se fermer inopinément si vous exécutez JAWS et que vous allez à la boîte de dialogue d’informations sur la tâche.
@@ -829,7 +865,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
-## <a name="version-2102-march-03"></a>Version 2102 : 03 mars
+## <a name="version-2102-march-03"></a>Version 2102 : 03 mars
 *Version 2102 (build 13801.20274)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -843,7 +879,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
-## <a name="version-2102-march-01"></a>Version 2102 : 1er mars
+## <a name="version-2102-march-01"></a>Version 2102 : 1er mars
 *Version 2102 (build 13801.20266)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -851,7 +887,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Partager dans Teams** : partager un courrier électronique ou une conversation depuis Outlook avec une personne ou un canal dans Teams.
+- **Partager dans Teams** : partager un courrier électronique ou une conversation depuis Outlook avec une personne ou un canal dans Teams.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -881,7 +917,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
-## <a name="version-2102-february-21"></a>Version 2102 : 21 février
+## <a name="version-2102-february-21"></a>Version 2102 : 21 février
 *Version 2102 (build 13801.20182)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -889,11 +925,11 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Brouillons de messages avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales, le signe de ponctuation automatique, etc. pour rédiger des messages.
+- **Brouillons de messages avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales, le signe de ponctuation automatique, etc. pour rédiger des messages.
 
 ### <a name="word"></a>Word
 
-- **Brouillons de documents avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales et le signe de ponctuation automatique dans les brouillons de documents.
+- **Brouillons de documents avec votre voix :** utilisez la nouvelle barre d’outils de dictée, les commandes vocales et le signe de ponctuation automatique dans les brouillons de documents.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -911,11 +947,11 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
-## <a name="version-2102-february-16"></a>Version 2102 : 16 février
+## <a name="version-2102-february-16"></a>Version 2102 : 16 février
 *Version 2102 (build 13801.20160)*
 * Diverses résolutions de bogues et de performances.
 
-## <a name="version-2102-february-15"></a>Version 2102 : 15 janvier
+## <a name="version-2102-february-15"></a>Version 2102 : 15 janvier
 *Version 2102 (build 13801.20158)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -923,11 +959,11 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **La dictée est disponible dans d’autres langues :** dictée prend désormais en charge 7 nouvelles langues : hindi, russe, polonais, portugais (Portugal), coréen, thaï, chinois (Taïwan)
+- **La dictée est disponible dans d’autres langues :** dictée prend désormais en charge 7 nouvelles langues : hindi, russe, polonais, portugais (Portugal), coréen, thaï, chinois (Taïwan)
 
 ### <a name="word"></a>Word
 
-- **La dictée est disponible dans d’autres langues :** dictée prend désormais en charge 7 nouvelles langues : hindi, russe, polonais, portugais (Portugal), coréen, thaï, chinois (Taïwan)
+- **La dictée est disponible dans d’autres langues :** dictée prend désormais en charge 7 nouvelles langues : hindi, russe, polonais, portugais (Portugal), coréen, thaï, chinois (Taïwan)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -951,7 +987,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
 
-## <a name="version-2102-february-11"></a>Version 2102 : 11 février
+## <a name="version-2102-february-11"></a>Version 2102 : 11 février
 *Version 2102 (build 13801.20158)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -966,8 +1002,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 <br/>
 
-## <a name="version-2102-february-08"></a>Version 2102 : 08 février
-*Version 2102 (build 13801.20084)*
+## <a name="version-2102-february-08"></a>Version 2102 : 08 février
+*Version 2102 (build 13801.20084)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -1038,7 +1074,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Word autorise à présent la copie du texte d’un commentaire dans Excel.
 
 
-- Nous avons résolu un problème où l’exécution de la macro VBA ExportAsFixedFormat2 échouait avec une erreur indiquant « Présentation (membre inconnu) valeur illégale ».
+- Nous avons résolu un problème où l’exécution de la macro VBA ExportAsFixedFormat2 échouait avec une erreur indiquant « Présentation (membre inconnu) valeur illégale ».
 
 
 - Correction d’un problème lié au fait que les images conservent leurs proportions pendant un rognage.
@@ -1060,7 +1096,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="office-suite"></a>Suite Office
 
-- Résolution d’un bogue dans PowerPoint : l’insertion de puces sous forme d’images entraînait la disparition des puces. Ce correctif permet un rendu plus fiable.
+- Résolution d’un bogue dans PowerPoint : l’insertion de puces sous forme d’images entraînait la disparition des puces. Ce correctif permet un rendu plus fiable.
 
 - Correction d’un problème pour lequel Office présentait dans certains cas des étiquettes de confidentialité pour un compte signé alors qu’il devait présenter des étiquettes de confidentialité pour un autre compte signé.
 
@@ -1085,7 +1121,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN )
 
-## <a name="version-2101-february-02"></a>Version 2101 : 02 février
+## <a name="version-2101-february-02"></a>Version 2101 : 02 février
 *Version 2101 (build 13628.20320)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1099,7 +1135,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2101-january-25"></a>Version 2101 : 25 janvier
+## <a name="version-2101-january-25"></a>Version 2101 : 25 janvier
 *Version 2101 (build 13628.20274)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1107,20 +1143,20 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels).
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels).
 
 
 ### <a name="word"></a>Word
 
-- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
+- **Clients du gouvernement : appliquez des étiquettes de confidentialité à vos documents et à vos e-mails :** des fonctionnalités d'étiquetage de sensibilisation sont désormais disponibles pour les clients des environnements GCC et GCC-H. [En savoir plus](/microsoft-365/compliance/sensitivity-labels)
 
 
 ### <a name="resolved-issues"></a>Problèmes résolus
@@ -1134,7 +1170,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 
 
-## <a name="version-2101-january-18"></a>Version 2101 : 18 janvier
+## <a name="version-2101-january-18"></a>Version 2101 : 18 janvier
 *Version 2101 (build 13628.20158)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1159,7 +1195,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2101-january-13"></a>Version 2021 : 13 janvier
+## <a name="version-2101-january-13"></a>Version 2021 : 13 janvier
 *Version 2101 (build 13628.20118)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1174,7 +1210,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 <br/>
 
-## <a name="version-2101-january-09"></a>Version 2101 : 09 janvier
+## <a name="version-2101-january-09"></a>Version 2101 : 09 janvier
 *Version 2101 (build 13628.20118)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1182,7 +1218,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Suggestions d’écriture en un clic :** appliquez des suggestions d’écriture d’un simple clic. L’Assistant Rédaction corrige les l’orthographe et la grammaire et vous fournit des idées pour améliorer votre rédaction. [En savoir plus](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/microsoft-editor-gets-an-upgrade)
+- **Suggestions d’écriture en un clic :** appliquez des suggestions d’écriture d’un simple clic. L’Assistant Rédaction corrige les l’orthographe et la grammaire et vous fournit des idées pour améliorer votre rédaction. [En savoir plus](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1200,7 +1236,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2101-january-07"></a>Version 2101 : 7 janvier
+## <a name="version-2101-january-07"></a>Version 2101 : 7 janvier
 *Version 2101 (build 13628.20030)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1208,9 +1244,9 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Afficher plusieurs feuilles en même temps :** vous n’avez plus besoin d’afficher une feuille à la fois. vous pouvez ainsi afficher plusieurs feuilles masquées à la fois. [En savoir plus](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **Afficher plusieurs feuilles en même temps :** vous n’avez plus besoin d’afficher une feuille à la fois. vous pouvez ainsi afficher plusieurs feuilles masquées à la fois. [En savoir plus](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- **Amélioration des boîtes de dialogue de mise en forme conditionnelle :** les boîtes de dialogue de mise en forme conditionnelle sont à présent redimensionnables, et vous pouvez dupliquer la règle d’un simple clic. [En savoir plus](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **Amélioration des boîtes de dialogue de mise en forme conditionnelle :** les boîtes de dialogue de mise en forme conditionnelle sont à présent redimensionnables, et vous pouvez dupliquer la règle d’un simple clic. [En savoir plus](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1240,7 +1276,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Résolution d’un problème dans lequel Excel se fermerait de façon inattendue lors de l’ouverture des fichiers UNC qui ont des attributs de fichier non valides (heure de création, heure de modification, etc.)
 
 
-- Correction d’un problème pouvant provoquer une alerte « ressources insuffisantes » lors de l’utilisation de la fonction STOCKHISTORY.
+- Correction d’un problème pouvant provoquer une alerte « ressources insuffisantes » lors de l’utilisation de la fonction STOCKHISTORY.
 
 
 - Ajout d’une dll FuzzyClustering à la liste des dll PQ.
@@ -1298,7 +1334,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="visio"></a>Visio
 
-- Le problème s’est produit suite à une régression récente. Nous avons résolu le problème. La boîte de dialogue « Enregistrer en tant que page web » présente désormais les champs correctement renseignés, en fonction des entrées utilisateur, et les utilisateurs peuvent enregistrer leurs fichiers en toute transparence en tant que pages web.
+- Le problème s’est produit suite à une régression récente. Nous avons résolu le problème. La boîte de dialogue « Enregistrer en tant que page web » présente désormais les champs correctement renseignés, en fonction des entrées utilisateur, et les utilisateurs peuvent enregistrer leurs fichiers en toute transparence en tant que pages web.
 
 
 - Vous pouvez désormais incorporer des fichiers Visio en tant qu’objets dans d’autres applications Office, telles que PowerPoint et Word, et y accéder en toute transparence à partir de ces applications.
@@ -1355,20 +1391,20 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
 
 ### <a name="word"></a>Word
 
-- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
+- **Étiquetage obligatoire :** les utilisateurs disposant d’une stratégie d’étiquetage obligatoire sont tenus d’étiqueter leurs documents et messages électroniques.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2012-december-28"></a>Version 2012 : 28 décembre
+## <a name="version-2012-december-28"></a>Version 2012 : 28 décembre
 *Version 2012 (build 13530.20264)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1382,7 +1418,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2012-december-21"></a>Version 2012 : 21 décembre
+## <a name="version-2012-december-21"></a>Version 2012 : 21 décembre
 *Version 2012 (build 13530.20218)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1390,21 +1426,21 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
 
 ### <a name="outlook"></a>Outlook
 
 - **Prévoyez du temps entre deux réunions consécutives :** Donnez aux participants le temps de reprendre leur souffle ou de se déplacer entre les différents lieux en fixant par défaut le début des réunions avec 5 à 10 minutes de retard. [En savoir plus](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
-- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
 
 ### <a name="word"></a>Word
 
-- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+- **Envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1422,15 +1458,15 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2012-december-14"></a>Version 2012 : 14 décembre
-*Version 2012 (build 13530.20144)*
+## <a name="version-2012-december-14"></a>Version 2012 : 14 décembre
+*Version 2012 (build 13530.20144)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Vos paramètres Outlook dans le cloud :** choisissez vos paramètres Outlook pour Windows tels que Réponses automatiques, Boîte de réception Prioritaire et Confidentialité, puis accédez à ces paramètres sur n’importe quel PC.
+- **Vos paramètres Outlook dans le cloud :** choisissez vos paramètres Outlook pour Windows tels que Réponses automatiques, Boîte de réception Prioritaire et Confidentialité, puis accédez à ces paramètres sur n’importe quel PC.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1451,8 +1487,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2012-december-07"></a>Version 2012 : 07 décembre
-*Version 2012 (Build 13530.20064)*
+## <a name="version-2012-december-07"></a>Version 2012 : 07 décembre
+*Version 2012 (Build 13530.20064)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -1460,16 +1496,16 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="teams"></a>Teams
 
-- **Les notifications natives Windows sont désormais prises en charge par Teams :** les utilisateurs peuvent désormais sélectionner leur méthode préférée de remise des notifications via les bannières Teams intégrées ou les bannières natives de Windows.
+- **Les notifications natives Windows sont désormais prises en charge par Teams :** les utilisateurs peuvent désormais sélectionner leur méthode préférée de remise des notifications via les bannières Teams intégrées ou les bannières natives de Windows.
 
 
-- **Réunions Teams 2x2, vue Galerie dans Citrix et VMware VDI :** la fonctionnalité vue Galerie Teams sur VDI 2x2 permet d’afficher jusqu’à quatre vidéos de participants dans une vue Galerie 2x2 sur des clients VDI de Citrix, VMWare lorsque le client Teams est en mode optimisé VDI.
+- **Réunions Teams 2x2, vue Galerie dans Citrix et VMware VDI :** la fonctionnalité vue Galerie Teams sur VDI 2x2 permet d’afficher jusqu’à quatre vidéos de participants dans une vue Galerie 2x2 sur des clients VDI de Citrix, VMWare lorsque le client Teams est en mode optimisé VDI.
 
 
-- **Réactions de réunion :**  Les réactions de réunion constituent une nouvelle façon d’interagir dans les réunions. Les participants peuvent envoyer des réactions qui s’affichent sous forme de flux sur le contenu partagé et sur la personne qui a envoyé la réaction si elle est affichée lors de la réunion. 
+- **Réactions de réunion :**  Les réactions de réunion constituent une nouvelle façon d’interagir dans les réunions. Les participants peuvent envoyer des réactions qui s’affichent sous forme de flux sur le contenu partagé et sur la personne qui a envoyé la réaction si elle est affichée lors de la réunion. 
 
 
-- **Mode ensemble et grande galerie pour les réunions web** La Galerie grande taille vous permet d’afficher les vidéos de 49 autres personnes maximum en même temps. Cette option est disponible quand au moins dix personnes sont équipées de leur caméra. Le mode Ensemble vous laisse croire que vous êtes dans le même espace partagé avec tout le monde lors de la réunion. Le mode Ensemble est disponible lorsqu’il y a au moins cinq personnes dans la réunion. 
+- **Mode ensemble et grande galerie pour les réunions web** La Galerie grande taille vous permet d’afficher les vidéos de 49 autres personnes maximum en même temps. Cette option est disponible quand au moins dix personnes sont équipées de leur caméra. Le mode Ensemble vous laisse croire que vous êtes dans le même espace partagé avec tout le monde lors de la réunion. Le mode Ensemble est disponible lorsqu’il y a au moins cinq personnes dans la réunion. 
 
 
 - **Fusion des appels** La fusion des appels permet aux utilisateurs de fusionner un nouvel appel qu’ils placent, ou un nouvel appel entrant, dans leur appel en tête à tête ou de groupe. Elle s’applique aux appels VOIP et appels PSTN Teams. 
@@ -1477,7 +1513,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="visio"></a>Visio
 
-- **Nouveaux pochoirs et formes Azure :** Nous avons ajouté de nombreux autres pochoirs pour vous aider à créer des diagrammes Azure actualisés. [En savoir plus](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **Nouveaux pochoirs et formes Azure :** Nous avons ajouté de nombreux autres pochoirs pour vous aider à créer des diagrammes Azure actualisés. [En savoir plus](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1521,7 +1557,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème entraînant l’affichage vide du champ À : dans les rapports sur l'état d'avancement des tâches.
+- Nous avons résolu un problème entraînant l’affichage vide du champ À : dans les rapports sur l'état d'avancement des tâches.
 
 
 - Nous avons résolu un problème qui causait la rupture de l'événement MailItem.BeforeAttachmentAdd.
@@ -1582,7 +1618,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Résolution d'un problème où les utilisateurs peuvent voir plusieurs affectations non assignées associées à une tâche.
 
 
-- Résolution d’un problème : dans les projets volumineux, la saisie d’un nom de tâche peut être très lente.
+- Résolution d’un problème : dans les projets volumineux, la saisie d’un nom de tâche peut être très lente.
 
 
 - Nous avons résolu un problème concernant des projets spécifiques qui pouvaient être ouverts s’il y avait un problème avec le fichier du projet dans une partie spécifique du chargement.
@@ -1613,15 +1649,15 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2011-december-01"></a>Version 2011 : 01 décembre
-*Version 2011 (Build 13426,20306)*
+## <a name="version-2011-december-01"></a>Version 2011 : 01 décembre
+*Version 2011 (Build 13426,20306)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Chaque réunion en ligne :** Simplifiez la planification des réunions en ligne à l’aide d’un nouveau paramètre qui définit toutes vos réunions en ligne par défaut.
+- **Chaque réunion en ligne :** Simplifiez la planification des réunions en ligne à l’aide d’un nouveau paramètre qui définit toutes vos réunions en ligne par défaut.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1636,7 +1672,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui envoyait l’annulation de réunion à des participants d’origine lorsqu’un autre participant transfère la réunion.
 
 
-- Nous avons résolu un problème où des utilisateurs ne voyaient aucune signature dans la liste déroulante de signatures en dépit de la configuration d’une ou de plusieurs signatures.
+- Nous avons résolu un problème où des utilisateurs ne voyaient aucune signature dans la liste déroulante de signatures en dépit de la configuration d’une ou de plusieurs signatures.
 
 
 ### <a name="project"></a>Projet
@@ -1647,7 +1683,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2011-november-24"></a>Version 2011 : 24 novembre
+## <a name="version-2011-november-24"></a>Version 2011 : 24 novembre
 *Version 2011 (build 13426.20294)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -1661,7 +1697,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2011-november-21"></a>Version 2011 : 21 novembre
+## <a name="version-2011-november-21"></a>Version 2011 : 21 novembre
 *Version 2011 (Build 13426.20274)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1669,7 +1705,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Bibliothèque vidéo :** Élever vos documents à l’aide d’une bibliothèque de métrages vidéo organisés et sans redevance disponibles dans l’application
+- **Bibliothèque vidéo :** Élever vos documents à l’aide d’une bibliothèque de métrages vidéo organisés et sans redevance disponibles dans l’application
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1693,11 +1729,11 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2011-november-18"></a>Version 2011 : 18 novembre
+## <a name="version-2011-november-18"></a>Version 2011 : 18 novembre
 *Version 2011 (Build 13426.20250)*
 * Diverses résolutions de bogues et de performances.
 
-## <a name="version-2011-november-16"></a>Version 2011 : 16 novembre
+## <a name="version-2011-november-16"></a>Version 2011 : 16 novembre
 *Version 2011 (Build 13426.20234)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1705,7 +1741,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Même signature, tous les appareils :** votre signature sont stockés dans le cloud. Créez-la et utilisez-la partout où vous utilisez Outlook.
+- **Même signature, tous les appareils :** votre signature sont stockés dans le cloud. Créez-la et utilisez-la partout où vous utilisez Outlook.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1717,7 +1753,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème qui faisait que le champ À : était vide lors de l’envoi du rapport d'état des tâches.
+- Nous avons résolu un problème qui faisait que le champ À : était vide lors de l’envoi du rapport d'état des tâches.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1728,7 +1764,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2011-november-09"></a>Version 2011 : 09 novembre
+## <a name="version-2011-november-09"></a>Version 2011 : 09 novembre
 *Version 2011 (build 13426.20184)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1736,7 +1772,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créez des flux de données Power Platform à partir de requêtes :** vous pouvez désormais exporter vos requêtes dans des modèles Power Query qui peuvent être utilisés pour la création de flux de données Power Platform
+- **Créez des flux de données Power Platform à partir de requêtes :** vous pouvez désormais exporter vos requêtes dans des modèles Power Query qui peuvent être utilisés pour la création de flux de données Power Platform
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1746,7 +1782,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -1768,7 +1804,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème d’échec de l’Enregistrement automatique avec un message d’erreur incorrect/équivoque lorsqu’il existe une définition de mesure incorrecte dans le modèle de données Excel.
 
 
-- Nous avons résolu un problème : Excel s’arrêtait de manière anormale lors du déclenchement du processus de calcul MTR et de mise à jour d’objet de stratégie de groupe (par exemple, via l’actualisation de la stratégie de groupe à distance).
+- Nous avons résolu un problème : Excel s’arrêtait de manière anormale lors du déclenchement du processus de calcul MTR et de mise à jour d’objet de stratégie de groupe (par exemple, via l’actualisation de la stratégie de groupe à distance).
 
 
 - Nous avons résolu un problème pour lequel un utilisateur n’a pas pu ouvrir le fichier atomsvc (UTF8 + BOM) à partir de SharePoint directement.
@@ -1782,10 +1818,10 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème : Outlook cessait sporadiquement de fonctionner lors de l’ajout ou de l’enregistrement de pièces jointes.
+- Nous avons résolu un problème : Outlook cessait sporadiquement de fonctionner lors de l’ajout ou de l’enregistrement de pièces jointes.
 
 
-- Nous avons résolu un problème lors duquel l’impression rapide de pièces jointes provoquait l’erreur « Windows ne trouve pas cette image. Vérifiez l’emplacement, puis réessayez ».
+- Nous avons résolu un problème lors duquel l’impression rapide de pièces jointes provoquait l’erreur « Windows ne trouve pas cette image. Vérifiez l’emplacement, puis réessayez ».
 
 
 - Nous avons résolu un problème qui entraînait le démarrage d’Outlook à l’état Hors connexion pour certains utilisateurs jusqu’à ce qu’ils choisissent de travailler en ligne.
@@ -1794,19 +1830,19 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème où lors du collage d’une URL copiée à partir d’un emplacement de réunion dans un autre emplacement (par exemple, un navigateur), l’URL contient un point-virgule à la fin.
 
 
-- Nous avons résolu un problème qui empêchait les utilisateurs de supprimer des rendez-vous dans le Calendrier des groupes Microsoft 365 dans l’authentification de base.
+- Nous avons résolu un problème qui empêchait les utilisateurs de supprimer des rendez-vous dans le Calendrier des groupes Microsoft 365 dans l’authentification de base.
 
 
 - Nous avons résolu un problème d’échec du démarrage d’Outlook lors du chargement du cache de surnom.
 
 
-- Nous avons résolu un problème : le propriétaire d’une boîte aux lettres ne pouvait pas gérer les autorisations partagées pour son propre calendrier, car l’option était grisée.
+- Nous avons résolu un problème : le propriétaire d’une boîte aux lettres ne pouvait pas gérer les autorisations partagées pour son propre calendrier, car l’option était grisée.
 
 
-- Nous avons résolu un problème : Outlook ne pouvait pas créer de message avec une autorisation restreinte.
+- Nous avons résolu un problème : Outlook ne pouvait pas créer de message avec une autorisation restreinte.
 
 
-- Nous avons résolu un problème : l’enregistrement de modèles d’e-mail au format .OFT transformait les caractères chinois en points d’interrogation.
+- Nous avons résolu un problème : l’enregistrement de modèles d’e-mail au format .OFT transformait les caractères chinois en points d’interrogation.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1820,13 +1856,13 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème dans lequel le mode protégé du diaporama, affiché par fichier pptsx, autorise la capture d’écran du document protégé par IRM.
 
 
-- Nous avons résolu un problème : les quadrillages étaient décalées des diapositives lors de la fermeture du volet de conception.
+- Nous avons résolu un problème : les quadrillages étaient décalées des diapositives lors de la fermeture du volet de conception.
 
 
 - Nous avons résolu un problème où lors de la duplication du diaporama vers le moniteur secondaire, le diaporama se masque derrière d’autres fenêtres.
 
 
-- Nous avons résolu un problème : une fois l’enregistrement de l’écran arrêté avec le volet de sélection ouvert, la barre de défilement de la diapositive commençait à se régler automatiquement.
+- Nous avons résolu un problème : une fois l’enregistrement de l’écran arrêté avec le volet de sélection ouvert, la barre de défilement de la diapositive commençait à se régler automatiquement.
 
 
 ### <a name="project"></a>Project
@@ -1840,7 +1876,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Résolution d’un problème où lorsque vous enregistrez un projet de PWA dans un fichier MPP local, ProjectBeforeTaskChangeEvent se déclenche pour les données qui n’ont pas été réellement modifiées par l’utilisateur.
 
 
-- Nous avons résolu un problème : les engagements de ressources recherchaient une ressource par nom au lieu de la rechercher par GUID. Cela entraînait des problèmes si plusieurs ressources portaient le même nom.
+- Nous avons résolu un problème : les engagements de ressources recherchaient une ressource par nom au lieu de la rechercher par GUID. Cela entraînait des problèmes si plusieurs ressources portaient le même nom.
 
 
 - Nous avons résolu un problème dans lequel l’utilisateur ne peut pas modifier rapidement la liste des tâches s’il dispose d’une liste de tâches dans un site de projets et regroupe la liste des tâches.
@@ -1854,10 +1890,10 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème dans lequel le zoom avant et arrière dans la zone de présentation a provoqué un intervalle entre le texte de sélection avec zoom et le pointeur de la souris.
 
 
-- Nous avons résolu un problème : un clic sur l’indicateur de commentaires ne permettait pas d’effectuer de zoom arrière pour afficher la carte Commentaire dans la vue.
+- Nous avons résolu un problème : un clic sur l’indicateur de commentaires ne permettait pas d’effectuer de zoom arrière pour afficher la carte Commentaire dans la vue.
 
 
-- Nous avons corrigé un problème de mise en page : la ligne entre les colonnes s’était peut-être décalée.
+- Nous avons corrigé un problème de mise en page : la ligne entre les colonnes s’était peut-être décalée.
 
 
 - Nous avons résolu un problème dans le Suivi des Modifications, ce qui peut afficher une boîte de dialogue d’erreur à l’ouverture d’un document Word.
@@ -1871,7 +1907,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons résolu un problème dans l’outil Déploiement d’Office, où la configuration échouait lors de l’utilisation de la fonctionnalité RemoveMSI lorsque le produit « Rapport d'erreurs d'une application Microsoft » d’Office 2007 était présent.
+- Nous avons résolu un problème dans l’outil Déploiement d’Office, où la configuration échouait lors de l’utilisation de la fonctionnalité RemoveMSI lorsque le produit « Rapport d'erreurs d'une application Microsoft » d’Office 2007 était présent.
 
 
 - Nous avons résolu un problème dans lequel la connexion interactive de l’API SSO renvoyait un code d’erreur.
@@ -1880,7 +1916,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2010-november-06"></a>Version 2010 : 06 novembre
+## <a name="version-2010-november-06"></a>Version 2010 : 06 novembre
 *Version 2010 (build 13328.20356)*
 * Diverses résolutions de bogues et de performances.
 
@@ -1891,7 +1927,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2010-november-04"></a>Version 2010 : 04 novembre
+## <a name="version-2010-november-04"></a>Version 2010 : 04 novembre
 *Version 2010 (build 13328.20340)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1899,23 +1935,23 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="outlook"></a>Outlook
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/svg-content-office-third-party-apps)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/svg-content-office-third-party-apps)
 
-- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/fr-FR/blog/export-animated-gifs-transparent-backgrounds)
+- **Créer des images GIF avec des arrière-plans transparents :** lors de l’exportation au format GIF animé, une nouvelle option vous permet de rendre l’arrière-plan transparent.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/fr-FR/blog/export-animated-gifs-transparent-backgrounds)
 
-- **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
+- **Exporter un fichier GIF animé dans une plage :** sélectionnez une plage de diapositives lorsque vous exportez au format GIF animé
 
 ### <a name="word"></a>Word
 
-- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Prise en charge du Presse-papiers SVG :** vous pouvez désormais coller du contenu SVG d’Office dans des applications tierces. [En savoir plus](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1938,7 +1974,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2010-october-27"></a>Version 2010: 27 octobre
+## <a name="version-2010-october-27"></a>Version 2010: 27 octobre
 *Version 2010 (build 13328.20292)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1962,7 +1998,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2010-october-24"></a>Version 2010: 24 octobre
+## <a name="version-2010-october-24"></a>Version 2010: 24 octobre
 *Version 2010 (build 13328.20278)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -1995,29 +2031,29 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2010-october-19"></a>Version 2010 : 19 octobre
-*Version 2010 (build 13328.20210)*
+## <a name="version-2010-october-19"></a>Version 2010 : 19 octobre
+*Version 2010 (build 13328.20210)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Gagnez du temps lors de la rédaction de messages :** Outlook vous présente comment rédiger des suggestions pour vous permettre de composer rapidement des messages. Pour accepter la suggestion, utilisez simplement la touche Tab.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/fr-FR/blog/text-predictions-in-word-outlook)
+- **Gagnez du temps lors de la rédaction de messages :** Outlook vous présente comment rédiger des suggestions pour vous permettre de composer rapidement des messages. Pour accepter la suggestion, utilisez simplement la touche Tab.<br />Si vous souhaitez en savoir plus, veuillez consulter le [billet de blog](https://insider.office.com/fr-FR/blog/text-predictions-in-word-outlook)
 
-- **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Dans un message, cliquez avec le bouton droit pour traduire certain mots, des expressions ou tout le message. [En savoir plus](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+- **Renversez la barrière de la langue avec un traducteur intégré :** plus besoin de compléments pour la traduction. Dans un message, cliquez avec le bouton droit pour traduire certain mots, des expressions ou tout le message. [En savoir plus](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
-- **Mise à jour de l’expérience utilisateur pour les tâches :** actualisation visuelle des éléments de tâches
+- **Mise à jour de l’expérience utilisateur pour les tâches :** actualisation visuelle des éléments de tâches
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Exercez-vous sur votre présentation avec l’Assistant de présentation :** bénéficiez d’un entraînement sur tout ce qui contribue à l’engagement d’une audience, par exemple la stimulation, l’utilisation excessive de certains mots, le langage du corps, et bien plus encore. [En savoir plus](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **Exercez-vous sur votre présentation avec l’Assistant de présentation :** bénéficiez d’un entraînement sur tout ce qui contribue à l’engagement d’une audience, par exemple la stimulation, l’utilisation excessive de certains mots, le langage du corps, et bien plus encore. [En savoir plus](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 ### <a name="word"></a>Word
 
-- **Le volet de l’éditeur Microsoft obtient une mise à jour dans Word pour le bureau :** nous avons mis à niveau l’expérience actuelle avec le volet Éditeur dans Word pour les clients de bureau.
+- **Le volet de l’éditeur Microsoft obtient une mise à jour dans Word pour le bureau :** nous avons mis à niveau l’expérience actuelle avec le volet Éditeur dans Word pour les clients de bureau.
 
-- **Suggestions d’écriture en un clic :** appliquez des suggestions d’écriture d’un simple clic. Le volet Éditeur mis à jour simplifie la navigation entre les suggestions.
+- **Suggestions d’écriture en un clic :** appliquez des suggestions d’écriture d’un simple clic. Le volet Éditeur mis à jour simplifie la navigation entre les suggestions.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2029,29 +2065,29 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="powerpoint"></a>PowerPoint
 
-- Ce correctif résout le problème suivant : l’invite Enregistrer s’affiche en boucle pendant la fermeture du document lorsqu’un complément écoute l’événement PresentationBeforeClose et vérifie la propriété Presentation.Saved comme partie du gestionnaire d’événements.
+- Ce correctif résout le problème suivant : l’invite Enregistrer s’affiche en boucle pendant la fermeture du document lorsqu’un complément écoute l’événement PresentationBeforeClose et vérifie la propriété Presentation.Saved comme partie du gestionnaire d’événements.
 
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2010-october-11"></a>Version 2010 : 11 octobre
-*Version 2010 (build 13328.20154)*
+## <a name="version-2010-october-11"></a>Version 2010 : 11 octobre
+*Version 2010 (build 13328.20154)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="word"></a>Word
 
-- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Contribuez à protéger vos données contre les fichiers malveillants :** Application Guard vous aide à vous protéger contre les programmes malveillants en vous permettant de lire, d’imprimer et d’enregistrer des fichiers Office dans un conteneur isolé. [En savoir plus](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2066,7 +2102,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème de mauvaise configuration de la barre de défilement lors du chargement de la fenêtre requête/relation enregistrée lors du défilement.
 
 
-- Nous avons résolu un problème dans lequel le volet Ajouter une table du volet Office n’affichait pas correctement les noms contenant « & ».
+- Nous avons résolu un problème dans lequel le volet Ajouter une table du volet Office n’affichait pas correctement les noms contenant « & ».
 
 
 ### <a name="excel"></a>Excel
@@ -2077,13 +2113,13 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Résolution d’un problème lié aux graphiques de carte 2D pour lesquels l’usage de VBA pour définir les couleurs des valeurs max, mid et min d’une série ne fonctionnait pas.
 
 
-- Résolution d’un problème pouvant être à l’origine du message d’erreur « Excel a manqué de ressources lors de la tentative de calcul d’une ou plusieurs formules ».
+- Résolution d’un problème pouvant être à l’origine du message d’erreur « Excel a manqué de ressources lors de la tentative de calcul d’une ou plusieurs formules ».
 
 
 - Résolution d’un problème empêchant parfois, lorsque la langue d’Office était définie sur l’espagnol, l’affichage de tous les éléments d’une liste de validation des données.
 
 
-- Correction d’un problème qui provoquait un délai considérable lorsque vous basculiez entre des feuilles de calcul comportant de grandes quantités de données lorsque l’option « Aperçu des sauts de page » était activée.
+- Correction d’un problème qui provoquait un délai considérable lorsque vous basculiez entre des feuilles de calcul comportant de grandes quantités de données lorsque l’option « Aperçu des sauts de page » était activée.
 
 
 - Nous avons résolu un problème d’absence de mise à jour des options pour toutes les feuilles du classeur lors d’un ajout à une table utilisée pour la validation des données.
@@ -2100,10 +2136,10 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="onenote"></a>OneNote
 
-- Nous avons résolu un problème : un utilisateur ne pouvait pas sélectionner et copier l’URL du bloc-notes depuis la zone de texte dans OutSpace Fichier > Info.
+- Nous avons résolu un problème : un utilisateur ne pouvait pas sélectionner et copier l’URL du bloc-notes depuis la zone de texte dans OutSpace Fichier > Info.
 
 
-- Nous avons résolu un problème de fenêtre contextuelle qui affichait « craie rouge » lors du survol de la couleur verte dans le sélecteur de couleurs d’un bloc-notes.
+- Nous avons résolu un problème de fenêtre contextuelle qui affichait « craie rouge » lors du survol de la couleur verte dans le sélecteur de couleurs d’un bloc-notes.
 
 
 - Nous avons résolu un problème dans lequel OneNote ne respectait pas les couleurs à contraste élevé dans la zone de dessin pour les thèmes personnalisés.
@@ -2120,16 +2156,16 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Lorsqu’un utilisateur copiait et collait une adresse de messagerie dans le champ destinataire avec le nom complet, l’adresse de messagerie n’était pas systématiquement analysée correctement, ce qui provoquait l’affichage d’un message d’avertissement indiquant l’utilisation d’une adresse de messagerie non valide.  Le problème a été résolu de sorte que le nom et l’adresse de messagerie soient analysés correctement et que l’avertissement ne s’affiche plus.
 
 
-- Nous avons résolu un problème : les dossiers partagés en ligne ne renvoyaient pas de nom de dossier parent. Au lieu d’un message d’échec, le programme renvoyait un chemin d’accès vide vers le compte principal de manière incorrecte.
+- Nous avons résolu un problème : les dossiers partagés en ligne ne renvoyaient pas de nom de dossier parent. Au lieu d’un message d’échec, le programme renvoyait un chemin d’accès vide vers le compte principal de manière incorrecte.
 
 
-- Nous avons résolu un problème : l’option Enregistrer sous n’était pas disponible pour les pièces jointes classiques.
+- Nous avons résolu un problème : l’option Enregistrer sous n’était pas disponible pour les pièces jointes classiques.
 
 
 - Nous avons résolu un problème pour permettre à un utilisateur de personnaliser le texte de la justification lors du remplacement d’une politique.
 
 
-- Nous avons résolu un problème : le suivi des modifications était activé après la réouverture du brouillon depuis le volet d’aperçu en lecture seule.
+- Nous avons résolu un problème : le suivi des modifications était activé après la réouverture du brouillon depuis le volet d’aperçu en lecture seule.
 
 
 - Correction d’un problème à cause duquel les messages étaient masqués après la désactivation de la boîte de réception Prioritaire et après un tri.
@@ -2140,33 +2176,33 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Nous avons résolu un problème : PowerPoint n’exportait pas les puces rectangulaires au format PDF.
+- Nous avons résolu un problème : PowerPoint n’exportait pas les puces rectangulaires au format PDF.
 
 
-- Nous avons corrigé un problème à cause duquel les images GIF ne s’animaient qu’une seule fois dans l’éditeur et les diaporamas.
+- Nous avons corrigé un problème à cause duquel les images GIF ne s’animaient qu’une seule fois dans l’éditeur et les diaporamas.
 
 
 - Nous avons résolu un problème dans lequel un graphique Excel lié se convertissait de manière incorrecte en feuille Excel lorsque l’utilisateur modifiait le chemin d’accès source vers le dossier OneDrive local.
 
 
-- Nous avons résolu un problème : une fois sur la dernière diapositive, si vous balayiez l’écran vers la diapositive suivante après avoir appuyé sur « Terminer la session » et avant l’affichage du résumé, la boîte de dialogue de fin de session apparaissait également dans la page Résumé.
+- Nous avons résolu un problème : une fois sur la dernière diapositive, si vous balayiez l’écran vers la diapositive suivante après avoir appuyé sur « Terminer la session » et avant l’affichage du résumé, la boîte de dialogue de fin de session apparaissait également dans la page Résumé.
 
 
 ### <a name="project"></a>Project
 
-- Nous avons résolu un problème : la méthode VBA ConsolidateProjects risquait d’échouer si vous essayiez d’ajouter le même projet plusieurs fois et si AttachToSources avait la valeur false.
+- Nous avons résolu un problème : la méthode VBA ConsolidateProjects risquait d’échouer si vous essayiez d’ajouter le même projet plusieurs fois et si AttachToSources avait la valeur false.
 
 
 - Correction d'un problème où si vous avez un code d'événement en cours d'exécution et que vous essayez d'effectuer des changements par le biais d'une vue du formulaire des tâches, le fait de cliquer sur le bouton OK peut ne pas valider les changements.
 
 
-- Nous avons résolu un problème : la méthode VBA ConsolidateProjects risquait d’échouer si vous essayiez d’ajouter le même projet plusieurs fois et si AttachToSources avait la valeur false.
+- Nous avons résolu un problème : la méthode VBA ConsolidateProjects risquait d’échouer si vous essayiez d’ajouter le même projet plusieurs fois et si AttachToSources avait la valeur false.
 
 
-- Nous avons résolu un problème : si des champs personnalisés comportaient des formules et que vous utilisiez une valeur acquise, des retards risquaient de survenir lors du passage d’une vue à une autre et de l’affichage d’informations sur un projet/une tâche.
+- Nous avons résolu un problème : si des champs personnalisés comportaient des formules et que vous utilisiez une valeur acquise, des retards risquaient de survenir lors du passage d’une vue à une autre et de l’affichage d’informations sur un projet/une tâche.
 
 
-- Nous avons résolu un problème : Project pouvait se bloquer si vous appliquiez la fonction Grouper par à la vue Utilisation des ressources ou Feuille, puis insériez une colonne.
+- Nous avons résolu un problème : Project pouvait se bloquer si vous appliquiez la fonction Grouper par à la vue Utilisation des ressources ou Feuille, puis insériez une colonne.
 
 
 ### <a name="word"></a>Word
@@ -2191,25 +2227,25 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="office-suite"></a>Suite Office
 
-- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
 
 
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
-## <a name="version-2009-october-07"></a>Version 2009 : 07 octobre
-*Version 2009 (build 13231.20360)*
+## <a name="version-2009-october-07"></a>Version 2009 : 07 octobre
+*Version 2009 (build 13231.20360)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données
+- **Créer des types de données à l’aide de Power Query :** créez des types de données enrichis avec Power Query à partir de n’importe quelle source de données
 
 ### <a name="outlook"></a>Outlook
 
-- **La vérification de la grammaire vous soutient :** Outlook signale les fautes de grammaire au cours de la frappe. Vous pouvez ainsi appliquer des suggestions d’un simple clic. <br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/grammar-and-style-suggestions-available-in-outlook)
+- **La vérification de la grammaire vous soutient :** Outlook signale les fautes de grammaire au cours de la frappe. Vous pouvez ainsi appliquer des suggestions d’un simple clic. <br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2237,7 +2273,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="office-suite"></a>Suite Office
 
-- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
+- Lorsque l’utilisateur imprime un document/fichier sur des imprimantes à jet d’encre à partir d’Office et que l’encre est faible, le message « Toner faible » ou « Aucun toner » s’affiche, même si les imprimantes à jet d’encre n’ont pas de toners. Modification du message pour afficher « Toner/encre faible » et « Aucun toner/encre ».
 
 
 
@@ -2261,7 +2297,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LE CONTENU BUGDETAILS FIN)
 
-## <a name="version-2009-september-21"></a>Version 2009 : 21 septembre
+## <a name="version-2009-september-21"></a>Version 2009 : 21 septembre
 *Version 2009 (Build 13231.20200)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -2269,49 +2305,49 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="access"></a>Access
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="excel"></a>Excel
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="onenote"></a>OneNote
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="outlook"></a>Outlook
 
-- **Supprimer la conversation par propriétaire du message :** cette fonctionnalité vous permet de supprimer une conversation par propriétaire du message.
+- **Supprimer la conversation par propriétaire du message :** cette fonctionnalité vous permet de supprimer une conversation par propriétaire du message.
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="project"></a>Project
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="publisher"></a>Éditeur
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="visio"></a>Visio
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="word"></a>Word
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
 
-- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+- **Changer de thème Office automatiquement :** Office peut changer automatiquement les thèmes pour les adapter à vos paramètres de thème Windows 10. Accédez à Fichier > Options, puis sélectionnez « Utiliser le paramètre système » en regard de thème Office. [En savoir plus](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2329,7 +2365,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2009-september-14"></a>Version 2009 : 14 septembre
+## <a name="version-2009-september-14"></a>Version 2009 : 14 septembre
 *Version 2009 (Build 13231.20152)*
 * Diverses résolutions de bogues et de performances.
 
@@ -2339,8 +2375,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2009-september-10"></a>Version 2009 : 10 septembre
-*Version 2009 (Build 13231.20126)*
+## <a name="version-2009-september-10"></a>Version 2009 : 10 septembre
+*Version 2009 (Build 13231.20126)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -2355,7 +2391,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="excel"></a>Excel
 
-- Nous avons résolu un problème qui affichait l’alerte suivante lorsque vous ouvriez un fichier contenant la fonction LET : « Désolé... Nous avons trouvé un problème dans le contenu de « votre fichier.xlsx », mais nous pouvons essayer de récupérer le maximum de contenu. Si la source de ce classeur est fiable, cliquez sur Oui. ».
+- Nous avons résolu un problème qui affichait l’alerte suivante lorsque vous ouvriez un fichier contenant la fonction LET : « Désolé... Nous avons trouvé un problème dans le contenu de « votre fichier.xlsx », mais nous pouvons essayer de récupérer le maximum de contenu. Si la source de ce classeur est fiable, cliquez sur Oui. ».
 
 
 - Nous avons résolu un problème qui faisait que si un utilisateur tapait un nom de formule incluant la parenthèse et invoquait l'aide via F1, la rubrique d'aide propre à cette formule ne s'affichait pas.
@@ -2367,10 +2403,10 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui faisait que les utilisateurs ne pouvaient pas modifier un filtre de tableau croisé dynamique, car il était défini sur une valeur qui n’était plus présente dans une base de données Analysis Services.
 
 
-- Correction d’un blocage lié aux plages nommées et aux références de complément XLAM.
+- Correction d’un blocage lié aux plages nommées et aux références de complément XLAM.
 
 
-- Nous avons résolu un problème qui faisait que lorsqu’un utilisateur appliquait un style personnalisé à un tableau dynamique, il obtenait l’erreur suivante : « Vous ne pouvez pas modifier une partie de tableau. ». Il s’agissait d’une restriction héritée qui a été supprimée.
+- Nous avons résolu un problème qui faisait que lorsqu’un utilisateur appliquait un style personnalisé à un tableau dynamique, il obtenait l’erreur suivante : « Vous ne pouvez pas modifier une partie de tableau. ». Il s’agissait d’une restriction héritée qui a été supprimée.
 
 
 - Correction d’un problème à cause duquel les macros affectées à des boutons ont été rompues après la restauration d’une version antérieure du fichier.
@@ -2393,7 +2429,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui faisait que l’exécution du code VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage") suite à l’activation du ruban à ligne unique (SLR) générait une erreur d’exécution.
 
 
-- Nous avons résolu un problème qui faisait que les boutons OK et Annuler dans la boîte de dialogue Réponses automatiques n’étaient pas visibles sur un système avec une haute résolution (par exemple, 1 750 x 1 920) associée à une taille de texte importante (par exemple, 175 %).
+- Nous avons résolu un problème qui faisait que les boutons OK et Annuler dans la boîte de dialogue Réponses automatiques n’étaient pas visibles sur un système avec une haute résolution (par exemple, 1 750 x 1 920) associée à une taille de texte importante (par exemple, 175 %).
 
 
 - Nous avons résolu un problème qui entraînait un blocage après l’envoi d’une demande de réunion à partir d’un groupe de contacts vide vers un autre groupe de contacts.
@@ -2405,13 +2441,13 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui faisait que si la stratégie de groupe nécessitait qu’un complément soit toujours activé, le complément de surveillance devenait indisponible afin d’empêcher les utilisateurs de le désactiver.
 
 
-- Résout un problème qui permettait aux utilisateurs d’envoyer du contenu de courrier pour lequel une stratégie « Ne pas transférer » était appliquée à OneNote lors de la sélection de plusieurs messages.
+- Résout un problème qui permettait aux utilisateurs d’envoyer du contenu de courrier pour lequel une stratégie « Ne pas transférer » était appliquée à OneNote lors de la sélection de plusieurs messages.
 
 
 - Nous avons résolu un problème concernant la gestion des droits relatifs à l’information. Désormais, les utilisateurs peuvent désactiver la gestion des droits relatifs à l’information pour Outlook sans avoir à le faire pour le reste des applications Office.
 
 
-- Nous avons résolu un problème dans lequel les attributs de compte d’utilisateur dans Active Directory pour « otherTelephone » et « otherHomePhone » n’ont pas été mappés aux attributs LDAP Outlook correspondants.
+- Nous avons résolu un problème dans lequel les attributs de compte d’utilisateur dans Active Directory pour « otherTelephone » et « otherHomePhone » n’ont pas été mappés aux attributs LDAP Outlook correspondants.
 
 
 - Cette modification résout un problème à l’origine de l’affichage de la page de réunion une fois que l’utilisateur a remplacé les onglets de la page de réunion par la page de l’Assistant Planification.
@@ -2461,7 +2497,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui faisait que si un utilisateur créait un brouillon de commentaire ancré sur une ligne contenant déjà des commentaires validés, celui-ci était organisé dans un ordre incorrect par rapport au commentaire validé dans le SideTrack.
 
 
-- Nous avons résolu un problème qui faisait que le focus ne se dirigeait pas vers le volet Commentaires si le document était agrandi à 160 % ou plus et que le volet Commentaires n’était pas visible.
+- Nous avons résolu un problème qui faisait que le focus ne se dirigeait pas vers le volet Commentaires si le document était agrandi à 160 % ou plus et que le volet Commentaires n’était pas visible.
 
 
 - Nous avons résolu un problème qui empêchait les utilisateurs de voir les threads de commentaires qui dépassaient la limite Sidetrack, car le fait de faire défiler le Sidetrack ne fonctionnait pas.
@@ -2473,7 +2509,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui faisait que les commentaires d’un document étaient affichés sur d’autres documents ouverts suite à la transition entre les différents documents ouverts.
 
 
-- Correction d’un problème à cause duquel les liens longs n’étaient pas encapsulés lors de l’enregistrement d’un document au format HTML.
+- Correction d’un problème à cause duquel les liens longs n’étaient pas encapsulés lors de l’enregistrement d’un document au format HTML.
 
 
 - Correction d’un problème concernant les puces qui, dans certains cas, ne s’affichent pas correctement dans les e-mails.
@@ -2484,7 +2520,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons résolu un problème dans l’outil Déploiement d’Office, où la configuration échouait lors de l’utilisation de la fonctionnalité RemoveMSI lorsque le produit « Rapport d'erreurs d'une application Microsoft » d’Office 2007 était présent.
+- Nous avons résolu un problème dans l’outil Déploiement d’Office, où la configuration échouait lors de l’utilisation de la fonctionnalité RemoveMSI lorsque le produit « Rapport d'erreurs d'une application Microsoft » d’Office 2007 était présent.
 
 
 - Nous avons résolu un problème dans la boîte de dialogue Compresser l’image dans laquelle certains paramètres ppp sélectionnés par l’utilisateur n’étaient pas conservés.
@@ -2496,8 +2532,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2008-september-04"></a>Version 2008 : 4 septembre
-*Version 2008 (build 13127.20378)*
+## <a name="version-2008-september-04"></a>Version 2008 : 4 septembre
+*Version 2008 (build 13127.20378)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -2510,7 +2546,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2008-september-02"></a>Version 2008 : 02 septembre
+## <a name="version-2008-september-02"></a>Version 2008 : 02 septembre
 *Version 2008 (Build 13127.20360)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -2518,9 +2554,9 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Enregistrer les formes en tant qu’images :** en quelques clics seulement, enregistrez une forme, une icône ou un autre objet sous la forme d’un fichier image pour le réutiliser ailleurs. [En savoir plus](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Effectuez des modifications rapides à l’aide du stylet Excel :** un outil Stylet pour vous permettre d’écrire et de modifier rapidement vos données
+- **Effectuez des modifications rapides à l’aide du stylet Excel :** un outil Stylet pour vous permettre d’écrire et de modifier rapidement vos données
 
 
 
@@ -2544,8 +2580,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2008-august-27"></a>Version 2008 : 27 août
-*Version 2008 (build 13127.20296)*
+## <a name="version-2008-august-27"></a>Version 2008 : 27 août
+*Version 2008 (build 13127.20296)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -2559,7 +2595,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
 
-- Résout un problème qui faisait que les utilisateurs qui tentaient de créer une demande de réunion à partir d’un compte secondaire ajoutés à leur profil voyaient un champ « De : » vide, plutôt que leur adresse de courrier.
+- Résout un problème qui faisait que les utilisateurs qui tentaient de créer une demande de réunion à partir d’un compte secondaire ajoutés à leur profil voyaient un champ « De : » vide, plutôt que leur adresse de courrier.
 
 - Résout un problème qui empêchait des utilisateurs de se connecter aux dossiers publics suite à l’ajout d’une boîte aux lettres partagée.
 
@@ -2579,7 +2615,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2008-august-25"></a>Version 2008 : 25 août
+## <a name="version-2008-august-25"></a>Version 2008 : 25 août
 *Version 2008 (build 13127.20268)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -2587,7 +2623,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Recevez des suggestions par courrier électronique lorsque vous effectuez une recherche par personne :** lorsque vous tapez vos termes de recherche dans Outlook, vous recevez les messages les plus pertinents dans les suggestions.
+- **Recevez des suggestions par courrier électronique lorsque vous effectuez une recherche par personne :** lorsque vous tapez vos termes de recherche dans Outlook, vous recevez les messages les plus pertinents dans les suggestions.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2599,7 +2635,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
 
-- Résolution d’un problème qui a provoqué l’affichage du message d’erreur suivant lors de la réponse à un nouveau message électronique ou de la rédaction de nouveaux messages électroniques. Certains fichiers de cette page web ne se trouvent pas à l’emplacement prévu. Voulez-vous les télécharger quand même ? Si vous êtes sûr de la source de cette page web, cliquez sur Oui. »
+- Résolution d’un problème qui a provoqué l’affichage du message d’erreur suivant lors de la réponse à un nouveau message électronique ou de la rédaction de nouveaux messages électroniques. Certains fichiers de cette page web ne se trouvent pas à l’emplacement prévu. Voulez-vous les télécharger quand même ? Si vous êtes sûr de la source de cette page web, cliquez sur Oui. »
 
 
 ### <a name="project"></a>Project
@@ -2615,7 +2651,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2008-august-17"></a>Version 2008 : 17 août
+## <a name="version-2008-august-17"></a>Version 2008 : 17 août
 *Version 2008 (build 13127.20208)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -2629,7 +2665,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui empêchait les utilisateurs de certains jeux de caractères de voir les noms des fichiers s’afficher de façon incorrecte lors de l’ajout d’un lien hypertexte vers un fichier SharePoint.
 
 
-- Nous avons résolu un problème qui entraînait l’arrêt d’un blocage lors de la suppression de 4 courriers électroniques ou plus à partir d’un compte POP avec l’option « Télécharger les en-têtes uniquement » sélectionnée.
+- Nous avons résolu un problème qui entraînait l’arrêt d’un blocage lors de la suppression de 4 courriers électroniques ou plus à partir d’un compte POP avec l’option « Télécharger les en-têtes uniquement » sélectionnée.
 
 
 - Résoudre un problème à l’origine du menu contextuel avec clic droit dans les contrôles de recherche.
@@ -2638,7 +2674,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2008-august-11"></a>Version 2008 : 11 août
+## <a name="version-2008-august-11"></a>Version 2008 : 11 août
 *Version 2008 (build 13127.20164)*
 
 Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
@@ -2647,13 +2683,13 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
-- Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
+- Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
-- Si Office 365 est installé sur votre ordinateur, vous n’avez plus besoin d’installer notre moteur redistribuable ACE pour exposer l’ACE en dehors de l’écosystème Office. Par conséquent, pour les utilisateurs Office 365, vous n’avez plus besoin du moteur de redistribution ACE. par conséquent, vous ne pouvez pas rencontrer ce problème.
+- Si Office 365 est installé sur votre ordinateur, vous n’avez plus besoin d’installer notre moteur redistribuable ACE pour exposer l’ACE en dehors de l’écosystème Office. Par conséquent, pour les utilisateurs Office 365, vous n’avez plus besoin du moteur de redistribution ACE. par conséquent, vous ne pouvez pas rencontrer ce problème.
 
-- Ce problème a été résolu, vous pouvez désormais utiliser notre pilote ODBC en dehors des applications « Démarrer en un clic » d’Office.
+- Ce problème a été résolu, vous pouvez désormais utiliser notre pilote ODBC en dehors des applications « Démarrer en un clic » d’Office.
 
 ### <a name="excel"></a>Excel
 
@@ -2661,7 +2697,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Une erreur peut se produire lorsque vous essayez d’enregistrer un fichier qui contient une formule à l’aide de la fonction LET ().
 
-- Nous avons résolu un problème pour lequel les graphiques n’étaient pas toujours mis à jour comme prévu lorsque la « ForceFullCalculation » a été activée via VBA pour le classeur.
+- Nous avons résolu un problème pour lequel les graphiques n’étaient pas toujours mis à jour comme prévu lorsque la « ForceFullCalculation » a été activée via VBA pour le classeur.
 
 - Nous avons résolu un problème dans lequel la copie d’une image avec un remplissage en dégradé radial ne correspondait pas à l’original.
 
@@ -2677,9 +2713,9 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Nous avons résolu un problème qui a provoqué l’échec de l’affichage de l’icône de verrou dans l’en-tête de messages chiffrés S/MIME.
 
-- Nous avons résolu un problème dans lequel l’option autoriser le transfert n’était pas disponible dans le calendrier partagé « Options de réponse » si l’option Télécharger le dossier partagé n’a PAS été activée.
+- Nous avons résolu un problème dans lequel l’option autoriser le transfert n’était pas disponible dans le calendrier partagé « Options de réponse » si l’option Télécharger le dossier partagé n’a PAS été activée.
 
-- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
+- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
 
 - Nous avons résolu un problème qui afficherait le bouton imprimer dans un état désactivé, même si l’utilisateur disposait des autorisations d’impression appropriées.
 
@@ -2731,13 +2767,13 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Nous avons résolu un problème à l’origine de l’ouverture inopinée du volet de révision lors de l’ajout d’un commentaire pour suivre une modification.
 
-- Nous avons résolu un problème dans lequel la commande « éditeur » était désactivée lorsque le focus se trouvait dans une zone de texte de commentaire.
+- Nous avons résolu un problème dans lequel la commande « éditeur » était désactivée lorsque le focus se trouvait dans une zone de texte de commentaire.
 
-- Nous avons résolu un problème dans lequel la commande « Afficher les marques » était désactivée lorsque le focus se trouvait dans une zone de texte de commentaire.
+- Nous avons résolu un problème dans lequel la commande « Afficher les marques » était désactivée lorsque le focus se trouvait dans une zone de texte de commentaire.
 
-- Nous avons résolu un problème dans lequel le bouton « Nouveau commentaire » serait désactivé une fois le dernier commentaire supprimé.
+- Nous avons résolu un problème dans lequel le bouton « Nouveau commentaire » serait désactivé une fois le dernier commentaire supprimé.
 
-- Nous avons résolu un problème de désactivation de l’option « Utilisateurs spécifiques » pour le Suivi des modifications.
+- Nous avons résolu un problème de désactivation de l’option « Utilisateurs spécifiques » pour le Suivi des modifications.
 
 - Nous avons résolu un problème dans lequel les liens vers des documents n’étaient pas insérés dans la zone de commentaires via Insérer-> Liste déroulante du lien.
 
@@ -2757,8 +2793,8 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2007-august-05"></a>Version 2007 : 05 août
-*Version 2007 (Build 13029,20344)*
+## <a name="version-2007-august-05"></a>Version 2007 : 05 août
+*Version 2007 (Build 13029,20344)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
@@ -2787,23 +2823,23 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2007-july-29"></a>Version 2007 : 29 juillet
-*Version 2007 (build 13029.20308)*
+## <a name="version-2007-july-29"></a>Version 2007 : 29 juillet
+*Version 2007 (build 13029.20308)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Obtenir des données d’organisation à partir de Power BI à l’aide de types de données :** les types de données Excel de Power BI sont désormais déployés pour les Insiders dans les organisations avec Office 365 E5/A5 ou Microsoft 365 E5/A5. Il est essentiel de récupérer les informations dont vous avez besoin et de les actualiser facilement dans de nombreux flux de travail quotidiens. Nous vous donnons accès aux informations sur votre entreprise ou organisation à partir de Power BI sous la forme d'un type de données dans Excel, ce qui vous permet d'introduire des informations liées dans vos feuilles de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Obtenir des données d’organisation à partir de Power BI à l’aide de types de données :** les types de données Excel de Power BI sont désormais déployés pour les Insiders dans les organisations avec Office 365 E5/A5 ou Microsoft 365 E5/A5. Il est essentiel de récupérer les informations dont vous avez besoin et de les actualiser facilement dans de nombreux flux de travail quotidiens. Nous vous donnons accès aux informations sur votre entreprise ou organisation à partir de Power BI sous la forme d'un type de données dans Excel, ce qui vous permet d'introduire des informations liées dans vos feuilles de calcul. [Si vous souhaitez en savoir plus](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
-- **Sélectionner l’emplacement de la recherche :** La liste déroulante de la nouvelle étendue de recherche vous permet de modifier plus facilement votre recherche et de basculer entre le Dossier actuel et la Boîte aux lettres actuelle. Nous vous remercions tous ceux qui ont fourni des commentaires sur la nouvelle expérience de Recherche en haut dans Bientôt disponible. Cette conception et cette mise à jour sont issues de ces commentaires.
+- **Sélectionner l’emplacement de la recherche :** La liste déroulante de la nouvelle étendue de recherche vous permet de modifier plus facilement votre recherche et de basculer entre le Dossier actuel et la Boîte aux lettres actuelle. Nous vous remercions tous ceux qui ont fourni des commentaires sur la nouvelle expérience de Recherche en haut dans Bientôt disponible. Cette conception et cette mise à jour sont issues de ces commentaires.
 
 ### <a name="word"></a>Word
 
-- **Améliorez la collaboration grâce aux commentaires modernes :** Ajoutez des commentaires aux objets, @mentionner des collègues et résolvez les fils de commentaires pour améliorer l’expérience de collaboration. [En savoir plus](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
+- **Améliorez la collaboration grâce aux commentaires modernes :** Ajoutez des commentaires aux objets, @mentionner des collègues et résolvez les fils de commentaires pour améliorer l’expérience de collaboration. [En savoir plus](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2827,15 +2863,15 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2007-july-27"></a>Version 2007 : 27 juillet
-*Version 2007 (build 13029.20292)*
+## <a name="version-2007-july-27"></a>Version 2007 : 27 juillet
+*Version 2007 (build 13029.20292)*
 * Diverses résolutions de bogues et de performances.
 
-## <a name="version-2007-july-20"></a>Version 2007 : 20 juillet
+## <a name="version-2007-july-20"></a>Version 2007 : 20 juillet
 *Version 2007 (Build 13029.20236)*
 * Diverses résolutions de bogues et de performances.
 
-## <a name="version-2007-july-15"></a>Version 2007 : 15 juillet
+## <a name="version-2007-july-15"></a>Version 2007 : 15 juillet
 *Version 2007 (Build 13029.20200)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -2843,7 +2879,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme en plaçant des données dans une feuille de calcul. [En savoir plus](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -2869,9 +2905,9 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème dans lequel une erreur ou un blocage peut se produire lors du chargement d’un classeur avec plusieurs feuilles en mode aperçu des sauts de page.
 
-- Nous avons résolu un problème dans lequel les tableaux du modèle de données créées dans certaines versions d’Excel ne pouvaient pas être affichées dans « Aperçu de la tableau », même si la requête associée au tableau n’a pas été modifiée.
+- Nous avons résolu un problème dans lequel les tableaux du modèle de données créées dans certaines versions d’Excel ne pouvaient pas être affichées dans « Aperçu de la tableau », même si la requête associée au tableau n’a pas été modifiée.
 
-- Les références « ignorer relatif/absolu » dans la boîte de dialogue « Définir le nom \ Appliquer les noms » pourraient empêcher les formules de fonctionner.
+- Les références « ignorer relatif/absolu » dans la boîte de dialogue « Définir le nom \ Appliquer les noms » pourraient empêcher les formules de fonctionner.
 
 - Nous avons résolu un problème dans lequel CustomUI XML pour un onglet de ruban personnalisé a été supprimé lors de l’enregistrement d’un classeur dans SharePoint/OneDrive.
 
@@ -2896,31 +2932,31 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème à l’origine du blocage d’Outlook si plus de 130 destinataires ont été trouvés sur la ligne « À ». nous avons également amélioré les performances de rendu du texte.
+- Nous avons résolu un problème à l’origine du blocage d’Outlook si plus de 130 destinataires ont été trouvés sur la ligne « À ». nous avons également amélioré les performances de rendu du texte.
 
 
 - Nous avons résolu un problème dans lequel la fenêtre IME (éditeur de méthode d’entrée) chevaucherait le texte sous-jacent entré via l’IME lors de l’utilisation de plusieurs moniteurs avec des résolutions différentes.
 
 
-- Nous avons résolu un problème dans la « Barre des tâches » où les événements se sont écoulés depuis plus de deux jours, affichant la même heure de fin pour tous les jours suivants.
+- Nous avons résolu un problème dans la « Barre des tâches » où les événements se sont écoulés depuis plus de deux jours, affichant la même heure de fin pour tous les jours suivants.
 
 
-- Résolution d’un problème : la date de création des pièces jointes que les utilisateurs avaient copiées dans leur système de fichiers par glisser-déplacer était le 1er janvier 4501.
+- Résolution d’un problème : la date de création des pièces jointes que les utilisateurs avaient copiées dans leur système de fichiers par glisser-déplacer était le 1er janvier 4501.
 
 
-- Nous avons résolu un problème pour lequel les utilisateurs ne pouvaient pas « Envoyer en tant que » ou « Envoyer de la part de » d’une liste de distribution.
+- Nous avons résolu un problème pour lequel les utilisateurs ne pouvaient pas « Envoyer en tant que » ou « Envoyer de la part de » d’une liste de distribution.
 
 
 - Nous avons résolu un problème qui empêchait les délégués de recevoir une erreur lors de la modification d’un rendez-vous existant dans le calendrier d’un responsable.
 
 
-- Nous avons résolu un problème à l’origine de l’erreur qui s’est produite lors de la fermeture d’un rendez-vous qui a été enregistré précédemment « L’élément ne peut pas être enregistré parce qu’il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous faire une copie dans le dossier par défaut pour l’élément ? »
+- Nous avons résolu un problème à l’origine de l’erreur qui s’est produite lors de la fermeture d’un rendez-vous qui a été enregistré précédemment « L’élément ne peut pas être enregistré parce qu’il a été modifié par un autre utilisateur ou dans une autre fenêtre. Voulez-vous faire une copie dans le dossier par défaut pour l’élément ? »
 
 
-- Correction d'un problème qui entraînait l'absence de l'option « Autoriser le transfert » dans les réunions du calendrier partagé « Options de réponse » lorsque l'option « Télécharger le dossier partagé » n'a PAS été activée.
+- Correction d'un problème qui entraînait l'absence de l'option « Autoriser le transfert » dans les réunions du calendrier partagé « Options de réponse » lorsque l'option « Télécharger le dossier partagé » n'a PAS été activée.
 
 
-- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
+- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
 
 
 - Nous avons résolu un problème qui empêchait les utilisateurs d'Outlook de voir leur liste de messages cesser de se mettre à jour pendant plusieurs minutes après avoir utilisé des calendriers partagés.
@@ -2946,7 +2982,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 - Nous avons résolu un problème pour lequel le fait de coller du code HTML dans une zone de texte d’une diapositive était plutôt copié dans une zone de texte créée en haut de la diapositive.
 
 
-- Nous avons résolu un problème dans lequel le fait de sélectionner toutes les diapositives en mode Présentateur, puis de quitter le mode présentateur à l’aide de Alt + Tab pour revenir au diaporama et cliquer sur « Arrêter le diaporama » aurait pour résultat une exception non gérée.
+- Nous avons résolu un problème dans lequel le fait de sélectionner toutes les diapositives en mode Présentateur, puis de quitter le mode présentateur à l’aide de Alt + Tab pour revenir au diaporama et cliquer sur « Arrêter le diaporama » aurait pour résultat une exception non gérée.
 
 
 ### <a name="project"></a>Project
@@ -2960,7 +2996,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 - Nous avons résolu un problème dans lequel Project se bloque lors de l’ouverture de certains fichiers XML.
 
 
-- Nous avons résolu un problème qui empêchait l'ouverture de projets dans le client de bureau Project à partir de la Project Web App si l'URL se terminait par « .com ».
+- Nous avons résolu un problème qui empêchait l'ouverture de projets dans le client de bureau Project à partir de la Project Web App si l'URL se terminait par « .com ».
 
 
 - Résolution d'un problème où si vous collez une tâche présentant plusieurs dépendances, toutes les dépendances n’ont pas été correctement copiées.
@@ -3022,7 +3058,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2006-july-09"></a>Version 2006 : 9 juillet
+## <a name="version-2006-july-09"></a>Version 2006 : 9 juillet
 *Version 2006 (Build 13001.20384)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3030,17 +3066,17 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Créer une connexion au format PDF :** connectez-vous à des données, importez-les ou actualisez-les à partir d’un fichier PDF. [En savoir plus](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- **Créer une connexion au format PDF :** connectez-vous à des données, importez-les ou actualisez-les à partir d’un fichier PDF. [En savoir plus](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- **Créer des variables à utiliser dans les formules :** améliorer les performances, la lisibilité et la composabilité avec la fonction LET. Cette fonction vous permet de créer des variables nommées dans des formules nouvelles ou préexistantes. [En savoir plus](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
+- **Créer des variables à utiliser dans les formules :** améliorer les performances, la lisibilité et la composabilité avec la fonction LET. Cette fonction vous permet de créer des variables nommées dans des formules nouvelles ou préexistantes. [En savoir plus](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
 
-- **Raccourcis clavier dans Excel :** raccourcis clavier mis à jour pour Excel
+- **Raccourcis clavier dans Excel :** raccourcis clavier mis à jour pour Excel
 
 ### <a name="outlook"></a>Outlook
 
-- **Créer des sondages dans Outlook avec le sondage rapide :** créer facilement un sondage, collecter des votes et afficher les résultats dans un courrier électronique [En savoir plus](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **Créer des sondages dans Outlook avec le sondage rapide :** créer facilement un sondage, collecter des votes et afficher les résultats dans un courrier électronique [En savoir plus](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Conservez la haute fidélité de vos images lorsque vous les envoyez dans un courrier électronique :** un nouveau paramètre Outlook est disponible pour limiter la compression d’image lorsque vous envoyez des images dans le cadre du contenu d’un courrier électronique.
+- **Conservez la haute fidélité de vos images lorsque vous les envoyez dans un courrier électronique :** un nouveau paramètre Outlook est disponible pour limiter la compression d’image lorsque vous envoyez des images dans le cadre du contenu d’un courrier électronique.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3060,18 +3096,18 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
+- Nous avons résolu un problème qui empêchait les utilisateurs d’enregistrer des pièces jointes OneDrive provenant de l’extérieur de leur client sur leur ordinateur local lors de la sélection de l’option « Enregistrer » dans la boîte de dialogue de sécurité.
 
 ### <a name="office-suite"></a>Suite Office
 
 - Nous avons reporté une nouvelle chute AppV51 pour résoudre une régression dans la AppV51 précédente.
 
-- L’hôte Office a cessé de fonctionner dans Windows, lorsqu’un complément est activé alors que la valeur TabProcGrowth du Registre est REG_SZ type et avec la valeur « 0 ».  Cette valeur TabProcGrowth de Registre peut se trouver dans l’un des 4 chemins d’accès suivants : HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER \Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE \Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER \Software\Policies\Microsoft\Internet Explorer\Main . Cette modification pourrait résoudre ce problème.
+- L’hôte Office a cessé de fonctionner dans Windows, lorsqu’un complément est activé alors que la valeur TabProcGrowth du Registre est REG_SZ type et avec la valeur « 0 ».  Cette valeur TabProcGrowth de Registre peut se trouver dans l’un des 4 chemins d’accès suivants : HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main HKEY_CURRENT_USER \Software\Policies\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINE \Software\Microsoft\Internet Explorer\Main HKEY_LOCAL_MACHINER \Software\Policies\Microsoft\Internet Explorer\Main . Cette modification pourrait résoudre ce problème.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2006-june-25"></a>Version 2006 : 25 juin
+## <a name="version-2006-june-25"></a>Version 2006 : 25 juin
 *Version 2006 (Build 13001.20266)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3079,7 +3115,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="visio"></a>Visio
 
-- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme basé sur des données dans une feuille de calcul.
+- **Créer des diagrammes Visio soignés dans Excel :** créer un organigramme ou un organigramme basé sur des données dans une feuille de calcul.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3111,7 +3147,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2006-june-18"></a>Version 2006 : 18 juin
+## <a name="version-2006-june-18"></a>Version 2006 : 18 juin
 *Version 2006 (Build 13001.20198)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3121,15 +3157,15 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 
 
-- **Enregistrer dans les dossiers épinglés :** épingler vos dossiers simplifie l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs souhaitent contrôler plus facilement les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. <br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Enregistrer dans les dossiers épinglés :** épingler vos dossiers simplifie l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs souhaitent contrôler plus facilement les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. <br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Enregistrer dans les dossiers épinglés :** épingler vos dossiers simplifie l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs souhaitent contrôler plus facilement les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Enregistrer dans les dossiers épinglés :** épingler vos dossiers simplifie l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs souhaitent contrôler plus facilement les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint.<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **Enregistrer dans les dossiers épinglés :** épingler vos dossiers simplifie l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs souhaitent contrôler plus facilement les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. <br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Enregistrer dans les dossiers épinglés :** épingler vos dossiers simplifie l’enregistrement des fichiers Office. Nous avons reçu des commentaires indiquant que les utilisateurs souhaitent contrôler plus facilement les dossiers disponibles lors de l’enregistrement d’un nouveau fichier. Nous sommes ravis d’offrir de nouvelles fonctionnalités : épingler vos dossiers dans la boîte de dialogue Enregistrer. Cette nouvelle fonctionnalité facilite l’enregistrement de vos fichiers Word, Excel et PowerPoint. <br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3155,7 +3191,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2006-june-11"></a>Version 2006 : 11 juin
+## <a name="version-2006-june-11"></a>Version 2006 : 11 juin
 *Version 2006 (Build 13001.20144)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3163,11 +3199,11 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Amélioration des performances de la vidéo dans PowerPoint :** nous avons apporté des améliorations aux performances de lecture des vidéos Microsoft Stream afin de réduire le temps de chargement de la vidéo et de créer une expérience de visionnage plus lisse. Utilisez les vidéos de votre entreprise à partir de Microsoft Stream pour créer de meilleures présentations.
+- **Amélioration des performances de la vidéo dans PowerPoint :** nous avons apporté des améliorations aux performances de lecture des vidéos Microsoft Stream afin de réduire le temps de chargement de la vidéo et de créer une expérience de visionnage plus lisse. Utilisez les vidéos de votre entreprise à partir de Microsoft Stream pour créer de meilleures présentations.
 
 ### <a name="word"></a>Word
 
-- **Conserver le texte dans des vecteurs :** vous pouvez maintenant conserver le texte dans des cartes, des graphiques et d’autres vecteurs SVG lors de la conversion de ces objets dans Excel, Word et PowerPoint.
+- **Conserver le texte dans des vecteurs :** vous pouvez maintenant conserver le texte dans des cartes, des graphiques et d’autres vecteurs SVG lors de la conversion de ces objets dans Excel, Word et PowerPoint.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3189,7 +3225,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Nous avons résolu un problème, ce qui a permis d’améliorer le temps de performance pour les utilisateurs lorsqu’ils ont supprimé des colonnes fusionnées.
 
-- Nous avons résolu un problème dans lequel le message d’erreur « ce classeur est actuellement référencé par une autre et ne peut pas être fermé » apparaît, car les compléments ont été chargés par ordre alphabétique plutôt que dans l’ordre spécifié par l’utilisateur.
+- Nous avons résolu un problème dans lequel le message d’erreur « ce classeur est actuellement référencé par une autre et ne peut pas être fermé » apparaît, car les compléments ont été chargés par ordre alphabétique plutôt que dans l’ordre spécifié par l’utilisateur.
 
 - Nous avons résolu un problème de corruption de la mémoire lors de la gestion des polices entre Excel et certaines applications de technologie d’assistance tierces.
 
@@ -3297,7 +3333,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="office-suite"></a>Suite Office
 
-- Nous avons examiné et résolu le problème dans lequel un déploiement d’Office 365 ProPlus via InTune est suspendu après l’arrêt d’un système d’exploitation.
+- Nous avons examiné et résolu le problème dans lequel un déploiement d’Office 365 ProPlus via InTune est suspendu après l’arrêt d’un système d’exploitation.
 
 - Nous avons résolu un problème dans Visual Basic pour applications dans Microsoft Office où certains projets VBA contenant des références à des bibliothèques de codes avec des caractères DBCS dans le nom de la bibliothèque ou le chemin d’accès de la bibliothèque sont affichés par l’application Office comme étant endommagée lors du chargement.
 
@@ -3305,7 +3341,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2005-june-08"></a>Version 2005 : 08 juin
+## <a name="version-2005-june-08"></a>Version 2005 : 08 juin
 *Version 2005 (Build 12827.20336)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -3319,7 +3355,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2005-june-04"></a>Version 2005 : 04 juin
+## <a name="version-2005-june-04"></a>Version 2005 : 04 juin
 *Version 2005 (Build 12827.20320)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3327,15 +3363,15 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="access"></a>Access
 
-- **Restez informé des horaires ! Le type de données étendu date/heure a une précision plus grande. :** l’introduction d’un nouveau type de données amélioré.  Pour améliorer la compatibilité de syntaxe avec SQL et augmenter la précision et le niveau de détail dans les enregistrements qui incluent des dates et des heures, nous implémentons le type de données DateTime2 dans Access. Le type de données date/heure & supplémentaire inclut une plus grande plage de dates (0001-01-01 à 9999-12-31), avec une précision de temps supérieure (nanosecondes, plutôt que des secondes) que vous pourrez fournir et effectuer des calculs. Pour activer, sélectionnez Nouveau champ > Date & heure prolongée. [En savoir plus](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+- **Restez informé des horaires ! Le type de données étendu date/heure a une précision plus grande. :** l’introduction d’un nouveau type de données amélioré.  Pour améliorer la compatibilité de syntaxe avec SQL et augmenter la précision et le niveau de détail dans les enregistrements qui incluent des dates et des heures, nous implémentons le type de données DateTime2 dans Access. Le type de données date/heure & supplémentaire inclut une plus grande plage de dates (0001-01-01 à 9999-12-31), avec une précision de temps supérieure (nanosecondes, plutôt que des secondes) que vous pourrez fournir et effectuer des calculs. Pour activer, sélectionnez Nouveau champ > Date & heure prolongée. [En savoir plus](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
 
 ### <a name="excel"></a>Excel
 
-- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics. Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés.
+- **Créez des tableaux croisés dynamiques à partir de jeux de données dans Power BI dans Excel :** vous pouvez créer des tableaux croisés dynamiques dans Excel qui sont connectés à des jeux de données stockés dans Power BI en quelques clics. Ainsi, vous bénéficiez du meilleur des deux tableaux croisés dynamiques et de Power BI. Calculez, synthétisez et analysez vos données avec des tableaux croisés dynamiques à partir de vos jeux de données Power BI sécurisés.
 
 ### <a name="outlook"></a>Outlook
 
-- **Option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente :** nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente.
+- **Option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente :** nous avons ajouté une option permettant de rouvrir rapidement des éléments à partir d’une session Outlook précédente.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3358,7 +3394,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2005-may-29"></a>Version 2005 : 29 mai
+## <a name="version-2005-may-29"></a>Version 2005 : 29 mai
 *Version 2005 (Build 12827.20268)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3367,11 +3403,11 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="excel"></a>Excel
 
-- **Affichage feuille :** Trier/filtrer pendant que vous collaborez avec d’autres personnes dans la version de bureau d’Excel.
+- **Affichage feuille :** Trier/filtrer pendant que vous collaborez avec d’autres personnes dans la version de bureau d’Excel.
 
 ### <a name="outlook"></a>Outlook
 
-- **Boutons supplémentaires ajoutés aux notifications de Toast Outlook :** les boutons d’action rapide s’affichent désormais dans les notifications Outlook Toast lors de l’exécution d’Outlook sur Windows 10.
+- **Boutons supplémentaires ajoutés aux notifications de Toast Outlook :** les boutons d’action rapide s’affichent désormais dans les notifications Outlook Toast lors de l’exécution d’Outlook sur Windows 10.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3386,7 +3422,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons rencontré un problème qui empêchait les utilisateurs des versions de Windows 10 Server de voir le message d’avertissement de l’État Antivirus : non valide. Cette version de Windows prend en charge la détection de virus, mais aucun antivirus n’a été détecté, même si un antivirus est correctement installé.
+- Nous avons rencontré un problème qui empêchait les utilisateurs des versions de Windows 10 Server de voir le message d’avertissement de l’État Antivirus : non valide. Cette version de Windows prend en charge la détection de virus, mais aucun antivirus n’a été détecté, même si un antivirus est correctement installé.
 
 ### <a name="office-suite"></a>Suite Office
 
@@ -3395,7 +3431,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2005-may-21"></a>Version 2005 : 21 mai
+## <a name="version-2005-may-21"></a>Version 2005 : 21 mai
 *Version 2005 (Build 12827.20210)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3429,7 +3465,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2005-may-14"></a>Version 2005 : 14 mai
+## <a name="version-2005-may-14"></a>Version 2005 : 14 mai
 *Version 2005 (Build 12827.20160)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3437,17 +3473,17 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Nul besoin d’un dispositif de clic : vos écouteurs vous couvrent :** utilisez vos écouteurs Surface pour contrôler vos présentations PowerPoint. Important : vous devez associer vos écouteurs Surface dans l’application Surface Audio pour Windows 10 afin d’utiliser des gestes pour contrôler les présentations. Des instructions pour la prise en main de l’application Surface Audio sous Windows 10 sont disponibles ici. [En savoir plus](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **Nul besoin d’un dispositif de clic : vos écouteurs vous couvrent :** utilisez vos écouteurs Surface pour contrôler vos présentations PowerPoint. Important : vous devez associer vos écouteurs Surface dans l’application Surface Audio pour Windows 10 afin d’utiliser des gestes pour contrôler les présentations. Des instructions pour la prise en main de l’application Surface Audio sous Windows 10 sont disponibles ici. [En savoir plus](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
-- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
 
 ### <a name="word"></a>Word
 
-- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
+- **Appliquer automatiquement ou recommander des étiquettes de confidentialité :** Office peut recommander ou appliquer automatiquement une étiquette de confidentialité en fonction du contenu sensible détecté.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3474,11 +3510,11 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème dans lequel le lien externe cesse de fonctionner une fois le fichier rouvert, si le chemin d’accès du fichier est trop long.
 
-- Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
+- Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
 
 - La méthode Application.Evaluate (VBA) n’était pas opérationnelle dans certains cas pour les fonctions définies pour l’utilisateur.
 
-- Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
+- Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
 
 - Cette modification résout un problème dans lequel les informations de mise en forme conditionnelle (CF) n’étaient pas enregistrées correctement dans les fichiers XLSB.
 
@@ -3486,13 +3522,13 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Cette modification résout un problème aléatoire de défaut d’enregistrement de la mise en forme de la courbe de tendance de graphique personnalisée.
 
-- Un blocage peut se produire lorsque vous tentez de répertorier les modifications apportées à une nouvelle feuille de classeur en utilisant le mode hérité « Classeur partagé ».
+- Un blocage peut se produire lorsque vous tentez de répertorier les modifications apportées à une nouvelle feuille de classeur en utilisant le mode hérité « Classeur partagé ».
 
-- Résolution du problème qui avait pour effet que la mise en forme personnalisée de graphiques croisés dynamiques n’était pas enregistrée quand l’option « Inverser si négatif » était activée.
+- Résolution du problème qui avait pour effet que la mise en forme personnalisée de graphiques croisés dynamiques n’était pas enregistrée quand l’option « Inverser si négatif » était activée.
 
-- Résolution d’un problème qui avait pour effet que la mise en forme personnalisée d’un seul point de données dans un graphique croisé dynamique n’était pas enregistrée quand l’option « Inverser si négatif » était activée.
+- Résolution d’un problème qui avait pour effet que la mise en forme personnalisée d’un seul point de données dans un graphique croisé dynamique n’était pas enregistrée quand l’option « Inverser si négatif » était activée.
 
-- Cette modification résout un problème qui avait pour effet que le chargement du caractère « @ » dans un fichier CSV entraînait la conversion en formule de la chaîne située derrière ce caractère.
+- Cette modification résout un problème qui avait pour effet que le chargement du caractère « @ » dans un fichier CSV entraînait la conversion en formule de la chaîne située derrière ce caractère.
 
 - Résolution d’un problème qui avait pour effet que les valeurs décimales dans la fonction SEQUENCE n’étaient pas arrondies correctement.
 
@@ -3508,7 +3544,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème qui a provoqué le blocage d’Outlook lors de l’ouverture de fichiers.msg ou .oft enregistrés en local après une mise à jour Windows.
 
-- Résolution d’un problème d’affichage du message « Aucune réponse » dans Outlook lorsque des clients entreprise disposaient de dossiers de groupe qui n’étaient pas implémentés ou qui ne fonctionnaient pas.
+- Résolution d’un problème d’affichage du message « Aucune réponse » dans Outlook lorsque des clients entreprise disposaient de dossiers de groupe qui n’étaient pas implémentés ou qui ne fonctionnaient pas.
 
 - Corrige un problème qui avaient pour effet que les liens fiables très longs sur lesquels les utilisateurs cliquaient dans le client de bureau Outlook ne se chargeaient pas en raison de leur troncation.
 
@@ -3518,7 +3554,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Corrige un problème qui entraînait la suppression des pièces jointes lors du transfert d’un message chiffré.
 
-- Corrige un problème qui empêchait les réunions, qui n’ont lieu que dans 2 mois, d’afficher le sujet de la réunion dans l’Assistant Planification.
+- Corrige un problème qui empêchait les réunions, qui n’ont lieu que dans 2 mois, d’afficher le sujet de la réunion dans l’Assistant Planification.
 
 - Nous avons résolu un problème qui empêchait les utilisateurs de voir la troncature de corps de messages lors du transfert de messages HTML volumineux.
 
@@ -3547,15 +3583,15 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Cette modification résout un problème qui avait pour effet que la carte Participants clignotait en cas de clic sur @mention.
 
-- L’activation de l’option « Afficher les signets » n’affichait pas les signets. Ce problème a été résolu.
+- L’activation de l’option « Afficher les signets » n’affichait pas les signets. Ce problème a été résolu.
 
 - Résolution d’un problème qui avait pour effet que la fermeture d’un document contenant des brouillons de commentaires entraînait l’affichage d’une invite demandant à l’utilisateur s’il voulait fermer le document sans enregistrer les brouillons de commentaires. L’annulation de l’invite fermera le document au lieu de le laisser ouvert.
 
 - Nous avons résolu un problème lors du copier-coller des titres.
 
-- Résolution d’un problème qui avait pour effet que la traduction d’un commentaire publié générait l’erreur « Nous n’avons pas pu insérer le texte traduit ».
+- Résolution d’un problème qui avait pour effet que la traduction d’un commentaire publié générait l’erreur « Nous n’avons pas pu insérer le texte traduit ».
 
-- Cette modification résout un problème dans lequel le texte contenant des liens hypertexte risquait de ne pas s’afficher lorsque l’option « Afficher les codes de champ plutôt que leurs valeurs » était activée.
+- Cette modification résout un problème dans lequel le texte contenant des liens hypertexte risquait de ne pas s’afficher lorsque l’option « Afficher les codes de champ plutôt que leurs valeurs » était activée.
 
 - Dans l’affichage web ou le lecteur immersif, cliquer sur un conseil entraînait le défilement de la page vers le haut, même si le conseil était déjà visible. Ce problème est résolu.
 
@@ -3572,7 +3608,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2004-may-11"></a>Version 2004 : 11 mai
+## <a name="version-2004-may-11"></a>Version 2004 : 11 mai
 *Version 2004 (build 12730.20270)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3580,21 +3616,21 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
 
 ### <a name="outlook"></a>Outlook
 
-- **Amélioration des liens dans les e-mails :** lorsque vous incluez un lien vers un fichier, le nom du fichier remplace l’URL. Vous pouvez modifier les autorisations afin que tous les destinataires aient accès. [En savoir plus](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+- **Amélioration des liens dans les e-mails :** lorsque vous incluez un lien vers un fichier, le nom du fichier remplace l’URL. Vous pouvez modifier les autorisations afin que tous les destinataires aient accès. [En savoir plus](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Voir détails dans le [billet de blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
 
-- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents deviennent plus élégants. [En savoir plus](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents deviennent plus élégants. [En savoir plus](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
-- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
+- **Informez vos histoires avec des GIF animés :** les images GIF animées sont désormais prises en charge dans l’éditeur Office : vos documents snazzier.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3612,7 +3648,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2004-may-04"></a>Version 2004 : 04 mai
+## <a name="version-2004-may-04"></a>Version 2004 : 04 mai
 *Version 2004 (build 12730.20250)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -3620,9 +3656,9 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Meilleurs résultats : en un clin d'œil :** nous avons mis à jour l’expérience de recherche pour la rendre plus intelligente, plus rapide et plus fiable que jamais. [En savoir plus](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **Meilleurs résultats : en un clin d'œil :** nous avons mis à jour l’expérience de recherche pour la rendre plus intelligente, plus rapide et plus fiable que jamais. [En savoir plus](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **Notification d’incident pour les administrateurs informatiques :** les administrateurs généraux de client Microsoft 365 et les administrateurs d’applications Office seront avertis des incidents dans Exchange d’Outlook et d’Office 365 affectant leurs utilisateurs à l'aide d'une nouvelle notification de volet à droite dans Outlook pour Windows. [En savoir plus](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3640,15 +3676,15 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2004-april-29"></a>Version 2004 : 29 avril
-*Version 2004 (Build 12730.20236)*
+## <a name="version-2004-april-29"></a>Version 2004 : 29 avril
+*Version 2004 (Build 12730.20236)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Contribuez à protéger les données de votre groupe :** l’étiquette Sensibilité que vous sélectionnez lors de la création d’un groupe est appliquée aux e-mails, documents et sites d’équipe de ce groupe.
+- **Contribuez à protéger les données de votre groupe :** l’étiquette Sensibilité que vous sélectionnez lors de la création d’un groupe est appliquée aux e-mails, documents et sites d’équipe de ce groupe.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3666,8 +3702,8 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2004-april-25"></a>Version 2004 : 25 avril
-*Version 2004 (Build 12730.20206)*
+## <a name="version-2004-april-25"></a>Version 2004 : 25 avril
+*Version 2004 (Build 12730.20206)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -3689,8 +3725,8 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2004-april-21"></a>Version 2004 : 21 avril
-*Version 2004 (Build 12730.20182)*
+## <a name="version-2004-april-21"></a>Version 2004 : 21 avril
+*Version 2004 (Build 12730.20182)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -3704,27 +3740,27 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2004-april-15"></a>Version 2004 : 15 avril
-*Version 2004 (build 12730.20150)*
+## <a name="version-2004-april-15"></a>Version 2004 : 15 avril
+*Version 2004 (build 12730.20150)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Fin de la prise en charge du connecteur Facebook :** à compter d’avril 2020 avril, Excel ne prend plus en charge les connexions de données externes qui utilisent le connecteur Facebook.
+- **Fin de la prise en charge du connecteur Facebook :** à compter d’avril 2020 avril, Excel ne prend plus en charge les connexions de données externes qui utilisent le connecteur Facebook.
 
 ### <a name="outlook"></a>Outlook
 
-- **Nouvelle option pour désactiver les suggestions @mentions lors de la composition de courrier dans Outlook :** le sélecteur @mentionner est-il plus ennuyeux qu’utile ? Vous pouvez désormais l'activer ou le désactive, si vous préférez.
+- **Nouvelle option pour désactiver les suggestions @mentions lors de la composition de courrier dans Outlook :** le sélecteur @mentionner est-il plus ennuyeux qu’utile ? Vous pouvez désormais l'activer ou le désactive, si vous préférez.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama.
+- **Synchroniser les modifications pendant une présentation :** synchronisez les modifications lorsqu’elles sont effectuées, même lorsque la présentation est en mode diaporama.
 
 ### <a name="word"></a>Word
 
-- **Annoter votre copie privée :** créer des notes manuscrites uniquement pour vos yeux en créant une copie privée d’un document partagé. Accédez à Affichage > Créer une copie privée pour démarrer.
+- **Annoter votre copie privée :** créer des notes manuscrites uniquement pour vos yeux en créant une copie privée d’un document partagé. Accédez à Affichage > Créer une copie privée pour démarrer.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3734,7 +3770,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
@@ -3744,7 +3780,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème de sélection d’une plage de cellules dans une feuille qui entraînait la sélection d’une seule cellule.
 
-- Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
+- Les classeurs enregistrés à l’aide d’une signature numérique dans Excel 2016 pouvaient obtenir une signature invalidée à l’ouverture dans la version actuelle d’Excel.
 
 - Résolution d’un problème qui entraînait l’arrêt d’Excel dans certains cas après la copie d’une feuille de calcul contenant un tableau croisé dynamique.
 
@@ -3770,7 +3806,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Cette modification résout un problème dans lequel les dernières modifications apportées aux brouillons n’étaient pas mises à jour.
 
-- Résolution d’un problème : un clic avec le bouton droit sur un fichier et l’utilisation de la commande « Envoyer à » ne fonctionnaient pas.
+- Résolution d’un problème : un clic avec le bouton droit sur un fichier et l’utilisation de la commande « Envoyer à » ne fonctionnaient pas.
 
 - Résolution d’un problème qui empêchait les délégués d’afficher les hiérarchies de dossiers sur différents ordinateurs pour des boîtes aux lettres partagées.
 
@@ -3780,21 +3816,21 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème qui entraînait l’arrêt d’un blocage des utilisateurs lors de la tentative d’affichage des propriétés d’un Formulaire d’organisation.
 
-- Résolution d’un problème : si un utilisateur avait personnalisé le chemin de recherche du carnet d’adresses, l’étendue de résolution de noms d’Outlook était limitée au chemin personnalisé au lieu d’inclure la liste d’adresses globale (LAG).
+- Résolution d’un problème : si un utilisateur avait personnalisé le chemin de recherche du carnet d’adresses, l’étendue de résolution de noms d’Outlook était limitée au chemin personnalisé au lieu d’inclure la liste d’adresses globale (LAG).
 
-- Résolution d’un problème qui entraînait l’absence du bouton « Enregistrer dans le cloud » dans les Outils Pièces jointe.
+- Résolution d’un problème qui entraînait l’absence du bouton « Enregistrer dans le cloud » dans les Outils Pièces jointe.
 
 - Résolution d’un problème qui empêchait les utilisateurs d’ajouter une signature lors de la réponse à un message géré par des droits numériques à partir d’une fenêtre de l’inspecteur lorsque l’utilisateur ne dispose pas de l'autorisation du propriétaire sur le message auquel il répond.
 
 - Résolution d’un problème dans lequel les utilisateurs ne pouvaient pas ajouter d’autres pièces jointes dans une réunion déjà créée à partir d’un emplacement web.
 
-- Résolution d’un problème qui provoquait la mise à jour de la date de la « Dernière modification » d’un fichier lors de l’ajout d’une pièce jointe à un message électronique ou de l’enregistrement d’une pièce jointe à partir d’un courrier électronique en la faisant glisser et en la déplaçant (par opposition à l’option du menu).
+- Résolution d’un problème qui provoquait la mise à jour de la date de la « Dernière modification » d’un fichier lors de l’ajout d’une pièce jointe à un message électronique ou de l’enregistrement d’une pièce jointe à partir d’un courrier électronique en la faisant glisser et en la déplaçant (par opposition à l’option du menu).
 
 - Résolution d’un problème qui provoquait l’échec de la recherche dans le volet de recherche étendu, poussant les utilisateurs à cliquer sur le bouton Rechercher.
 
-- Résolution d’un problème : dans un ensemble de résultats de recherche renvoyés, le tri des résultats par catégories n’affichait pas les couleurs de la catégorie.
+- Résolution d’un problème : dans un ensemble de résultats de recherche renvoyés, le tri des résultats par catégories n’affichait pas les couleurs de la catégorie.
 
-- Résolution d’un problème dans lequel la recherche n’indique aucune information sur les utilisateurs lorsque l’option « Afficher les photographies des utilisateurs quand disponible » est désactivée.
+- Résolution d’un problème dans lequel la recherche n’indique aucune information sur les utilisateurs lorsque l’option « Afficher les photographies des utilisateurs quand disponible » est désactivée.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -3805,7 +3841,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Nous avons résolu un problème de changement de la mise en forme lors de la copie d’un texte d’Excel vers PowerPoint.
 
-- Cette modification corrige un problème dans lequel la recherche de caractères spéciaux à l’aide de l’option « Rechercher uniquement les mots entiers » ne fonctionne pas toujours comme prévu.
+- Cette modification corrige un problème dans lequel la recherche de caractères spéciaux à l’aide de l’option « Rechercher uniquement les mots entiers » ne fonctionne pas toujours comme prévu.
 
 ### <a name="project"></a>Project
 
@@ -3813,21 +3849,21 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème qui empêchait le déclenchement de l’événement OnUndoOrRedo tant que la méthode OpenUndoTransaction n’avait pas été exécutée.
 
-- Résolution d’un problème : l’événement Visual Basic Applications (VBA) « ProjectBeforeTaskChange » ne se produisait lorsque l’utilisateur cliquait sur le bouton « Désactiver » dans le ruban des tâches du regroupement de planification.
+- Résolution d’un problème : l’événement Visual Basic Applications (VBA) « ProjectBeforeTaskChange » ne se produisait lorsque l’utilisateur cliquait sur le bouton « Désactiver » dans le ruban des tâches du regroupement de planification.
 
 - Si vous définissiez les informations de prédécesseur ou de successeur à partir d’une vue Type de formulaire, l’événement Visual Basic Applications (VBA) ProjectBeforeTaskChange ne capturait pas toujours les modifications. Par exemple, si vous supprimiez une dépendance et cliquiez sur OK dans le formulaire, l’événement ne se déclenchait pas. Ce problème a été résolu.
 
-- Résolution d’un problème : les valeurs les plus récentes du coût réel du travail effectué (CRTE) ne s’affichent pas après une modification (par exemple, modification d’une date).
+- Résolution d’un problème : les valeurs les plus récentes du coût réel du travail effectué (CRTE) ne s’affichent pas après une modification (par exemple, modification d’une date).
 
-- Résolution d’un problème : l’ouverture d’un projet à l’aide du menu utilisé récemment (MRU) a ouvert le fichier de projet avec accès en lecture/écriture.
+- Résolution d’un problème : l’ouverture d’un projet à l’aide du menu utilisé récemment (MRU) a ouvert le fichier de projet avec accès en lecture/écriture.
 
-- Cette modification résout un problème : si vous créiez une tâche manuelle avec une date et une heure de début (mais aucune durée), elle s’affichait avec une heure incorrecte sur la chronologie.
+- Cette modification résout un problème : si vous créiez une tâche manuelle avec une date et une heure de début (mais aucune durée), elle s’affichait avec une heure incorrecte sur la chronologie.
 
-- Résolution d’un problème : l’impression d’une chronologie à l’aide du calendrier islamique (hijri) entraînait l’omission ou la duplication d’un mois dans la vue d’impression.
+- Résolution d’un problème : l’impression d’une chronologie à l’aide du calendrier islamique (hijri) entraînait l’omission ou la duplication d’un mois dans la vue d’impression.
 
-- Cette modification résout un problème : le travail dans le Planificateur d’équipe avec les objets GDI au travail pouvait générer une surutilisation des objets GDI et créer des conditions de mémoire insuffisante.
+- Cette modification résout un problème : le travail dans le Planificateur d’équipe avec les objets GDI au travail pouvait générer une surutilisation des objets GDI et créer des conditions de mémoire insuffisante.
 
-- Résolution d’un problème de création de table de choix vide créée, même si elle ne devait pas l'être, lorsque l’élément « CustomFieldValueListGetItem » était exécuté et qu'une table de choix n'était pas présente pour le champ personnalisé.
+- Résolution d’un problème de création de table de choix vide créée, même si elle ne devait pas l'être, lorsque l’élément « CustomFieldValueListGetItem » était exécuté et qu'une table de choix n'était pas présente pour le champ personnalisé.
 
 - Lorsque des données prédécesseur/successeur sont modifiées en mode Formulaire, un ProjectBeforeTaskChangeevent supplémentaire se déclenche
 
@@ -3847,7 +3883,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Cette modification corrige un problème dans lequel le rendu d’un graphique Excel hérité incorporé en tant qu’objet OLE dans PowerPoint ou Word n’affiche pas toujours le titre du graphique.
 
-- Cette modification corrige un problème : le gestionnaire de comptes ne réexpédiait pas les messages. Cela générait un blocage avec des applications tierces.
+- Cette modification corrige un problème : le gestionnaire de comptes ne réexpédiait pas les messages. Cela générait un blocage avec des applications tierces.
 
 - Cette modification corrige un problème d’absence possible d’affichage de l’ancrage du commentaire lors de sa création dans un affichage sur deux pages.
 
@@ -3859,17 +3895,17 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Nous avons résolu un problème dans lequel l’alignement de mot dans un document a été brouillé lorsque d'une tentative de modification après impression à l’aide de l’Impression rapide.
 
-- Nous avons résolu un problème lors de la fusion de 2 documents au sein d’un document unique.
+- Nous avons résolu un problème lors de la fusion de 2 documents au sein d’un document unique.
 
-- Résolution d’un problème : les signatures numériques enregistrées dans les documents Word étaient supprimées lors de l’envoi des documents.
+- Résolution d’un problème : les signatures numériques enregistrées dans les documents Word étaient supprimées lors de l’envoi des documents.
 
 - Résolution d'un problème d'échec de l'enregistrement d'un fichier lors de l'utilisation de marques de révision impliquant des équations.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2003-april-14"></a>Version 2003 : 14 avril
-*Version 2003 (Build 12624.20466)*
+## <a name="version-2003-april-14"></a>Version 2003 : 14 avril
+*Version 2003 (Build 12624.20466)*
 
 Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
@@ -3881,27 +3917,27 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2003-april-09"></a>Version 2003 : 09 avril
-*Version 2003 (Build 12624.20442)*
+## <a name="version-2003-april-09"></a>Version 2003 : 09 avril
+*Version 2003 (Build 12624.20442)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez 1 000 images d’archives libres de redevance, icônes et autocollants [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez 1 000 images d’archives libres de redevance, icônes et autocollants [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 ### <a name="outlook"></a>Outlook
 
-- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez 1 000 images d’archives libres de redevance, icônes et autocollants [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez 1 000 images d’archives libres de redevance, icônes et autocollants [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez 1 000 images d’archives libres de redevance, icônes et autocollants [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez 1 000 images d’archives libres de redevance, icônes et autocollants [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 ### <a name="word"></a>Word
 
-- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez 1 000 images d’archives libres de redevance, icônes et autocollants [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+- **Sélecteur de contenu M365 Premium :** donner vie à vos documents ! Découvrez 1 000 images d’archives libres de redevance, icônes et autocollants [En savoir plus](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3915,8 +3951,8 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2003-april-03"></a>Version 2003 : 03 avril
-*Version 2003 (Build 12624.20410)*
+## <a name="version-2003-april-03"></a>Version 2003 : 03 avril
+*Version 2003 (Build 12624.20410)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
@@ -3927,7 +3963,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème qui entraînait un blocage occasionnel lorsque les utilisateurs utilisaient le bouton « X » sur leur souris.
+- Nous avons résolu un problème qui entraînait un blocage occasionnel lorsque les utilisateurs utilisaient le bouton « X » sur leur souris.
 
 ### <a name="project"></a>Project
 
@@ -3935,21 +3971,21 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="word"></a>Word
 
-- Nous avons résolu un problème qui entraînait un blocage occasionnel lorsque les utilisateurs utilisaient le bouton « X » sur leur souris.
+- Nous avons résolu un problème qui entraînait un blocage occasionnel lorsque les utilisateurs utilisaient le bouton « X » sur leur souris.
 
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2003-march-31"></a>Version 2003 : 31 mars
-*Version 2003 (build 12624.20382)*
+## <a name="version-2003-march-31"></a>Version 2003 : 31 mars
+*Version 2003 (build 12624.20382)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="access"></a>Accès
 
-- **Volet Office « Ajouter des tables » :** le nouveau volet Office « Ajouter des tables » d’Access est enfin là. Cette fonctionnalité vous permet de sélectionner le(s) tableau(x) à ajouter/supprimer dans une fenêtre de requête, sans accéder à la boîte de dialogue « Afficher les tables » pour les requêtes et l’affichage des relations. Cela inclut également un nouvel onglet « Liens » pour afficher les tableaux liés, une zone de recherche pour filtrer la liste actuelle, le « glisser-déplacer », et bien plus encore !
+- **Volet Office « Ajouter des tables » :** le nouveau volet Office « Ajouter des tables » d’Access est enfin là. Cette fonctionnalité vous permet de sélectionner le(s) tableau(x) à ajouter/supprimer dans une fenêtre de requête, sans accéder à la boîte de dialogue « Afficher les tables » pour les requêtes et l’affichage des relations. Cela inclut également un nouvel onglet « Liens » pour afficher les tableaux liés, une zone de recherche pour filtrer la liste actuelle, le « glisser-déplacer », et bien plus encore !
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -3967,37 +4003,37 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2003-march-25"></a>Version 2003 : 25 mars
-*Version 2003 (build 12624.20320)*
+## <a name="version-2003-march-25"></a>Version 2003 : 25 mars
+*Version 2003 (build 12624.20320)*
 
 - Diverses résolutions de bogues et de performances.
 
-## <a name="version-2003-march-23"></a>Version 2003 : 23 mars
-*Version 2003 (Build 12624.20296)*
+## <a name="version-2003-march-23"></a>Version 2003 : 23 mars
+*Version 2003 (Build 12624.20296)*
 
 - Diverses résolutions de bogues et de performances.
 
-## <a name="version-2003-march-21"></a>Version 2003 : 21 mars
-*Version 2003 (Build 12624.20276)*
+## <a name="version-2003-march-21"></a>Version 2003 : 21 mars
+*Version 2003 (Build 12624.20276)*
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Grâce au calendrier épinglé au volet To-Do, rejoignez une réunion d’un simple clic.
+- **Participez à des réunions sans quitter votre boîte de réception :** il n'est pas nécessaire de basculer vers votre calendrier pour participer aux réunions en ligne. Grâce au calendrier épinglé au volet To-Do, rejoignez une réunion d’un simple clic.
 
-- **Actualisation visuelle du calendrier :** l’année dernière, nous avons mis à jour une expérience de courrier actualisée, et, cette année, c’est au tour du calendrier d’être modernisé ! Les mises à jour sont récentes, mais familières. Par conséquent, en tant qu’utilisateur d’Outlook, vous pouvez vous lancer et augmenter votre productivité immédiatement.
+- **Actualisation visuelle du calendrier :** l’année dernière, nous avons mis à jour une expérience de courrier actualisée, et, cette année, c’est au tour du calendrier d’être modernisé ! Les mises à jour sont récentes, mais familières. Par conséquent, en tant qu’utilisateur d’Outlook, vous pouvez vous lancer et augmenter votre productivité immédiatement.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Mettre à jour les diapositives pendant le diaporama :** mettez à jour les diapositives modifiées par d’autres auteurs pendant votre présentation.
+- **Mettre à jour les diapositives pendant le diaporama :** mettez à jour les diapositives modifiées par d’autres auteurs pendant votre présentation.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
-## <a name="version-2003-march-16"></a>Version 2003 : 16 mars
-*Version 2003 (Build 12624.20224)*
+## <a name="version-2003-march-16"></a>Version 2003 : 16 mars
+*Version 2003 (Build 12624.20224)*
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -4005,23 +4041,23 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.
+- **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.
 
 ### <a name="outlook"></a>Outlook
 
-- **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.
+- **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.
+- **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.
 
 ### <a name="word"></a>Word
 
-- **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.
+- **Choisissez la couleur idéale :** utilisez des codes de couleur hexadécimale pour choisir la couleur exacte que vous souhaitez utiliser pour votre police, votre texte mis en surbrillance, et bien plus encore.
 
 ### <a name="office-suite"></a>Suite Office
 
-- **Volets à onglets :** vous pouvez désormais basculer entre plusieurs volets à l’aide d’une interface utilisateur d’onglet présente sur le côté droit de l’application. L’interface utilisateur n’est visible que lorsque vous avez ouvert au moins deux volets.
+- **Volets à onglets :** vous pouvez désormais basculer entre plusieurs volets à l’aide d’une interface utilisateur d’onglet présente sur le côté droit de l’application. L’interface utilisateur n’est visible que lorsque vous avez ouvert au moins deux volets.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -4043,8 +4079,8 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2003-march-10"></a>Version 2003 : 10 mars
-*Version 2003 (Build 12624.20176)*
+## <a name="version-2003-march-10"></a>Version 2003 : 10 mars
+*Version 2003 (Build 12624.20176)*
 
 Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
@@ -4063,7 +4099,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
 
-- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
+- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
 
 - Résolution d’un problème que des utilisateurs rencontraient parfois lors de la modification du nom des mesures de tableau croisé dynamique.
 
@@ -4091,17 +4127,17 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème de blocage que rencontraient les utilisateurs d’Outlook lors de la synchronisation des paramètres.
 
-- Résolution d’un problème d’affichage de la liste déroulante dans le champ « De : » lors de l’utilisation du mode Sombre dans Outlook.
+- Résolution d’un problème d’affichage de la liste déroulante dans le champ « De : » lors de l’utilisation du mode Sombre dans Outlook.
 
-- Résolution du problème suivant : Outlook générait inopinément des données de journalisation dans certains scénarios, même lorsque la journalisation était désactivée.
+- Résolution du problème suivant : Outlook générait inopinément des données de journalisation dans certains scénarios, même lorsque la journalisation était désactivée.
 
 - Nous avons résolu un problème empêchant les utilisateurs d’ouvrir des messages de dossier public lorsqu’Outlook s'exécutait de nuit.
 
-- Résolution d’une situation d'engorgement dans laquelle les boutons « Autoriser » et « Refuser » de la page autorisations sont désactivés au cours d'un flux de travail d’authentification relatif à l’ajout d’un compte Gmail.
+- Résolution d’une situation d'engorgement dans laquelle les boutons « Autoriser » et « Refuser » de la page autorisations sont désactivés au cours d'un flux de travail d’authentification relatif à l’ajout d’un compte Gmail.
 
 - Résolution d’un problème qui empêchait les utilisateurs d’accéder à la boîte de dialogue des autorisations de calendrier &quot;Options de disponibilité&quot;.
 
-- Résolution d’un problème susceptible d’entraîner l’alerte suivante : &quot;Désolé, nous rencontrons des difficultés pour ouvrir cet élément&quot; lors de l’ouverture d’instances de réunion périodiques envoyées à partir d’un autre fuseau horaire.
+- Résolution d’un problème susceptible d’entraîner l’alerte suivante : &quot;Désolé, nous rencontrons des difficultés pour ouvrir cet élément&quot; lors de l’ouverture d’instances de réunion périodiques envoyées à partir d’un autre fuseau horaire.
 
 - Nous avons résolu un problème qui pouvait empêcher les utilisateurs de ré-ouvrir un fichier. MSG suite au glisser-déplacer d’une pièce jointe de ce message.
 
@@ -4115,7 +4151,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème de clignotement des miniatures recommandées lorsque la souris passait au-dessus de celles-ci. Cela pouvait entraîner le blocage de PowerPoint dans certains cas.
 
-- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
+- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
 
 - Résolution d’un problème qui pouvait provoquer l’échec de l’enregistrement d’un document contenant un graphique Excel dans PowerPoint ou Word.
 
@@ -4123,7 +4159,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="project"></a>Project
 
-- Résolution d’un problème où le pourcentage d’achèvement de la tâche passait à tort à une valeur inférieure à 100 % une fois la tâche marquée comme terminée.
+- Résolution d’un problème où le pourcentage d’achèvement de la tâche passait à tort à une valeur inférieure à 100 % une fois la tâche marquée comme terminée.
 
 - Résolution d’un problème qui empêchait le déclenchement de l’événement OnUndoOrRedo tant que la méthode OpenUndoTransaction n’avait pas été exécutée.
 
@@ -4133,7 +4169,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Le volet Informations sur la forme affichait dans la section Données de forme des informations non cohérentes avec le contenu affiché par le fichier lorsque celui-ci était ouvert dans la version de bureau de Visio. Ce problème est maintenant résolu.
 
-- Les images bitmap importées dans les versions antérieures à la version 2016 n’apparaissaient pas suite à certains contrôles de sécurité. Nous avons résolu ce problème dans l’abonnement Visio.
+- Les images bitmap importées dans les versions antérieures à la version 2016 n’apparaissaient pas suite à certains contrôles de sécurité. Nous avons résolu ce problème dans l’abonnement Visio.
 
 ### <a name="word"></a>Word
 
@@ -4141,7 +4177,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème qui masquait la zone d’édition des commentaires lors de l’utilisation de la touche Tab dans une carte de commentaires.
 
-- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
+- Résolution du problème esthétique suivant : le bouton « OK » de la boîte de dialogue Fichier \ Options était grisé, sans affecter son fonctionnement.
 
 - Lors d'une session de collaboration sur un document actif, l'ajout direct d'une image dans une carte commentaire peut entraîner l'adjonction d'une balise. Ce problème est résolu.
 
@@ -4156,7 +4192,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 ### <a name="office-suite"></a>Suite Office
 
-- Lorsque vous utilisez des propriétés de type choix multiple/recherche/gestion des métadonnées avec des documents Word/Excel/PowerPoint et que vous enregistrez ceux-ci dans une bibliothèque de documents SharePoint, ces propriétés étaient auparavant limitées à 255 caractères. Lorsque ces propriétés dépassaient 255 caractères, de tels documents n’étaient pas enregistrés. Grâce à cette modification, cette limite a été augmentée sur 2 048 caractères.
+- Lorsque vous utilisez des propriétés de type choix multiple/recherche/gestion des métadonnées avec des documents Word/Excel/PowerPoint et que vous enregistrez ceux-ci dans une bibliothèque de documents SharePoint, ces propriétés étaient auparavant limitées à 255 caractères. Lorsque ces propriétés dépassaient 255 caractères, de tels documents n’étaient pas enregistrés. Grâce à cette modification, cette limite a été augmentée sur 2 048 caractères.
 
 - Résolution d’un problème Word/Excel/PowerPoint dans lequel le Nom d’utilisateur principal (UPN) ne respectait plus la casse, ce qui donnait lieu à un nombre d'échecs diminué lors d'un travail avec des fichiers dans SharePoint.
 
@@ -4165,14 +4201,14 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2002-march-05"></a>Version 2002 : 5 mars
-*Version 2002 (Build 12527.20278)*
+## <a name="version-2002-march-05"></a>Version 2002 : 5 mars
+*Version 2002 (Build 12527.20278)*
 
 - Diverses résolutions de bogues et de performances.
 
 
-## <a name="version-2002-march-04"></a>Version 2002 : 4 mars
-*Version 2002 (Build 12527.20264)*
+## <a name="version-2002-march-04"></a>Version 2002 : 4 mars
+*Version 2002 (Build 12527.20264)*
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
@@ -4190,8 +4226,8 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2002-march-01"></a>Version 2002 :1er mars
-*Version 2002 (Build 12527.20242)*
+## <a name="version-2002-march-01"></a>Version 2002 :1er mars
+*Version 2002 (Build 12527.20242)*
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="outlook"></a>Outlook
@@ -4202,18 +4238,18 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2002-february-24"></a>Version 2002 : 24 février
-*Version 2002 (build 12527.20194)*
+## <a name="version-2002-february-24"></a>Version 2002 : 24 février
+*Version 2002 (build 12527.20194)*
 
 - Diverses résolutions de bogues et de performances.
 
-## <a name="version-2002-february-22"></a>Version 2002 : 22 février
-*Version 2002 (build 12527.20186)*
+## <a name="version-2002-february-22"></a>Version 2002 : 22 février
+*Version 2002 (build 12527.20186)*
 
 - Diverses résolutions de bogues et de performances.
 
-## <a name="version-2002-february-21"></a>Version 2002 : 21 février
-*Version 2002 (build 12527.20174)*
+## <a name="version-2002-february-21"></a>Version 2002 : 21 février
+*Version 2002 (build 12527.20174)*
 
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
@@ -4221,11 +4257,11 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="access"></a>Access
 
-- **Gagnez en productivité grâce au Concepteur de requêtes, au mode SQL et à la fenêtre Relations :** cliquez sur une table avec le bouton droit pour ouvrir, créer, dimensionner et masquer celle-ci. Rechercher et remplacer du texte en mode SQL. Sélectionnez plusieurs tables dans la fenêtre Relations.
+- **Gagnez en productivité grâce au Concepteur de requêtes, au mode SQL et à la fenêtre Relations :** cliquez sur une table avec le bouton droit pour ouvrir, créer, dimensionner et masquer celle-ci. Rechercher et remplacer du texte en mode SQL. Sélectionnez plusieurs tables dans la fenêtre Relations.
 
 ### <a name="outlook"></a>Outlook
 
-- **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.
+- **Nouvelle expérience des réseaux WiFi captifs :** avez-vous déjà rejoint un réseau Wi-Fi nécessitant une page Web avec laquelle se connecter ? Outlook le détecte désormais et vous aide à vous connecter.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -4260,11 +4296,11 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
-## <a name="version-2002-february-18"></a>Version 2002 : 18 février
-*Version 2002 (build 12527.20138)*
+## <a name="version-2002-february-18"></a>Version 2002 : 18 février
+*Version 2002 (build 12527.20138)*
 
-## <a name="version-2002-february-11"></a>Version 2002 : 11 février
-*Version 2002 (build 12527.20092)*
+## <a name="version-2002-february-11"></a>Version 2002 : 11 février
+*Version 2002 (build 12527.20092)*
 
 Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-updates.md)
 
@@ -4274,15 +4310,15 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="outlook"></a>Outlook
 
-- **Faites glisser le message vers un groupe dont vous êtes propriétaire :** déplacer et copier les messages et les conversations en les faisant glisser à partir de votre boîte de réception. Les messages que vous faites glisser sont partagés avec tous les membres du groupe.
+- **Faites glisser le message vers un groupe dont vous êtes propriétaire :** déplacer et copier les messages et les conversations en les faisant glisser à partir de votre boîte de réception. Les messages que vous faites glisser sont partagés avec tous les membres du groupe.
 
 ### <a name="word"></a>Word
 
-- **Les autres utilisateurs voient rapidement vos modifications :** la co-création permet à vos collaborateurs de voir vos modifications plus rapidement que jamais.
+- **Les autres utilisateurs voient rapidement vos modifications :** la co-création permet à vos collaborateurs de voir vos modifications plus rapidement que jamais.
 
 ### <a name="office-suite"></a>Suite Office
 
-- **Icônes de barre d’état plus claires :** les icônes de barre d’état sont désormais plus faciles à voir.
+- **Icônes de barre d’état plus claires :** les icônes de barre d’état sont désormais plus faciles à voir.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -4315,7 +4351,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 
 - Résolution d’un problème lors duquel le défilement du calendrier avec affichage mensuel ne permettait pas d’afficher les événements de calendrier précédents.
 
-- Les dossiers enregistrés dans « Favoris » dans le volet gauche de navigation peuvent disparaître par intermittence.
+- Les dossiers enregistrés dans « Favoris » dans le volet gauche de navigation peuvent disparaître par intermittence.
 
 
 - Nous avons résolu un problème qui entraînait le blocage des utilisateurs lors de l'indication d'une adresse De la part de non valide.
@@ -4329,7 +4365,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 - Nous avons résolu un problème où les e-mails expirant sur la base d’une stratégie de rétention affichent deux étiquettes. L’un d’eux indique que le courrier qui expire dans un jour et un autre indique qui expire dans deux jours.
 
 
-- Résolution d'un problème qui entraînait un blocage chez des utilisateurs qui affichaient plus de 30 calendriers dans un environnement Citrix.
+- Résolution d'un problème qui entraînait un blocage chez des utilisateurs qui affichaient plus de 30 calendriers dans un environnement Citrix.
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -4339,12 +4375,12 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 - Nous avons résolu un problème lors duquel PowerPoint ne supprimait pas immédiatement un fichier de la collection présentations juste après sa fermeture si des gestionnaires d’événements étaient en cours d’exécution. Par conséquent, le nombre de présentations ouvertes signalées par le modèle d’objet est incorrect et l’arrêt de PowerPoint est évité.
 
 
-- Résolution d’un problème de surlignage : les textes blancs avec des couleurs de surlignage foncées sont imprimés en noir en nuances de gris.
+- Résolution d’un problème de surlignage : les textes blancs avec des couleurs de surlignage foncées sont imprimés en noir en nuances de gris.
 
 
 ### <a name="project"></a>Project
 
-- Nous avons résolu un problème dans lequel 100 % des tâches à durée fixe pouvaient présenter un pourcentage d’achèvement incorrect représentant une valeur inférieure à 100 %.
+- Nous avons résolu un problème dans lequel 100 % des tâches à durée fixe pouvaient présenter un pourcentage d’achèvement incorrect représentant une valeur inférieure à 100 %.
 
 
 ### <a name="word"></a>Word
@@ -4352,7 +4388,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 - La mise à jour et le défilement dans une table des matières peuvent parfois afficher une zone grisée dans le document.
 
 
-- Résolution d’un problème lors duquel l’utilisation de la fonction « Parcourir » pour enregistrer un fichier ne fonctionnait pas si un commentaire était écrit mais non publié et que l’utilisateur tentait d’enregistrer le fichier.
+- Résolution d’un problème lors duquel l’utilisation de la fonction « Parcourir » pour enregistrer un fichier ne fonctionnait pas si un commentaire était écrit mais non publié et que l’utilisateur tentait d’enregistrer le fichier.
 
 
 - Nous avons résolu un problème dans lequel des allers-retours entre commentaires de cartes pouvaient parfois provoquer l'affichage du commentaire initialement sélectionné avec la barre de sélection.
@@ -4370,7 +4406,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 - Ctrl+Alt+M ne peut pas ouvrir le volet des commentaires lorsque celui-ci est fermé et que SlideTrack est activé.
 
 
-- Nous avons résolu un problème de génération du message d'erreur « Une table est endommagée dans ce document » lors de l’ajout de @mention dans une table.
+- Nous avons résolu un problème de génération du message d'erreur « Une table est endommagée dans ce document » lors de l’ajout de @mention dans une table.
 
 
 - Nous avons résolu un problème dans lequel les commandes de commentaire (modifier le commentaire, répondre au commentaire, supprimer le commentaire, résoudre le commentaire) n’apparaissent pas dans le menu contextuel des commentaires.
