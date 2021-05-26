@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
-ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
+ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
+ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52574299"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636528"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,55 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2105-may-23"></a>Version 2105 : 23 mai
+*Version 2105 (build 14026.20246)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="teams"></a>Teams
+
+- **Annonce des affichages du tableau de bord des données de présence :** Vous n’avez plus besoin de télécharger manuellement des rapports, Teams vous permet désormais d’afficher toutes les données agrégées dans un affichage tableau de bord en un clic
+
+- **Fonctionnalités de sécurité, de conformité et de protection des données pour les applications :** Pour les applications Microsoft 365 Certified Teams, les administrateurs peuvent afficher les fonctionnalités de sécurité, de conformité et de protection des données dans un nouvel onglet de la page de détails de l’application dans le Centre d’administration Teams. Cette transparence permet aux clients de Microsoft d'avoir confiance dans les applications qui font fonctionner leur entreprise.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui causait l'indisponibilité de certaines instructions de la fonctionnalité « Raccourcir les réunions » par les technologies de lecteur d'écran.
+
+
+- Nous avons résolu un problème qui causait la fermeture inattendue de certains utilisateurs lors du chargement des cartes de personne.
+
+
+- Nous avons corrigé un problème qui empêchait la possibilité de coller des formules sur une feuille protégée.
+
+    - Clé Regkey :
+
+    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+
+    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
+
+    > (par défaut) : Outlook utilise la nouvelle eXperience Powered OWA Room Finder lorsque l'utilisateur clique sur le bouton « Recherche de salle » pour rechercher des salles disponibles.  </br>
+
+    > 1 : Outlook utilise l’interface utilisateur de Recherche de salles héritée pour rechercher les salles disponibles </br>
+
+
+### <a name="project"></a>Project
+
+- Correction d’un problème pour lequel les affectations de tâches programmées manuellement étaient déplacées à une date incorrecte.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2105-may-19"></a>Version 2105 : 19 mai
 *Version 2105 (build 14026.20202)*
@@ -1782,7 +1831,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2683,7 +2732,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -3770,7 +3819,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563340"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625939"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,75 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2106-may-21"></a>Version 2106 : 21 mai
+*Version 2106 (build 14117.20000)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Dernière connexion / Connexion suspecte :** Outlook vous indique à présent quand et où vous vous êtes connecté pour la dernière fois à votre compte et vous avertit si une activité de connexion suspecte est détectée.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui faisait que les tableaux dynamiques ne mettaient pas à jour les valeurs des cellules lorsqu'ils étaient référencés par les fonctions RealTimeData.
+
+
+- Nous avons résolu un problème qui affectait les performances de VLOOKUP et INDEX/MATCH lors du remplissage d'une grande quantité de données.
+
+
+- Nous avons résolu un problème lié au défilement à deux doigts lors de l'utilisation de volets Figer.
+
+
+- Nous avons résolu un problème lié à l'absence de mémoire lors de l'impression sur des imprimantes grand format.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème qui empêchait la copie à partir du volet des notes du locuteur en mode Lecture seule.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème pour lequel un message d’erreur Enregistrer sous s’affichait même après qu’un utilisateur ait choisi d’ignorer les modifications.
+
+
+- Nous avons résolu un problème qui empêchait l'affichage d'images dans les commentaires modernes.
+
+
+- Nous avons résolu un problème pour lequel le volet Révision pouvait défiler ou apparaître comme défilement, mais n’était pas aligné sur le commentaire sélectionné.
+
+
+- Nous avons résolu un problème qui empêchait d'effacer la sélection dans le document lorsque l'on cliquait en dehors d'un commentaire nouvellement créé.
+
+
+- Nous avons résolu un problème où les commentaires n'étaient pas mis en évidence lorsqu'ils étaient sélectionnés.
+
+
+- Nous avons résolu un problème de mise à jour du champ erroné lors de l’exécution d’une macro si des restrictions de modification étaient appliquées.
+
+
+- Nous avons résolu un problème pour lequel certains fichiers Word ne s’ouvrent pas en raison de signets endommagés.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème pour lequel la signature avec un autre compte pouvait entraîner un incident.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2106-may-14"></a>Version 2106 : 14 mai
 *Version 2106 (build 14107.20000)*
@@ -1342,7 +1411,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2630,7 +2699,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
@@ -3050,6 +3119,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
@@ -3059,5 +3129,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
