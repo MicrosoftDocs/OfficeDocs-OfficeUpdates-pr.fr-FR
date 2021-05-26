@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fournit aux professionnels de l’informatique les notes de publication pour les versions d’Office pour Mac des abonnés AUX Applications Microsoft 365
-ms.openlocfilehash: 067ef80e03b19a040c0af5463f18d6a4af5f8094
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563400"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625949"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notes de publication pour Office pour Mac
 
@@ -66,10 +66,6 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
-### <a name="apex-shared"></a>Apex Partagé
-
-- **Obtenez un look rafraîchi pour votre écran de démarrage Office sur Mac :** Un nouveau look rafraîchi qui utilise notre boîte à outils Fluent pour s'aligner sur le nouveau langage de conception d'Apple à Big Sur.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/visual-updates-to-start-experience-in-office-for-mac)
-
 ### <a name="excel"></a>Excel
 
 - **Types de données liées : de vraies données pour la vie réelle :** Les nouveaux types de données liées vous apportent des faits et des données sur des centaines de sujets pour vous permettre d’accomplir vos objectifs directement dans Excel. [En savoir plus](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
@@ -97,6 +93,9 @@ Les mises à jour sont disponibles dans la fonctionnalité de mise à jour autom
 
 - **M365 Carte de profil dans Teams :** Lorsque vous sélectionnez le nom ou la photo d'une personne dans Teams, la carte de profil s'ouvre et affiche les informations relatives à cette personne, telles que son titre, ses coordonnées et son responsable.
 
+### <a name="office-suite"></a>Suite Office
+
+- **Obtenez un look rafraîchi pour votre écran de démarrage Office sur Mac :** Un nouveau look rafraîchi qui utilise notre boîte à outils Fluent pour s'aligner sur le nouveau langage de conception d'Apple à Big Sur.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/visual-updates-to-start-experience-in-office-for-mac)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
