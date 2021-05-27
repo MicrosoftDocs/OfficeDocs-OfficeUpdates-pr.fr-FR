@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
-ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
+ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
+ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636528"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52662820"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -57,17 +57,13 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 - Nous avons résolu un problème qui causait la fermeture inattendue de certains utilisateurs lors du chargement des cartes de personne.
 
 
-- Nous avons corrigé un problème qui empêchait la possibilité de coller des formules sur une feuille protégée.
+- Nous avons ajouté une clé de Registre qui désactive la nouvelle expérience de recherche de salles (la même que dans Outlook pour le web) et active l’ancienne Recherche de salles avec des heures suggérées.
+    - Clé de Registre :
 
-    - Clé Regkey :
-
-    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-
-    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
-
-    > (par défaut) : Outlook utilise la nouvelle eXperience Powered OWA Room Finder lorsque l'utilisateur clique sur le bouton « Recherche de salle » pour rechercher des salles disponibles.  </br>
-
-    > 1 : Outlook utilise l’interface utilisateur de Recherche de salles héritée pour rechercher les salles disponibles </br>
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (par défaut) : Outlook utilise la nouvelle eXperience Powered OWA Room Finder lorsque l'utilisateur clique sur le bouton « Recherche de salle » pour rechercher des salles disponibles.  </br>
+        > 1 : Outlook utilise l’interface utilisateur de Recherche de salles héritée pour rechercher les salles disponibles </br>
 
 
 ### <a name="project"></a>Project

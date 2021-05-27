@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des notes de version des versions du canal mensuel de Microsoft 365 Apps
-ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
+ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563370"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52657967"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -30,6 +30,119 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2105-may-24"></a>Version 2105 : 24 mai
+*Version 2105 (build 14026.20246)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus.
+
+### <a name="teams"></a>Teams
+
+- **Les flux vidéo sortent via le matériel AJA ou Blackmagic Design :** des flux vidéo isolés peuvent être envoyés hors des réunions Teams via des dispositifs matériels AJA et Blackmagic Design.
+
+- **Les utilisateurs anonymes peuvent effectuer des présentations :** Lors de l’hébergement d’un événement en direct Teams, nous avons ajouté la possibilité, pour les utilisateurs anonymes, de rejoindre un événement en direct pour pouvoir également effectuer des présentations pendant l’événement.
+
+- **Approbations : réaffecter une assistance :** les approbateurs pourront désormais déléguer/réaffecter une demande d'approbation à un autre utilisateur.
+
+- **Complément d'application d'approbation dans Microsoft Word :** les utilisateurs pourront créer une demande d'approbation pour un document entier ou une section d'un document dans Microsoft Word via des compléments.
+
+- **Mode Ensemble pour VDI :** le mode Ensemble sur VDI utilise la technologie de segmentation de l'IA dans les réunions pour placer numériquement les participants dans un arrière-plan partagé, donnant ainsi l'impression d'être assis dans la même pièce que tout les autres.
+
+- **Conversation supervisée :** utilisez la stratégie d'administration Teams pour vous assurer que les élèves sont supervisés par un éducateur pendant les discussions privées en tête-à-tête ou en groupe. Avec la conversation supervisée, les élèves ne seront pas autorisés à participer à des conversations sans la présence d'un éducateur superviseur.
+
+- **Microsoft Teams : expérience Partage en réunion révisée :** l’interface utilisateur pour la fonctionnalité Partage en réunion dans Microsoft Teams a été reconçue pour permettre aux présentateurs de rechercher plus rapidement et facilement le contenu souhaité.
+
+- **Désactiver la caméra pour des participants spécifiques : :** Les organisateurs et les présentateurs de réunions peuvent désactiver les caméras de participants spécifiques dans une réunion Teams pour veiller à ce qu’ils ne partagent pas la vidéo pendant la réunion.
+
+- **Désactiver la caméra pour tous les participants : :** Les organisateurs et les présentateurs de réunions peuvent désactiver les caméras de tous les participants dans une réunion Teams pour veiller à ce qu’ils ne partagent pas la vidéo pendant la réunion.
+
+- **Disponibilité générale des fonctionnalités du webinaire Teams :** Planifiez et diffusez des webinaires pour 1 000 personnes avec la même application Teams que vous utilisez pour les réunions. Les fonctionnalités de webinaire prennent en charge la création de pages d’inscription, la confirmation par e-mail pour les inscrits, la gestion des hôtes pour la vidéo et l’audio des participants, les rapports des participants, ainsi que des fonctionnalités interactives comme les sondages, les conversations et les réactions.
+
+- **Créez Teams avec des modèles d'équipe :** avec des modèles dans Teams, les utilisateurs peuvent choisir parmi un large éventail de modèles personnalisables lors de la création d’une équipe, afin d’en faciliter la prise en main. Les administrateurs de l’informatique peuvent également créer des modèles personnalisés pour leur organisation, leur permettant ainsi de standardiser la structure des équipes, les applications pertinentes et d’adapter les pratiques recommandées. Les administrateurs informatiques peuvent choisir les modèles d’équipe à montrer aux utilisateurs finaux dans le Centre d’administration Teams et préconfigurer les onglets d’un site web en ajoutant des URL à un onglet de site web dans un modèle d’équipe.
+
+- **Présenter des diapos de PowerPoint dans Teams :** présentez vos diapositives directement de l’application PowerPoint dans une réunion Teams via PowerPoint Live.
+
+- **Sélecteur d’emoji développé :** la mise à jour des emojis développée offre aux utilisateurs davantage de divertissement et d’expression dans Teams. Elle présente également un large éventail de diversité et de représentation. Le jeu d’emojis s’est développé de 85 à 800 emojis, avec un sélecteur de catégorie, un sélecteur de teint et un sélecteur de code court.
+
+- **Conversation avec des utilisateurs externes dans des conversations de groupe :** grâce à cette fonctionnalité, les utilisateurs peuvent créer des conversations de groupe incluant des personnes extérieures à leur organisation à l'aide de Teams (tous les utilisateurs doivent avoir activé les fonctionnalités d'accès externe).
+
+- **Mettre à jour de l’outil Planificateur de réseau pour estimer la bande passante :** l'outil de Planificateur de réseau sera mis à jour pour refléter les derniers besoins en bande passante du client Teams. Les administrateurs informatiques pourront ainsi mieux estimer et planifier les besoins en bande passante de leurs bureaux.
+
+- **Paramètre de préférence utilisateur pour ouvrir les fichiers par défaut dans le Bureau (ou) le Navigateur (ou) Teams :** les utilisateurs peuvent définir leur préférence par défaut en tant sur Navigateur, Bureau ou Teams lors de l’ouverture de fichiers Office (Word, Excel et Power Point) partagés dans Teams. Le paramètre Bureau peut être sélectionné si les derniers clients Office sont installés et activés
+
+- **Mettre en évidence plusieurs utilisateurs simultanément dans une réunion :** organisateurs et présentateurs peuvent désormais mettre en évidencer plusieurs participants simultanément pendant les réunions. La scène de la réunion mettra en évidence ces participants, avec leurs vidéos ou avatars, pour tous les participants à la réunion.
+
+### <a name="word"></a>Word
+
+- **L’enregistrement automatique et la co-création de documents chiffrés sensibles :** la sécurité, oui, mais pas au détriment de la productivité. Grâce à Microsoft Information Protection, les documents chiffrés avec des étiquettes de niveau de sécurité peuvent désormais être enregistrés automatiquement et co-créés avec d’autres personnes en temps réel, tout comme les documents non chiffrés. Le client doit être inclus.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d'un problème pour lequel le complément Analysis ToolPak ne fonctionnait pas pour certains utilisateurs.
+
+
+- Correction d’un problème pour permettre au Gestionnaire de noms s’ouvrir dans les livres avec un grand nombre de noms masqués.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui causait la désactivation de certaines instructions de la fonctionnalité « Raccourcir les réunions » par les technologies de lecteur d'écran.
+
+
+- Nous avons résolu un problème qui causait la fermeture inattendue de certains utilisateurs lors du chargement des cartes de personne.
+
+
+- Nous avons résolu un problème qui causait la désactivation de l’option de commentaires pour les utilisateurs titulaires d’une licence pour la durée des droits de propriété intellectuelle d’Office 2021 préversion.
+
+
+- Nous avons ajouté une clé de Registre qui désactive la nouvelle expérience de recherche de salles (la même que dans Outlook pour le web) et active l’ancienne Recherche de salles avec des heures suggérées.
+    - Clé de Registre :
+
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (par défaut) : Outlook utilise la nouvelle eXperience Powered OWA Room Finder lorsque l'utilisateur clique sur le bouton « Recherche de salle » pour rechercher des salles disponibles.  </br>
+        > 1 : Outlook utilise l’interface utilisateur de Recherche de salles héritée pour rechercher les salles disponibles </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correction d'un problème où l'option Réutiliser les diapositives n'était pas disponible pour quelques utilisateurs.
+
+
+### <a name="project"></a>Project
+
+- Correction d’un problème pour lequel les affectations de tâches programmées manuellement étaient déplacées à une date incorrecte.
+
+
+- Correction d'un problème pour lequel si vous créez une formule de champ personnalisé qui utilise les fonctions ProjectDate */ProjectDur* et si le deuxième paramètre est les fonctions de date et heure Date(), Maintenant() ou Heure() alors un #ERROR résulte.
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème concernant les cartes contextuelles de canevas pour l’orthographe et la grammaire, qui affichent des boutons d’icônes, mais ces boutons n’ont pas d’infobulles.
+
+
+- Correction d’un problème pour lequel le volet Éditeur ne s’ouvre pas.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -809,6 +922,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
@@ -818,5 +932,4 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
