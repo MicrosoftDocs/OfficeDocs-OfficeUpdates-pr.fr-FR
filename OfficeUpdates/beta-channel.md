@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
+ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625939"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699130"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,72 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2106-may-28"></a>Version 2106 : 28 mai
+*Version 2106 (Build 14122.20004)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Org Explorer:** Affichez et parcourez l’organigramme d’une organisation.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème empêchant les utilisateurs de déplacer des éléments dans des dossiers dans les versions Outlook sous licence « non professionnelles ».
+
+
+- Cette une clé de Registre désactive la nouvelle expérience de Recherche de salles (la même que dans Outlook pour le web) et active l’ancienne Recherche de salles avec des heures suggérées.
+
+  > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+  > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+  > 0 (par défaut) : Outlook utilise la nouvelle eXperience Powered OWA Room Finder lorsque l'utilisateur clique sur le bouton « Recherche de salle » pour rechercher des salles disponibles.  </br>
+  > 1 : Outlook utilise l’interface utilisateur de Recherche de salles héritée pour rechercher les salles disponibles</br>
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème pour lequel les affectations de tâches programmées manuellement pouvaient être déplacées à une date incorrecte.
+
+
+- Nous avons résolu un problème d’absence de réponse et d’échec d’ouverture de la liste de ressources partagées.
+
+
+- Nous avons résolu un problème de génération d’une erreur lors de la création d’une formule de champ personnalisée qui utilise les fonctions ProjectDate */ProjectDur* avec des paramètres d’heure ou de date spécifiques.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème de non enregistrement de commentaires lors de l’exportation d’un document vers PDF.
+
+
+- Nous avons résolu un problème qui empêche la modification d’un nouveau commentaire dans la zone non protégée d’un document lorsque que Modification restreinte est appliquée.
+
+
+- Nous avons résolu un problème lié à l’animation inutile du défilement.
+
+
+- Nous avons résolu un problème entraînant la fermeture inattendue du volet Commentaires.
+
+
+- Nous avons résolu un problème entraînant une incompatibilité entre le thème du volet Rédacteur et le thème du système.
+
+
+- Nous avons résolu un problème de performances liées au fait de travailler avec des documents volumineux.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2106-may-21"></a>Version 2106 : 21 mai
 *Version 2106 (build 14117.20000)*
@@ -3119,6 +3185,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
@@ -3128,5 +3195,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
