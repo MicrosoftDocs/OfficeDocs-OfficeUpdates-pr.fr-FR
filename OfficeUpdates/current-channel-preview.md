@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
-ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
+ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
+ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52662820"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52742223"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,43 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2105-june-01"></a>Version 2105 : 1er juin
+*Version 2105 (Build 14026.20254)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Dernière connexion / Connexion suspecte :** Outlook vous indique à présent quand et où vous vous êtes connecté pour la dernière fois à votre compte et vous avertit si une activité de connexion suspecte est détectée.
+
+- **Activer les améliorations apportées aux calendriers partagés :** pour les calendriers partagés dans Office 365, Outlook peut mettre à jour ces calendriers à l’aide de l’API REST. Activez l’aperçu pour obtenir des mises à jour plus rapides et plus fiables sur les calendriers partagés.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/shared-calendars-improvements-in-outlook-for-windows)
+
+- **Vérification de l'accessibilité lors de l'envoi de courriels à un large public, à des utilisateurs externes :** nous avons ajouté une fonction permettant d'être averti automatiquement, par une info-message, d'une violation de l'accessibilité lors de la rédaction d'un courriel destiné à un large public, à des utilisateurs externes, etc. Ces paramètres se trouvent dans la section Facilité d'accès<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/sending-accessible-emails-in-outlook-for-windows)
+
+### <a name="visio"></a>Visio
+
+- **Gabarits et formes AWS :** nous avons désormais des gabarits qui ont les dernières formes AWS pour vous aider à créer des diagrammes. [En savoir plus](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui pouvait provoquer une fermeture inattendue lors de l’interaction avec les affichages Courrier Outlook ou Calendrier.
+
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2105-may-23"></a>Version 2105 : 23 mai
 *Version 2105 (build 14026.20246)*
