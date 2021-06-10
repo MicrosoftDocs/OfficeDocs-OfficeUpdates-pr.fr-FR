@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: df5abe158a0abaf1a962d1bd3bba97036175c9e4
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: 712501114acb6e1a14ae8f0c55727ac3e504afe1
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790509"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851844"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,196 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2106-june-07"></a>Version 2106: 7 juin
+*Version 2106 (Build 14131.20012)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème qui empêchait le Gestionnaire de noms d’ouvrir des livres avec un grand nombre de noms masqués.
+
+
+- Nous avons résolu un problème qui affectait les performances de VLOOKUP et INDEX/MATCH lors du remplissage d'une grande quantité de données.
+
+
+- Nous avons résolu un problème qui faisait que les tableaux dynamiques ne mettaient pas à jour les valeurs des cellules lorsqu'ils étaient référencés par les fonctions RealTimeData.
+
+
+- Correction d’un problème où le mode OverType d’IME ne tapait pas sur les caractères, il les laissait à la fin de la chaîne.
+
+
+- Nous avons résolu un problème lié au défilement à deux doigts lors de l'utilisation de volets Figer.
+
+
+- Nous avons résolu un problème lié à l'absence de mémoire lors de l'impression sur des imprimantes grand format.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient les messages utilisables s'actualiser constamment ou revenir aux en-têtes après le téléchargement lorsqu'ils fonctionnaient en mode En-tête de téléchargement uniquement.
+
+
+- Nous avons résolu un problème empêchant les utilisateurs de déplacer des éléments dans des dossiers dans les versions Outlook sous licence « non professionnelles ».
+
+
+- Nous avons résolu un problème qui entraînait une fermeture inattendue des utilisateurs lors de la suppression de dossiers d’un magasin d’archives.
+
+
+- Nous avons résolu un problème qui causait la fermeture inattendue de certains utilisateurs lors du chargement des cartes de personne.
+
+
+- Nous avons résolu un problème qui faisait que le sélecteur de personnes dans Outlook se développait vers le haut plutôt que vers le bas pour les utilisateurs titulaires d’une licence pour la durée des droits de propriété intellectuelle.
+
+
+- Nous avons résolu un problème qui causait l’échec de l’apparition de l’option de commentaires pour les utilisateurs titulaires d’une licence pour la durée des droits de propriété intellectuelle d’Office 2021 préversion.
+
+
+- Nous avons résolu un problème qui faisait que les utilisateurs voyaient des copies de tous leurs éléments envoyés s’afficher dans leur dossier Boîte d'envoi.
+
+
+- Nous avons résolu un problème qui causait aux utilisateurs de domaines personnalisés un message d’avertissement concernant les autorisations lors du lien dans un courrier électronique.
+
+
+- Nous avons ajouté une clé de Registre qui désactive la nouvelle expérience de recherche de salles (la même que dans Outlook pour le web) et active l’ancienne Recherche de salles avec des heures suggérées.
+
+    Clé de Registre :
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    > 0 (par défaut) : Outlook utilise la nouvelle eXperience Powered OWA Room Finder lorsque l'utilisateur clique sur le bouton « Recherche de salle » pour rechercher des salles disponibles.  </br>
+    > 1 : Outlook utilise l’interface utilisateur de Recherche de salles héritée pour rechercher les salles disponibles </br>
+
+
+- Nous avons résolu un problème qui provoquait une fermeture attendue lors de l’utilisation de la lecture à voix haute avec d’autres versions de Windows.
+
+
+- Nous avons résolu un problème qui entraînait un blocage des utilisateurs lors de la suppression de dossiers d’un magasin d’archives.
+
+
+- Nous avons résolu un problème qui entraînait un blocage de certains utilisateurs lors du chargement des cartes de personne.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème qui empêchait la copie à partir du volet des notes du locuteur en mode Lecture seule.
+
+
+- Nous avons résolu un problème pour nous assurer qu’un fichier enregistré à l’aide du bouton Réessayer d’enregistrer dans la barre de bus est ajouté à la liste récente.
+
+
+- Correction d'un problème où l'option Réutiliser les diapositives n'était pas disponible pour quelques utilisateurs.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème pour lequel les affectations de tâches programmées manuellement pouvaient être déplacées à une date incorrecte.
+
+
+- Nous avons résolu un problème d’absence de réponse et d’échec d’ouverture de la liste de ressources partagées.
+
+
+- Nous avons résolu un problème de génération d’une erreur lors de la création d’une formule de champ personnalisée qui utilise les fonctions ProjectDate */ProjectDur* avec des paramètres d’heure ou de date spécifiques.
+
+
+### <a name="word"></a>Word
+
+- Résolution d’un problème où un commentaire est temporairement vide après la publication.
+
+
+- Nous avons résolu un problème pour lequel un message d’erreur Enregistrer sous s’affichait même après qu’un utilisateur ait choisi d’ignorer les modifications.
+
+
+- Nous avons résolu un problème qui empêchait l'affichage d'images dans les commentaires modernes.
+
+
+- Nous avons résolu un problème pour lequel le fait d’appuyer sur des combinaisons de touches telles que Ctrl+Maj+@ ne produisait pas le caractère accentué attendu (dans ce cas, « å »).
+
+
+- Nous avons résolu un problème lié à la compression d’images.
+
+
+- Nous avons résolu un problème pour lequel le volet Révision pouvait défiler ou apparaître comme défilement, mais n’était pas aligné sur le commentaire sélectionné.
+
+
+- Nous avons résolu un problème de non enregistrement de commentaires lors de l’exportation d’un document vers PDF.
+
+
+- Nous avons résolu un problème qui empêche la modification d’un nouveau commentaire dans la zone non protégée d’un document lorsque que Modification restreinte est appliquée.
+
+
+- Nous avons résolu un problème lié à l’animation inutile du défilement.
+
+
+- Correction d’un problème où le volet Commentaires se fermait de manière inattendue.
+
+
+- Nous avons résolu un problème où les commentaires n'étaient pas mis en évidence lorsqu'ils étaient sélectionnés.
+
+
+- Nous avons résolu un problème qui empêchait d'effacer la sélection dans le document lorsque l'on cliquait en dehors d'un commentaire nouvellement créé.
+
+
+- Nous avons résolu un problème pour lequel la copie d’une pièce jointe dans une application autre que Word échoue si le nom de fichier incluait des caractères DBCS.
+
+
+- Nous avons résolu un problème qui provoquait une fermeture attendue lors de l’utilisation de la lecture à voix haute avec d’autres versions de Windows.
+
+
+- Correction d’un problème concernant les cartes contextuelles de canevas pour l’orthographe et la grammaire, qui affichent des boutons d’icônes, mais ces boutons n’ont pas d’infobulles.
+
+
+- Nous avons résolu un problème entraînant une incompatibilité entre le thème du volet Rédacteur et le thème du système.
+
+
+- Correction d’un problème pour lequel le Volet Éditeur ne s’ouvre pas.
+
+
+- Correction d’un problème où les boutons ondulés de similarité ne pointaient pas lors du passage à la catégorie Orthographe dans l’Éditeur.
+
+
+- Nous avons résolu un problème où Word affichait parfois une bordure autour du texte qui n’aurait pas dû s’y trouver.
+
+
+- Nous avons résolu un problème où l’espacement des caractères augmentait pour des polices spécifiques lors de leur rotation à 90 degrés.
+
+
+- Nous avons résolu un problème de mise à jour du champ erroné lors de l’exécution d’une macro si des restrictions de modification étaient appliquées.
+
+
+- Nous avons résolu un problème où les réponses aux commentaires étaient parfois perdues lors de la co-création avec plusieurs utilisateurs.
+
+
+- Nous avons résolu un problème de performances liées au fait de travailler avec des documents volumineux.
+
+
+- Nous avons résolu un problème pour lequel certains fichiers Word ne s’ouvrent pas en raison de signets endommagés.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème où la fonctionnalité CLP provoquait précédemment des enregistrements non modifiés dans le fichier SyncBacked (fichier synchronisé par OneDrive).
+
+
+- Nous avons résolu un problème où l’utilisateur n’était pas en mesure de modifier les fichiers stockés sur les serveurs OnPrem.
+
+
+- Correction d’une régression des performances lors de l’ouverture des fichiers SyncBacked.
+
+
+- Nous avons résolu un problème pour lequel OneDrive affichait un message d'erreur de fusion alors qu'il n'y avait en fait aucun conflit de fusion.
+
+
+- Nous avons résolu un problème où la connexion avec un autre compte pouvait entraîner un arrêt.
+
+
+- Nous avons résolu un problème lié à l'ordre z des objets SVG lorsqu'ils sont convertis en formes.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2105-june-04"></a>Version 2105 : 4 juin
 *Version 2105 (Build 14026.20264)*
@@ -1894,7 +2084,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2795,7 +2985,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -3882,7 +4072,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
