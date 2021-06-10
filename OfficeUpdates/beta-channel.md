@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 88823cb9d26a86d5c726139c3b7f5ea0b5483b9d
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: fe1ae3a57962939c85f7bdf8a7e28ad45bb299a3
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790499"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851744"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -100,6 +100,8 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 - Cette une clé de Registre désactive la nouvelle expérience de Recherche de salles (la même que dans Outlook pour le web) et active l’ancienne Recherche de salles avec des heures suggérées.
 
+  Clé de Registre :
+  
   > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
   > REG_DWORD “ShowLegacyRoomFinder”</br></br>
   > 0 (par défaut) : Outlook utilise la nouvelle eXperience Powered OWA Room Finder lorsque l'utilisateur clique sur le bouton « Recherche de salle » pour rechercher des salles disponibles.  </br>
@@ -1167,7 +1169,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 ### <a name="word"></a>Word
 
-- **Améliorez la collaboration grâce aux commentaires modernes :** Ajoutez des commentaires aux objets, @mentionner des collègues et résolvez les fils de commentaires pour améliorer l’expérience de collaboration. [En savoir plus](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/modern-commenting-in-word)
+- **Améliorez la collaboration grâce aux commentaires modernes :** Ajoutez des commentaires aux objets, @mentionner des collègues et résolvez les fils de commentaires pour améliorer l’expérience de collaboration. [En savoir plus](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/modern-commenting-in-word)
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
@@ -1520,7 +1522,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -2110,19 +2112,19 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 ### <a name="feature-updates"></a>Mises à jour de fonctionnalités
 ### <a name="excel"></a>Excel
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/insert-apple-photos-into-office-easily)
+- **Insérez vos photos iPhone directement dans Office :** les image HEIC de votre téléphone s’insèrent désormais facilement dans Office. Aucune conversion n’est requise.<br />Voir détails dans le [billet de blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
@@ -2808,7 +2810,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
