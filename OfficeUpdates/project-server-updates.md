@@ -1,5 +1,5 @@
 ---
-title: Mises à jour de Project Server
+title: Mises à jour de Project Server
 ms.author: timda
 author: TimDavenport
 manager: TimDavenport
@@ -11,257 +11,258 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
-ms.openlocfilehash: c5c5dfadbe70eedbabec37392007a29c5668a4e5
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+description: Recherchez et gérez les mises à jour pour Project Server 2013 et Project Server 2010 dans un même endroit. Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour et pour les télécharger.
+ms.openlocfilehash: 4f23879a526d78aea53458d98f7e3dd81c713ef4
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322364"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851994"
 ---
-# <a name="project-server-updates"></a>Mises à jour de Project Server
+# <a name="project-server-updates"></a>Mises à jour de Project Server
 
-Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour de Project Server 2013 et Project Server 2010, et pour les télécharger. 
+Utilisez les liens indiqués sur cette page pour obtenir plus d’informations sur les mises à jour de Project Server 2013 et Project Server 2010, et pour les télécharger. 
 > [!NOTE]
-> Pour plus d’informations sur les mises à jour de Project Server 2016, consultez l’article [Mises à jour de SharePoint](sharepoint-updates.md), car Project Server 2016 fait partie de SharePoint Server 2016 Enterprise Edition.
+> Pour plus d’informations sur les mises à jour de Project Server 2016, consultez l’article [Mises à jour de SharePoint](sharepoint-updates.md), car Project Server 2016 fait partie de SharePoint Server 2016 Enterprise Edition.
   
-## <a name="project-server-2013-update-history"></a>Historique des mises à jour de Project Server 2013
+## <a name="project-server-2013-update-history"></a>Historique des mises à jour de Project Server 2013
 |**Date de sortie**|**Numéro KB**||
 |:-----|:-----|:-----|
+|Juin 2021 <br/>|[KB5001959](https://support.microsoft.com/help/5001959) <br/>|
 |Mai 2021 <br/>|[KB5001930](https://support.microsoft.com/help/5001930) <br/>|
-|Avril 2021 <br/>|[KB4504731](https://support.microsoft.com/help/4504731) <br/>|
-|mars 2021 <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
-|Février 2021 <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
-|Janvier 2021 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
+|Avril 2021 <br/>|[KB4504731](https://support.microsoft.com/help/4504731) <br/>|
+|mars 2021 <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
+|Février 2021 <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
+|Janvier 2021 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
 |Décembre 2020 <br/>|[KB4486763](https://support.microsoft.com/help/4486763) <br/>|
-|Novembre 2020 <br/>|[KB4486729](https://support.microsoft.com/help/4486729) <br/>|
-|Octobre 2020 <br/>|[KB4486691](https://support.microsoft.com/help/4486691) <br/>|
-|Septembre 2020 <br/>|[KB4484521](https://support.microsoft.com/help/4484521) <br/>|
-|Août 2020 <br/>|[KB4484483](https://support.microsoft.com/help/4484483) <br/>|
-|Juillet 2020  <br/> |[KB4484445](https://support.microsoft.com/help/4484445) <br/>|
-|Juin 2020  <br/> |[KB4484407](https://support.microsoft.com/help/4484407) <br/>|
-|Mai 2020  <br/> |[KB4484360](https://support.microsoft.com/help/4484360) <br/>|
-|Avril 2020  <br/> |[KB4484318](https://support.microsoft.com/help/4484318) <br/>|
-|Mars 2020  <br/> |[KB4484279](https://support.microsoft.com/help/4484279) <br/>|
-|Février 2020  <br/> |[KB4484262](https://support.microsoft.com/help/4484262) <br/>|
-|Janvier 2020  <br/> |[KB4484230](https://support.microsoft.com/help/4484230) <br/>|
-|Décembre 2019  <br/> |[KB4484187](https://support.microsoft.com/help/4484187) <br/>|
-|Novembre 2019  <br/> |[KB4484154](https://support.microsoft.com/help/4484154) <br/>|
-|Octobre 2019  <br/> |[KB4484120](https://support.microsoft.com/help/4484120) <br/>|
-|Septembre 2019  <br/> |[KB4484093](https://support.microsoft.com/help/4484093) <br/>|
-|Août 2019  <br/> |[KB4475560](https://support.microsoft.com/help/4475560) <br/>|
-|Juillet 2019  <br/> |[KB4475524](https://support.microsoft.com/help/4475524) <br/>|
-|Juin 2019  <br/> |[KB4464600](https://support.microsoft.com/help/4464600) <br/>|
-|Mai 2019  <br/> |[KB4464562](https://support.microsoft.com/help/4464562) <br/>|
-|Avril 2019  <br/> |[KB4464513](https://support.microsoft.com/help/4464513) <br/>|
-|Mars 2019  <br/> |[KB4462218](https://support.microsoft.com/help/4462218) <br/>|
+|Novembre 2020 <br/>|[KB4486729](https://support.microsoft.com/help/4486729) <br/>|
+|Octobre 2020 <br/>|[KB4486691](https://support.microsoft.com/help/4486691) <br/>|
+|Septembre 2020 <br/>|[KB4484521](https://support.microsoft.com/help/4484521) <br/>|
+|Août 2020 <br/>|[KB4484483](https://support.microsoft.com/help/4484483) <br/>|
+|Juillet 2020  <br/> |[KB4484445](https://support.microsoft.com/help/4484445) <br/>|
+|Juin 2020  <br/> |[KB4484407](https://support.microsoft.com/help/4484407) <br/>|
+|Mai 2020  <br/> |[KB4484360](https://support.microsoft.com/help/4484360) <br/>|
+|Avril 2020  <br/> |[KB4484318](https://support.microsoft.com/help/4484318) <br/>|
+|Mars 2020  <br/> |[KB4484279](https://support.microsoft.com/help/4484279) <br/>|
+|Février 2020  <br/> |[KB4484262](https://support.microsoft.com/help/4484262) <br/>|
+|Janvier 2020  <br/> |[KB4484230](https://support.microsoft.com/help/4484230) <br/>|
+|Décembre 2019  <br/> |[KB4484187](https://support.microsoft.com/help/4484187) <br/>|
+|Novembre 2019  <br/> |[KB4484154](https://support.microsoft.com/help/4484154) <br/>|
+|Octobre 2019  <br/> |[KB4484120](https://support.microsoft.com/help/4484120) <br/>|
+|Septembre 2019  <br/> |[KB4484093](https://support.microsoft.com/help/4484093) <br/>|
+|Août 2019  <br/> |[KB4475560](https://support.microsoft.com/help/4475560) <br/>|
+|Juillet 2019  <br/> |[KB4475524](https://support.microsoft.com/help/4475524) <br/>|
+|Juin 2019  <br/> |[KB4464600](https://support.microsoft.com/help/4464600) <br/>|
+|Mai 2019  <br/> |[KB4464562](https://support.microsoft.com/help/4464562) <br/>|
+|Avril 2019  <br/> |[KB4464513](https://support.microsoft.com/help/4464513) <br/>|
+|Mars 2019  <br/> |[KB4462218](https://support.microsoft.com/help/4462218) <br/>|
 |Février 2019  <br/> |[KB4462151](https://support.microsoft.com/help/4462151) <br/>|
-|Janvier 2019  <br/> |[KB4461604](https://support.microsoft.com/help/4461604) <br/>|
+|Janvier 2019  <br/> |[KB4461604](https://support.microsoft.com/help/4461604) <br/>|
 |Décembre 2018  <br/> |[KB4461553](https://support.microsoft.com/help/4461553) <br/>|
-|Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/help/4461509) <br/>|
-|Octobre 2018  <br/> |[KB4461456](https://support.microsoft.com/help/4461456) <br/>|
-|Septembre 2018  <br/> |[KB4092475](https://support.microsoft.com/help/4092475) <br/>|
-|Août 2018  <br/> |[KB4032245](https://support.microsoft.com/help/4032245) <br/>|
-|Juillet 2018  <br/> |[KB4022240](https://support.microsoft.com/help/4022240) <br/>|
-|Juin 2018  <br/> |[KB4022185](https://support.microsoft.com/help/4022185) <br/>|
+|Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/help/4461509) <br/>|
+|Octobre 2018  <br/> |[KB4461456](https://support.microsoft.com/help/4461456) <br/>|
+|Septembre 2018  <br/> |[KB4092475](https://support.microsoft.com/help/4092475) <br/>|
+|Août 2018  <br/> |[KB4032245](https://support.microsoft.com/help/4032245) <br/>|
+|Juillet 2018  <br/> |[KB4022240](https://support.microsoft.com/help/4022240) <br/>|
+|Juin 2018  <br/> |[KB4022185](https://support.microsoft.com/help/4022185) <br/>|
 |Mai 2018  <br/> |[KB4018395](https://support.microsoft.com/help/4018395) <br/>|
-|Avril 2018  <br/> |[KB4018346](https://support.microsoft.com/help/4018346) <br/> |
-|Mars 2018  <br/> |[KB4018301](https://support.microsoft.com/help/4018301) <br/> |
-|Février 2018  <br/> |[KB4011694](https://support.microsoft.com/help/4011694) <br/> |
-|Janvier 2018  <br/> |[KB4011650](https://support.microsoft.com/help/4011650) <br/> |
-|Décembre 2017  <br/> |[KB4011589](https://support.microsoft.com/help/4011589) <br/> |
-|Novembre 2017  <br/> |[KB4011249](https://support.microsoft.com/help/4011249) <br/> |
-|Octobre 2017<br/> |[KB4011175](https://support.microsoft.com/help/4011175) <br/> |
-|Septembre 2017<br/> |[KB4011115](https://support.microsoft.com/help/4011115) <br/> |
-|Août 2017  <br/>  |[KB4011074](https://support.microsoft.com/help/4011074) <br/> |
-|Juillet 2017  <br/> |[KB3213566](https://support.microsoft.com/help/3213566) <br/> |
-|Juin 2017  <br/> |[KB3203429](https://support.microsoft.com/help/3203429) <br/> |
-|Avril 2017  <br/> |[KB3178728](https://support.microsoft.com/help/3178728) <br/> |
-|Mars 2017  <br/> |[KB3172462](https://support.microsoft.com/help/3172462) <br/> |
-|Janvier 2017  <br/> |[KB3141480](https://support.microsoft.com/help/3141480) <br/> |
-|Décembre 2016  <br/> |[KB3128003](https://support.microsoft.com/help/3128003) <br/> |
-|Novembre 2016  <br/> |[KB3127931](https://support.microsoft.com/help/3127931) <br/> |
-|Octobre 2016  <br/>|[KB3118365](https://support.microsoft.com/help/3118365) <br/> |
+|Avril 2018  <br/> |[KB4018346](https://support.microsoft.com/help/4018346) <br/> |
+|Mars 2018  <br/> |[KB4018301](https://support.microsoft.com/help/4018301) <br/> |
+|Février 2018  <br/> |[KB4011694](https://support.microsoft.com/help/4011694) <br/> |
+|Janvier 2018  <br/> |[KB4011650](https://support.microsoft.com/help/4011650) <br/> |
+|Décembre 2017  <br/> |[KB4011589](https://support.microsoft.com/help/4011589) <br/> |
+|Novembre 2017  <br/> |[KB4011249](https://support.microsoft.com/help/4011249) <br/> |
+|Octobre 2017<br/> |[KB4011175](https://support.microsoft.com/help/4011175) <br/> |
+|Septembre 2017<br/> |[KB4011115](https://support.microsoft.com/help/4011115) <br/> |
+|Août 2017  <br/>  |[KB4011074](https://support.microsoft.com/help/4011074) <br/> |
+|Juillet 2017  <br/> |[KB3213566](https://support.microsoft.com/help/3213566) <br/> |
+|Juin 2017  <br/> |[KB3203429](https://support.microsoft.com/help/3203429) <br/> |
+|Avril 2017  <br/> |[KB3178728](https://support.microsoft.com/help/3178728) <br/> |
+|Mars 2017  <br/> |[KB3172462](https://support.microsoft.com/help/3172462) <br/> |
+|Janvier 2017  <br/> |[KB3141480](https://support.microsoft.com/help/3141480) <br/> |
+|Décembre 2016  <br/> |[KB3128003](https://support.microsoft.com/help/3128003) <br/> |
+|Novembre 2016  <br/> |[KB3127931](https://support.microsoft.com/help/3127931) <br/> |
+|Octobre 2016  <br/>|[KB3118365](https://support.microsoft.com/help/3118365) <br/> |
 |Septembre 2016  <br/> |[KB3118274](https://support.microsoft.com/help/3118274) <br/> |
-|Août 2016  <br/> |[KB3115448](https://support.microsoft.com/help/3115448) <br/> |
-|Juillet 2016  <br/> |[KB3115291](https://support.microsoft.com/help/3115291) <br/> |
-|Juin 2016  <br/>  |[KB3115172](https://support.microsoft.com/help/3115172) <br/> |
-|Mai 2016  <br/> |[KB3115024](https://support.microsoft.com/help/3115024) <br/> |
-|Avril 2016  <br/> |[KB3114936](https://support.microsoft.com/help/3114936) <br/> |
-|Mars 2016  <br/> |[KB3114823](https://support.microsoft.com/help/3114823) <br/> |
-|Février 2016  <br/> |[KB3114723](https://support.microsoft.com/help/3114723) <br/> |
-|Janvier 2016  <br/> |[KB3114493](https://support.microsoft.com/help/3114493) <br/> |
-|Décembre 2015  <br/> |[KB3114341](https://support.microsoft.com/help/3114341) <br/> |
-|Novembre 2015  <br/>  |[KB3101369](https://support.microsoft.com/help/3101369) <br/> |
-|Octobre 2015  <br/> |[KB3085489](https://support.microsoft.com/help/3085489) <br/> |
-|Septembre 2015  <br/> |[KB2986195](https://support.microsoft.com/help/2986195) <br/> |
-|Août 2015  <br/>|[KB3055005](https://support.microsoft.com/help/3055005) <br/> |
-|Juillet 2015  <br/>  |[KB3054933](https://support.microsoft.com/help/3054933) <br/> |
-|Juin 2015  <br/> |[KB3054865](https://support.microsoft.com/help/3054865) <br/> |
+|Août 2016  <br/> |[KB3115448](https://support.microsoft.com/help/3115448) <br/> |
+|Juillet 2016  <br/> |[KB3115291](https://support.microsoft.com/help/3115291) <br/> |
+|Juin 2016  <br/>  |[KB3115172](https://support.microsoft.com/help/3115172) <br/> |
+|Mai 2016  <br/> |[KB3115024](https://support.microsoft.com/help/3115024) <br/> |
+|Avril 2016  <br/> |[KB3114936](https://support.microsoft.com/help/3114936) <br/> |
+|Mars 2016  <br/> |[KB3114823](https://support.microsoft.com/help/3114823) <br/> |
+|Février 2016  <br/> |[KB3114723](https://support.microsoft.com/help/3114723) <br/> |
+|Janvier 2016  <br/> |[KB3114493](https://support.microsoft.com/help/3114493) <br/> |
+|Décembre 2015  <br/> |[KB3114341](https://support.microsoft.com/help/3114341) <br/> |
+|Novembre 2015  <br/>  |[KB3101369](https://support.microsoft.com/help/3101369) <br/> |
+|Octobre 2015  <br/> |[KB3085489](https://support.microsoft.com/help/3085489) <br/> |
+|Septembre 2015  <br/> |[KB2986195](https://support.microsoft.com/help/2986195) <br/> |
+|Août 2015  <br/>|[KB3055005](https://support.microsoft.com/help/3055005) <br/> |
+|Juillet 2015  <br/>  |[KB3054933](https://support.microsoft.com/help/3054933) <br/> |
+|Juin 2015  <br/> |[KB3054865](https://support.microsoft.com/help/3054865) <br/> |
 |Mai 2015  <br/> |[KB3039753](https://support.microsoft.com/help/3039753) <br/> |
-|Avril 2015  <br/> |[KB2965263](https://support.microsoft.com/help/2965263) <br/> |
-|Mars 2015  <br/> |[KB2956162](https://support.microsoft.com/help/2956162) <br/> |
-|Février 2015  <br/> |[KB2920796](https://support.microsoft.com/help/2920796) <br/> |
-|Décembre 2014  <br/> |[KB2910911](https://support.microsoft.com/help/2910911) <br/> |
+|Avril 2015  <br/> |[KB2965263](https://support.microsoft.com/help/2965263) <br/> |
+|Mars 2015  <br/> |[KB2956162](https://support.microsoft.com/help/2956162) <br/> |
+|Février 2015  <br/> |[KB2920796](https://support.microsoft.com/help/2920796) <br/> |
+|Décembre 2014  <br/> |[KB2910911](https://support.microsoft.com/help/2910911) <br/> |
 |Novembre 2014  <br/> |[KB2889949](https://support.microsoft.com/help/2889949) <br/> |
-|Septembre 2014  <br/>  |[KB2883072](https://support.microsoft.com/help/2883072) <br/> |
-|Janvier 2021 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
+|Septembre 2014  <br/>  |[KB2883072](https://support.microsoft.com/help/2883072) <br/> |
+|Janvier 2021 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
 |Décembre 2020 <br/>|[KB4486763](https://support.microsoft.com/help/4486763) <br/>|
-|Novembre 2020 <br/>|[KB4486729](https://support.microsoft.com/help/4486729) <br/>|
-|Octobre 2020 <br/>|[KB4486691](https://support.microsoft.com/help/4486691) <br/>|
-|Septembre 2020 <br/>|[KB4484521](https://support.microsoft.com/help/4484521) <br/>|
-|Août 2020 <br/>|[KB4484483](https://support.microsoft.com/help/4484483) <br/>|
-|Juillet 2020  <br/> |[KB4484445](https://support.microsoft.com/help/4484445) <br/>|
-|Juin 2020  <br/> |[KB4484407](https://support.microsoft.com/help/4484407) <br/>|
-|Mai 2020  <br/> |[KB4484360](https://support.microsoft.com/help/4484360) <br/>|
-|Avril 2020  <br/> |[KB4484318](https://support.microsoft.com/help/4484318) <br/>|
-|Mars 2020  <br/> |[KB4484279](https://support.microsoft.com/help/4484279) <br/>|
-|Février 2020  <br/> |[KB4484262](https://support.microsoft.com/help/4484262) <br/>|
-|Janvier 2020  <br/> |[KB4484230](https://support.microsoft.com/help/4484230) <br/>|
-|Décembre 2019  <br/> |[KB4484187](https://support.microsoft.com/help/4484187) <br/>|
-|Novembre 2019  <br/> |[KB4484154](https://support.microsoft.com/help/4484154) <br/>|
-|Octobre 2019  <br/> |[KB4484120](https://support.microsoft.com/help/4484120) <br/>|
-|Septembre 2019  <br/> |[KB4484093](https://support.microsoft.com/help/4484093) <br/>|
-|Août 2019  <br/> |[KB4475560](https://support.microsoft.com/help/4475560) <br/>|
-|Juillet 2019  <br/> |[KB4475524](https://support.microsoft.com/help/4475524) <br/>|
-|Juin 2019  <br/> |[KB4464600](https://support.microsoft.com/help/4464600) <br/>|
-|Mai 2019  <br/> |[KB4464562](https://support.microsoft.com/help/4464562) <br/>|
-|Avril 2019  <br/> |[KB4464513](https://support.microsoft.com/help/4464513) <br/>|
-|Mars 2019  <br/> |[KB4462218](https://support.microsoft.com/help/4462218) <br/>|
+|Novembre 2020 <br/>|[KB4486729](https://support.microsoft.com/help/4486729) <br/>|
+|Octobre 2020 <br/>|[KB4486691](https://support.microsoft.com/help/4486691) <br/>|
+|Septembre 2020 <br/>|[KB4484521](https://support.microsoft.com/help/4484521) <br/>|
+|Août 2020 <br/>|[KB4484483](https://support.microsoft.com/help/4484483) <br/>|
+|Juillet 2020  <br/> |[KB4484445](https://support.microsoft.com/help/4484445) <br/>|
+|Juin 2020  <br/> |[KB4484407](https://support.microsoft.com/help/4484407) <br/>|
+|Mai 2020  <br/> |[KB4484360](https://support.microsoft.com/help/4484360) <br/>|
+|Avril 2020  <br/> |[KB4484318](https://support.microsoft.com/help/4484318) <br/>|
+|Mars 2020  <br/> |[KB4484279](https://support.microsoft.com/help/4484279) <br/>|
+|Février 2020  <br/> |[KB4484262](https://support.microsoft.com/help/4484262) <br/>|
+|Janvier 2020  <br/> |[KB4484230](https://support.microsoft.com/help/4484230) <br/>|
+|Décembre 2019  <br/> |[KB4484187](https://support.microsoft.com/help/4484187) <br/>|
+|Novembre 2019  <br/> |[KB4484154](https://support.microsoft.com/help/4484154) <br/>|
+|Octobre 2019  <br/> |[KB4484120](https://support.microsoft.com/help/4484120) <br/>|
+|Septembre 2019  <br/> |[KB4484093](https://support.microsoft.com/help/4484093) <br/>|
+|Août 2019  <br/> |[KB4475560](https://support.microsoft.com/help/4475560) <br/>|
+|Juillet 2019  <br/> |[KB4475524](https://support.microsoft.com/help/4475524) <br/>|
+|Juin 2019  <br/> |[KB4464600](https://support.microsoft.com/help/4464600) <br/>|
+|Mai 2019  <br/> |[KB4464562](https://support.microsoft.com/help/4464562) <br/>|
+|Avril 2019  <br/> |[KB4464513](https://support.microsoft.com/help/4464513) <br/>|
+|Mars 2019  <br/> |[KB4462218](https://support.microsoft.com/help/4462218) <br/>|
 |Février 2019  <br/> |[KB4462151](https://support.microsoft.com/help/4462151) <br/>|
-|Janvier 2019  <br/> |[KB4461604](https://support.microsoft.com/help/4461604) <br/>|
+|Janvier 2019  <br/> |[KB4461604](https://support.microsoft.com/help/4461604) <br/>|
 |Décembre 2018  <br/> |[KB4461553](https://support.microsoft.com/help/4461553) <br/>|
-|Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/help/4461509) <br/>|
-|Octobre 2018  <br/> |[KB4461456](https://support.microsoft.com/help/4461456) <br/>|
-|Septembre 2018  <br/> |[KB4092475](https://support.microsoft.com/help/4092475) <br/>|
-|Août 2018  <br/> |[KB4032245](https://support.microsoft.com/help/4032245) <br/>|
-|Juillet 2018  <br/> |[KB4022240](https://support.microsoft.com/help/4022240) <br/>|
-|Juin 2018  <br/> |[KB4022185](https://support.microsoft.com/help/4022185) <br/>|
+|Novembre 2018  <br/> |[KB4461509](https://support.microsoft.com/help/4461509) <br/>|
+|Octobre 2018  <br/> |[KB4461456](https://support.microsoft.com/help/4461456) <br/>|
+|Septembre 2018  <br/> |[KB4092475](https://support.microsoft.com/help/4092475) <br/>|
+|Août 2018  <br/> |[KB4032245](https://support.microsoft.com/help/4032245) <br/>|
+|Juillet 2018  <br/> |[KB4022240](https://support.microsoft.com/help/4022240) <br/>|
+|Juin 2018  <br/> |[KB4022185](https://support.microsoft.com/help/4022185) <br/>|
 |Mai 2018  <br/> |[KB4018395](https://support.microsoft.com/help/4018395) <br/>|
-|Avril 2018  <br/> |[KB4018346](https://support.microsoft.com/help/4018346) <br/> |
-|Mars 2018  <br/> |[KB4018301](https://support.microsoft.com/help/4018301) <br/> |
-|Février 2018  <br/> |[KB4011694](https://support.microsoft.com/help/4011694) <br/> |
-|Janvier 2018  <br/> |[KB4011650](https://support.microsoft.com/help/4011650) <br/> |
-|Décembre 2017  <br/> |[KB4011589](https://support.microsoft.com/help/4011589) <br/> |
-|Novembre 2017  <br/> |[KB4011249](https://support.microsoft.com/help/4011249) <br/> |
-|Octobre 2017<br/> |[KB4011175](https://support.microsoft.com/help/4011175) <br/> |
-|Septembre 2017<br/> |[KB4011115](https://support.microsoft.com/help/4011115) <br/> |
-|Août 2017  <br/>  |[KB4011074](https://support.microsoft.com/help/4011074) <br/> |
-|Juillet 2017  <br/> |[KB3213566](https://support.microsoft.com/help/3213566) <br/> |
-|Juin 2017  <br/> |[KB3203429](https://support.microsoft.com/help/3203429) <br/> |
-|Avril 2017  <br/> |[KB3178728](https://support.microsoft.com/help/3178728) <br/> |
-|Mars 2017  <br/> |[KB3172462](https://support.microsoft.com/help/3172462) <br/> |
-|Janvier 2017  <br/> |[KB3141480](https://support.microsoft.com/help/3141480) <br/> |
-|Décembre 2016  <br/> |[KB3128003](https://support.microsoft.com/help/3128003) <br/> |
-|Novembre 2016  <br/> |[KB3127931](https://support.microsoft.com/help/3127931) <br/> |
-|Octobre 2016  <br/>|[KB3118365](https://support.microsoft.com/help/3118365) <br/> |
+|Avril 2018  <br/> |[KB4018346](https://support.microsoft.com/help/4018346) <br/> |
+|Mars 2018  <br/> |[KB4018301](https://support.microsoft.com/help/4018301) <br/> |
+|Février 2018  <br/> |[KB4011694](https://support.microsoft.com/help/4011694) <br/> |
+|Janvier 2018  <br/> |[KB4011650](https://support.microsoft.com/help/4011650) <br/> |
+|Décembre 2017  <br/> |[KB4011589](https://support.microsoft.com/help/4011589) <br/> |
+|Novembre 2017  <br/> |[KB4011249](https://support.microsoft.com/help/4011249) <br/> |
+|Octobre 2017<br/> |[KB4011175](https://support.microsoft.com/help/4011175) <br/> |
+|Septembre 2017<br/> |[KB4011115](https://support.microsoft.com/help/4011115) <br/> |
+|Août 2017  <br/>  |[KB4011074](https://support.microsoft.com/help/4011074) <br/> |
+|Juillet 2017  <br/> |[KB3213566](https://support.microsoft.com/help/3213566) <br/> |
+|Juin 2017  <br/> |[KB3203429](https://support.microsoft.com/help/3203429) <br/> |
+|Avril 2017  <br/> |[KB3178728](https://support.microsoft.com/help/3178728) <br/> |
+|Mars 2017  <br/> |[KB3172462](https://support.microsoft.com/help/3172462) <br/> |
+|Janvier 2017  <br/> |[KB3141480](https://support.microsoft.com/help/3141480) <br/> |
+|Décembre 2016  <br/> |[KB3128003](https://support.microsoft.com/help/3128003) <br/> |
+|Novembre 2016  <br/> |[KB3127931](https://support.microsoft.com/help/3127931) <br/> |
+|Octobre 2016  <br/>|[KB3118365](https://support.microsoft.com/help/3118365) <br/> |
 |Septembre 2016  <br/> |[KB3118274](https://support.microsoft.com/help/3118274) <br/> |
-|Août 2016  <br/> |[KB3115448](https://support.microsoft.com/help/3115448) <br/> |
-|Juillet 2016  <br/> |[KB3115291](https://support.microsoft.com/help/3115291) <br/> |
-|Juin 2016  <br/>  |[KB3115172](https://support.microsoft.com/help/3115172) <br/> |
-|Mai 2016  <br/> |[KB3115024](https://support.microsoft.com/help/3115024) <br/> |
-|Avril 2016  <br/> |[KB3114936](https://support.microsoft.com/help/3114936) <br/> |
-|Mars 2016  <br/> |[KB3114823](https://support.microsoft.com/help/3114823) <br/> |
-|Février 2016  <br/> |[KB3114723](https://support.microsoft.com/help/3114723) <br/> |
-|Janvier 2016  <br/> |[KB3114493](https://support.microsoft.com/help/3114493) <br/> |
-|Décembre 2015  <br/> |[KB3114341](https://support.microsoft.com/help/3114341) <br/> |
-|Novembre 2015  <br/>  |[KB3101369](https://support.microsoft.com/help/3101369) <br/> |
-|Octobre 2015  <br/> |[KB3085489](https://support.microsoft.com/help/3085489) <br/> |
-|Septembre 2015  <br/> |[KB2986195](https://support.microsoft.com/help/2986195) <br/> |
-|Août 2015  <br/>|[KB3055005](https://support.microsoft.com/help/3055005) <br/> |
-|Juillet 2015  <br/>  |[KB3054933](https://support.microsoft.com/help/3054933) <br/> |
-|Juin 2015  <br/> |[KB3054865](https://support.microsoft.com/help/3054865) <br/> |
+|Août 2016  <br/> |[KB3115448](https://support.microsoft.com/help/3115448) <br/> |
+|Juillet 2016  <br/> |[KB3115291](https://support.microsoft.com/help/3115291) <br/> |
+|Juin 2016  <br/>  |[KB3115172](https://support.microsoft.com/help/3115172) <br/> |
+|Mai 2016  <br/> |[KB3115024](https://support.microsoft.com/help/3115024) <br/> |
+|Avril 2016  <br/> |[KB3114936](https://support.microsoft.com/help/3114936) <br/> |
+|Mars 2016  <br/> |[KB3114823](https://support.microsoft.com/help/3114823) <br/> |
+|Février 2016  <br/> |[KB3114723](https://support.microsoft.com/help/3114723) <br/> |
+|Janvier 2016  <br/> |[KB3114493](https://support.microsoft.com/help/3114493) <br/> |
+|Décembre 2015  <br/> |[KB3114341](https://support.microsoft.com/help/3114341) <br/> |
+|Novembre 2015  <br/>  |[KB3101369](https://support.microsoft.com/help/3101369) <br/> |
+|Octobre 2015  <br/> |[KB3085489](https://support.microsoft.com/help/3085489) <br/> |
+|Septembre 2015  <br/> |[KB2986195](https://support.microsoft.com/help/2986195) <br/> |
+|Août 2015  <br/>|[KB3055005](https://support.microsoft.com/help/3055005) <br/> |
+|Juillet 2015  <br/>  |[KB3054933](https://support.microsoft.com/help/3054933) <br/> |
+|Juin 2015  <br/> |[KB3054865](https://support.microsoft.com/help/3054865) <br/> |
 |Mai 2015  <br/> |[KB3039753](https://support.microsoft.com/help/3039753) <br/> |
-|Avril 2015  <br/> |[KB2965263](https://support.microsoft.com/help/2965263) <br/> |
-|Mars 2015  <br/> |[KB2956162](https://support.microsoft.com/help/2956162) <br/> |
-|Février 2015  <br/> |[KB2920796](https://support.microsoft.com/help/2920796) <br/> |
-|Décembre 2014  <br/> |[KB2910911](https://support.microsoft.com/help/2910911) <br/> |
+|Avril 2015  <br/> |[KB2965263](https://support.microsoft.com/help/2965263) <br/> |
+|Mars 2015  <br/> |[KB2956162](https://support.microsoft.com/help/2956162) <br/> |
+|Février 2015  <br/> |[KB2920796](https://support.microsoft.com/help/2920796) <br/> |
+|Décembre 2014  <br/> |[KB2910911](https://support.microsoft.com/help/2910911) <br/> |
 |Novembre 2014  <br/> |[KB2889949](https://support.microsoft.com/help/2889949) <br/> |
-|Septembre 2014  <br/>  |[KB2883072](https://support.microsoft.com/help/2883072) <br/> |
+|Septembre 2014  <br/>  |[KB2883072](https://support.microsoft.com/help/2883072) <br/> |
 
    
-## <a name="project-server-2010-update-history"></a>Historique des mises à jour de Project Server 2010
+## <a name="project-server-2010-update-history"></a>Historique des mises à jour de Project Server 2010
 
 |**Date de sortie**|**Numéro KB**||
 |:-----|:-----|:-----|
-|Avril 2021 <br/>|[KB4504741](https://support.microsoft.com/help/4504741) <br/>|
-|mars 2021 <br/>|[KB4504704](https://support.microsoft.com/help/4504704) <br/>|
-|Février 2021 <br/>|[KB4493217](https://support.microsoft.com/help/4493217) <br/>|
-|Janvier 2021 <br/>|[KB4493182](https://support.microsoft.com/help/4493182) <br/>|
+|Avril 2021 <br/>|[KB4504741](https://support.microsoft.com/help/4504741) <br/>|
+|mars 2021 <br/>|[KB4504704](https://support.microsoft.com/help/4504704) <br/>|
+|Février 2021 <br/>|[KB4493217](https://support.microsoft.com/help/4493217) <br/>|
+|Janvier 2021 <br/>|[KB4493182](https://support.microsoft.com/help/4493182) <br/>|
 |Décembre 2020 <br/>|[KB4493144](https://support.microsoft.com/help/4493144) <br/>|
-|Novembre 2020 <br/>|[KB4486739](https://support.microsoft.com/help/4486739) <br/>|
-|Octobre 2020 <br/>|[KB4486702](https://support.microsoft.com/help/4486702) <br/>|
-|Septembre 2020 <br/>|[KB4484535](https://support.microsoft.com/help/4484535) <br/>|
-|Août 2020 <br/>|[KB4484493](https://support.microsoft.com/help/4484493) <br/>|
-|Juillet 2020  <br/>  |[KB4484457](https://support.microsoft.com/help/4484457) <br/>|
-|Juin 2020  <br/>  |[KB4484412](https://support.microsoft.com/help/4484412) <br/>|
-|Mai 2020  <br/>  |[KB4484388](https://support.microsoft.com/help/4484388) <br/>|
-|Avril 2020  <br/>  |[KB4484323](https://support.microsoft.com/help/4484323) <br/>|
-|Mars 2020  <br/>  |[KB4484239](https://support.microsoft.com/help/4484239) <br/>|
-|Décembre 2019  <br/>  |[KB4484194](https://support.microsoft.com/help/4484194) <br/>|
-|Novembre 2019  <br/>  |[KB4484161](https://support.microsoft.com/help/4484161) <br/>|
-|Octobre 2019  <br/>  |[KB4484128](https://support.microsoft.com/help/4484128) <br/>|
-|Septembre 2019  <br/>  |[KB4475600](https://support.microsoft.com/help/4475600) <br/>|
-|Août 2019  <br/>  |[KB4475570](https://support.microsoft.com/help/4475570) <br/>|
-|Juillet 2019  <br/>  |[KB4475532](https://support.microsoft.com/help/4475532) <br/>|
-|Juin 2019  <br/>  |[KB4475507](https://support.microsoft.com/help/4475507) <br/>|
-|Mai 2019  <br/>  |[KB4464568](https://support.microsoft.com/help/4464568) <br/>|
-|Avril 2019  <br/>  |[KB4464521](https://support.microsoft.com/help/4464521) <br/>|
-|Mars 2019  <br/>  |[KB4462227](https://support.microsoft.com/help/4462227) <br/>|
+|Novembre 2020 <br/>|[KB4486739](https://support.microsoft.com/help/4486739) <br/>|
+|Octobre 2020 <br/>|[KB4486702](https://support.microsoft.com/help/4486702) <br/>|
+|Septembre 2020 <br/>|[KB4484535](https://support.microsoft.com/help/4484535) <br/>|
+|Août 2020 <br/>|[KB4484493](https://support.microsoft.com/help/4484493) <br/>|
+|Juillet 2020  <br/>  |[KB4484457](https://support.microsoft.com/help/4484457) <br/>|
+|Juin 2020  <br/>  |[KB4484412](https://support.microsoft.com/help/4484412) <br/>|
+|Mai 2020  <br/>  |[KB4484388](https://support.microsoft.com/help/4484388) <br/>|
+|Avril 2020  <br/>  |[KB4484323](https://support.microsoft.com/help/4484323) <br/>|
+|Mars 2020  <br/>  |[KB4484239](https://support.microsoft.com/help/4484239) <br/>|
+|Décembre 2019  <br/>  |[KB4484194](https://support.microsoft.com/help/4484194) <br/>|
+|Novembre 2019  <br/>  |[KB4484161](https://support.microsoft.com/help/4484161) <br/>|
+|Octobre 2019  <br/>  |[KB4484128](https://support.microsoft.com/help/4484128) <br/>|
+|Septembre 2019  <br/>  |[KB4475600](https://support.microsoft.com/help/4475600) <br/>|
+|Août 2019  <br/>  |[KB4475570](https://support.microsoft.com/help/4475570) <br/>|
+|Juillet 2019  <br/>  |[KB4475532](https://support.microsoft.com/help/4475532) <br/>|
+|Juin 2019  <br/>  |[KB4475507](https://support.microsoft.com/help/4475507) <br/>|
+|Mai 2019  <br/>  |[KB4464568](https://support.microsoft.com/help/4464568) <br/>|
+|Avril 2019  <br/>  |[KB4464521](https://support.microsoft.com/help/4464521) <br/>|
+|Mars 2019  <br/>  |[KB4462227](https://support.microsoft.com/help/4462227) <br/>|
 |Février 2019  <br/>  |[KB4462179](https://support.microsoft.com/help/4462179) <br/>|
-|Janvier 2019  <br/>  |[KB4461618](https://support.microsoft.com/help/4461618) <br/>|
+|Janvier 2019  <br/>  |[KB4461618](https://support.microsoft.com/help/4461618) <br/>|
 |Décembre 2018  <br/>  |[KB4461572](https://support.microsoft.com/help/4461572) <br/>|
-|Novembre 2018  <br/>  |[KB4461525](https://support.microsoft.com/help/4461525) <br/>|
-|Octobre 2018  <br/>  |[KB4461463](https://support.microsoft.com/help/4461463) <br/>|
-|Septembre 2018  <br/>  |[KB4092484](https://support.microsoft.com/help/4092484) <br/>|
-|Août 2018  <br/>  |[KB4092438](https://support.microsoft.com/help/4092438) <br/>|
-|Juillet 2018  <br/>  |[KB4032219](https://support.microsoft.com/help/4032219) <br/> |
-|Juin 2018  <br/>  |[KB4022201](https://support.microsoft.com/help/4022201) <br/> |
+|Novembre 2018  <br/>  |[KB4461525](https://support.microsoft.com/help/4461525) <br/>|
+|Octobre 2018  <br/>  |[KB4461463](https://support.microsoft.com/help/4461463) <br/>|
+|Septembre 2018  <br/>  |[KB4092484](https://support.microsoft.com/help/4092484) <br/>|
+|Août 2018  <br/>  |[KB4092438](https://support.microsoft.com/help/4092438) <br/>|
+|Juillet 2018  <br/>  |[KB4032219](https://support.microsoft.com/help/4032219) <br/> |
+|Juin 2018  <br/>  |[KB4022201](https://support.microsoft.com/help/4022201) <br/> |
 |Mai 2018  <br/>  |[KB4022140](https://support.microsoft.com/help/4022140) <br/> |
-|Avril 2018  <br/> |[KB4018358](https://support.microsoft.com/help/4018358) <br/> |
-|Mars 2018  <br/> |[KB4011708](https://support.microsoft.com/help/4011708) <br/> |
-|Janvier 2018  <br/>|[KB4011613](https://support.microsoft.com/help/4011613) <br/> |
-|Novembre 2017  <br/>  |[KB4011269](https://support.microsoft.com/help/4011269) <br/> |
-|Octobre 2017  <br/> |[KB4011192](https://support.microsoft.com/help/4011192) <br/> |
-|Septembre 2017  <br/> |[KB4011057](https://support.microsoft.com/help/4011057) <br/> |
-|Août 2017  <br/> |[KB2956055](https://support.microsoft.com/help/2956055) <br/> |
-|Juillet 2017  <br/> |[KB3213629](https://support.microsoft.com/help/3213629) <br/> |
-|Juin 2017  <br/> |[KB3191903](https://support.microsoft.com/help/3191903) <br/> |
-|Avril 2017  <br/> |[KB3191842](https://support.microsoft.com/help/3191842) <br/> |
-|Mars 2017  <br/> |[KB3141541](https://support.microsoft.com/help/3141541) <br/> |
-|Décembre 2016  <br/> |[KB3128033](https://support.microsoft.com/help/3128033) <br/> |
-|Novembre 2016  <br/> |[KB3127952](https://support.microsoft.com/help/3127952) <br/> |
-|Octobre 2016  <br/> |[KB3118383](https://support.microsoft.com/help/3118383) <br/> |
+|Avril 2018  <br/> |[KB4018358](https://support.microsoft.com/help/4018358) <br/> |
+|Mars 2018  <br/> |[KB4011708](https://support.microsoft.com/help/4011708) <br/> |
+|Janvier 2018  <br/>|[KB4011613](https://support.microsoft.com/help/4011613) <br/> |
+|Novembre 2017  <br/>  |[KB4011269](https://support.microsoft.com/help/4011269) <br/> |
+|Octobre 2017  <br/> |[KB4011192](https://support.microsoft.com/help/4011192) <br/> |
+|Septembre 2017  <br/> |[KB4011057](https://support.microsoft.com/help/4011057) <br/> |
+|Août 2017  <br/> |[KB2956055](https://support.microsoft.com/help/2956055) <br/> |
+|Juillet 2017  <br/> |[KB3213629](https://support.microsoft.com/help/3213629) <br/> |
+|Juin 2017  <br/> |[KB3191903](https://support.microsoft.com/help/3191903) <br/> |
+|Avril 2017  <br/> |[KB3191842](https://support.microsoft.com/help/3191842) <br/> |
+|Mars 2017  <br/> |[KB3141541](https://support.microsoft.com/help/3141541) <br/> |
+|Décembre 2016  <br/> |[KB3128033](https://support.microsoft.com/help/3128033) <br/> |
+|Novembre 2016  <br/> |[KB3127952](https://support.microsoft.com/help/3127952) <br/> |
+|Octobre 2016  <br/> |[KB3118383](https://support.microsoft.com/help/3118383) <br/> |
 |Septembre 2016  <br/> |[KB3115470](https://support.microsoft.com/help/3115470) <br/> |
-|Juillet 2016  <br/> |[KB3115316](https://support.microsoft.com/help/3115316) <br/> |
-|Juin 2016  <br/> |[KB3115242](https://support.microsoft.com/help/3115242) <br/> |
-|Mai 2016  <br/>|[KB3115122](https://support.microsoft.com/help/3115122) <br/> |
-|Avril 2016  <br/> |[KB3114992](https://support.microsoft.com/help/3114992) <br/> |
-|Mars 2016  <br/> |[KB3114876](https://support.microsoft.com/help/3114876) <br/> |
-|Mars 2016  <br/> |[KB3114754](https://support.microsoft.com/help/3114754) <br/> |
-|Janvier 2016  <br/> |[KB3114556](https://support.microsoft.com/help/3114556) <br/> |
-|Décembre 2015  <br/> |[KB3114405](https://support.microsoft.com/help/3114405) <br/> |
-|Novembre 2015  <br/> |[KB3101530](https://support.microsoft.com/help/3101530) <br/> |
-|Octobre 2015  <br/> |[KB3085598](https://support.microsoft.com/help/3085598) <br/> |
-|Septembre 2015  <br/> |[KB3085517](https://support.microsoft.com/help/3085517) <br/> |
-|Août 2015  <br/> |[KB3055038](https://support.microsoft.com/help/3055038) <br/> |
-|Juillet 2015  <br/> |[KB3054972](https://support.microsoft.com/help/3054972) <br/> |
-|Juin 2015  <br/> |[KB3054877](https://support.microsoft.com/help/3054877) <br/> |
+|Juillet 2016  <br/> |[KB3115316](https://support.microsoft.com/help/3115316) <br/> |
+|Juin 2016  <br/> |[KB3115242](https://support.microsoft.com/help/3115242) <br/> |
+|Mai 2016  <br/>|[KB3115122](https://support.microsoft.com/help/3115122) <br/> |
+|Avril 2016  <br/> |[KB3114992](https://support.microsoft.com/help/3114992) <br/> |
+|Mars 2016  <br/> |[KB3114876](https://support.microsoft.com/help/3114876) <br/> |
+|Mars 2016  <br/> |[KB3114754](https://support.microsoft.com/help/3114754) <br/> |
+|Janvier 2016  <br/> |[KB3114556](https://support.microsoft.com/help/3114556) <br/> |
+|Décembre 2015  <br/> |[KB3114405](https://support.microsoft.com/help/3114405) <br/> |
+|Novembre 2015  <br/> |[KB3101530](https://support.microsoft.com/help/3101530) <br/> |
+|Octobre 2015  <br/> |[KB3085598](https://support.microsoft.com/help/3085598) <br/> |
+|Septembre 2015  <br/> |[KB3085517](https://support.microsoft.com/help/3085517) <br/> |
+|Août 2015  <br/> |[KB3055038](https://support.microsoft.com/help/3055038) <br/> |
+|Juillet 2015  <br/> |[KB3054972](https://support.microsoft.com/help/3054972) <br/> |
+|Juin 2015  <br/> |[KB3054877](https://support.microsoft.com/help/3054877) <br/> |
 |Mai 2015  <br/> |[KB2999496](https://support.microsoft.com/help/2999496) <br/> |
-|Avril 2015  <br/> |[KB2965293](https://support.microsoft.com/help/2965293) <br/> |
-|Mars 2015  <br/> |[KB2956198](https://support.microsoft.com/help/2956168) <br/> |
-|Février 2015  <br/> |[KB2899557](https://support.microsoft.com/help/2899557) <br/> |
-|Décembre 2014  <br/> |[KB2899587](https://support.microsoft.com/help/2899587) <br/> |
+|Avril 2015  <br/> |[KB2965293](https://support.microsoft.com/help/2965293) <br/> |
+|Mars 2015  <br/> |[KB2956198](https://support.microsoft.com/help/2956168) <br/> |
+|Février 2015  <br/> |[KB2899557](https://support.microsoft.com/help/2899557) <br/> |
+|Décembre 2014  <br/> |[KB2899587](https://support.microsoft.com/help/2899587) <br/> |
 |Novembre 2014  <br/> |[KB2899479](https://support.microsoft.com/help/2899479) <br/> |
-|Septembre 2014  <br/> |[KB2883006](https://support.microsoft.com/help/2883006) <br/> |
-|Août 2014  <br/> |[KB2883021](https://support.microsoft.com/help/2883021) <br/> |
+|Septembre 2014  <br/> |[KB2883006](https://support.microsoft.com/help/2883006) <br/> |
+|Août 2014  <br/> |[KB2883021](https://support.microsoft.com/help/2883021) <br/> |
 |Juin 2014  <br/> |[KB2880974](https://support.microsoft.com/help/2880974) <br/> |
-|Février 2014  <br/> |[KB2863917](https://support.microsoft.com/help/2863917) <br/> |
-|Décembre 2013  <br/>  |[KB2849972](https://support.microsoft.com/help/2849972) <br/> |
-|Juillet 2013  |[KB2687452](https://support.microsoft.com/help/2687452) (Service Pack 2) <br/> |
+|Février 2014  <br/> |[KB2863917](https://support.microsoft.com/help/2863917) <br/> |
+|Décembre 2013  <br/>  |[KB2849972](https://support.microsoft.com/help/2849972) <br/> |
+|Juillet 2013  |[KB2687452](https://support.microsoft.com/help/2687452) (Service Pack 2) <br/> |
    
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Mises à jour d’Exchange Server](/Exchange/new-features/build-numbers-and-release-dates)
+- [Mises à jour d’Exchange Server](/Exchange/new-features/build-numbers-and-release-dates)
 - [Mises à jour de SharePoint](sharepoint-updates.md)

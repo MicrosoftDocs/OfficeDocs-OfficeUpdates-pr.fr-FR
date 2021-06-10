@@ -1,5 +1,5 @@
 ---
-title: Historique des mises à jour d’Office sous Windows 7
+title: Historique des mises à jour d’Office sous Windows 7
 ms.author: anankani
 author: anankani
 manager: anankani
@@ -9,28 +9,28 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux clients des notes de publication pour l’historique des mises à jour pour les Applications Microsoft 365 pour Windows 7
-ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 5ba66e7b0b07c3417f1b8107e1d88bc4f2e67cbb
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330451"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851854"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Historique des mises à jour pour les Applications Microsoft 365 sur Windows 7 
 
  > [!NOTE]
 >
->- La prise en charge de Windows 7 a pris fin le 14 JANVIER 2020. [En savoir plus](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
->- Microsoft 365 n’est plus pris en charge sur Windows 7, mais continuera à bénéficier de mises à jour de sécurité jusqu’en janvier 2023. Pour en savoir plus, voir [Fin de la prise en charge de Windows 7 et applications Microsoft 365](/DeployOffice/endofsupport/windows-7-support).
->- Si vous êtes un utilisateur individuel exécutant Office sur Windows 7, voir [Fin de la prise en charge de Windows 7 et Office.](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9)
+>- La prise en charge de Windows 7 a pris fin le 14 JANVIER 2020. [En savoir plus](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
+>- Microsoft 365 n’est plus pris en charge sur Windows 7, mais continuera à bénéficier de mises à jour de sécurité jusqu’en janvier 2023. Pour en savoir plus, voir [Fin de la prise en charge de Windows 7 et applications Microsoft 365](/DeployOffice/endofsupport/windows-7-support).
+>- Si vous êtes un utilisateur individuel exécutant Office sur Windows 7, voir [Fin de la prise en charge de Windows 7 et Office.](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9)
 
-La version 2002 est la dernière version de Microsoft 365 Apps disponible pour les appareils exécutant Windows 7. La version 2002 est disponible dans tous les canaux de mise à jour pour Microsoft 365 Apps.
+La version 2002 est la dernière version de Microsoft 365 Apps disponible pour les appareils exécutant Windows 7. La version 2002 est disponible dans tous les canaux de mise à jour pour Microsoft 365 Apps.
 
 Les versions du canal semi-annuel pour entreprises ne sont généralement disponibles que pendant 14 mois. Mais nous faisons une exception pour la version 2002 afin de nous aligner sur la durée de disponibilité des mises à jour de sécurité étendues (ESU) pour Windows 7.
 
-Cette extension de la disponibilité de la version 2002 s’applique également à d’autres canaux de mise à jour, tels que le canal actuel, mais uniquement aux appareils exécutant Windows 7.
+Cette extension de la disponibilité de la version 2002 s’applique également à d’autres canaux de mise à jour, tels que le canal actuel, mais uniquement aux appareils exécutant Windows 7.
 
-Le deuxième mardi de chaque mois, une nouvelle version de la version 2002 sera publiée avec les mises à jour de sécurité, le cas échéant. Pour obtenir la liste des mises à jour de sécurité pour la version 2002, consultez [Notes de publication pour les mises à jour de sécurité de Microsoft Office](microsoft365-apps-security-updates.md).
+Le deuxième mardi de chaque mois, une nouvelle version de la version 2002 sera publiée avec les mises à jour de sécurité, le cas échéant. Pour obtenir la liste des mises à jour de sécurité pour la version 2002, consultez [Notes de publication pour les mises à jour de sécurité de Microsoft Office](microsoft365-apps-security-updates.md).
 
 Si vous gérez les mises à jour à l’aide de Microsoft Endpoint Configuration Manager, consultez [Instructions relatives à l’utilisation du Gestionnaire de configuration pour les mises à jour](/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates).
 
@@ -39,29 +39,32 @@ Si vous gérez les mises à jour à l’aide de Microsoft Endpoint Configuration
 
 [//]: # (NE PAS SUPPRIMER)
 
+**08 juin 2021**<br/>
+Version 2002 (Build 12527.21952)<br/>
+
 **11 mai 2021**<br/>
 Version 2002 (Build 12527.21912)<br/>
 
-**13 avril 2021**<br/>
+**13 avril 2021**<br/>
 Version 2002 (build 12527.21814)<br/>
 
 **9 mars 2021**<br/>
 Version 2002 (Build 12527.21686)<br/>
 
-**09 février 2021**<br/>
+**09 février 2021**<br/>
 Version 2002 (build 12527.21594)<br/>
 
-**12 Janvier 2021**<br/>
+**12 Janvier 2021**<br/>
 Version 2002 (Build 12527.21504)<br/>
 
 **08 décembre 2020**<br/>
-Version 2002 (Build 12527.21416)<br/>
+Version 2002 (Build 12527.21416)<br/>
 
-**10 novembre 2020**<br/>
+**10 novembre 2020**<br/>
 Version 2002 (Build 12527.21330)<br/>
 
-**13 octobre 2020**<br/>
-Version 2002 (build 12527.21236)<br/>
+**13 octobre 2020**<br/>
+Version 2002 (build 12527.21236)<br/>
 
 **09 septembre 2020**<br/>
 Version 2002 (Build 12527.21104)<br/>
@@ -69,20 +72,20 @@ Version 2002 (Build 12527.21104)<br/>
 **11 août 2020**<br/>
 Version 2002 (Build 12527.20988)<br/>
 
-**14 juillet 2020**<br/>
+**14 juillet 2020**<br/>
 Version 2002 (build 12527.20880)<br/>
 
-**09 juin 2020**<br/>
-Version 2002 (build 12527.20720)<br/>
+**09 juin 2020**<br/>
+Version 2002 (build 12527.20720)<br/>
 
-**12 mai 2020**<br/>
+**12 mai 2020**<br/>
 Version 2002 (build 12527.20612)<br/>
 
-**14 avril 2020**<br/>
-Version 2002 (build 12527.20442)<br/>
+**14 avril 2020**<br/>
+Version 2002 (build 12527.20442)<br/>
 
-**10 mars 2020**<br/>
-Version 2002 (Build 12527.20278)<br/>
+**10 mars 2020**<br/>
+Version 2002 (Build 12527.20278)<br/>
 
 
 

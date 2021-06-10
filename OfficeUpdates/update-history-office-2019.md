@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions perpétuelles d’Office 2016 et 2019 qui utilisent la technologie « Démarrer en un clic » (C2R)
-ms.openlocfilehash: 18a2aac31b26182f5d369765a4e761ab3a075203
-ms.sourcegitcommit: 89ea204c9830b05f6a1681dee76502cfc8fa7db2
+ms.openlocfilehash: 6518279d34468bc7c02042430e91ee10c59ea905
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52645171"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851914"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Historique des mises à jour pour Office 2016 C2R et Office 2019
 
@@ -47,12 +47,12 @@ Les informations suivantes s’appliquent aux versions d’Office 2019 sous lice
 
 |**Date de sortie**|**Numéro de version**|
 |:-----|:-----|
+|8 juin 2021|Version 1808 (Build 10375.20036)|
 |May 11, 2021|Version 1808 (Build 10374.20040)|
 |13 avril 2021|Version 1808 (build 10373.20050)|
 |9 mars 2021|Version 1808 (Build 10372.20060)|
 |9 février 2021|Version 1808 (build 10371.20060)|
 |12 Janvier 2021|Version 1808 (Build 10370.20052)|
-|8 décembre 2020|Version 1808 (Build 10369,20032)|
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU TABLEAU VL)
@@ -66,6 +66,7 @@ Les informations suivantes s’appliquent aux versions d’Office 2019 sous lice
 
 |**Date de sortie**|**Numéro de version**|
 |:-----|:-----|
+|8 décembre 2020|Version 1808 (Build 10369,20032)|
 |10 novembre 2020|Version 1808 (build 10368.20035)|
 |13 octobre 2020|Version 1808 (build 10367.20048)|
 |8 septembre 2020|Version 1808 (Build 10366.20016)|
@@ -93,12 +94,12 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|
 |:-----|:-----|
+|8 juin 2021|Version 2105 (Build 14026.20270)|
 |24 mai 2021|Version 2105 (Build 14026.20246)|
 |18 mai 2021|Version 2104 (Build 13929.20386)|
 |May 11, 2021|Version 2104 (Build 13929.20372)|
 |29 avril 2021|Version 2104 (Build 13929.20296)|
 |23 avril 2021|Version 2103 (build 13901.20462)|
-|13 avril 2021|Version 2103 (build 13901.20400)|
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU TABLEAU DE VENTE AU DÉTAIL)
@@ -112,6 +113,7 @@ Les informations suivantes s’appliquent aux versions commerciales d’Office 2
 
 |**Date de sortie**|**Numéro de version**|
 |:-----|:-----|
+|13 avril 2021|Version 2103 (build 13901.20400)|
 |2 avril 2021|Version 2103 (build 13901.20336)|
 |30 mars 2021|Version 2103 (Build 13901.20312)|
 |18 mars 2021|Version 2102 (Build 13801.20360)|
