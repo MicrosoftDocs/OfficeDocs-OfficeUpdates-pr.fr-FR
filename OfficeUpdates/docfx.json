@@ -35,6 +35,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "ocv-translation-feedback": true,
       "breadcrumb_path": "/OfficeUpdates/breadcrumb/toc.json",
       "extendBreadcrumb": true
     },
