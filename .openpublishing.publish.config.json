@@ -4,10 +4,15 @@
       "docset_name": "OfficeDocs-OfficeUpdates",
       "build_source_folder": "OfficeUpdates",
       "build_output_subfolder": "OfficeDocs-OfficeUpdates",
-      "locale": "fr-FR",
+      "locale": "fr-fr",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "template_folder": "_themes"
     }
@@ -24,9 +29,18 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.fr-FR",
+      "url": "https://github.com/Microsoft/templates.docs.msft.fr-fr",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_repo.en-us",
+      "url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
     },
     {
       "path_to_root": "_themes.pdf",
@@ -38,20 +52,22 @@
       "path_to_root": "OfficeUpdates/common",
       "url": "https://github.com/MicrosoftDocs/OfficeDocs-pr",
       "branch": "live",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_repo.en-us",
-      "url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr",
-      "branch": "live",
-      "branch_mapping": {
-        "live": "live",
-        "master": "master"
-      }
+      "branch_mapping": {},
+      "include_in_build": true
     }
   ],
-  "branch_target_mapping": {},
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ]
+  },
   "need_generate_pdf_url_template": false,
+  "targets": {
+    "pdf": {
+      "template_folder": "_themes.pdf"
+    }
+  },
   "docs_build_engine": {
     "name": "docfx_v3"
   }
