@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fournit un historique des publications de l’outil Déploiement d’Office (ODT) destiné aux professionnels de l’informatique
-ms.openlocfilehash: 163c358c39c4f1953a153ebc52bf909dedd49955
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: ef130b3602d1f7d8c664167655cba09eb45b8e52
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851644"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022097"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Historique des publications de l’outil Déploiement d’Office
 
@@ -28,6 +28,11 @@ L'ODT vous donne plus de contrôle sur une installation d'Office. Vous pouvez d�
  **Instructions d’installation** : téléchargez et exécutez le fichier exécutable auto-extractible qui contient le fichier exécutable de l’outil Déploiement d’Office (setup.exe) et un exemple de fichier de configuration (configuration.xml). 
 
 [Télécharger l’outil Déploiement d’Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="june-17-2021"></a>17 juin 2021
+Version 16.0.14026.20306 (setup.exe version 16.0.14026.20306)
+- Résolution d’un problème où les opérations utilisant l’option de langage MatchOS échouaient pour certaines configurations de système d’exploitation
+
 
 ## <a name="june-7-2021"></a>7 juin 2021
 Version 16.0.14026.20254 (setup.exe version 16.0.14026.20252)
