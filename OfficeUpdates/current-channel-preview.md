@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: b9c89336aef23ef64fc06b902dcfce937c3701af
-ms.sourcegitcommit: 3f3d978780a2212769cdd6a27eba1bf8f75a2b31
+ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
+ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52916674"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53068041"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,23 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2106-june-21"></a>Version 2106 : 21 juin
+*Version 2106 (Build 14131.20194)*
+* Diverses résolutions de bogues et de performances.
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Lisez les messages avec moins de distractions** Facilitez la concentration sur les messages en personnalisant l'espacement du texte, les couleurs de page, la largeur des colonnes et la mise au point des lignes en activant le lecteur immersif.
+
+- **Dernière connexion / Connexion suspecte :** Outlook vous indique à présent quand et où vous vous êtes connecté pour la dernière fois à votre compte et vous avertit si une activité de connexion suspecte est détectée.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
 
 ## <a name="version-2106-june-14"></a>Version 2106 : 14 juin
 *Version 2106 (Build 14131.20162)*
