@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
-ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
+ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
+ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53025110"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53132834"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,62 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2107-june-25"></a>Version 2107 : 25 juin
+*Version 2107 (Build 14217.20002)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème où les valeurs des axes du graphique ne pouvaient pas être modifiées si les séparateurs de milliers et de décimales utilisent le même symbole.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème lié à la désactivation de la modification de la forme des nœuds SmartArt.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème où les engagements créés dans Project Web App pouvaient ne pas se charger correctement dans le client de bureau Project si le nom de la ressource contenait des caractères spéciaux, tels qu’un point-virgule.
+
+
+- Nous avons corrigé un problème où, lorsque l'option de projet « Le projet doit calculer les coûts » est désactivée, les valeurs des coûts échelonnés dans le temps pouvaient ne pas être correctement basées pour les ressources de type coût.
+
+
+- Nous avons résolu un problème où les champs personnalisés d’entreprise au niveau du projet avec des tables de recherche n’affichaient pas de valeur dans le client de bureau Project.
+
+
+- Nous avons résolu un problème où l’enregistrement d’un projet local dans Project Web App pouvait modifier une ligne de base précédemment enregistrée.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème où l’activation de l’enregistrement automatique pouvait entraîner la disparition temporaire des modifications récentes.
+
+
+- Nous avons résolu un problème de défilement dans le volet commentaires.
+
+
+- Nous avons résolu un problème où le texte d’en-tête/pied de page n’était pas clairement visible dans l’aperçu avant impression lorsque le thème Office était défini sur noir.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème : les liens hypertexte, y compris les chiffres, étaient tronqués lors de la rédaction d’un message dans Outlook dans une langue s’écrivant de droite à gauche.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2107-june-18"></a>Version 2107 : 18 juin
 *Version 2107 (Build 14210.20004)*
@@ -3296,6 +3352,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
@@ -3305,5 +3362,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

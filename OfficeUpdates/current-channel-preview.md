@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
-ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
+ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
+ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53068041"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "53150179"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,38 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2106-june-25"></a>Version 2106 : 25 juin
+*Version 2106 (Build 14131.20250)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui entraînait la désactivation des options de traduction pour certains utilisateurs.  Les clients qui ont rencontré ce bogue ont vu leurs options de traduction désactivées lors de la navigation dans Fichier -> Options -> Langue. Pour cette raison, ils n'auraient pas pu modifier leur langue de traduction préférée et d'autres paramètres liés à la traduction.
+
+
+- Nous avons résolu un problème qui entraînait des problèmes de performances pour les utilisateurs de l’option Améliorations du calendrier partagé qui ont de nombreux calendriers partagés.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème où un utilisateur était incapable d'entrer des informations d'identification dans une boîte de dialogue de Sécurité Windows pour ouvrir un fichier, en raison d'une boîte de dialogue obstructive spécifique à PowerPoint.
+
+
+### <a name="visio"></a>Visio
+
+- Les liens SPO/ODB avec accès invité fonctionneront désormais.
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème de conservation des citations sur un fichier docx protégé par mot de passe.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2106-june-21"></a>Version 2106 : 21 juin
 *Version 2106 (Build 14131.20194)*
