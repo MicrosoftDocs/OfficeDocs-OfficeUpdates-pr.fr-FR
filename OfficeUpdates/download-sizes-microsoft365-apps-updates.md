@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des informations sur la taille de téléchargement approximative des mises à jour de Microsoft 365 Apps pour chaque canal de mise à jour
-ms.openlocfilehash: 827be1cfa501c9f5b5c187221e3551007bd5c9bc
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: 36bda636ac0c154b9df9e0e521d66e44955b0f43
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022087"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206316"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tailles de téléchargement des mises à jour de Microsoft 365 Apps
 
@@ -30,6 +30,22 @@ Si vous changez de canal, en passant par exemple du canal semi-annuel (ciblé) a
 > - Les versions publiées au cours des quatre derniers mois sont répertoriées.
 
 [//]: # (NE PAS SUPPRIMER)
+
+## <a name="june-29-2021"></a>29 juin 2021
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU 29 juin 2021)
+
+### <a name="current-channel"></a>Canal actuel
+
+La version la plus récente est la version 2106 (build 14131.20278).
+
+|**Mise à niveau à partir de**|**Date de publication**|**Taille de téléchargement approximative (en Mo)**|
+|:-----|:-----|:-----|
+|Version 2105 (Build 14026.20308) <br/> |17 juin 2021 <br/> |145<br/> |
+|Version 2105 (build 14026.20270) <br/> |7 juin 2021 <br/> |146<br/> |
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU 29 juin 2021)
 
 ## <a name="june-18-2021"></a>18 juin 2021
 
@@ -892,7 +908,7 @@ La version 2002 est la plus récente (Build 12527.21104).
 
 ## <a name="related-topics"></a>Voir aussi
 
-- [Présentation des canaux de mise à jour de Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Aperçu des canaux de mise à jour pour les applications Microsoft 365](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
 - [Historique des mises à jour de Microsoft 365 Apps (répertoriées par date)](./update-history-microsoft365-apps-by-date.md)
 
