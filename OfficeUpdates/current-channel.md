@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des notes de version des versions du canal mensuel de Microsoft 365 Apps
-ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022117"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206306"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -30,6 +30,66 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
+
+## <a name="version-2106-june-29"></a>Version 2106 : 29 juin
+*Version 2106 (Build 14131.20278)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Dernière connexion / Connexion suspecte :** Outlook vous indique à présent quand et où vous vous êtes connecté pour la dernière fois à votre compte et vous avertit si une activité de connexion suspecte est détectée.
+
+- **Vérification de l'accessibilité lors de l'envoi de courriels à un large public, à des utilisateurs externes :** nous avons ajouté une fonction permettant d'être averti automatiquement, par une info-message, d'une violation de l'accessibilité lors de la rédaction d'un courriel destiné à un large public, à des utilisateurs externes, etc. Ces paramètres se trouvent dans la section Facilité d'accès<br />Voir détails dans le [billet de blog](https://insider.office.com/fr-FR/blog/sending-accessible-emails-in-outlook-for-windows)
+
+- **Obtenez des suggestions de fichiers pertinentes lorsque vous effectuez une recherche :** Lorsque vous tapez dans la zone de recherche, les fichiers les plus pertinents liés à votre recherche sont inclus dans vos suggestions.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Correction d’un problème où des entrées supplémentaires s’affichaient dans la liste des compléments Excel pour certains utilisateurs.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui provoquait des problèmes de performances sur les appareils ARM64.
+
+
+- Nous avons résolu un problème qui entraînait la désactivation des options de traduction pour certains utilisateurs.  Les clients qui ont rencontré ce bogue ont vu leurs options de traduction désactivées lors de la navigation dans Fichier -> Options -> Langue. Pour cette raison, ils n'auraient pas pu modifier leur langue de traduction préférée et d'autres paramètres liés à la traduction.
+
+
+- Nous avons résolu un problème qui entraînait des problèmes de performances pour les utilisateurs de l’option Améliorations du calendrier partagé qui ont de nombreux calendriers partagés.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème où un utilisateur était incapable d'entrer des informations d'identification dans une boîte de dialogue de Sécurité Windows pour ouvrir un fichier, en raison d'une boîte de dialogue obstructive spécifique à PowerPoint.
+
+
+### <a name="visio"></a>Visio
+
+- Les liens SPO/ODB avec accès invité fonctionneront désormais.
+
+
+### <a name="word"></a>Word
+
+- Correction d’un problème de conservation des citations sur un fichier docx protégé par mot de passe.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Correction du scénario de changement de données utilisateur lorsque l’utilisateur bascule entre des identités Active Directory à partir du contrôle Moi dans les applications Office.
 
 
 [//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
@@ -981,6 +1041,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 > Si vous avez besoin d’aide au sujet d’un problème lié à l’utilisation d’Office, nous vous recommandons de publier votre question sur le [forum de réponses de Microsoft](https://answers.microsoft.com/) ou la [Communauté technique](https://techcommunity.microsoft.com/). Vous pouvez également contacter le [support](https://support.microsoft.com/contactus).
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
@@ -990,5 +1051,4 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)

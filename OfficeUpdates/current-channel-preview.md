@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: af25cceb21f31d2e77f06e25baa7aa139c5900f6
-ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
+ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
+ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/26/2021
-ms.locfileid: "53150179"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204699"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,20 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2106-june-29"></a>Version 2106 : 29 juin
+*Version 2106 (Build 14131.20278)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui provoquait des problèmes de performances sur les appareils ARM64.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2106-june-25"></a>Version 2106 : 25 juin
 *Version 2106 (Build 14131.20250)*
@@ -2159,7 +2173,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -3060,7 +3074,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -4147,7 +4161,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Access
+### <a name="access"></a>Accès
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
