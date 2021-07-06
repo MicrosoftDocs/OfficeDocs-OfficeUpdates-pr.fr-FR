@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
-ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
+ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
+ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53132834"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278747"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -30,6 +30,87 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2107-july-02"></a>Version 2107 : 02 juillet
+*Version 2107 (Build 14228.20044)*
+
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Types de fichiers supplémentaires pris en charge pour le scénario d’enregistrement en tant que :** En plus d’enregistrer des fichiers, vous pouvez enregistrer des fichiers dans d’autres types de fichiers.
+
+### <a name="outlook"></a>Outlook
+
+- **Demande de réunion de transfert REST :** permet aux utilisateurs de transférer une réunion précédemment refusée pour les calendriers partagés REST.
+
+- **La lecture à voix haute s’est améliorée :** la barre d’outils Lire à voix haute propose de nouvelles options vocales naturelles
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Types de fichiers supplémentaires pris en charge pour le scénario d’enregistrement en tant que :** En plus d’enregistrer des fichiers, vous pouvez enregistrer des fichiers dans d’autres types de fichiers.
+
+### <a name="word"></a>Word
+
+- **Rechercher à l’aide de votre voix :** Appuyez ou cliquez sur le microphone dans la barre de recherche pour utiliser votre voix dans Word afin de trouver des commandes, du contenu et bien plus encore.
+
+- **Options de voix plus naturelles pour la lecture à voix haute :** essayez une nouvelle voix plus naturelle dans la barre d’outils Lecture à voix haute. [En savoir plus](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+
+- **Types de fichiers supplémentaires pris en charge pour le scénario d’enregistrement en tant que :** En plus d’enregistrer des fichiers, vous pouvez enregistrer des fichiers dans d’autres types de fichiers.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème où une exception s’est produite à partir d’une exécution CFR.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui entraînait la désactivation des options de traduction pour certains utilisateurs.  Les clients qui ont rencontré ce bogue ont vu leurs options de traduction désactivées lors de la navigation dans Fichier -> Options -> Langue. Pour cette raison, ils n'auraient pas pu modifier leur langue de traduction préférée et d'autres paramètres liés à la traduction.
+
+
+- Nous avons résolu un problème lié à l’état de réponse « Échec du chargement ». L’indicateur de réponse par défaut a été défini sur « None ». Nous n’avons affiché aucune chaîne dans l’interface utilisateur lors du pointage sur un calendrier où nous n’avions pas d’autorisations de modification.
+
+
+- Nous avons résolu un problème où l’augmentation du texte par défaut inclut la mise à l’échelle du texte. Il n’est donc pas nécessaire d’utiliser un autre appel de LayoutChanged.
+
+
+- Nous avons résolu un problème où les infos-courrier ne s’affichaient pas pour les adresses ponctuelles.
+
+
+- Nous avons ajouté une clé de Registre pour permettre l’affichage du formulaire de Messagerie vocale dans l’interface utilisateur dans Outlook Desktop, en raison du retrait de la messagerie unifiée dans Exchange Online (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991). Pour les utilisateurs, les entreprises et les organisations qui souhaitent que le formulaire de messagerie vocale s’affiche, la clé de Registre suivante doit être définie : [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème qui améliore l’intégration avec le nouveau volet de commentaires dans Word et JAWS, un logiciel de lecture d’écran populaire.
+
+
+- Nous avons résolu un problème lié à l’utilisation d’un CommentId différent de lTagNil pour la sélection et la mise en surbrillance effacées.
+
+
+- Nous avons résolu un problème où la file d’attente de déchargement ne répondait plus.
+
+
+### <a name="office-suite"></a>Suite Office
+
+- Nous avons résolu un problème de localisation où en-gb, fr-ca et es-mx seront désormais mis en correspondance avec leurs versions parentes respectives.
+
+
+- Nous avons résolu un problème où les paramètres de partage entre OMEX et ExCatalog n’étaient plus possibles, par exemple pour les mises à jour des paramètres de complément web pour le fichier webextension.xml, car un nouveau fichier webextension est créé. Le précédent a été consulté uniquement lorsque le complément a été déployé dans la méthode d’origine, ou que la nouvelle comparaison de référence de solution a été désactivée.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2107-june-25"></a>Version 2107 : 25 juin
 *Version 2107 (Build 14217.20002)*
@@ -3352,6 +3433,7 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 
 
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF DÉMARRER)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
@@ -3361,5 +3443,4 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (NE PAS MODIFIER LE CONTENU DES MÉTADONNÉES DU CENTRE ADMINISTRATIF FIN)
