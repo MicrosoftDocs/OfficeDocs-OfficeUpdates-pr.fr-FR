@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
-ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
+ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
+ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204699"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "53309187"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,156 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2107-july-06"></a>Version 2107 : 06 juillet
+*Version 2107 (Build 14228.20044)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="excel"></a>Excel
+
+- **Types de fichiers supplémentaires pris en charge pour le scénario d’enregistrement en tant que :** En plus d’enregistrer des fichiers, vous pouvez enregistrer des fichiers dans d’autres types de fichiers.
+
+- **Clients du Secteur public : envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Types de fichiers supplémentaires pris en charge pour le scénario d’enregistrement en tant que :** En plus d’enregistrer des fichiers, vous pouvez enregistrer des fichiers dans d’autres types de fichiers.
+
+- **Clients du Secteur public : envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+### <a name="word"></a>Word
+
+- **Types de fichiers supplémentaires pris en charge pour le scénario d’enregistrement en tant que :** En plus d’enregistrer des fichiers, vous pouvez enregistrer des fichiers dans d’autres types de fichiers.
+
+- **Clients du Secteur public : envoyer des données d’audit sur l’étiquetage de la sensibilité aux administrateurs M365 :** lorsque les utilisateurs appliquent, modifient ou suppriment des étiquettes de confidentialité sur leurs documents et messages électroniques, Office enverra les données d’audit au serveur principal d’audit M365 pour que les administrateurs puissent les voir. Il s’agit d’une fonctionnalité silencieuse (sans interface utilisateur) pour les administrateurs.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="access"></a>Access
+
+- Correction d’un problème qui pouvait entraîner la fermeture inattendue des applications utilisant l’API Moteur de base de données ODBC.
+
+
+- Correction d’un problème selon lequel les applications utilisant l’API Moteur de base de données OLEDB avec une base de données contenant des liens vers des listes SharePoint se fermaient de manière inattendue.
+
+
+### <a name="excel"></a>Excel
+
+- Nous avons résolu un problème où une exception s’est produite à partir d’une exécution CFR.
+
+
+- Nous avons résolu un problème où les valeurs des axes du graphique ne pouvaient pas être modifiées si les séparateurs de milliers et de décimales utilisent le même symbole.
+
+
+- Correction d’un problème où des entrées supplémentaires s’affichaient dans la liste des compléments Excel pour certains utilisateurs.
+
+
+- Nous avons résolu un problème où un classeur enregistré s’affichait en haut de la liste Récents lors de l’enregistrement dans une bibliothèque de documents SPO.
+
+
+- Nous avons résolu un problème où une fenêtre en double vide était ouverte lorsque les compléments hérités sont activés.
+
+
+### <a name="onenote"></a>OneNote
+
+- Nous avons résolu un problème où la copie d’un lien vers un paragraphe ne redirigeait pas toujours vers la page appropriée.
+
+
+### <a name="outlook"></a>Outlook
+
+- Nous avons résolu un problème qui entraînait la désactivation des options de traduction pour certains utilisateurs.  Les clients qui ont rencontré ce bogue ont vu leurs options de traduction désactivées lors de la navigation dans Fichier -> Options -> Langue. Pour cette raison, ils n'auraient pas pu modifier leur langue de traduction préférée et d'autres paramètres liés à la traduction.
+
+
+- Nous avons résolu un problème lié à l’état de réponse « Échec du chargement ». L’indicateur de réponse par défaut a été défini sur « None ». Nous n’avons affiché aucune chaîne dans l’interface utilisateur lors du pointage sur un calendrier où nous n’avions pas d’autorisations de modification.
+
+
+- Nous avons résolu un problème où l’augmentation du texte par défaut inclut la mise à l’échelle du texte. Il n’est donc pas nécessaire d’utiliser un autre appel de LayoutChanged.
+
+
+- Nous avons résolu un problème où les infos-courrier ne s’affichaient pas pour les adresses ponctuelles.
+
+
+- Nous avons ajouté une clé de Registre pour permettre l’affichage du formulaire de Messagerie vocale dans l’interface utilisateur dans Outlook Desktop, en raison du retrait de la messagerie unifiée dans Exchange Online (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991). Pour les utilisateurs, les entreprises et les organisations qui souhaitent que le formulaire de messagerie vocale s’affiche, la clé de Registre suivante doit être définie : [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+- Nous avons résolu un problème qui entraînait l’absence de réponse des utilisateurs ayant un grand nombre de groupes lors du lancement d’Outlook.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Nous avons résolu un problème lié à la désactivation de la modification de la forme des nœuds SmartArt.
+
+
+### <a name="project"></a>Project
+
+- Nous avons résolu un problème où les engagements créés dans Project Web App pouvaient ne pas se charger correctement dans le client de bureau Project si le nom de la ressource contenait des caractères spéciaux, tels qu’un point-virgule.
+
+
+- Nous avons corrigé un problème où, lorsque l'option de projet « Le projet doit calculer les coûts » est désactivée, les valeurs des coûts échelonnés dans le temps pouvaient ne pas être correctement basées pour les ressources de type coût.
+
+
+- Nous avons résolu un problème où les champs personnalisés d’entreprise au niveau du projet avec des tables de recherche n’affichaient pas de valeur dans le client de bureau Project.
+
+
+- Nous avons résolu un problème où l’enregistrement d’un projet local dans Project Web App pouvait modifier une ligne de base précédemment enregistrée.
+
+
+### <a name="visio"></a>Visio
+
+- Ce problème de navigation de lien hypertexte a été résolu dans la dernière build. Les utilisateurs peuvent continuer à accéder aux liens hypertexte en toute transparence pour accéder au fichier lié souhaité situé dans leur espace OneDrive Entreprise, à l’aide de <CTRL> + cliquer sur la forme avec le lien hypertexte.
+
+
+### <a name="word"></a>Word
+
+- Nous avons résolu un problème où l’activation de l’enregistrement automatique pouvait entraîner la disparition temporaire des modifications récentes.
+
+
+- Nous avons résolu un problème qui améliore l’intégration avec le nouveau volet de commentaires dans Word et JAWS, un logiciel de lecture d’écran populaire.
+
+
+- Nous avons résolu un problème lié à l’utilisation d’un CommentId différent de lTagNil pour la sélection et la mise en surbrillance effacées.
+
+
+- Nous avons résolu un problème où les commentaires devenaient en lecture seule pendant la collaboration.
+
+
+- Nous avons résolu un problème de défilement dans le volet commentaires.
+
+
+- Nous avons résolu un problème où la file d’attente de déchargement ne répondait plus.
+
+
+- Nous avons résolu un problème où le texte d’en-tête/pied de page n’était pas clairement visible dans l’aperçu avant impression lorsque le thème Office était défini sur noir.
+
+
+- Nous avons résolu un problème dans lequel des carrés s’affichaient lors de l’utilisation du complément Microsoft Word Manuscrit Papier.
+
+
+- Nous avons résolu un problème dans lequel certaines pages de l’aperçu avant impression étaient vides.
+
+
+### <a name="office-suite"></a>Suite Office
+
+
+- Nous avons résolu un problème : les liens hypertexte, y compris les chiffres, étaient tronqués lors de la rédaction d’un message dans Outlook dans une langue s’écrivant de droite à gauche.
+
+
+- Nous avons résolu un problème de localisation où en-gb, fr-ca et es-mx seront désormais mis en correspondance avec leurs versions parentes respectives.
+
+
+- Nous avons résolu un problème où les paramètres de partage entre OMEX et ExCatalog n’étaient plus possibles, par exemple pour les mises à jour des paramètres de complément web pour le fichier webextension.xml, car un nouveau fichier webextension est créé. Le précédent a été consulté uniquement lorsque le complément a été déployé dans la méthode d’origine, ou que la nouvelle comparaison de référence de solution a été désactivée.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2106-june-29"></a>Version 2106 : 29 juin
 *Version 2106 (Build 14131.20278)*
@@ -2173,7 +2323,7 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Nous avons résolu un problème à l’origine de l’erreur «dépassement de la ressource système» lorsque les utilisateurs ont tenté d’exporter une requête à partir de leur dossier OneDrive synchronisé.
 
@@ -3074,7 +3224,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Corrige les problèmes d’exécution de certaines requêtes qui ont précédemment généré le message d’erreur « La requête est trop complexe ».
 
@@ -4161,7 +4311,7 @@ Mises à jour de sécurité répertoriées [ici](./microsoft365-apps-security-up
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
-### <a name="access"></a>Accès
+### <a name="access"></a>Access
 
 - Problèmes résolus avec le redimensionnement et l’actualisation de tables dans le volet Office.
 
