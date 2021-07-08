@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournit aux professionnels de l’informatique des notes de version des versions du canal mensuel de Microsoft 365 Apps
-ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
+ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206306"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53323561"
 ---
 # <a name="release-notes-for-current-channel"></a>Notes de publication pour le Canal actuel
 
@@ -63,8 +63,9 @@ Ces notes de publication fournissent des informations sur les nouvelles fonction
 
 ### <a name="outlook"></a>Outlook
 
-- Nous avons résolu un problème qui provoquait des problèmes de performances sur les appareils ARM64.
+- Nous avons résolu un problème où une stratégie de rétention pour Skype Entreprise ou Microsoft Teams était affichée comme stratégie de dossier par défaut lorsque vous affichez les propriétés d’un dossier de boîte aux lettres, au lieu de la stratégie de rétention de boîte aux lettres appliquée au dossier.
 
+- Nous avons résolu un problème qui provoquait des problèmes de performances sur les appareils ARM64.
 
 - Nous avons résolu un problème qui entraînait la désactivation des options de traduction pour certains utilisateurs.  Les clients qui ont rencontré ce bogue ont vu leurs options de traduction désactivées lors de la navigation dans Fichier -> Options -> Langue. Pour cette raison, ils n'auraient pas pu modifier leur langue de traduction préférée et d'autres paramètres liés à la traduction.
 
