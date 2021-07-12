@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Fast la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
-ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
+ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278747"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347967"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notes de publication pour le canal bêta
 
@@ -296,6 +296,8 @@ Cet article contient les notes de publication relatives aux builds de canal bêt
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="excel"></a>Excel
+- Nous avons supprimé « RichValue » de Range.valueTypes. Les types de données liées retournent désormais « Erreur » pour correspondre à la valeur de « #VALUE! » retourné par Range.values.
 ### <a name="outlook"></a>Outlook
 
 - Nous avons résolu un problème empêchant les utilisateurs de déplacer des éléments dans des dossiers dans les versions Outlook sous licence « non professionnelles ».

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fournir aux participants du programme Insider Slow la dernière liste des nouvelles fonctionnalités, corrections ou problèmes connus
-ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
-ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
+ms.openlocfilehash: 98f6e608b3337cde7e20143f1612814b0398e396
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "53309187"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347957"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notes de publication pour le canal actuel d’Office (Preview)
 
@@ -28,6 +28,32 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 [//]: # (NE PAS SUPPRIMER)
 
 [//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+## <a name="version-2107-july-08"></a>Version 2107 : 08 juillet
+*Version 2107 (build 14228.20070)*
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Mises à jour de fonctionnalités
+### <a name="outlook"></a>Outlook
+
+- **Demande de réunion de transfert REST :** permet aux utilisateurs de transférer une réunion précédemment refusée pour les calendriers partagés REST.
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NE PAS SUPPRIMER LE DÉBUT DU CONTENU BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problèmes résolus
+### <a name="word"></a>Word
+
+- Résolution d’un problème selon lequel la taille des cartes de commentaires en regard du canevas Word était incorrecte.
+
+
+
+[//]: # (NE PAS SUPPRIMER LA FIN DU CONTENU BUGDETAILS)
 
 ## <a name="version-2107-july-06"></a>Version 2107 : 06 juillet
 *Version 2107 (Build 14228.20044)*
@@ -275,6 +301,8 @@ Cet article contient les notes de publication relatives aux versions Canal actue
 
 ### <a name="resolved-issues"></a>Problèmes résolus
 ### <a name="excel"></a>Excel
+
+- Nous avons supprimé « RichValue » de Range.valueTypes. Les types de données liées retournent désormais « Erreur » pour correspondre à la valeur de « #VALUE! » retourné par Range.values.
 
 - Nous avons résolu un problème qui empêchait le Gestionnaire de noms d’ouvrir des livres avec un grand nombre de noms masqués.
 
