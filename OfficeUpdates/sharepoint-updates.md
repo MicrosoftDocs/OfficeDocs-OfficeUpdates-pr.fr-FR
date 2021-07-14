@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Recherchez et gérez les mises à jour pour SharePoint Server 2016, SharePoint 2013 et SharePoint 2010 au même endroit. Utilisez les liens figurant sur cette page pour obtenir plus d’informations sur les mises à jour et les télécharger.
-ms.openlocfilehash: 309ae6ea429fdf6dfa2d958de82d67018ba50f25
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 8d346feb92ed55998e1e9d60eb8157392c8eefc3
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851964"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411752"
 ---
 # <a name="sharepoint-updates"></a>Mises à jour de SharePoint
 
@@ -36,6 +36,7 @@ Pour connaître les dernières mises à jour de SharePoint Online et de Microsof
 
 |**Nom du package**|**Numéro KB**|**Version**|**Date de sortie**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 5001975](https://support.microsoft.com/help/5001975)<br/>[KB 5001974](https://support.microsoft.com/help/5001974)<br/>|16.0.10376.20001|Juillet 2021|
 |SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 5001944](https://support.microsoft.com/help/5001944)<br/>[KB 5001945](https://support.microsoft.com/help/5001945)<br/>|16.0.10375.20000|Juin 2021|
 |SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 5001916](https://support.microsoft.com/help/5001916)<br/>[KB 5001915](https://support.microsoft.com/help/5001915)<br/>|16.0.10374.20000|Mai 2021|
 |SharePoint Server 2019 <br/> Correctif langue/interface utilisateur multilingue de SharePoint Server 2019  <br/>|[KB 4504716](https://support.microsoft.com/help/4504716)<br/>[KB 4504715](https://support.microsoft.com/help/4504715)<br/>|16.0.10373.20000|Avril 2021|
@@ -75,6 +76,7 @@ Pour connaître les dernières mises à jour de SharePoint Online et de Microsof
 
 |**Nom du package**|**Numéro KB**|**Version**|**Date de sortie**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>Correctif langue/interface utilisateur multilingue de SharePoint Server 2016  <br/> |[KB 5001976](https://support.microsoft.com/help/5001976) <br/>[KB 5001981](https://support.microsoft.com/help/5001981) <br/>|16.0.5188.1000 <br/>|Juillet 2021|
 |SharePoint Server 2016  <br/>Correctif langue/interface utilisateur multilingue de SharePoint Server 2016  <br/> |[KB 5001946](https://support.microsoft.com/help/5001946) <br/>[KB 5001922](https://support.microsoft.com/help/5001922) <br/>|16.0.5173.1000 <br/>|Juin 2021|
 |SharePoint Server 2016  <br/>|[KB 5001917](https://support.microsoft.com/help/5001917) <br/>|16.0.5161.1000 <br/>|Mai 2021|
 |SharePoint Server 2016  <br/>Correctif langue/interface utilisateur multilingue de SharePoint Server 2016  <br/> |[KB 4504719](https://support.microsoft.com/help/4504719) <br/>[KB 4504723](https://support.microsoft.com/help/4504723) <br/>|16.0.5149.1000 <br/>|Avril 2021|
@@ -153,6 +155,7 @@ Les packages suivants sont fournis pour les mises à jour cumulatives :
     
 |**Nom du package**|**Numéro KB**|**Version**|**Date de sortie**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001987](https://support.microsoft.com/help/5001987) <br/>[KB 5001989](https://support.microsoft.com/help/5001989) <br/>|15.0.5363.1000|Juillet 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001957](https://support.microsoft.com/help/5001957) <br/>[KB 5001961](https://support.microsoft.com/help/5001961) <br/>|15.0.5353.1000|Juin 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001929](https://support.microsoft.com/help/5001929) <br/>[KB 5001933](https://support.microsoft.com/help/5001933) <br/>|15.0.5345.1000|Mai 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4504730](https://support.microsoft.com/help/4504730) <br/>[KB 4504732](https://support.microsoft.com/help/4504732) <br/>|15.0.5337.1000|Avril 2021|

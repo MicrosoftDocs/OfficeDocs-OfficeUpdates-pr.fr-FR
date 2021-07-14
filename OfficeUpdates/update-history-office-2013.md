@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fournit aux professionnels de l’informatique un historique des mises à jour pour les versions définitives d’Office 2013 qui utilisent Démarrer en un clic
-ms.openlocfilehash: 9961d57aca84cf1cd8ea81b69cbcaf92c1c629c9
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 841f9eb6d683fe7d198c402bd45ba955e81ff892
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: fr-FR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851924"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411742"
 ---
 # <a name="update-history-for-office-2013"></a>Historique des mises à jour pour Office 2013
 
 Certains produits Office 2013 sont tenus à jour automatiquement à l’aide d’une technologie nommée Démarrer en un clic. Si vous voulez vérifier que vous êtes à jour, vérifiez le numéro de votre version d’Office et mettez à jour Office manuellement si nécessaire.
   
 > [!NOTE]
-> La version la plus récente d’Office 2013 est la version **15.0.5357.1000**, qui a été publiée le 8 juin 2021.
+> La version la plus récente d’Office 2013 est la version **15.0.5363.1000**, qui a été publiée le 13 juillet 2021.
   
 Pour vérifier votre version d’Office, procédez comme suit :
   
@@ -45,7 +45,8 @@ Les nouvelles versions incluent toutes les mises à jour contenues dans les vers
   
 |**Année de publication**|**Date de publication**|**Numéro de version**|**Plus d’informations**|
 |:-----|:-----|:-----|:-----|
-|2021|8 juin|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
+|2021|13 juillet|15.0.5363.1000|[KB 5001964](https://support.microsoft.com/help/5001964)|
+||8 juin|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
 ||11 Mai|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
 ||13 avril|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9 mars|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
